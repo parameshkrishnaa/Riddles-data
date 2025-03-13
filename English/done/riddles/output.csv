@@ -1,0 +1,802 @@
+#https://huggingface.co/datasets/HWGuncoverAI/riddles
+query,label,hint
+What can fill a room but takes up no space?,['Light'],It brightens the surroundings.
+What can you hold in your right hand but not in your left?,['Your left hand'],It’s attached to your body.
+What can travel around the world while staying in a corner?,['A stamp'],It's used on mail
+What has four legs but doesn’t walk?,['A table'],It’s furniture.
+What gets wet while drying?,['A towel'],It's used after bathing
+What can you catch but not throw?,['A cold'],It's an illness
+What goes up but never comes down?,['Age'],It only increases
+"What has cities but no people, forests but no trees, and rivers but no water?",['A map'],It’s a representation of geography.
+What has 13 hearts but no other organs?,['A deck of cards'],It's used for games
+What has a head and a tail but no body?,['A coin'],It's used as currency
+What gets wetter and wetter the more it dries?,['A towel'],It's used after bathing
+"What goes through cities and fields, but never moves?",['A road'],It's a path for travel
+What can be cracked but never broken?,['A code'],It's a system of symbols with hidden meaning
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],It represents geographic features
+"What can be cracked, made, told, and played?",['A joke'],It’s something humorous.
+"What comes once in a minute, twice in a moment, but never in a thousand years?",['The letter M'],It appears in certain words.
+What can’t talk but will reply when spoken to?,['An echo'],It repeats your words back to you.
+"What can you hold in your hand, but can never touch?",['Your reflection'],It appears but is intangible.
+What can you catch but not throw?,['A cold'],It's an illness
+"What can run but never walks, has a mouth but never talks, has a bed but never sleeps?",['A river'],I flow from mountains to the sea
+"The more you take, the more you leave behind. What am I?",['Footsteps'],You create them as you walk.
+"The more you take, the more you leave behind. What am I?",['Footsteps'],You make these as you walk
+What gets wetter as it dries?,['A towel'],It absorbs water after use.
+"I have keys but no locks, I have space but no room. You can enter, but can't go outside. What am I?",['A keyboard'],You use me to type
+What has words but never speaks?,['A book'],It's full of written content
+"What has a head, a tail, is brown, and has no legs?",['A penny'],It’s a form of currency.
+What can be broken without being touched?,['A heart'],It can be emotionally hurt
+What goes up but never comes down?,['Your age'],It only increases.
+"What starts with 'e', ends with 'e', and contains one letter?",['An envelope'],It carries mail
+What tastes better than it smells?,['A tongue'],It's in your mouth
+"What runs but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",['A river'],It's a natural water flow
+What runs around a house but doesn't move?,['A fence'],It surrounds property
+"What has keys, but no locks; space, but no room; you can enter, but not go in?",['A keyboard'],It's used for typing
+What can you catch but not throw?,['A cold'],It's an illness
+What is so fragile that speaking its name breaks it?,['Silence'],It’s the absence of noise.
+What can travel around the world while staying in one spot?,['The internet'],It connects people globally
+What has eyes but cannot see?,['A potato'],I'm a vegetable with small indentations
+What can you catch but not throw?,['A cold'],It's an illness
+"What goes through cities and fields, but never moves?",['A road'],It's a path for travel
+"I'm full of holes, but I still hold water. What am I?",['A sponge'],I'm used for cleaning
+What can you catch but not throw?,['A cold'],It’s contagious but intangible.
+"What's black when you get it, red when you use it, and white when you're all through with it?",['Charcoal'],It's used for grilling
+What can be caught but never thrown?,['Sleep'],It's a state of rest
+What gets sharper the more you use it?,['Your mind'],It's your thinking organ
+What has hands but cannot clap?,['A clock'],I show you the time
+What is seen in the middle of March and April but can’t be seen at the beginning or end?,['The letter R'],It’s part of the spelling.
+What can run but never walks?,['Colors'],They can run or bleed in fabric
+What has one eye but cannot see?,['A needle'],It’s used for sewing.
+I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?,['A coin'],It's used as currency
+What can run but has no legs?,['A thought'],It moves through your mind
+What gets wetter as it dries?,['A towel'],It's used after bathing
+What can be broken without being touched?,['Silence'],Speaking ends it immediately
+What gets sharper the more you use it?,['Your mind'],It's your thinking organ
+"The more you have, the less you see. What am I?",['Fog'],It blocks your vision.
+"What begins with T, ends with T, and has T in it?",['A teapot'],Think about something used for brewing a popular hot beverage
+"What starts with 'e', ends with 'e', and contains one letter?",['An envelope'],It carries mail
+What has a thumb and four fingers but is not alive?,['A glove'],You wear it on your hand
+What has branches but no leaves?,['A coral reef'],I'm an underwater ecosystem
+What's always coming but never arrives?,['Tomorrow'],It's always in the future
+"What has legs, but doesn't walk?",['A table'],It's a piece of furniture
+"The more you take, the more you leave behind. What am I?",['Footsteps'],Consider what you create as you walk along a beach
+"What can you catch, but not throw?",['A cold'],It's an illness
+What can travel around the world while staying in one spot?,['A stamp'],It’s stuck on mail.
+I am always hungry; I must always be fed. The finger I touch will soon turn red. What am I?,['Fire'],It consumes fuel to keep burning
+What gets wetter the more it dries?,['A towel'],It absorbs water.
+"What can be cracked, made, told, and played?",['A joke'],It's meant to be funny
+What has hands but can’t clap?,['A clock'],It tells time but doesn’t make noise.
+What has words but never speaks?,['A book'],It's full of written content
+What flies without wings?,['Time'],It passes quickly.
+What has a head and a tail but no body?,['A coin'],It's used as currency
+What can go up and down without moving?,['Temperature'],I measure how hot or cold it is
+What has many teeth but can't bite?,['A comb'],It's used for hair
+What has a neck but no head?,['A bottle'],You drink from me
+What has legs but doesn't walk?,['A chair'],It's for sitting
+What invention lets you look right through a wall?,['A window'],It's made of glass.
+What can you catch but not throw?,['A cold'],It's an illness that makes you sneeze
+What has a head and a tail that are only made of gold?,['A coin'],It's used as currency
+What has words but never speaks?,['A book'],It holds stories.
+"What has a head but never weeps, has a bed but never sleeps?",['A nail'],I'm pounded into wood
+What is always in front of you but can't be seen?,['The future'],It's something that hasn't happened yet
+What has a neck but no head?,['A bottle'],You drink from me
+What can fill a room but takes up no space?,['Light'],It illuminates.
+What comes down but never goes up?,['Rain'],It falls from the sky.
+"What has keys that open no locks, space but no room, and you can enter but not go in?",['A keyboard'],You type on it
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by everyone. What am I?",['A pencil lead'],You write with me
+"I'm full of holes, but I still hold water. What am I?",['A sponge'],It's used for cleaning
+What building has the most stories?,['A library'],Think about books
+What's full of holes but still holds water?,['A sponge'],It's used for cleaning
+What has many teeth but can’t bite?,['A comb'],It’s used for grooming hair.
+What room do ghosts avoid?,['The living room'],It's a play on words
+What has to be broken before you can use it?,['An egg'],You crack it open.
+"I'm tall when I'm young, and I'm short when I'm old. What am I?",['A candle'],I change shape as I'm used
+What can be played but is not a game?,['A trick'],It's a clever or skillful act
+What is always on its way but never arrives?,['Tomorrow'],It's always in the future
+What has ears but cannot hear?,['Corn'],It’s a vegetable.
+"What has branches but no fruit, trunk or leaves?",['A bank'],It deals with money
+"I have lakes with no water, mountains with no stone, and cities with no buildings. What am I?",['A map'],It’s a representation of real places.
+What goes up and never comes down?,['Your age'],It increases every year.
+What goes through cities and fields but never moves?,['A road'],It stays in place.
+"What starts with ""e"" and ends with ""e"" but only has one letter in it?",['An envelope'],It's used to mail letters
+"What has keys that open no locks, space but no room, and you can enter but not go in?",['A keyboard'],You type on it
+What has a face and two hands but no arms or legs?,['A clock'],It tells time
+"What begins with T, ends with T, and has T in it?",['A teapot'],It's used to brew a popular hot beverage
+What has keys but no locks?,['A map'],I show you different locations
+"What can you break, even if you never pick it up or touch it?",['A promise'],It's an intangible commitment
+"What occurs once in a minute, twice in a moment, and never in a thousand years?",['The letter M'],Look at the spelling of the words
+What has branches but no fruit?,['A bank'],I keep your money safe
+What has a thumb and four fingers but is not alive?,['A glove'],It's worn on the hand
+"I’m tall when I’m young, and I’m short when I’m old. What am I?",['A candle'],It burns down as it ages.
+What gets broken without being held?,['A promise'],It’s something people give but can break easily.
+"The more you have, the less you see. What am I?",['Darkness'],It blocks your vision.
+What can travel around the world while staying in a corner?,['A stamp'],It's used on mail
+What runs but never gets tired?,['A river'],It constantly flows.
+What belongs to you but other people use it more than you?,['Your name'],People call you by it.
+What can run but has no legs?,['Electricity'],It flows through wires
+"The more you take, the more you leave behind. What am I?",['Footsteps'],You create these as you walk
+"I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",['Fire'],I provide warmth and light
+"What is black when it’s clean, and white when it’s dirty?",['A chalkboard'],It’s used for writing.
+What has a bottom at the top?,['Your legs'],They’re part of your body.
+What gets sharper the more you use it?,['Your brain'],It's your thinking organ
+What gets sharper the more you use it?,['Your brain'],You improve it by learning.
+What has a face but no eyes?,['A clock'],It shows time.
+"What begins with T, ends with T, and has T in it?",['A teapot'],It’s used to brew tea.
+What gets wetter as it dries?,['A towel'],It absorbs water.
+What gets sharper the more you use it?,['Your brain'],It improves with learning.
+What has words but never speaks?,['A book'],It’s full of text but silent.
+"I’m tall when I’m young, and I’m short when I’m old. What am I?",['A candle'],It burns down over time.
+What is full of holes but still holds water?,['A sponge'],It’s used for cleaning.
+"What is so light, even the strongest person can’t hold it for more than a few minutes?",['Your breath'],You need it to live.
+"The more you take away from it, the bigger it gets. What is it?",['A hole'],It increases the more you remove.
+"I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",['Fire'],It provides heat and light
+What has a neck but no head?,['A bottle'],It holds liquids
+"I am always hungry, I must always be fed. What am I?",['Fire'],It consumes everything in its path.
+What has ears but cannot hear?,['Corn'],It’s a vegetable.
+"What can you hold in your right hand, but not in your left?",['Your left hand'],It's a part of your body
+What has many teeth but can't bite?,['A saw'],It's used for cutting
+What can fly without wings?,['Time'],"I keep moving forward, never backward"
+I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?,['A coin'],I'm used as currency
+"What has keys but no locks, space but no room, you can enter but not go in?",['A keyboard'],It's used for typing
+What has a neck but no head?,['A bottle'],You pour drinks from it.
+"What has many teeth, but can't bite?",['A comb'],It's used to style hair
+What can run but has no legs?,['A nose'],It can be runny when you're sick
+"I’m not alive, but I grow; I don’t have lungs, but I need air. What am I?",['Fire'],It needs oxygen to burn.
+"What starts with 'e', ends with 'e', but only contains one letter?",['An envelope'],I carry your mail
+"What has keys but no locks, space but no room, and you can enter but not go in?",['A keyboard'],You type on me
+What has eyes but cannot see?,['A potato'],I'm a vegetable with small indentations
+"I’m not alive, but I can die. What am I?",['A battery'],It runs out of power.
+What gets sharper the more you use it?,['Your brain'],You improve it by thinking.
+What has teeth but can't eat?,['A comb'],It's used for hair
+What runs around the whole yard without moving?,['A fence'],It surrounds an area
+What is seen in the middle of March and April but can’t be seen at the beginning or end of either month?,['The letter R'],It’s in the middle of both.
+What has words but never speaks?,['A book'],You read me to gain knowledge
+"What has a head, a tail, is brown, and has no legs?",['A penny'],It’s a type of coin.
+What has a thumb and four fingers but is not alive?,['A glove'],You wear it on your hand
+What is always in front of you but can’t be seen?,['The future'],It’s yet to come.
+What has teeth but cannot bite?,['A zipper'],I fasten things together
+What has a face but no eyes?,['A clock'],It shows time.
+What can travel all around the world without leaving its corner?,['A stamp'],I help letters reach their destination
+What gets wetter as it dries?,['A towel'],It absorbs water as you use it.
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?",['A pencil'],It’s used for writing.
+What can fill a room but takes up no space?,['Light'],Something you turn on every day.
+What is always in front of you but can’t be seen?,['The future'],It’s ahead of you but invisible.
+What begins with an E and only contains one letter?,['An envelope'],It holds a message.
+"What starts with ""e"" and ends with ""e"" but only has one letter in it?",['An envelope'],It's used to mail letters
+"The more you take, the more you leave behind. What am I?",['Footsteps'],You make these as you walk
+"I'm full of holes, but I still hold water. What am I?",['A sponge'],I'm used for cleaning
+What can run but has no legs?,['A river'],I flow from high ground to low ground
+What goes up but never comes down?,['Age'],It only increases over time
+What is always in front of you but can't be seen?,['The future'],It's something that hasn't happened yet
+"The more you take, the more you leave behind. What am I?",['Footsteps'],You leave them as you move.
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by almost everyone. What am I?",['A pencil'],It’s used for writing.
+What can fill a room but takes up no space?,['Light'],I help you see in the dark
+"What's black when you get it, red when you use it, and white when you're all through with it?",['Charcoal'],It's used for grilling
+What has branches but no fruit?,['A science'],It has different fields of study
+What has teeth but cannot bite?,['A fork'],I help you eat your food
+What inventions lets you look right through a wall?,['A window'],It's made of glass
+What gets wetter as it dries?,['A towel'],You use it after a bath.
+What has many teeth but can't bite?,['A comb'],It's used for hair
+"I shave every day, but my beard stays the same. What am I?",['A barber'],It's a profession.
+What has a neck but no head?,['A bottle'],It holds liquids.
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],I show you the world without being the world
+What has a bed but never sleeps?,['A garden'],Plants grow in me
+"I'm tall when I'm young, and I'm short when I'm old. What am I?",['A candle'],I change shape as I'm used
+What has a head and a tail but no body?,['A coin'],I'm used as currency
+What can be opened but never closed?,['A flower'],"Once it blooms, it doesn't close again"
+What comes down but never goes up?,['Rain'],It falls from the sky.
+What has one eye but cannot see?,['A needle'],It’s used for sewing.
+What runs but never gets tired?,['A river'],It flows constantly.
+"I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I?",['An echo'],It’s a sound that returns to you.
+"What has roots that nobody sees, is taller than trees, up it goes, and yet never grows?",['A mountain'],It's a large natural formation
+What can run but has no legs?,['An appetite'],It can increase when you're hungry
+"I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",['Fire'],I provide warmth and light
+What is black and white and read all over?,['A newspaper'],It delivers news.
+What has many faces but no eyes?,['A dice'],It’s used in games.
+"What starts with 'e', ends with 'e', and contains one letter?",['An envelope'],It carries mail
+What can you break without touching it?,['A promise'],It’s something intangible.
+What has a thumb and four fingers but is not alive?,['A glove'],You wear it on your hand
+What can be opened but never closed?,['A can of worms'],It's a metaphor for creating problems
+I am always hungry; I must always be fed. The finger I touch will soon turn red. What am I?,['Fire'],It consumes fuel to keep burning
+What has one eye but cannot see?,['A needle'],It's used for sewing
+"What begins with P, ends with E, and has thousands of letters?",['A post office'],It processes mail.
+What has eyes but cannot see?,['A hurricane'],I'm a powerful storm
+What can be opened but never closed?,['A secret'],"Once revealed, it can't be hidden again"
+What has hundreds of ears but can't hear a thing?,['A cornfield'],It's full of corn
+What can be broken without being held?,['News'],It's information about recent events
+I am always hungry; I must always be fed. The finger I touch will soon turn red. What am I?,['Fire'],It consumes fuel to keep burning
+"What has a mouth but doesn't eat, has a bank but no money?",['A river'],It's a natural water flow
+What can travel around the world while staying in one corner?,['A stamp'],I help letters reach their destination
+What is so delicate that saying its name breaks it?,['Silence'],It vanishes when you speak.
+"What has keys but no locks, space but no room, you can enter but can't go in?",['A keyboard'],It's used for typing
+What is always in front of you but can’t be seen?,['The future'],It’s something you can only predict.
+What gets bigger when you take away from it?,['A hole'],Removing material enlarges it
+What has wheels but never moves?,['A parking lot'],It holds stationary cars.
+What has teeth but cannot bite?,['A comb'],I help you style your hair
+What goes up and never comes down?,['Your age'],It increases with time.
+What can be read but never written?,['Your palm'],Some believe it holds your future
+"I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",['Fire'],It provides heat and light
+What has keys but no locks?,['A computer keyboard'],You type on me
+What has legs but doesn't walk?,['A piano'],I make music when you play me
+"What can run but never walks, has a bed but never sleeps?",['A river'],It flows constantly.
+"What flies when it’s born, lies when it’s alive, and runs when it’s dead?",['A snowflake'],It melts as it dies.
+I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?,['A coin'],I'm used as currency
+What’s full of holes but still holds water?,['A sponge'],It’s used to clean things.
+What gets bigger when you take away from it?,['A hole'],"The more you dig, the larger I become"
+What kind of room has no doors or windows?,['A mushroom'],It's found in the forest.
+What building has the most stories?,['A library'],I'm full of books with tales to tell
+What has teeth but cannot eat?,['A comb'],I help you style your hair
+"I’m light as a feather, yet the strongest man can’t hold me for more than a few minutes. What am I?",['Breath'],It’s something you need constantly.
+What goes up but never comes down?,['Your age'],It increases over time.
+"What begins with T, ends with T, and has T in it?",['A teapot'],It holds a hot drink.
+"The more you take away, the more I become. What am I?",['A hole'],It grows as you remove material.
+"What goes through cities and fields, but never moves?",['A road'],It stays in place.
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],I show you the world without being the world
+What has an end but no beginning?,['A stick'],It’s something you find outdoors.
+What has keys but can’t open locks?,['A piano'],It’s used for making music.
+What gets sharper the more you use it?,['Your mind'],Learning strengthens it.
+What gets bigger the more you take away from it?,['A hole'],It expands as you remove more.
+What's always coming but never arrives?,['Tomorrow'],It's always in the future
+What has a head and a tail that are only made of gold?,['A coin'],You might find me in your pocket or purse
+What has hands but cannot clap?,['A statue'],I'm a sculptural representation
+What’s black and white and red all over?,['A newspaper'],"It’s read, not colored."
+"What has a mouth but doesn't eat, has a bank but no money?",['A river'],It's a natural water flow
+What has a bed but never sleeps?,['A truck'],I carry loads in my back
+What has a neck but no head?,['A bottle'],Think about containers for liquids
+What has many teeth but can't bite?,['A comb'],It's used for hair
+"What has keys that open no locks, space but no room, and you can enter but not go in?",['A keyboard'],You type on it
+What gets broken without being held?,['A promise'],It's a verbal commitment
+What is light as a feather but the strongest person can’t hold it for more than a few minutes?,['Your breath'],It’s vital for life.
+What has a bark but no bite?,['A tree'],It grows in nature.
+What goes through cities and fields but never moves?,['A road'],You travel on it.
+"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",['An echo'],It's a reflection of sound
+What can you hold in your left hand but not in your right?,['Your right hand'],It’s a part of your body.
+What has keys but can’t open locks?,['A piano'],It’s for playing music.
+What can you keep after giving it to someone?,['Your word'],It's a verbal promise
+"I have branches, but no fruit, trunk or leaves. What am I?",['A bank'],Think about where money is stored
+What has branches but no fruit?,['A family tree'],It shows your lineage
+What gets wetter as it dries?,['A towel'],It absorbs water.
+"What has four legs in the morning, two legs at noon, and three legs in the evening?",['A human'],It’s a metaphor for life stages.
+"What has keys, but no locks; space, but no room; you can enter, but not go in?",['A keyboard'],It's something you use every day when typing on a computer
+What has a bottom at the top?,['Your legs'],They’re part of your body.
+What goes up and down but doesn’t move?,['A staircase'],People walk on it.
+What runs around the whole yard without moving?,['A fence'],It encloses space but stays stationary.
+What can you break even if you never pick it up or touch it?,['A promise'],It's an intangible commitment
+What gets sharper the more you use it?,['Your brain'],It's your thinking organ
+What has a face and two hands but no arms or legs?,['A clock'],It tells time
+What has a face and two hands but no arms or legs?,['A clock'],I tell you the time
+"What has roots that nobody sees, is taller than trees, up it goes, and yet never grows?",['A mountain'],I'm a large natural elevation
+I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?,['A coin'],I jingle in your pocket
+I'm tall when I'm young and short when I'm old. What am I?,['A candle'],I melt over time
+What has many faces but no body?,['A clock'],It shows different times.
+What has many teeth but cannot bite?,['A comb'],You use it to arrange your hair.
+What can you hold in your right hand but not in your left hand?,['Your left hand'],It’s part of your body.
+What is always coming but never arrives?,['Tomorrow'],It’s always in the future.
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by everyone. What am I?",['Pencil lead'],It's used for writing
+What can go up and down without moving?,['Volume'],It's the loudness of sound
+"What has many teeth, but can't bite?",['A comb'],It's used for hair
+"I'm light as a feather, yet the strongest person can't hold me for much longer than a minute. What am I?",['Breath'],It's necessary for life
+What has a face and two hands but no arms or legs?,['A clock'],It tells you the time
+"What can you break, even if you never pick it up or touch it?",['A promise'],It's an intangible commitment
+"What goes through cities and fields, but never moves?",['A road'],It's a path for travel
+"What can be cracked, made, told, and played?",['A joke'],It's meant to be funny
+What runs around a house but doesn't move?,['A fence'],It surrounds property
+What can run but never walks?,['Your nose'],It can be runny when you're sick
+"I'm full of holes, but I still hold water. What am I?",['A sponge'],It's used for cleaning
+"I'm tall when I'm young, and I'm short when I'm old. What am I?",['A candle'],I melt as I'm used
+What can fill a room but doesn’t take up any space?,['Light'],It’s everywhere but takes no room.
+What can be thrown but never caught?,['A voice'],It carries sound through the air
+What has keys but opens no locks?,['A legend'],I explain symbols on a map
+What has a thumb and four fingers but is not alive?,['A glove'],It's worn on the hand
+What has a face and hands but no arms or legs?,['A clock'],I tell you the time
+"What has a head, a tail that is not a tail, but never any legs?",['A coin'],It's used as currency
+"What has legs, but doesn't walk?",['A table'],It's a piece of furniture
+What has many keys but can't open a single lock?,['A piano'],It's a musical instrument
+What's always coming but never arrives?,['Tomorrow'],It's always in the future
+What has a bottom at the top?,['Your legs'],It’s part of your body.
+What flies without wings?,['Time'],It passes quickly.
+What can fill a room but takes up no space?,['Light'],It illuminates everything.
+"I have branches, but no fruit, trunk or leaves. What am I?",['A bank'],Think about where money is stored
+What goes up but never comes down?,['Your age'],It only increases
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by everyone. What am I?",['Pencil lead'],It's used for writing
+"What is cut on a table, but never eaten?",['A deck of cards'],It’s used in games.
+"What comes once in a minute, twice in a moment, but never in a thousand years?",['The letter M'],It’s in the word moment.
+What travels around the world but stays in one spot?,['A stamp'],You attach it to a letter.
+What can be broken without being held?,['A fever'],It's a high body temperature
+What has a thumb and four fingers but is not alive?,['A glove'],It's worn on the hand
+"What has keys but no locks, space but no room, and you can enter but can't go in?",['A keyboard'],It's used for typing
+What has a spine but no bones?,['A book'],It’s used for reading.
+What can fly without wings?,['A kite'],I soar in the sky when there's wind
+What is always on its way but never arrives?,['Tomorrow'],It's always in the future
+What gets bigger when more is taken away?,['A hole'],It grows the more you dig.
+What can run but has no legs?,['A computer program'],I execute a series of instructions
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],I show you the world without being the world
+What has hundreds of ears but can't hear a thing?,['A cornfield'],It's full of corn
+"What can you break, even if you never pick it up or touch it?",['A promise'],It’s something abstract.
+What has many keys but can’t open a single lock?,['A piano'],It plays music.
+What building has the most stories?,['A library'],"Think about books, not floors"
+What's full of holes but still holds water?,['A sponge'],It's used for cleaning
+What gets wetter and wetter the more it dries?,['A towel'],It's used after bathing
+What goes up but never comes down?,['Age'],It only increases
+"I have branches, but no fruit, trunk or leaves. What am I?",['A bank'],I deal with money
+What gets sharper the more you use it?,['Your brain'],It's your thinking organ
+"What has roots as nobody sees, is taller than trees, up, up it goes, and yet never grows?",['A mountain'],It's a natural formation
+What can be thrown but never caught?,['A party'],It's a social gathering
+"What runs but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",['A river'],It's a natural water flow
+"What has four wheels and flies, but is not an airplane?",['A garbage truck'],"It moves trash, not people."
+"I’m light as a feather, yet the strongest man can’t hold me for more than 5 minutes. What am I?",['Breath'],It’s essential to living.
+What kind of room has no doors or windows?,['A mushroom'],It's a type of fungus
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],It represents geographic features
+"What runs but never walks, has a mouth but never talks?",['A river'],It flows but doesn’t speak.
+"I am light as a feather, but even the strongest man can't hold me for more than a few minutes. What am I?",['Breath'],It's essential for life
+What has words but never speaks?,['A book'],It's full of written content
+"I have branches, but no fruit, trunk or leaves. What am I?",['A bank'],I store your money
+What has a thumb and four fingers but is not alive?,['A glove'],It's worn on your hand.
+What can be played but is not a game?,['Music'],I'm a combination of sounds
+What is always on its way but never arrives?,['Tomorrow'],It's always in the future
+What gets wetter as it dries?,['A towel'],It's used after bathing
+What can be caught but not thrown?,['Your breath'],You inhale and exhale it
+What has teeth but cannot eat?,['A gear'],I'm part of a machine
+What has 13 hearts but no other organs?,['A deck of cards'],It's used for games
+What can go up and down without moving?,['Your mood'],It can change throughout the day
+What has a head and a tail that are only made of gold?,['A coin'],You use me to buy things
+What has a neck but no head?,['A bottle'],You drink from it.
+What can fly without wings?,['A balloon'],I float in the air when filled with gas
+What has many keys but can't open a single lock?,['A piano'],It's a musical instrument
+What tastes better than it smells?,['A tongue'],It's in your mouth
+"I'm light as a feather, yet the strongest person can't hold me for much longer than a minute. What am I?",['Breath'],It's essential for life
+What is full of holes but still holds water?,['A sponge'],It's used for cleaning.
+I have a heart that doesn’t beat. What am I?,['An artichoke'],It’s a vegetable.
+What gets broken without being held?,['A promise'],It's a verbal commitment
+What can you catch but not throw?,['A cold'],It's an illness
+What can you catch but not throw?,['A cold'],It's an illness
+What gets broken without being held?,['A promise'],It's a verbal commitment
+What can fill a room but takes up no space?,['Light'],It illuminates everything.
+What runs around the whole yard without moving?,['A fence'],It surrounds an area
+What has wheels and flies but is not an airplane?,['A garbage truck'],It’s something you see in your neighborhood.
+"The more you take, the more you leave behind. What am I?",['Footsteps'],Consider what you create as you walk along a beach
+"I have keys but open no locks. I have space but no room. You can enter, but you can’t go outside. What am I?",['A keyboard'],It’s part of a computer.
+What inventions lets you look right through a wall?,['A window'],It's made of glass
+What has keys but no locks?,['A treasure chest'],I hold valuable items
+"I'm light as a feather, yet the strongest person can't hold me for much longer than a minute. What am I?",['Breath'],It's essential for life
+What has a bottom at the top?,['A leg'],It’s part of your body.
+"What has a head but never weeps, has a bed but never sleeps?",['A river'],I flow from a source to the sea
+What has a neck but no head?,['A bottle'],Think about containers for liquids
+What has legs but doesn't walk?,['A chair'],It's for sitting
+What is so fragile that saying its name breaks it?,['Silence'],It disappears when spoken.
+What has a head and a tail but no body?,['A coin'],It's used as currency
+What can you catch but not throw?,['A cold'],It's an illness that makes you feel unwell
+What is always coming but never arrives?,['Tomorrow'],It’s always in the future.
+What has teeth but cannot eat?,['A rake'],I'm used for gardening
+What has a thumb and four fingers but is not alive?,['A glove'],It's worn on your hand
+"I am tall when I am young, and I am short when I am old. What am I?",['A candle'],It burns down as time passes.
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?",['A pencil'],It’s used for writing.
+What has a bed but doesn’t sleep?,['A river'],It flows along its bed.
+"What comes once in a minute, twice in a moment, but never in a thousand years?",['The letter M'],It’s in the word moment.
+"What is light as a feather, yet the strongest man cannot hold it for more than a minute?",['Breath'],It’s essential to life.
+"What has cities, but no houses; forests, but no trees; rivers, but no water?",['A map'],It represents geographical features
+What can be thrown but never caught?,['A tantrum'],It's an outburst of anger
+What comes down but never goes up?,['Rain'],It falls from the sky.
+"What runs but never walks, has a bed but never sleeps, has a mouth but never talks?",['A river'],It flows continuously.
+What has a head and a tail that will never meet?,['A snake'],"I'm a long, legless reptile"
+What can fly without wings?,['Rumors'],They spread quickly
+"I am tall when I’m young, and I’m short when I’m old. What am I?",['A candle'],It shrinks as it burns.
+"What can be cracked, made, told, and played?",['A joke'],It’s something that brings humor.
+What goes up when the rain comes down?,['An umbrella'],You use it to stay dry.
+What has keys but opens no locks?,['A piano'],I make music when you play me
+What comes down but never goes up?,['Rain'],It falls from the clouds.
+What has one eye but cannot see?,['A needle'],It's used for sewing
+"What has many keys, but no locks; space, but no room; you can enter, but not go in?",['A keyboard'],You type on it
+What has a neck but no head?,['A bottle'],You drink from it.
+What has a neck but no head?,['A bottle'],You drink from it.
+"The more you take, the more you leave behind. What am I?",['Footsteps'],Consider what you create as you move.
+What has an eye but cannot see?,['A needle'],It’s used for sewing.
+What has legs but doesn't walk?,['A table'],It's a piece of furniture
+What can’t be used unless it’s broken?,['An egg'],You have to crack it.
+"What has keys that open no locks, space but no room, and you can enter but not go in?",['A keyboard'],It's used for typing
+What's made of water but if you put it into water it will die?,['An ice cube'],It's frozen water
+"What has many needles, but doesn't sew?",['A pine tree'],It's an evergreen
+What has hands but cannot clap?,['A watch'],I show you the time
+What has no life but can still die?,['A battery'],It powers electronics.
+What can you catch but not throw?,['A cold'],It's an illness
+What has a neck but no head?,['A bottle'],Think about containers for liquids
+What can be thrown but never caught?,['Shade'],It's cast by objects blocking light
+What has keys but no locks?,['A xylophone'],I'm a musical instrument
+What can be broken without being touched?,['A promise'],It’s something you give but can betray.
+What has teeth but doesn't bite?,['A comb'],It's used for hair
+"What runs but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",['A river'],It's a natural water flow
+What has a head and a tail that will never meet?,['A coin'],I'm used as currency
+What can you catch but not throw?,['A cold'],It's an illness
+What can you hold in your right hand but never in your left hand?,['Your left hand'],It’s part of your body.
+What has keys but can’t open locks?,['A piano'],It makes music but doesn’t unlock doors.
+What is black and white and read all over?,['A newspaper'],It spreads news.
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],"I represent the world, but I'm not the world itself"
+What has a face and two hands but no arms or legs?,['A clock'],It tells time.
+What goes up and down but doesn't move?,['Stairs'],They're in buildings
+What can fill a room but takes up no space?,['Light'],It illuminates everything without taking up physical space.
+I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?,['A coin'],I jingle in your pocket
+What room do ghosts avoid?,['The living room'],It's a play on words
+What has hands but can’t clap?,['A clock'],Think about something that tells time.
+"The more you take, the more you leave behind. What am I?",['Footsteps'],You make these as you walk
+What has four eyes but can't see?,['Mississippi'],It's a word with repeated letters
+What can you catch but not throw?,['A cold'],It’s something that spreads easily.
+What can go up and down stairs without moving?,['A carpet'],I cover the steps
+What can you serve but never eat?,['A tennis ball'],I'm used in a popular racket sport
+What has four legs but doesn’t move?,['A table'],It’s furniture.
+What can run but has no legs?,['A faucet'],Water flows through me
+"What has a face but no eyes, hands but no arms?",['A clock'],I tell you the time
+What has many faces but no bodies?,['Dice'],They’re used in games.
+What gets wetter as it dries?,['A towel'],It's used after bathing
+What can go up and down without moving?,['Stock prices'],They fluctuate in the market
+"What has a head but never weeps, has a bed but never sleeps?",['A pin'],I have a round top and a sharp point
+"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",['An echo'],It's a reflection of sound
+What can travel around the world while staying in one spot?,['A globe'],I'm a model of the Earth
+"What occurs once in a minute, twice in a moment, and never in a thousand years?",['The letter M'],Look at the spelling of the words
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],"I represent the world, but I'm not the world itself"
+What can run but never walks?,['Colors'],They can run or bleed in fabric
+What has many needles but doesn’t sew?,['A pine tree'],It’s covered in needles but doesn’t make clothes.
+What has a ring but no finger?,['A bell'],It makes a sound.
+What can you catch but not throw?,['A cold'],It’s contagious but intangible.
+What can you catch but not throw?,['A cold'],It's an illness
+What runs around the whole yard without moving?,['A fence'],It surrounds an area
+What can be thrown but never caught?,['A shadow'],It's cast by objects in light
+"I am always hungry, I must always be fed. The finger I touch will soon turn red. What am I?",['Fire'],It consumes everything in its path.
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by everyone. What am I?",['Pencil lead'],You write with me
+What runs around a house but doesn't move?,['A fence'],It surrounds property
+What runs around the yard without moving?,['A fence'],I mark the boundary of your property
+"If you have me, you want to share me. If you share me, you don’t have me. What am I?",['A secret'],It’s something you whisper.
+What runs around a house but doesn't move?,['A fence'],It surrounds property
+What has a bottom at the top?,['Your legs'],They're attached to your lower body
+What can you catch but not throw?,['A cold'],It's an illness
+What has an end but no beginning?,['A rainbow'],It’s a beautiful phenomenon.
+What has keys but no locks?,['A Florida island'],I'm part of a tropical archipelago
+What can fill a room but takes up no space?,['Light'],It illuminates
+What goes up but never comes down?,['Age'],"It only increases, never decreases"
+What has one eye but cannot see?,['A needle'],It's used for sewing
+What is full of holes but still holds water?,['A sponge'],It’s used for cleaning.
+What has a thumb and four fingers but isn’t alive?,['A glove'],You wear it in winter.
+What goes up and down but doesn't move?,['Stairs'],They're found in buildings
+What goes up but never comes down?,['Age'],It only increases
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by everyone. What am I?",['Pencil lead'],You write with me
+What goes through towns and over hills but never moves?,['A road'],It's a path for travel
+What has a face and two hands but no arms or legs?,['A clock'],It tells time
+What has words but never speaks?,['A book'],It’s filled with text but is silent.
+What can you catch but not throw?,['A cold'],It's an illness
+What is always in front of you but can’t be seen?,['The future'],It’s unknown.
+"What has branches but no fruit, trunk or leaves?",['A bank'],It deals with money
+I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?,['A coin'],I jingle in your pocket
+What can be opened but never closed?,"[""Pandora's box""]",It's a source of endless complications
+What has eyes but cannot see?,['A needle'],You thread me to sew
+What has legs but doesn't walk?,['A chair'],It's for sitting
+What tastes better than it smells?,['A tongue'],It's in your mouth
+What has roots but no leaves?,['A family tree'],It shows your ancestry
+What has a neck but no head?,['A bottle'],It holds liquids.
+What has four eyes but can't see?,['Mississippi'],It's a word with repeated letters
+"I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",['An echo'],Think about a sound that repeats itself in nature
+What is always on its way but never arrives?,['Tomorrow'],It's always in the future
+What is always in front of you but can't be seen?,['The future'],It's something that hasn't happened yet
+"I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",['Fire'],It provides heat and light
+What has a mouth but never speaks?,['A river'],It flows into the sea.
+What has a ring but no finger?,['A telephone'],It alerts you to a call.
+What has a neck but no head?,['A bottle'],You drink from it
+I'm tall when I'm young and short when I'm old. What am I?,['A candle'],I melt as I'm used
+What has a neck but no head?,['A bottle'],You drink from it.
+"What has a mouth but doesn't eat, has a bank but no money?",['A river'],It's a natural water flow
+"What starts with 'e', ends with 'e', and contains one letter?",['An envelope'],It carries mail
+What has many keys but can’t open a single door?,['A piano'],"It makes music, not unlocks."
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],I show you where things are located
+What can fly without wings?,['Time'],It passes by constantly
+What has teeth but can’t eat?,['A zipper'],It’s part of your clothes.
+"What is black when you buy it, red when you use it, and gray when you throw it away?",['Charcoal'],It’s used for grilling.
+What can travel around the world while staying in a corner?,['A stamp'],It's used on envelopes
+"I am always hungry; I must always be fed. The finger I touch, will soon turn red. What am I?",['Fire'],I provide warmth and light
+What has a face and two hands but no arms or legs?,['A clock'],It tells you the time
+What can you catch but not throw?,['A cold'],It's an illness
+"The more you take, the more you leave behind. What am I?",['Footsteps'],You create them as you walk.
+What can fill a room but takes up no space?,['Light'],It illuminates without taking up space.
+"What begins with T, ends with T, and has T in it?",['A teapot'],It holds a hot beverage.
+What has teeth but doesn't bite?,['A comb'],It's used for hair
+What has many faces but no body?,['A clock'],It shows time.
+"What has a head, a tail, is brown, and has no legs?",['A penny'],It's a type of coin
+What can be seen in water but never gets wet?,['A reflection'],"It’s an image, not a physical object."
+What has teeth but cannot bite?,['A zipper'],It’s on your clothes.
+What has legs but doesn't walk?,['A chair'],It's for sitting
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],It shows locations but not reality.
+What goes up but never comes down?,['Your age'],It increases with time.
+What goes up but never comes down?,['Your age'],It only increases over time
+What has words but never speaks?,['A book'],It's full of written content
+"What has keys but no locks, space but no room, you can enter but not go in?",['A keyboard'],It's used for typing
+"What has keys, but no locks; space, but no room; you can enter, but not go in?",['A keyboard'],It's something you use every day when typing on a computer
+What has a face and two hands but no arms or legs?,['A clock'],It helps you keep time.
+"I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",['An echo'],I'm a repetition of sound
+"What has cities but no houses, forests but no trees, and rivers but no water?",['A map'],It represents geography
+What can fly without wings?,['A flag'],I wave in the wind
+What can fill a room but takes up no space?,['Light'],It illuminates without occupying space
+What has a head and a tail that will never meet?,['A coin'],It's used as currency
+What has teeth but cannot eat?,['A saw'],I'm used to cut things
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",['A map'],I show you the world on paper
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by everyone. What am I?",['Pencil lead'],It's used for writing
+What has a tail and a head but no body?,['A coin'],It’s used in transactions.
+What has four eyes but can't see?,['Mississippi'],It's a word with repeated letters
+What can you hold without using your hands?,['Your breath'],You do it automatically to stay alive
+"What can run but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",['A river'],It's a natural water flow
+What goes up and down but doesn't move?,['Stairs'],They're in buildings
+What has one eye but can’t see?,['A needle'],It’s used for sewing.
+What has a thumb and four fingers but is not alive?,['A glove'],You wear it on your hand
+What has a neck but no head?,['A bottle'],You drink from me
+What is always in front of you but can’t be seen?,['The future'],It’s ahead of you.
+What can travel all around the world without leaving its corner?,['A stamp'],It's used on envelopes
+What can run but never walks?,['A river'],It flows continuously.
+"What comes once in a year, twice in a moment, but never in a day?",['The letter M'],It appears in certain words.
+What goes through cities and fields but never moves?,['A road'],It stays in place but connects places.
+What has many teeth but cannot bite?,['A zipper'],It’s part of clothing.
+What has legs but doesn't walk?,['A stool'],You sit on me
+What is cut on a table but is never eaten?,['A deck of cards'],It’s used for games.
+What is always coming but never arrives?,['Tomorrow'],It’s always in the future.
+What can you catch but not throw?,['A cold'],It's an illness
+"I have no life, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",['Fire'],It provides warmth and light
+"What has four legs in the morning, two in the afternoon, and three in the evening?",['A human'],"It describes the stages of life: crawling, walking, using a cane."
+"I have branches, but no fruit, trunk or leaves. What am I?",['A bank'],It deals with money
+What has one eye but cannot see?,['A needle'],It’s used for sewing.
+What’s always coming but never arrives?,['Tomorrow'],It’s always in the future.
+What can be read but never spoken?,['Your thoughts'],They exist only in your mind
+What can travel around the world while staying in one spot?,['A stamp'],I help letters reach their destination
+What has a neck but no head?,['A bottle'],You drink from it
+What gets wetter and wetter the more it dries?,['A towel'],It's used after bathing
+What has a head and a tail but no body?,['A coin'],It's used as currency
+"What has keys that open no locks, space but no room, and you can enter but not go in?",['A keyboard'],It's used for typing
+"What has keys but no locks, space but no room, and you can enter but can't exit?",['A keyboard'],You use it to type on a computer
+"I have keys, but no locks. I have space, but no room. You can enter, but not go in. What am I?",['A keyboard'],You type on me
+"I'm tall when I'm young, and I'm short when I'm old. What am I?",['A candle'],I change shape as I'm used
+"What can you hold in your right hand, but not in your left?",['Your left hand'],It's a part of your body
+What goes up but never comes down?,['Your age'],It increases over time.
+"What has four fingers and a thumb, but isn’t alive?",['A glove'],You wear it in the cold.
+"What goes through cities and fields, but never moves?",['A road'],It's a path for travel
+What has a spine but no bones?,['A book'],It’s something you read.
+What has branches but no leaves?,['A library'],I have different sections of books
+What has many keys but can’t open a single lock?,['A piano'],Think about something musical.
+What has legs but doesn't walk?,['A table'],I hold your plates and cups
+What has a neck but no head?,['A guitar'],I'm a stringed instrument
+What is always coming but never arrives?,['Tomorrow'],It’s always in the future.
+What gets bigger the more you take away from it?,['A hole'],It expands as you remove more.
+I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?,['A coin'],I jingle in your pocket
+What has a head and a tail but no body?,['A coin'],I'm used as currency
+"What has a bed but never sleeps, has a mouth but never talks, runs but never walks?",['A river'],It’s always flowing.
+What room has no doors or windows?,['A mushroom'],It’s a play on words.
+I have keys but can’t open a door. What am I?,['A keyboard'],It’s part of your computer.
+"What goes up, but never comes down?",['Your age'],It only increases
+"What has many teeth, but can't bite?",['A comb'],It's used to style hair
+What can travel around the world while staying in the same spot?,['A stamp'],It’s attached to mail.
+What has legs but doesn't walk?,['A table'],It's a piece of furniture
+"What has four legs in the morning, two legs at noon, and three legs in the evening?",['A human'],It refers to stages of life.
+What has teeth but cannot bite?,['A comb'],It’s used for hair.
+What belongs to you but others use it more than you do?,['Your name'],People use it to address you
+What has many teeth but can't bite?,['A saw'],It's used for cutting
+What has eyes but cannot see?,['A needle'],You thread me to sew
+"What comes once in a minute, twice in a moment, but never in a thousand years?",['The letter M'],It’s part of words.
+"What comes once in a year, twice in a week, but never in a day?",['The letter E'],It’s found in certain words.
+"What can be long or short, but is never wrong?",['An opinion'],It's a personal view
+What gets wetter as it dries?,['A towel'],You use it after a shower.
+"I have branches, but no fruit, trunk or leaves. What am I?",['A bank'],Think about where money is stored
+What is made of wood but can’t be sawed?,['Sawdust'],It’s what remains after cutting wood.
+What can you hold without using your hands?,['Your breath'],It's something you do automatically
+What kind of tree can you carry in your hand?,['A palm tree'],It’s a play on words.
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by everyone. What am I?",['Pencil lead'],It's used for writing
+What can travel around the world while staying in a corner?,['A stamp'],It's used on envelopes
+What has a head and a tail that are only made of gold?,['A coin'],You use me to buy things
+What has a bottom at the top?,['Your legs'],They're part of your body
+What has a ring but no finger?,['A telephone'],It rings when someone calls.
+"What can you break, even if you never touch it?",['A promise'],It’s an agreement.
+I speak without a mouth and hear without ears. What am I?,['An echo'],It’s a sound that returns to you.
+"What starts with the letter ""t"", is filled with ""t"", and ends in ""t""?",['A teapot'],It holds tea.
+"What can be cracked, made, told, and played?",['A joke'],It's meant to be funny
+What has a face and two hands but no arms or legs?,['A clock'],It tells time
+What can you hear but not touch or see?,['Sound'],I'm a vibration that travels through the air
+"I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",['Fire'],I provide warmth and light
+What goes up and down but doesn’t move?,['A staircase'],It’s stationary but people move on it.
+What has one eye but cannot see?,['A needle'],It’s used in sewing.
+What has hundreds of ears but can't hear a thing?,['A cornfield'],It's full of corn
+What can fill a room but takes up no space?,['Light'],It illuminates
+What runs around a house but doesn't move?,['A fence'],It surrounds property
+"What has keys but no locks, and space but no room?",['A computer keyboard'],You use this to type on your device
+What has many keys but can't open a single lock?,['A piano'],It's a musical instrument
+What runs but never walks?,['A river'],It flows through landscapes.
+What goes up and down but doesn't move?,['Stairs'],They're in buildings
+What can fill a room but takes up no space?,['Light'],It illuminates
+What has keys but no locks?,['A typewriter'],I'm an old device for writing
+What has a neck but no head?,['A bottle'],You drink from it
+What gets bigger the more you take away?,['A hole'],It grows as you remove material.
+What can run but never walks?,['A computer program'],It executes a series of instructions
+"The person who makes it, sells it. The person who buys it, never uses it. The person who uses it, never knows they are using it. What is it?",['A coffin'],It’s used after death.
+What belongs to you but is used by others?,['Your name'],People call you by it.
+What can you break with just one word?,['Silence'],Speaking ends it immediately
+What comes down but never goes up?,['Rain'],It falls from the sky.
+"What starts with the letter ""t"", is filled with ""t"" and ends in ""t""?",['A teapot'],It's used to brew tea
+What begins with T and ends with T and has T in it?,['A teapot'],It holds a hot beverage.
+What has keys but can't listen to the beauty it unlocks?,['A piano'],It's musical.
+What flies without wings?,['Time'],It passes quickly.
+"What has keys but no locks, space but no room, you can enter but not go in?",['A keyboard'],It's used for typing
+What gets bigger when you take away from it?,['A hole'],Removing material enlarges it
+What building has the most stories?,['A library'],Think about books
+"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",['An echo'],It's a reflection of sound
+What has a neck but no head?,['A bottle'],You drink from it
+What has legs but doesn’t walk?,['A chair'],It’s a piece of furniture.
+"I have seas without water, coasts without sand, towns without people, mountains without land. What am I?",['A map'],It represents geographical features.
+What is so fragile that saying its name breaks it?,['Silence'],It’s the absence of sound.
+"The more you take, the more you leave behind. What am I?",['Footsteps'],You create them as you walk.
+"What can you hold in your right hand, but not in your left?",['Your left hand'],It's a part of your body
+What can you hold without touching it?,['A conversation'],It's an exchange of words
+What gets wetter as it dries?,['A towel'],It's used after bathing
+What has a bank but no money?,['A river'],Water flows along my sides
+What has a heart but no other organs?,['A deck of cards'],It’s used in games.
+What has a neck but no head?,['A bottle'],You drink from me
+What gets broken without being held?,['A promise'],It's a verbal commitment
+I am always hungry; I must always be fed. The finger I touch will soon turn red. What am I?,['Fire'],It consumes fuel to keep burning
+What has many keys but can’t open locks?,['A piano'],It’s for making music.
+What has a spine but no bones?,['A book'],It’s for reading.
+What flies without wings?,['Time'],It passes quickly.
+What has a face and two hands but no arms or legs?,['A clock'],It tells time
+What's full of holes but still holds water?,['A sponge'],It's used for cleaning
+What gets sharper the more you use it?,['Your brain'],You improve it by learning.
+I'm always hungry; I must always be fed. The finger I touch will soon turn red. What am I?,['Fire'],I consume everything in my path
+"What has a head but never weeps, has a bed but never sleeps?",['A river'],It flows constantly.
+What has a thumb and four fingers but is not alive?,['A glove'],You wear it on your hand
+What's made of water but if you put it into water it will die?,['An ice cube'],It's frozen water
+"What is lighter than a feather, yet the strongest person can’t hold it for long?",['Your breath'],It’s something you can’t go without.
+"What has 13 hearts, but no other organs?",['A deck of cards'],It's used for games
+What has many keys but can't open a single lock?,['A piano'],It's a musical instrument
+What has many keys but can’t open a single lock?,['A piano'],It makes music.
+What flies without wings?,['Time'],It passes quickly.
+What gets wetter as it dries?,['A towel'],Think about something used after a shower.
+What can you catch but not throw?,['A cold'],It’s something that makes you sick.
+"What flies when it is born, lies when it’s alive, and runs when it is dead?",['A snowflake'],It melts away in warmth.
+What has a heart but no other organs?,['A deck of cards'],You use it for games.
+I am always hungry; I must always be fed. The finger I touch will soon turn red. What am I?,['Fire'],It consumes fuel to keep burning
+What has a ring but no finger?,['A phone'],You use it to call people.
+What has 13 hearts but no other organs?,['A deck of cards'],It's used for games
+"What has keys that open no locks, space but no room, and you can enter but not go in?",['A keyboard'],You type on it
+What can travel around the world while staying in the same corner?,['A stamp'],It’s placed on letters.
+"I'm full of holes, but I still hold water. What am I?",['A sponge'],You use me for cleaning
+"What flies when it’s born, lies when it’s alive, and runs when it’s dead?",['A snowflake'],It melts in the sun.
+What is so fragile that saying its name breaks it?,['Silence'],It’s the absence of sound.
+"What has a mouth but doesn't eat, has a bank but no money?",['A river'],It's a natural water flow
+What has a spine but no bones?,['A book'],It holds pages together.
+"I am always hungry; I must always be fed. The finger I touch, will soon turn red. What am I?",['Fire'],I consume everything in my path
+What can be opened but never closed?,['An egg'],"Once cracked, it can't be undone"
+What can fly without wings and cry without eyes?,['A cloud'],I float in the sky and produce rain
+What can travel around the world while staying in the same place?,['A stamp'],It’s attached to mail.
+"I am taken from a mine, and shut up in a wooden case, from which I am never released. What am I?",['A pencil'],It’s used for writing.
+What can travel around the world while staying in a corner?,['A stamp'],I help your mail reach its destination
+What has a head and a tail that are only made of gold?,['A coin'],You might find me in your pocket or purse
+What has a neck but no head?,['A vase'],I hold flowers
+What has to be broken before you can use it?,['An egg'],It’s a common food.
+What gets sharper the more you use it?,['Your brain'],It improves with learning.
+What's made of water but if you put it into water it will die?,['An ice cube'],It's frozen water
+"What is light as a feather, yet the strongest person can’t hold it for more than a minute?",['Breath'],It’s essential to life.
+What’s black and white and read all over?,['A newspaper'],It delivers information.
+What gets bigger the more you take away from it?,['A hole'],It expands as you remove more.
+"I'm not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",['Fire'],I provide warmth and light
+"What has roots that nobody sees, is taller than trees, up, up it goes, and yet never grows?",['A mountain'],It’s a landform.
+"What can be cracked, made, told, and played?",['A joke'],I make people laugh
+What invention lets you look right through a wall?,['A window'],It's made of glass
+"What has many faces, all looking in different directions?",['A dice'],It’s used in games.
+What has keys but no locks?,['A keyboard'],You type on me
+What runs around the whole yard without moving?,['A fence'],It surrounds an area
+What has to be broken before you can use it?,['An egg'],You crack it open to use it.
+What can run but never walks?,['Water'],I flow from high to low places
+What can you hold in your right hand but not in your left?,['Your left hand'],It’s attached to you.
+What has a bottom at the top?,['Your legs'],They support your body.
+What gets broken without being held?,['A promise'],It's an intangible thing
+What can you catch but not throw?,['A cold'],It's an illness
+"What has keys, but no locks; space, but no room; you can enter, but not go in?",['A keyboard'],It's something you use every day when typing on a computer
+"What has keys that open no locks, space but no room, and you can enter but not go in?",['A keyboard'],It's used for typing
+What has many needles but doesn’t sew?,['A cactus'],It’s a plant with spikes.
+"I am always hungry; I must always be fed. The finger I touch, will soon turn red. What am I?",['Fire'],I consume everything in my path
+"What can you hold in your right hand, but not in your left?",['Your left hand'],It's a part of your body
+What has teeth but doesn't bite?,['A comb'],It's used for hair
+What goes up but never comes down?,['Your age'],It only increases with time.
+"What has keys that open no locks, space but no room, and you can enter but not go in?",['A keyboard'],It's used for typing
+"What has cities but no houses, forests but no trees, and rivers but no water?",['A map'],It represents geography
+"I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",['An echo'],I repeat what you say
+What's always coming but never arrives?,['Tomorrow'],It's always in the future
+What has a bed but never sleeps?,['A river'],It flows continuously.
+What has a ring but no finger?,['A phone'],It rings but can’t wear jewelry.
+What gets sharper the more you use it?,['Your brain'],It improves with learning.
+What building has the most stories?,['A library'],Think about books
+What can be opened but never closed?,['An egg'],"Once cracked, it can't be undone"
+"What has a head, a tail, but no body?",['A coin'],It’s used for money.
+What has a head and a tail that will never meet?,['A line'],I extend infinitely in both directions
+What has hands but cannot clap?,['A ruler'],I have markings to measure length
+What has hundreds of ears but can't hear a thing?,['A cornfield'],It's full of corn
+What has four eyes but can't see?,['Mississippi'],It's a word with repeated letters
+I'm always hungry; I must always be fed. The finger I touch will soon turn red. What am I?,['Fire'],I provide warmth and light
+What has many keys but can't open a single lock?,['A piano'],It's a musical instrument
+What can fill a room but takes up no space?,['Light'],It illuminates
+"The more of this there is, the less you see. What is it?",['Darkness'],It covers everything.
+What has to be broken before you can use it?,['An egg'],You crack it open.
+What can you catch but not throw?,['A cold'],It's an illness
+What can travel around the world while staying in one corner?,['A stamp'],It’s placed on a letter.
+What gets bigger when you take away from it?,['A hole'],Removing material enlarges it
+What has keys but no locks?,['A chart'],I display organized information
+What can you serve but never eat?,['A tennis ball'],I'm used in a popular racket sport
+What has a head and a tail that are only made of gold?,['A coin'],I'm used as currency
+What gets wetter and wetter the more it dries?,['A towel'],It's used after bathing
+What is always moving but never gets anywhere?,['Time'],It keeps going forward.
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by everyone. What am I?",['Pencil lead'],You write with me
+"The more you take, the more you leave behind. What am I?",['Footsteps'],You leave them while walking.
+What has four fingers and a thumb but is not alive?,['A glove'],It’s something you wear.
+What gets bigger when you take away from it?,['A hole'],Removing material makes it larger
+What can go up and down without moving?,['The stock market'],It fluctuates based on economic factors
+What has legs but doesn't walk?,['A table'],It's a piece of furniture
+What can be thrown but never caught?,['A dice'],You roll me in games
+What can be caught but never thrown?,['A cold'],It's an illness that makes you sneeze
+What gets sharper the more you use it?,['Your brain'],It improves with use.
+What's full of holes but still holds water?,['A sponge'],It's used for cleaning
+What has a head and a tail but no body?,['A coin'],It's used as currency
+What kind of room has no doors or windows?,['A mushroom'],It's a type of fungus
+What has to be broken before you can use it?,['An egg'],You crack it open.
+"What can run but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",['A river'],It’s constantly in motion.
+"What begins with T, ends with T, and has T in it?",['A teapot'],Think about something used for brewing a popular hot beverage
+"The more you take, the more you leave behind. What am I?",['Footsteps'],Consider what you create as you walk along a beach
+What can travel around the world while staying in a corner?,['A stamp'],It's used on mail
+What has many teeth but can't bite?,['A saw'],It's used for cutting
+What can fly without wings?,['Time'],It passes quickly.
+"What has keys, but no locks; space, but no room; you can enter, but can't exit?",['A keyboard'],You use it to type
+What has many keys but can't open a single lock?,['A piano'],It's a musical instrument
+"What comes once in a minute, twice in a moment, but never in a thousand years?",['The letter M'],Look at the spelling of the words in the riddle
+What has a ring but no finger?,['A telephone'],It rings but doesn’t have hands.
+What runs around the whole yard without moving?,['A fence'],It surrounds an area
+"I am light as a feather, but even the strongest man can't hold me for more than a few minutes. What am I?",['Breath'],It's essential for life
+What has an eye but cannot see?,['A needle'],It’s used for stitching.
+"What can run but never walks, has a mouth but never talks?",['A river'],It's a body of water.
+What has a bed but never sleeps?,['A river'],It flows through its bed.
+What has keys but opens no locks?,['A piano'],I make music when you play me
+"What belongs to you, but others use it more than you do?",['Your name'],People call you by it.
+"What has a mouth but doesn't eat, has a bank but no money?",['A river'],It's a natural water flow
+What can be caught but never thrown?,['Attention'],It's a focus of your mind
+What gets bigger the more you take away from it?,['A hole'],It expands as you remove material.
+What tastes better than it smells?,['A tongue'],It's in your mouth
+What has a heart that doesn’t beat?,['A deck of cards'],It’s used for playing games.
+What can run but never walks?,['A river'],It flows continuously.
+What goes up but never comes down?,['Age'],It only increases
+"I am always hungry; I must always be fed. The finger I touch, will soon turn red. What am I?",['Fire'],I consume everything in my path
+What has wheels and flies but is not an aircraft?,['A garbage truck'],It moves but doesn’t fly.
+What gets sharper the more you use it?,['Your brain'],It's your thinking organ
+What comes down but never goes up?,['Rain'],It falls from the sky.
+I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?,['A coin'],It's used as currency
+What has keys but no locks?,['A piano'],I make music when you play me
+What goes up but never comes down?,['Your age'],It increases over time.
+"What has branches but no fruit, trunk or leaves?",['A bank'],It deals with money
+What can be caught but not thrown?,['A cold'],It's an illness that makes you sneeze
+"What begins with P, ends with E, and has thousands of letters?",['A post office'],It processes mail.
+What can be played but is not a game?,['A role'],It's a part in a performance
+What has a bottom at the top?,['Your legs'],They're part of your body
+What is always in front of you but can't be seen?,['The future'],It hasn't happened yet
+What gets bigger the more you take away from it?,['A hole'],It expands as you remove more.
+What can be as big as an elephant but weigh nothing?,['A shadow'],It’s a silhouette cast by light.
+"What belongs to you, but other people use it more than you?",['Your name'],It's how people address you
+"What begins with T, ends with T, and has T in it?",['A teapot'],Think about something used for brewing a popular hot beverage
+What can you keep after giving it to someone?,['Your word'],It's a verbal promise
+What goes through towns and over hills but never moves?,['A road'],It's a path for travel
+What gets bigger when you take away from it?,['A hole'],Removing material makes it larger
+What gets bigger when you take away from it?,['A hole'],Removing material enlarges it
+What invention lets you look right through a wall?,['A window'],I'm made of transparent material
+What has a bed but never sleeps?,['A river'],Water flows through me
+"I have no life, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",['Fire'],It provides warmth and light
+What goes up but never comes down?,['Your age'],It increases over time.
+I’m tall when I’m young and short when I’m old. What am I?,['A candle'],It burns down over time.
+What has a thumb and four fingers but is not alive?,['A glove'],I keep your hand warm
+What has a neck but no head?,['A bottle'],It's used to hold liquids
+What has a thumb and four fingers but is not alive?,['A glove'],You wear it on your hand
+What goes up and down but doesn't move?,['Stairs'],They're found in buildings
+What flies without wings?,['Time'],It passes quickly.
+"What has legs, but doesn't walk?",['A table'],It's a piece of furniture
+"What has legs, but doesn't walk?",['A table'],It's a piece of furniture
+What has a neck but no head?,['A bottle'],You pour from it.
+What gets bigger when you take away from it?,['A hole'],Removing material enlarges it
+What can travel around the world while staying in a corner?,['A stamp'],It's used on envelopes
+What runs around the whole yard without moving?,['A fence'],It surrounds but doesn't move
+What has an eye but cannot see?,['A needle'],It’s used for stitching.
+What kind of room has no doors or windows?,['A mushroom'],It's a type of fungus
+"What has one head, one foot, and four legs?",['A bed'],You sleep on it.

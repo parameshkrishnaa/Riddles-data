@@ -1,0 +1,623 @@
+#https://huggingface.co/datasets/sam749/riddles-deduped
+riddle,answer,hash
+"I have keys but no locks, I have space but no room. You can enter, but can't go outside. What am I?",A keyboard,00f68a43b1dfcd26b0d631b4877b824c
+What has a thumb and four fingers but is not alive?,A glove,01d69b4f0d0dec56a3d80c99136a8cf4
+What can you hold without touching it?,A conversation,0265b9ee33af6a22ee2f27e0a62494dc
+What kind of tree can you carry in your hand?,A palm tree,040ac1a4c66caad9c398341ff13bb30d
+What can travel all around the world without leaving its corner?,A stamp,042926312799844a4adba7c09a6b5824
+What runs around the whole yard without moving?,A fence,04312c93bde0b1c9b6230381391fa601
+What has a bank but no money?,A river,04ed93fbf7a2304ad53c62190f37c0c7
+"I'm not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",Fire,087faa3c28f3627144cf5a37ab6681a4
+What can be rolled but is never a ball?,Your eyes,08f083c45e7fecbbe236b2c9993f2c97
+"What has keys but no locks, space but no room, and you can enter but not go in?",A keyboard,0a0751394328fef2c9bcd562d1c0f593
+"What has one head, one foot, and four legs?",A bed,0ad8351a209a52bafcc7faef81699614
+What has roots but no leaves?,A family tree,0c1d3e6f39cef03b3570109355962129
+"I have lakes with no water, mountains with no stone, and cities with no buildings. What am I?",A map,0c1ea9ef299f60bb01b2d634b81c8c99
+"What can be cracked, made, told, and played?",A joke,0d317127817bfeb042067899fa339558
+What can travel around the world while staying in the same corner?,A stamp,0dd1d0da6878a2a0d4f93c1c919a5122
+"What has roots that nobody sees, is taller than trees, up it goes, and yet never grows?",A mountain,0e0fc6dd81ae340a27a4b0ddbba2da3c
+What runs but never gets tired?,A river,0f1819b0100202bbc0ef8ea778945a97
+What room do ghosts avoid?,The living room,0f19539466c5ed93b4d6d26887b0c484
+"What runs but never walks, has a mouth but never talks?",A river,0f324cd4b7a3a0a75c6a8c65cd5ad26e
+What kind of coat is always wet when you put it on?,A coat of paint,1007cc3650052f6eaca99e3763d876fa
+What goes up when the rain comes down?,An umbrella,1254a1d66f40791e724210889769d076
+"I speak without a mouth and hear without ears. I have nobody, but I come alive with wind. What am I?",An echo,127f415d912dab43a7c6c34943640ee8
+I'm tall when I'm young and short when I'm old. What am I?,A candle,13614b5beb422f8eed76fa7107762762
+I have keys but can’t open a door. What am I?,A keyboard,14dbd466e3090146fb836dab94545c4c
+"The person who makes it, sells it. The person who buys it, never uses it. The person who uses it, never knows they are using it. What is it?",A coffin,165a14efd54ba2eeb02a47bc886f79c8
+What has a mouth but never speaks?,A river,16942830c874c7ad5c09d369de938548
+What has many needles but doesn’t sew?,A pine tree,1988e5e51c87e034baf2e5242bdd4683
+"What has keys, but no locks; space, but no room; you can enter, but can't exit?",A keyboard,1998d147ce0c8d28ff7d4a6f66e09bf8
+"What can run but never walks, has a mouth but never talks?",A river,1b7d86ec082f222a59add6eb72bf10d8
+"What has a mouth but doesn't eat, has a bank but no money?",A river,1c172fc758d88848ebdb762dce12fad6
+"I’m light as a feather, yet the strongest man can’t hold me for more than a few minutes. What am I?",Breath,1c77372eac08d0f2277c1b036b450c3e
+What can be caught but not thrown?,Your breath,1e297a4453a7140a301ffd182cfd5267
+"What can you break, even if you never touch it?",A promise,1fb052020bc8129a314b9cd20a99e130
+"I’m not alive, but I grow; I don’t have lungs, but I need air. What am I?",Fire,1fbc9dca8db473a3a7308a18f17672f7
+What goes up and down but doesn't move?,Stairs,2026ae9b279a808b7f0a8e38f9962906
+What can be caught but never thrown?,Sleep,20b92d3e79831a22e9078657949d9b4a
+What can be played but is not a sport or game?,A musical instrument,20d984cb00139594d1c8a3bca4ea183f
+What comes down but never goes up?,Rain,237d058b511f522ac2b3459a3bb84f34
+What has a ring but no finger?,A bell,23ecf3cc326bda16e7ef46e8839590c4
+What has a heart but no other organs?,A deck of cards,245e69359c2822d82b81e36de002b07e
+What can you break with just one word?,Silence,249d28caf566b2531d12e5b40565f1f2
+What can you keep after giving it to someone?,Your word,25591b6c75a2a9a9541ee8057d7f0894
+"If you have me, you want to share me. If you share me, you don’t have me. What am I?",A secret,256b2a8c62d9c49749f315ce80ddd427
+"What can you hold in your right hand, but not in your left?",Your left hand,266f9bd529e0ab891c9bead7372f078d
+What can you catch but not throw?,A cold,26cb142e0230a2b88829337db1b5525e
+"What has a head, a tail that is not a tail, but never any legs?",A coin,272ae5a6606d0f06e5bff1b49146fdd3
+"What begins with T, ends with T, and has T in it?",A teapot,2735a27c0c320813e892c234e23c8dad
+What runs around the yard without moving?,A fence,2736c9be055b534ad8db6ffe5f877099
+What has a thumb and four fingers but isn’t alive?,A glove,2853b6224d9c455fdcb6c4bcc02c6051
+"What has a bed but never sleeps, has a mouth but never talks, runs but never walks?",A river,28a249a81a53387125001f0601bc14d0
+What has a bed but doesn’t sleep?,A river,28b41a0e32a96dae5252938f82f57000
+"What has hands but no arms, and a face but no eyes?",A clock,293353f98dfc5059b304f2790e732228
+What has four legs but doesn’t move?,A table,2a9796d23e4237ed2ce86c6531ff3abe
+What has many keys but can't open a single lock?,A piano,2ae307c868a79f977c6db2c085d859f5
+What room has no doors or windows?,A mushroom,2bb67cdc8e38d0c6750a98390b826e2a
+What can travel around the world while staying in the same spot?,A stamp,2c93b7f2c903c8628e11db0613ca6c17
+What tastes better than it smells?,A tongue,2e1ee6cf9c0bed8b6b16141686a06add
+What has wheels but flies?,An airplane,2e8edd89cf10a50eddb87f5a6cbd2306
+What has branches but no leaves?,A coral reef,2f20e85b9e163d48e5dac1c454cd3dce
+"What has keys that open no locks, space but no room, and you can enter but not go in?",A keyboard,2f236ea97d8cda87fd1a7b70be243436
+"What can run but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",A river,2f62d5798a0fd6da23b7b29bc0b1026c
+What has a head and a tail but no body?,A coin,30e813b9d57a52c6db673b10feb84846
+"What is so light, even the strongest person can’t hold it for more than a few minutes?",Your breath,323b8b3a62a87829a5163b95b3e6467d
+What can be played but is not a game?,A trick,32e3cc7188a4782fd7535150149157d3
+What is made of wood but can’t be sawed?,Sawdust,33b757a4f9f9c35cf75088c42a8c3a36
+"I’m not alive, but I can die. What am I?",A battery,34d2989bdf282523570ac5495b45bf1d
+What has a face and two hands but no arms or legs?,A clock,35d09da1cd39c9c63e64e493c57eb175
+"What comes once in a year, twice in a moment, but never in a day?",The letter M,36b64fafe9f505bf7bb5baf29191fe5c
+What can you break even if you never pick it up or touch it?,A promise,37843730fb9506a58d692a719ea3b9c4
+"What starts with the letter ""t"", is filled with ""t"" and ends in ""t""?",A teapot,37b98e6156f8b96e7529d8ed6aa31acb
+"What has a head, a tail, is brown, and has no legs?",A penny,3864a1054cb04b036e31720162929c44
+"What is light as a feather, yet the strongest person can’t hold it for more than a minute?",Breath,386641c097e0aeb3b599cd50cd73220f
+What is always running but never gets tired?,A refrigerator,399f8ed0c5ca06ff0ef7eacbba3b120d
+What building has the most stories?,A library,3a064b7a1fc64a53788aadf1f5484c17
+"I am not alive, but I can grow. I don’t have lungs, but I need air. What am I?",A fire,3aeab64e0940f1338863e8bba83e5fe2
+What can travel around the world while staying in one spot?,The internet,3b294e573a07aeaf2abafbb18cea9034
+"What has four wheels and flies, but is not an airplane?",A garbage truck,3b3104fc9a86bf06243c4529d668bb32
+What has keys but no locks?,A map,3c09d6e95b759d6db998c78c72525d6c
+What has a bed but never sleeps?,A garden,3c96e34f4b33520e4f77e6ad54a19d08
+What has legs but doesn’t walk?,A chair,3e6e400d1b9208af78c07e64d8e58de2
+What has many faces but no eyes?,A dice,3f050963d6d7279a0c12aabd16fd8304
+I have a heart that doesn’t beat. What am I?,An artichoke,414e2db6f177d9d116d8fc980ae0a179
+I’m tall when I’m young and short when I’m old. What am I?,A candle,4370ce8e9ebfcaeecaf8311861732d15
+"What is cut on a table, but never eaten?",A deck of cards,4378b2408ab4df2656e88bbe3aad1c37
+What has many keys but opens no locks?,A piano,44442f5bb5654cfbc96bd5ebce293cdf
+What has teeth but doesn't bite?,A comb,459cde8a5aaa90afbbc235de1d2f9225
+What has teeth but can’t eat?,A zipper,47081cf95e3782b06dd4b74ad25c9536
+"I'm light as a feather, yet the strongest person can't hold me for much longer than a minute. What am I?",Breath,485e4fe42fa06938b3322f64c69c3cde
+"What starts with 'e', ends with 'e', and contains one letter?",An envelope,49d0d9fd3dc660f3a67e403a453b0305
+"What can run but never walks, has a mouth but never talks, has a bed but never sleeps?",A river,4a3a5e4fb492d7e5d32c6a23ab80ea73
+What has hands but can’t clap?,A clock,4b4a1f43f2e846a672b6bebed0682564
+"What goes through cities and fields, but never moves?",A road,4bd2103086b9f96ffccff2babd6dd1ff
+"What starts with the letter ""t"", is filled with ""t"", and ends in ""t""?",A teapot,4f00b63fbfbbb03e36a5610f6dc88c93
+What can you hold without ever touching or using your hands?,Your breath,4fd973e8ab71f7b626c861b116d04326
+"What has keys but no locks, space but no room, and you can enter but can't exit?",A keyboard,50762f71d818f62a62a333a2dd6d6f78
+"What has cities, but no houses; forests, but no trees; rivers, but no water?",A map,54d0a3ac18bf01a74182e197f0465949
+"I am tall when I am young, and I am short when I am old. What am I?",A candle,54f5cc5cad918cf82164589dfcaae918
+What's full of holes but still holds water?,A sponge,553bbfaa7fd92d831e0a566dc79abc8d
+What has a tail and a head but no body?,A coin,55ff3c38efd35354fa59fd978725d4b5
+What can run but never walks?,Colors,5602827335e7f5bb895b5a4a1a22d99f
+What has hands but cannot clap?,A clock,570b21a52af32979d25a80d1edab8b8d
+What has many keys but can’t open a single lock?,A piano,575f987ae28a069f39ee06b534ed519b
+What has many teeth but cannot bite?,A comb,578cefc4759d87bf467e0f73bb4af84c
+What can be opened but never closed?,A flower,589aa3624c80aaa736fbad2402d98d72
+What has no life but can still die?,A battery,59c8359ec72fdda4ffa258af71389921
+What begins with T and ends with T and has T in it?,A teapot,5a0ef7388f7619cc9ddbc4373fbc2d96
+"I’m tall when I’m young, and I’m short when I’m old. What am I?",A candle,5a448fc3143f4e1cef98b28ed4e3d61f
+"What comes once in a year, twice in a week, but never in a day?",The letter E,5b5447e1570c4a192ac374e0cda95f0b
+What can you keep after giving to someone?,Your word,5b55f4e869a4b79fe28d8f0b36e63706
+What can be broken without being touched?,A heart,5bf3d5c61d970678192d0a3fa3559e48
+What can go up and down without moving?,Temperature,5c5e9c4139e149e3852c31d69a96afd0
+"I’m light as a feather, yet the strongest man can’t hold me for more than 5 minutes. What am I?",Breath,5cb9d9713a9f5124860b1de4d92c76cb
+"What can you catch, but not throw?",A cold,5dd5edec2f53a4caccf5c6a09e180af1
+What flies without wings?,Time,5ea57ab7b739256433a16ab47d531aff
+"I have keys but open no locks. I have space but no room. You can enter, but you can’t go outside. What am I?",A keyboard,5ed7cbc416a7af129cf590f86d95431b
+What has an end but no beginning?,A stick,6016c7d5d0743b71bb35b54dc34e1b79
+What can you hold in your right hand but not in your left?,Your left hand,619118f2e0be107d4854606141da7604
+What gets wetter as it dries?,A towel,6193b175ace8e5512e406d7d9075117a
+"What's black when you get it, red when you use it, and white when you're all through with it?",Charcoal,62c776adcf113e1e2ae37c5ac216a421
+"What has 13 hearts, but no other organs?",A deck of cards,6387bc8713cd1190a24aad69baac275b
+"I have branches, but no fruit, trunk or leaves. What am I?",A bank,6442ca7cffbc6768a06172b97523ae7a
+"I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",A map,6471c4f27b692c24c9d0dac7e7060fe7
+What can fill a room but doesn’t take up any space?,Light,6517cc970d6702e972fa19fb05955edb
+"What can run but never walks, has a bed but never sleeps?",A river,6536dafe78db61f799c078716a44bf80
+What gets bigger the more you take away from it?,A hole,68f308f9897dcb17a17efd3b1644b74f
+What gets wet while drying?,A towel,6902cb2535c82a3759a6d23c2fbed47e
+What has a bark but no bite?,A tree,6962e21b579f887aebf5db4ba64d75aa
+What is always coming but never arrives?,Tomorrow,697671c7516713ba9885ff339f4a020c
+"What has a head, a tail, but no body?",A coin,6a30771dc1dc57e8ec76d1cd08db0f41
+What has keys but can’t open locks?,A piano,6bcd84ab9c807df8fd88bf2027f2b96d
+"I am always hungry; I must always be fed. The finger I touch, will soon turn red. What am I?",Fire,6be34b161ad830d82416b43cc2f03763
+"What can you hold in your hand, but can never touch?",Your reflection,6d747e28ea946360a552e48991bab0eb
+"The more you take, the more you leave behind. What am I?",Footsteps,6dd918a2ecca50af232a1316a8fcf122
+"The more of this there is, the less you see. What is it?",Darkness,6e6d451e6b298a4b9620a9ddfb3635f2
+"I have no life, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",Fire,6f2d1c2238656d57d81a75bad5a3a779
+"What has a head but never weeps, has a bed but never sleeps?",A nail,705342fe2eec365215dde31429062ec2
+What has a head and a tail that are only made of gold?,A coin,705a06c8b4b1e7fe2e23d305728fb041
+What has teeth but cannot bite?,A zipper,719fcb160c6b4232ed4899ab81bb3d87
+What can bark but has no bite?,A tree,71cec9cef542762d1a6b7fe6a071afb9
+What has a head and a tail that will never meet?,A snake,73544563df0f58a8d239bce81ecf0ce0
+What belongs to you but is used by everyone else?,Your name,7370ea2d126c0b4ea2c1ca179f45fac4
+What is always moving but never gets anywhere?,Time,73b8b47282bcab6e3eacdf379ce6c2a1
+"What has many keys but no locks, space but no room, and you can enter but not go in?",A keyboard,73d37ad163f0aef3ff8112ce2405df0f
+What has many keys but can’t open a single door?,A piano,73df1fd7fdbae066460fdc575edbb8cb
+"What has four legs in the morning, two in the afternoon, and three in the evening?",A human,73e64ee363e195a5be4759036a6cd2f2
+"I am not alive, but I grow; I don't have lungs, but I need air; I don't have a mouth, but water kills me. What am I?",Fire,750c1f12c24dbec46c928635c8b9ed46
+What can you hold without using your hands?,Your breath,75f5abf858786a21b66f93b23b5a595e
+"What has many keys, but no locks; space, but no room; you can enter, but not go in?",A keyboard,761cfa3ed2d2a6997770297f6ddb2dec
+What’s full of holes but still holds water?,A sponge,7703940f1568f66f990abf5cbf931855
+What inventions lets you look right through a wall?,A window,771931c99d3a8c25b39a83d4744b8598
+"What starts with ""e"" and ends with ""e"" but only has one letter in it?",An envelope,78fbbef0ea4c396cf8fb8e4e2ab66557
+What is always on its way but never arrives?,Tomorrow,79b82cf5d7a85ddc0516245d240a3e3e
+"What can you break, even if you never pick it up or touch it?",A promise,7a268c98c1fd57e1724bd243de141671
+What has many teeth but can't bite?,A comb,7b107951b4d29f5fc1132487a07f48ec
+What is seen in the middle of March and April but can’t be seen at the beginning or end?,The letter R,7b3ec013905c55c65a2328da31be68bb
+"What has branches but no fruit, trunk or leaves?",A bank,7b86ea5b773216b5e4cf28ffbb0f6a3d
+What word is spelled incorrectly in every dictionary?,Incorrectly,7c1e05426b56ec15459bb7761b94c25a
+"I have seas without water, coasts without sand, towns without people, mountains without land. What am I?",A map,7cd579fb353c45d75342fddefc763cfe
+"What comes once in a minute, twice in a moment, but never in a thousand years?",The letter M,7cf6b9b8d7c0ea767416bcf7f77af31c
+"What is black when you buy it, red when you use it, and gray when you throw it away?",Charcoal,7cfb9bc2aa8af77ce31c0816773a287b
+"What flies when it’s born, lies when it’s alive, and runs when it’s dead?",A snowflake,7ea66ae00c3884b86aa37b0824364f8d
+What goes up but never comes down?,Age,7f735a36ffeaf5151c5948a690e09725
+"What has keys but no locks, space but no room, you can enter but can't go in?",A keyboard,80b4784e2a5f0b1f2378d89004f8f046
+What has four legs but doesn’t walk?,A table,821c8cc69e0ca2f34591309a9e3a0fdb
+"The more you have, the less you see. What am I?",Fog,83383de34991a35ebeab44078d400ac4
+"What has many faces, all looking in different directions?",A dice,83eea982e70716c1872d64a443e915ce
+"I speak without a mouth and hear without ears. I have no body, but I come alive with wind. What am I?",An echo,8418bcd92950eddc3e5b5f077f52bac0
+"What is light as a feather, yet the strongest man cannot hold it for more than a minute?",Breath,850c112d232b14acf49a432c64c55af4
+What can be as big as an elephant but weigh nothing?,A shadow,858d579f3ac9f0e25232cfb678b21ba0
+What is seen in the middle of March and April but can’t be seen at the beginning or end of either month?,The letter R,8652705bb2840fa9049f601b74b374a4
+What can fly without wings and cry without eyes?,A cloud,89703ee187f14a2c156912ac2f04f9c3
+What belongs to you but other people use it more than you?,Your name,89be5832f3a96b68bd4d6a5beb594544
+What belongs to you but is used by others?,Your name,89e90d6d935fe8483c5fceb0e3a20bb4
+"What belongs to you, but others use it more than you do?",Your name,89f6c49c2da16c11de1c6c3b4e7b1bbd
+What gets sharper the more you use it?,Your mind,8a7fb151c20394d6ed27e867236dea96
+What has many keys but can’t open locks?,A piano,8ab8148f2b02d94fe9f1deb58eba1d0a
+What invention lets you look right through a wall?,A window,8c05112433de0aaa947c5e5a936c0f85
+"I'm full of holes, but I still hold water. What am I?",A sponge,8da362adb30860d5cedd14012432acf8
+"The more you take away from it, the bigger it gets. What is it?",A hole,8db3f71f88d59e619c989254da0c1e8f
+What is cut on a table but is never eaten?,A deck of cards,8db699bc80ca43f33348a1e2eda0dd26
+What has teeth but can't eat?,A comb,8de158a790266dc3bf023f671fe4fbec
+"I am light as a feather, but even the strongest man can't hold me for more than a few minutes. What am I?",Breath,8e02928f3db00a99d29443c6cd27de56
+What can be cracked but never broken?,A code,8e43414aec7b2329cb12e973f86d68f7
+What can travel around the world while staying in the same place?,A stamp,8f12f637b1952883022932270de30a69
+What gets bigger when more is taken away?,A hole,911ac3412b6ddef975cd6a495b235c5b
+What has wheels and flies but is not an airplane?,A garbage truck,91a1413230b1c7d43f89a4f1443c968c
+What has a neck but no head?,A bottle,92776506755a2308e7860a30ba06c696
+I have keys but can’t open doors. What am I?,A piano,9369fa73d0d0139692318058717f1422
+I speak without a mouth and hear without ears. What am I?,An echo,939fc45ff248c3121cf60b3d3b69d482
+What can be thrown but never caught?,A voice,93c92d7338426ba33151c4b4b3c8efe8
+What goes through towns and over hills but never moves?,A road,94032715aa48ccd41fe576dec9dab41e
+What has a face but no eyes?,A clock,963c40d3eab6d8a6c456079ec9130a04
+What goes through cities and fields but never moves?,A road,978fc2bcaadad0eb8be5229c58b9e2bf
+"The more you take away, the more I become. What am I?",A hole,97c688f938d4924196ab62e2b328e142
+What is full of holes but still holds water?,A sponge,9828199cc46eae380f2c4fbd1b3db4cd
+What's always coming but never arrives?,Tomorrow,98370655d38e4a82e8e2eed2e2f79f58
+"What is black when it’s clean, and white when it’s dirty?",A chalkboard,9a672857092903d530fe8024802104a1
+What can fly without wings?,Time,9a718aba2f701c1e7da2ce5594f43577
+What can speak every language but doesn't know a single word?,An echo,9bd52b0eeb1d8e578fdcaa940d008853
+What runs but never walks?,A river,9bfcd574ea1136224a49561f6e78a36c
+"What has keys, but no locks; space, but no room; you can enter, but not go in?",A keyboard,9c280089e9fa124710754b6c7ed823c0
+What has a heart that doesn’t beat?,A deck of cards,a18b63c32e32125ef0514af8d1fbbb5d
+"What has many teeth, but can't bite?",A comb,a47b614a91dbcabd46089036da875615
+What has many faces but no bodies?,Dice,a49905db95c2721b110e17de22cd0f10
+What travels around the world but stays in the same spot?,A stamp,a596f79aadd2fe48c4c3d881ca4d69b3
+"I speak without a mouth and hear without ears. I have no body, but I come alive with the wind. What am I?",An echo,a64c2c01d9e3f23b76d7a09d9a5f89e9
+What has many faces but no body?,A clock,a6d0de4302247413c8037353d907ebec
+What can be read but never written?,Your palm,a71477dd21453556f0979d96d4d37548
+"I am always hungry, I must always be fed. The finger I touch will soon turn red. What am I?",Fire,a778a10c04f07bb78cd78dfd79b9b72c
+What is black and white and read all over?,A newspaper,a82c192849897a9bed58756675094558
+What goes up and never comes down?,Your age,a9f059077c1eeefee3f165336b18e8b5
+What can you hold in your left hand but not in your right?,Your right hand,ac7f49d4b76bf4bc2092379308513ad1
+What has an eye but can't blink?,A needle,acf15b7a992f4f034b74f6645e15933b
+"What has many keys, but can't open a single lock?",A piano,af09674f2c07261f592d75ed49bd654d
+What is so delicate that saying its name breaks it?,Silence,af83d48dbd9351e7c2df2bdea42337c2
+What’s black and white and red all over?,A newspaper,af8917d6d02f783ac3d08d8f638b196b
+"What has keys but no locks, and space but no room?",A computer keyboard,b30d833a0559b7d72bb5a8c325dbd6a6
+"What has four fingers and a thumb, but isn’t alive?",A glove,b35fed30f9ffc43aac9dec331f165b92
+What has eyes but cannot see?,A potato,b3ae6ab3fc6e9aec670deea03570cd2e
+What has legs but can't walk?,A table,b3d9c70f746b4cefbca3e81fc1c6142b
+What has branches but no fruit?,A bank,b498d51ccce1479f14c34a1cf80c2711
+"I shave every day, but my beard stays the same. What am I?",A barber,b5e0909fad9a1953fa2f490348c745f7
+"What runs but never walks, has a bed but never sleeps, has a mouth but never talks?",A river,b65dd23030d6ebabd190c6cd413599a0
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by everyone. What am I?",A pencil lead,b6629f2f290502a338bfb184959ab023
+What can be broken without being held?,News,b76a7042ed982246b97cc18fad47e548
+What can you hold in your right hand but not in your left hand?,Your left hand,b9a2570857d191b1c158a9fdc13247ce
+"What belongs to you, but other people use it more than you?",Your name,b9b8a822afb617163973060e2a8f03f8
+What can be seen in water but never gets wet?,A reflection,ba6b2110fec5cd76017b4a8c30ed7db8
+What can travel around the world while staying in one corner?,A stamp,bb971192be5f3602484c4b1735d6e58d
+What can you serve but never eat?,A tennis ball,bc3a469f920a0e6779e83643352a3ba0
+What has legs but doesn't walk?,A chair,bce8f0c7c75b54873281ed6d3437337e
+What gets bigger when you take away from it?,A hole,bde90253b43213d264da3f9840fc2daf
+"What has cities but no people, forests but no trees, and rivers but no water?",A map,c0ce50f85d4434f16ba0ed7634f546e0
+I am always hungry; I must always be fed. The finger I touch will soon turn red. What am I?,Fire,c0d399e92bcf6c7ceda7051ff4d7eb69
+"What has keys but no locks, space but no room, and you can enter but can't go in?",A keyboard,c1ae96eb434e73d77a6bcfd2de4f514a
+What is so fragile that speaking its name breaks it?,Silence,c2146fce645f2688e69551c8555b7b69
+"I am always hungry, I must always be fed. What am I?",Fire,c26cb99f60652ac4656e175aa3cb9151
+What has hundreds of ears but can't hear a thing?,A cornfield,c2d9387a6ff81daa1ceaa2dbb3810f43
+What's made of water but if you put it into water it will die?,An ice cube,c4ecf0b9a3539c7eaef4015ef122147c
+What has four fingers and a thumb but isn’t alive?,A glove,c5300015ec07bfbef56423ede557136e
+What belongs to you but others use it more than you do?,Your name,c54d12805be449f46f356fdc3bc55aef
+What can be read but never spoken?,Your thoughts,c58b4fb3f24d31703b5b7fafd0dec2ed
+What has keys but opens no locks?,A legend,c6083faadaebf3c6a38e8d3b40e17514
+What has words but never speaks?,A book,c6ab43fa02928900da834faec4a16ce8
+What’s always coming but never arrives?,Tomorrow,c86e4eaf0a59533e3782b3c623e7ab83
+"What has cities, but no houses; forests, but no trees; and rivers, but no water?",A map,c9228f07b7f36a5046b38460ed731eec
+What travels around the world but stays in one spot?,A stamp,c9adb5a9e333f4300ca8f65f64d0ea28
+"What runs but never walks, has a mouth but never talks, has a head but never weeps, has a bed but never sleeps?",A river,ca084e69107e3e8f2bd43d071a4bc444
+I'm always hungry; I must always be fed. The finger I touch will soon turn red. What am I?,Fire,ca629e7b6271b8512478ba6519d35526
+What has an eye but cannot see?,A needle,cbbccf1a5dbf792e29c9f02da3e57c3f
+What goes up and down but never moves?,Stairs,cc2abb381f4221075979a2bcd8f41ec0
+What has teeth but cannot eat?,A comb,cc91b98122b5ced17979ebcad836313b
+What is always in front of you but can’t be seen?,The future,ce2b4ae361624d6fe4d30a939bbf1307
+What can you hear but not touch or see?,Sound,cfcad96d2fab3c7bff595ab1024995f0
+"What has keys but no locks, space but no room, you can enter but not go in?",A keyboard,cfee592b45e00af8c017ca433228d67d
+"I am taken from a mine, and shut up in a wooden case, from which I am never released. What am I?",A pencil,d0016c043f01919b0ebd3e6692c85820
+What has to be broken before you can use it?,An egg,d02c7dcf11a1692ea30a864b3e9a0ee0
+"What is lighter than a feather, yet the strongest person can’t hold it for long?",Your breath,d0360cb3f8ed7135b6163fdd4fceb76f
+"What starts with 'e', ends with 'e', but only contains one letter?",An envelope,d042edeec1be6bfd4e04e88cadba8180
+"What has branches but no leaves, bark, or fruit?",A bank,d08815d264dc1b0eaf94ad40eebcb678
+What has one eye but cannot see?,A needle,d0f03b41f25af7f8a60c2844ad283343
+"I am tall when I’m young, and I’m short when I’m old. What am I?",A candle,d1f230e9dea69010ac82c1d513902faf
+What can go up and down stairs without moving?,A carpet,d3cecbdf07923addc3e96221d5137e14
+What has wheels and flies but is not an aircraft?,A garbage truck,d4b8c9b14b02fff10c4a658439787f35
+What has an ear but cannot hear?,A corn,d4c76b7a835dc8951dba31509bf6acd6
+"I have keys, but no locks. I have space, but no room. You can enter, but not go in. What am I?",A keyboard,d588115d4c997d42b26dca10b2dbe024
+I have a head and a tail that will never meet. Having too many of me is always a treat. What am I?,A coin,d5ebdad987299d4f8bfbe9d9080feac8
+What can’t be used unless it’s broken?,An egg,d6b333e9a01d775b1fac3f1fb085afa6
+What has a bottom at the top?,Your legs,d6b3a15cf9df4ea70cbef63c2ce2fd7d
+"What has cities but no houses, forests but no trees, and rivers but no water?",A map,d77253e3196a5dfe042b1a271e28a808
+What has a spine but no bones?,A book,d8471a9f9649bd961abc88d82eabbf60
+What runs around a house but doesn't move?,A fence,d85f9211b954e62aebf9cd68dd4ac7d1
+"What has four legs in the morning, two legs at noon, and three legs in the evening?",A human,ddb1be0bbe02bca4b7315d802ac6faff
+What gets wetter and wetter the more it dries?,A towel,e0540801b6aed89db660886c4853184c
+"What has a face but no eyes, hands but no arms?",A clock,e0789dd78f7957c98ec20edf7623dddd
+What kind of room has no doors or windows?,A mushroom,e095e149eabc26452475080961075c2f
+"What goes up, but never comes down?",Your age,e4147caaad2d498b839e7c1ec78cae32
+"What flies when it is born, lies when it’s alive, and runs when it is dead?",A snowflake,e44da740ba9c339d259d60401d2546f4
+What can fill a room but takes up no space?,Light,e619a2e6d86108c1d976406d2c338303
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by almost everyone. What am I?",A pencil,e70fd1a080516b1d387c19c31c89ef47
+"I am taken from a mine and shut up in a wooden case, from which I am never released, and yet I am used by almost every person. What am I?",A pencil,e76b758ef604cbc3d80c5e7ba1c5c073
+What can you break without touching it?,A promise,e79512cb103a53099797d01cd6e1387a
+What is light as a feather but the strongest person can’t hold it for more than a few minutes?,Your breath,e7f5b4ad0fbecc656af4553022e8b8c3
+What can you hold in your right hand but never in your left hand?,Your left hand,e9e168440f13df3fac6ee94eda98bfd2
+What has keys but can't listen to the beauty it unlocks?,A piano,ea3d3b125ea7e207c9fcaab106100372
+"The more you take, the larger it becomes. What is it?",A hole,eabb4fe76218ff31994697aa2fcae2f5
+"What has cities but no houses, forests but no trees, and lakes but no water?",A map,eb4a6dcc44c88dfa9b58ab1c523e832e
+What has wheels but never moves?,A parking lot,eb60eee07b534b4c8ff1044d762e9fe0
+"What has legs, but doesn't walk?",A table,ebda133286ff70c619e2bfdf4d12a5d7
+What has ears but cannot hear?,Corn,ec9c55c41f55a251bd8042c83cb92fb1
+What has many teeth but can’t bite?,A comb,eccd024d24f6ed0c80a40f50bcf4c9f8
+"What begins with P, ends with E, and has thousands of letters?",A post office,ed7903babdbc1b5ae313c77b1b1c1d3e
+What can run but has no legs?,A thought,ee042575e22ce63d85e8731c48c04000
+What can travel around the world while staying in a corner?,A stamp,eeb7ee8e3d97dcbd845fbc1e790cb6cf
+"I'm tall when I'm young, and I'm short when I'm old. What am I?",A candle,eed063a2808f0cfc3b42b1e82a570f9c
+What gets broken without being held?,A promise,f0b8e876336303ac530764f537cc593f
+What has many needles but doesn't sew?,A pine tree,f1896a70d4584e67d792d761c010e0e7
+What is so fragile that saying its name breaks it?,Silence,f1d06af5e1b8868261bf6aa60c217f02
+"What has roots as nobody sees, is taller than trees, up, up it goes, and yet never grows?",A mountain,f2ba6364d5121f06e8b24806f65618d3
+What gets bigger the more you take away?,A hole,f378cad7172db2f54ddd13b5176e32ec
+"What has roots that nobody sees, is taller than trees, up, up it goes, and yet never grows?",A mountain,f37f2b110e22016b58a4d154d9d90f74
+What’s black and white and read all over?,A newspaper,f3fa8f43978f6eb2fb3dbb74e283dc6c
+What goes up and down but doesn’t move?,A staircase,f4e39c621bdd89ad192efb27ea1cf12d
+"What has many needles, but doesn't sew?",A pine tree,f5705eed928ba6f8531c908ee6a2a0b7
+What has a face and hands but no arms or legs?,A clock,f65a66e11bdbd3883bb7f0da7f444faa
+What is always in front of you but can't be seen?,The future,f68f6797fdf5e83f6eb42e3ca1a1bcae
+What word is always spelled wrong in the dictionary?,Wrong,f7071b97ee973a803376915593a8bccb
+What has four eyes but can't see?,Mississippi,f70a3983b198f99bc439db4870c42d56
+What has four fingers and a thumb but is not alive?,A glove,f8208e0ae29ec2326f77375a35760de9
+What gets wetter the more it dries?,A towel,f8fb3e8b0cc6415048965b2977c0bef8
+"What occurs once in a minute, twice in a moment, and never in a thousand years?",The letter M,fa32423521e6a53373c26fcd4f621795
+What has one eye but can’t see?,A needle,fbe24219628299eea1e8027ddcbf2191
+What has 13 hearts but no other organs?,A deck of cards,fc88a8dab9f09e29816e638226e420a1
+What can’t talk but will reply when spoken to?,An echo,fd6f9902ef0bdb7dfdb84c8cff63748c
+"What can be long or short, but is never wrong?",An opinion,fd990ef1a78d50fcc5a83ef5f21133c8
+What begins with an E and only contains one letter?,An envelope,ffd46376e49b47b858d76165465311c8
+Three doctors said that Bill was their brother. Bill says he has no brothers. How many brothers does Bill actually have?,None. He has three sisters.,0799d86fb0a1bc8d27cfa29253fca8a8
+"I am the beginning of everything, the end of everywhere. I'm the beginning of eternity, the end of time and space. What am I?",Also the letter “e”,13814e472d015288568adc5791014ac1
+A man dies of old age on his 25 birthday. How is this possible?,He was born on February 29.,14b13cf89882d1f8294c1d9a3cbedb02
+"If you drop me I’m sure to crack, but give me a smile and I’ll always smile back. What am I?",A mirror,158201497e8ecfd63889ace63098792a
+"You walk into a room that contains a match, a kerosene lamp, a candle and a fireplace. What would you light first?",The match,1e2e6ce5ea75dc432a4e517e5a38cdab
+"What has a thumb and four fingers, but is not a hand?",A glove,1ec06612d5a1f55dcb8cf4aad90a6c25
+I am a word of letters three; add two and fewer there will be. What word am I?,Few,2a70e0a97e5f93a2d7576cd9612f374f
+"You see a boat filled with people, yet there isn’t a single person on board. How is that possible?",All the people on the boat are married.,2b9822c24757281f9bc14aa45be78a40
+"Two in a corner, one in a room, zero in a house, but one in a shelter. What is it?",The letter “r”,2b9bc6d1c265d5c6ce23afac2781f4de
+"What has one eye, but can’t see?",A needle,327bfc0bcfaba9c47235af8c9a6d2b88
+"I shave every day, but my beard stays the same. who am I?",You are a barber,38291e2bc35a817f8faf53cef499145f
+"What is cut on a table, but is never eaten?",A deck of cards,3979e1585fbc36f327e6231fd4006976
+"I have lakes with no water, mountains with no stone and cities with no buildings. What am I?",A map,4110d9b8ddd76c672f7eb6dd8256559d
+"Speaking of rivers, a man calls his dog from the opposite side of the river. The dog crosses the river without getting wet, and without using a bridge or boat. How?",The river was frozen.,41d180e66f036d1bf4d4f9eebcb05699
+"What begins with an ""e"" and only contains one letter?",An envelope,4d11caa96db278395dd80a0eec9eb9b1
+What word in the English language does the following,Heroine,5005406ac81efa08e59e3fc38c03c528
+"I am always hungry and will die if not fed, but whatever I touch will soon turn red. What am I?",Fire,53c6895d4be32e72a7104667c57747e6
+"If you’ve got me, you want to share me; if you share me, you haven’t kept me. What am I?",A secret,5a5c48071c89d995de0fda271302965d
+A man who was outside in the rain without an umbrella or hat didn’t get a single hair on his head wet. Why?,He was bald.,5ae87bdb30dd2f34a2e13bb6653efed0
+"You see me once in June, twice in November and not at all in May. What am I?",The letter “e”,61f4d3d681a12e14caf6ba63cab6cf3d
+"If there are three apples and you take away two, how many apples do you have?",You have two apples.,64219372e1e61df8f1991776b8d2b4c6
+"A man describes his daughters, saying, “They are all blonde, but two; all brunette but two; and all redheaded but two.” How many daughters does he have?",Three,64c9447e6402e2ee16457372a9d66dbe
+What month of the year has 28 days?,All of them,66129d485db2ac37e429b03cb2a10cb1
+What would you find in the middle of Toronto?,The letter “o”,67c9968616f51bc3dcd19b9c45078a8f
+"Two fathers and two sons are in a car, yet there are only three people in the car. How?","They are a grandfather, father and son.",691069e7ea0d355bf59269d232fa0116
+The person who makes it has no need of it; the person who buys it has no use for it. The person who uses it can neither see nor feel it. What is it?,A coffin,6bfd9e23ca4bd84a68b229ee3d798570
+I am an odd number. Take away a letter and I become even. What number am I?,Seven,6ed3e88ce848ec315866f1dde11c719f
+"I follow you all the time and copy your every move, but you can’t touch me or catch me. What am I?",Your shadow,70418a8ccabc5fa1763f09a3e7761960
+"The more you take, the more you leave behind. What are they?",Footsteps,72f215f2c3869516777209f2d6c4b989
+"The poor have it, the rich require;  and all men carry to their graves?",Nothing,77c319ad5889fee1c54a9ed1d93870c7
+"What has words, but never speaks?",A book,79c27b131975f7e7640fdd16dd051ee4
+"A little girl goes to the store and buys one dozen eggs. As she is going home, all but three break. How many eggs are left unbroken?",Three,79dff8f6f1ccf1a480c48437fdb3ed31
+What word of five letters has one left when two are removed?,Stone,80cf7d683d466fc1f82f24fbb04cc099
+"What runs all around a backyard, yet never moves?",A fence,821eba9723cfcca2e416281a53631b59
+"It belongs to you, but other people use it more than you do. What is it?",Your name,840b716ad281d2f7d15dbb50523c5e87
+"What has one head, one foot and four legs?",A bed,852228dc4e9c3312fe9c945122f2cd4e
+David’s parents have three sons,David,8a864c2423c328e96bfc6a2f3354eacd
+"Forward I am heavy, but backward I am not. What am I?",The word 'ton',8e69316940991bb989fa9f53b8356508
+"If you’re running in a race and you pass the person in second place, what place are you in?",Second place,8e87342d2c07bf51e6aa1af0e25b2851
+What question can you never answer yes to?,Are you asleep yet?,91688ddc72eca0032672f6e83095de84
+What can’t be put in a saucepan?,It’s lid,939d4c78f49b0047695d5304ff2b2dbb
+"I turn once, what is out will not get in. I turn again, what is in will not get out. What am I?",A key,960e1c12064dc6016ddbede63dda8939
+Where does today come before yesterday?,In an English dictionary,9942fd808c8a494c38c908fa55e32199
+What kind of band never plays music?,A rubber band,9c046c354b604f5904f64b0e669f4f52
+What is the end of everything?,The letter “g”,a54633f6ca929df6133bf58d9230898f
+"What three numbers, none of which is zero, give the same result whether they’re added or multiplied?","1, 2 and 3",a7891b61a9c768f0d4825034ba1f8485
+What is black when it’s clean and white when it’s dirty?,A blackboard,a96e6fa6f80f165d36f7099fd2a8669a
+"What has legs, but doesn’t walk?",A table,b229aedd74c39320f310b184ed00c11b
+"What breaks yet never falls, and what falls yet never breaks?","Day, and night",b39978425028b3169a76151e25c29d33
+"What has hands, but can’t clap?",A clock,b6e6703c1794505459c78df3f0fe8ce5
+"People make me, save me, change me, raise me. What am I?",Money,b9f214244e480b2b6f4d5ed424bee83b
+What five-letter word becomes shorter when you add two letters to it?,Short,bae80efcfdb255a2a02c67bcaece65a4
+"What has many needles, but doesn’t sew?",A Christmas tree,c2af171d56c8294c3606ef27fe4752e6
+"What has many teeth, but can’t bite?",A comb,c43a3de274080284ffc0db240519ce5d
+"Mary has four daughters, and each of her daughters has a brother. How many children does Mary have?",Five. Each daughter has the same brother.,cd7b5d38051cddf6b87c7b3347a181cf
+"I’m light as a feather, yet the strongest person can’t hold me for five minutes. What am I?",It's breath,d1ccee35a0853839ab266ee234b36647
+Where does one wall meet the other wall?,On the corner,db8361c2ef2b0c34044ca812a987e3f9
+"What does man love more than life, hate more than death or mortal strife?",Nothing,e74eaa7a03d7166dc01d720e7ebc549d
+What word is pronounced the same if you take away four of its five letters?,"Queue, it is pronounced same without the letters 'ueue'",f201d6fded50044e509cb314c98eaa0b
+Which is heavier,Neither—they both weigh a ton.,f49acf84b37b3a7a6f2c94efe9e98c09
+"There’s a one-story house in which everything is yellow. Yellow walls, yellow doors, yellow furniture. What color are the stairs?",There aren’t any—it’s a one-story house.,f51c0d1072021a2ac146dcd1fe16216f
+"Two in a corner, one in a room, zero in a house, but one in a shelter. What am I?",The letter “R.”,08c2bc0baacde1307ac6aa70bb2fd03b
+What is harder to catch the faster you run?,Your breath.,0a594c38a8af109c96fa65f090bba14e
+"Take one out and scratch my head, I am now black but once was red. What am I?",A match.,0f51f73e3d9bd5097f5a4b080b0688fe
+"What belongs to you, but everyone else uses it?",Your name.,1a806fc2e0b4907ddaca45bc1dfe7001
+"Jared’s father has three sons: Snap, Crackle and…?",Jared.,2c83dd62bc69978bf728af67dcc5cf2e
+What begins with an “e” and only contains one letter?,An envelope.,2db9585c0fe23a738df5b08e815c19d3
+When is a door no longer a door?,When it’s ajar.,308ec7dd0a60fe67c19a608e39b1c4d2
+What part of the chicken has the most feathers?,The outside.,31334fbd7b6a9a45512ee3ee4c343a83
+"Spelled forward, I’m what you do every day; spelled backward, I’m something you hate. What am I?",Live.,35c419f4b1e2c3d8814358d545b7f29a
+"What occurs once in a minute, twice in a moment, and never in 1,000 years?",The letter “M.”,3710a7568262b923cebe207dc1fd5561
+"A bus driver goes the wrong way down a one-way street. He passes police officers, but they don’t stop him. Why?",He’s walking.,3b0b563dfdf644b49277861bf8c851c4
+How many bananas can you eat if your stomach is empty?,"Just one. After that, your stomach’s not empty anymore.",3b682cac4a089982e457ac6edaf88773
+What do you lose the moment you share it?,A secret.,4806aa8515c0063f158dad38b8e8e99c
+What word in the dictionary is spelled incorrectly?,Incorrectly.,4f2ede76290e50631e0da0361e11c044
+"Forward, I am heavy; backward, I am not. What am I?",Ton.,4fae6fe50d5b09a1838ae37abbbe6729
+What has many keys but can’t open any locks?,A piano.,546fe3c27496a0434442f4320be0040c
+Which month has 28 days?,All of them.,59e436f1e79cedb8db136f1159f35d57
+"I am weightless, but put me in a bucket, and I will make it lighter. What am I?",A hole.,63f21a0ff329e75fe26ebe2c9137e367
+What gets smaller every time it takes a bath?,A bar of soap.,6fd821d4b578bbc2bf44864679d07aca
+What do Alexander the Great and Winnie the Pooh have in common?,Their middle names 'the'.,7098a04a0aa23e91460a38c5e3fdf225
+Poor people have it. Rich people need it. If you eat it you die. What is it?,Nothing.,7182e7c82d3acac2656f79050e396d39
+What’s at the end of the rainbow?,The letter “W.”,71f7d5c0f8b7b3fd4ececfa3a5e85f61
+"Until I am measured, I am not known. Yet how you miss me when I have flown. What am I?",Time.,85df463a596d0b8178010616e85c93fe
+What has many hearts but no other organs?,A deck of cards.,8da3d0a3d832dfe90ab56472414f008d
+What has 10 letters and starts with gas?,Automobile.,909f91727b4456cef512337fbcaa77a4
+What do you buy to eat but never consume?,Flatware.,95580b515356187eebda7a2aed16781e
+"Before Mount Everest was discovered, what was the highest mountain in the world?","Mount Everest, it just wasn’t discovered yet.",96376f6d865fc91e52127d7b09151341
+"What can you hold in your right hand, but never in your left hand?",Your left hand.,9866d126996f013f061f136817e8d368
+"What runs, but never walks. Murmurs, but never talks. Has a bed, but never sleeps. And has a mouth, but never eats?",A river.,98dc3985cf8b7f3d26718c59794dff19
+"What has legs, but does not walk?",A chair.,9c248a3def4d1a02f1e925ed6485de4e
+What is taken before you can get it?,A photograph.,9c74aabc8ddce3a4fe8435dc7579bae9
+What has a neck but has no head?,Guitar.,9ca14dfb6deea4aa9c1704cf5a3eb8f8
+How many letters are in the alphabet?,Eleven,9d2d6c40ee516ae7e8bba0ae64e63ff2
+What do you bury when it’s alive and dig up when it’s dead?,A plant.,9fbde037b3cccf4a5bb6b236e66cef17
+What grows when you feed it but dies when you water it?,A fire.,a4839bc9f499e3752d0ab760ae64ad3d
+What’s always on the ground but is never dirty.,A shadow.,a4c092146aaa31cdb9de4b120957f5f7
+The person who makes it has no need for it; the person who buys it has no use for it. The person who uses it can neither see nor feel it. What is it?,A coffin.,aa04090ca4ce031284f70e4d5d1325f5
+The cowboy rode into town on Friday. He stayed for five days and left on Friday. How?,The horse’s name is Friday.,aa4ac0d144c8b1ec9834d65e6af2078d
+An electric train is going south at 200 mph. Which way is the smoke blowing?,There’s no smoke—it’s an electric train.,ab2edc8b2332154f973968e3160abc51
+What time is it when an elephant sits on a fence?,Time to fix the fence.,ad523d216be003edbad3de1d1f39c39a
+"Two fathers and two sons are in a car, yet only three people are in the car. How?","They are grandfather, father and son.",ad782f5038b8ecdd83e63ad2b6481781
+What kind of ship has two mates but no captain?,A relationship.,afeb27087a4f8b0123dd01a8eea7a340
+"Sara has four daughters, and each of her daughters has a brother. How many children does Sara have?","Five, each daughter has the same brother.",aff39656eed7081385843491a8cb13d3
+Which letter of the alphabet has the most water?,“C.”,b66dcd8c55c487509f0d4c754dcb1d17
+"You see me once in June, twice in November, and not at all in May. What am I?",The letter “E.”,b8c9329f9755aeb755dca3d5599984ff
+A man goes out in heavy rain with nothing to protect him from it. His hair doesn’t get wet. How does he do that?,He’s bald.,b8cef5c2cad99569cdf19d6b9a72635d
+A plane crashed between the border of France and Belgium. Where were the survivors buried?,They weren’t. Survivors don’t need to be buried.,bb9e66247a13a9e404f9a786f2f740af
+What gets shorter as it gets older?,A candle.,bd33ef860fccdc72b06091f1f14cdef4
+What question can you never say yes to?,“Are you asleep?”,c3031c7466293060d2b3c65a3fa0e9ea
+What two things can you never eat for breakfast?,Lunch and dinner.,c5fe11a5a85004825d373d66627ecd41
+"No matter how little or how much you use me, you change me every month. What am I?",A calendar.,cf15323a98539c8aeef858706f8364b2
+"What starts with a T, ends with a T, and has T in it?",A teapot.,d77111bc139d99a645676d6e99b03e96
+The 22nd and 24th presidents of the United States of America had the same parents but were not brothers. How can this be possible,That could be the same person.,db4672643910e3dc8fc76a0dcbfafdac
+What is the difference between a jeweler and a jailer?,A jeweler sells watches and a jailer watches cells.,f1685f1d51407eb070e1ca97edb812ea
+"If your uncle’s sister is not your aunt, what relation is she to you?",Your mother.,f3a33d644e8e03386f486abd6fbb1ff1
+How far can you walk into the woods?,"Halfway. After that, you’re walking out.",f8d181a88a7487c83e232cd0837c3912
+Which is heavier: a ton of bricks or a ton of feathers?,They weigh the same.,ff97be94dac53a6392499ef17b102ca1
+"What do the numbers 11, 69, and 88 all have in common?",They all read the same way when placed upside down.,0401458a936b55dd40dac98e687232a8
+A group of bunnies were having a birthday party. What kind of music were they listening to?,Hip hop music.,06e56624fc29eb88e2a6822de8437b75
+"If you don't keep me, I'll break. What am I?",A promise.,0c6613a9d957398fc30838ce26575d25
+"If I have it, I don't share it. If I share it, I don't have it. What is it?",A secret.,166f3acd7c281f1b35777d250ab7d94d
+Imagine you are in a room with no windows or doors. How will you get out?,Stop imagining.,1bef8673e409d6ed883d77e4c765451d
+What 2 things can you never eat for breakfast?,Lunch and dinner.,24d7981d5d8741fbfcd0759693fe04ad
+"I can fill a room, but I take up no space. What am I?",Light.,2de31503b36aa62f916336eb6d470d02
+What kind of coat can be put on only when wet?,A coat of paint.,3933ba815145d3c1bf9dd7d82266fc53
+What can jump higher than a building?,"Anything that can jump — buildings don't jump, silly!",3a7a18c6fa76f700b1563cd886305868
+"It has keys, but no locks. It has space, but no room. You can enter, but can't go inside. What is it?",A keyboard.,3f7f9937a5a58ce3a33ebcdf8d36925d
+"I have no wings, but I can fly. And I have no eyes, but I can cry. What am I?",A cloud.,4418f0ec6d3d2180cbb6f2183e844882
+It's the only place in the world where today comes before yesterday. Where is it?,The dictionary.,47b02c41883809a2b128b0a1b8c8d555
+"I have a body, arms, legs and a head, but have no heart nor no guts. What am I?",A skeleton.,4e67172a7381355d5f1b0a9ca6c7ace2
+"What is in seasons, seconds, centuries and minutes but not in decades, years or days?",The letter N.,502371df3675a2c8bba42b0a842ac058
+"You'll find me in Mercury, Earth, Mars and Jupiter, but not in Venus or Neptune. What am I?","The letter ""R.""",51cef6ba62ba7cd1733e91c0ad2afb80
+"I go all around the world, but never leave the corner. What am I?",A stamp.,52328bce8b0fe863593499bbc18a45d1
+What gets wet as it dries?,A towel.,55786595e40df037fb06f87948138614
+"What starts with T, ends with T, and has T inside it?",A teapot.,5c7da3d85ffe42760538550f8195aabe
+What can run but cannot walk?,Water.,6323b3f4d66971193a67e2e1ae297b37
+What word begins and ends with an E but only has one letter?,Envelope,6d80f87db06cc9115c49bdfbd36ca133
+"I protect, I stand tall. My goal is to strike fear in all. What am I?",A scarecrow.,6d921853c1361d47c19e1c5fa4336e1c
+"If an electric train is traveling south, which way is the smoke going?",There's no smoke as it's an electric train.,6fd2669a65f2206730fe2ccb5179b1d8
+How many months of the year have 28 days?,All of them. Every month has at least 28 days.,728e1925d1b3f495e9bd99c7500aad1d
+Which word becomes shorter when you add 2 letters to it?,"The word ""short.""",7799459d52d49c7e82694aa1c1c5a063
+What kind of ball doesn't bounce?,A snowball!,7aa5816d06d9080fbe41149e36b6edb0
+"I have a tail and a head, but no body. What am I?",A coin.,830c04c4597e08181262eadb378aae0c
+There are 3 apples in the basket and you take away 2. How many apples do you have now?,You have 2 apples. You took away 2 apples and left 1 in the basket.,832e69461f60cc359e80a4ba572aeaa4
+"What happens once in a minute, twice in a moment but never in one thousand years?","The letter ""M"".",84edb7610d9cb31c4ecc3e5cdb74fadc
+The English alphabet goes from A to Z but my name goes from Z to A. What am I?,A Zebra.,926484ad894bd6437cfe542b04897e4e
+"What has thirteen hearts, but no other organs?",A deck of cards.,9a852af08b7259bc4bf50f7045d712c2
+"Most people think of me as money. But when they find me in the water, they won't get any money out of me. What am I?",A river bank!,9b9b5cae1849ccdd36a516b8a35fe375
+"You're running a race and at the very end, you pass the person in 2nd place. What place did you finish the race in?",You finished in 2nd place.,9dbb7ef19f000bd4bca7cb0d40619936
+"I am so simple that I can only point, yet I guide people all over the world.",Compass.,a30069108548417ef3816921bf4ce2b2
+A bus driver was heading down a busy street in the city. He went past three stop signs without stopping. But the bus driver didn't break any traffic laws. How?,"He was walking, not driving.",a61d17c281288bfd7dc69d821d3386aa
+What kind of room has no walls or corners?,A mushroom.,ab3a29235f55e072c87951f9d0bd386f
+What has one eye but can't see?,A needle.,ad47a0e543ae524ce368b983a3a7c422
+What goes away as soon as you talk about it?,Silence.,afcb1e95d5609a9a2744a6ba85bc9140
+Everyone has me but no one can lose me. What am I?,A shadow.,bc1fa7a3633e2e43be87411ad85b295d
+"What has hands and a face, but can't hold anything or smile?",A clock.,bd499138fcf9fc8aec99e68045e61921
+What's the capital of France?,"The letter ""F.""  It's the only capital letter in France.",c1c8a6fd4d4dcea84d3efb76e31a80d0
+An elephant in Africa is called Lala. An elephant in Asia is called Lulu. What do you call an elephant in Antarctica?,Lost.,c95b2f2e58c477879810b11c043bd80a
+There's only one word in the dictionary that's spelled wrong. What is it?,"The word ""wrong.""",d59960d21485e0097854ed09739128bb
+"I am the beginning of everything, the end of everywhere.I'm the beginning of eternity, the end of time & space. What am I?",The letter E.,d6dae2ee5da1e80e37e2f6dcd3f55437
+"I go up and down, but never move. What am I?",A staircase.,d845562c97cfba25b91613801cfc4e34
+Often buried with fabulous wealth I'm often called wrapped up in myself. What am I?,A mummy.,d9fc4b4baad90af7160d7f015871e3b5
+What has keys but can't open locks?,A piano.,db1cebb714e65c424d0b46ad420b5bb8
+What has a mouth but can't speak?,A river.,e221af1f52090b83c4efdea6f5b7817f
+"I sleep during the day and fly at night, but I have no feathers to aid my flight. What am I?",A bat.,e331daeab570dc00f3980db611790c5f
+I fall but I never get hurt.,Snow.,e37c37fcab0696717f0cf6de538b0b50
+"I'm light as a feather, but even the world's strongest man couldn't hold me for much longer than a minute. What am I?",Breath.,e69695b0f4b9a1f8213a484b3a760e75
+"It belongs to you, but your friends use it more. What is it?",Your name.,e6e990db1f4a7ae872cd9db65616d388
+What jumps when it walks and sits when it stands?,A kangaroo.,e895ff2337f0926d596fd06b2e582691
+"What can you put between 7 and 8, to make the result greater than 7, but less than 8?","A decimal point. Your result would be 7.8, which is between 7 and 8.",e903e96bd0c5b64c4faa2aa50ec4b5a9
+I'm very tall when I'm young but get shorter as I get older. What am I?,A candle.,ee929fb7e1829cd3fb8cf1764d0ef400
+What can you hold in your left hand but not in your right hand?,Your right elbow.,f9b6cc07bc4426d57ff91b450f681f4b
+"Even if they are starving, natives living in the Arctic will never eat a penguin's egg. Why not?",There are no penguins in the Arctic; they are native to Antarctica.,00e1acb25795b41fe76fdf5da87b3fec
+"Where do you find roads without vehicles, forests without trees, and cities without houses?",On a map!,07ef09ca4cf0bd39b7258fa346708d2b
+How many bricks does it take to complete a building made of brick?,"Only one, the last one!",0d88c75f8eaf1a162e9f5f572d62357f
+"What has four legs, a head, and leaves?",A dining room table,0e89f88ef2d31b802a21de37d83ddffd
+"Poke your fingers in my eyes and I will open wide my jaws. Linen cloth, quills, or paper, I am greedy and devour them all. Who am I?",A pair of scissors,150f2eb8c9707cbfd54f7f4519c5e6e0
+"I have many eyes but cannot see.I have no mouth or nose, but always smell.Do not eat my tree or you will be,a very rare FATALITY!",A potato,1845884ed39c2e84ddb3c4d7f6d1c336
+What sits in a corner while traveling all around the world?,A stamp.,1ad90a429c1a8f9e7c56ea51a0e762b9
+Why was 6 afraid of 7?,Because 7 ate 9 (7 8 9),1e74b6eb94f12e67610d4c4820ae9395
+"I am taken from a mine, and shut up in a wooden case, from which I am never released, and yet I am used by almost everybody. What am I?",Pencil graphite,1f4397e4a0f8b4e62b3ad56d8ea4ced7
+What runs but cannot walk?,"Water -- also, your nose.",1fbde76db8d4471eb33efdf445b3bf13
+"If you were standing directly on Antarctica's South Pole facing north, which direction would you travel if you took one step backward?",North -- all directions from the South Pole are north.,22fc39d54ec691df0fa6eb1fac326631
+Why is it so easy to weigh fish?,Because they have their own scales.,24edda8219b1cc3b8718778f957e80d9
+"What question can a person ask all day long, getting a different answer each time, and yet all the answers were correct.",The question would be: What time is it?,33a921fa15aca38a282cb5d60c5b5c0d
+What are two things you cannot eat for supper?,Breakfast and lunch!,386a9fd1504511fd09bd5972f28e250e
+What kind of room has no windows or doors?,Mushroom,3979079462ccb3eeacd9ffd9bc6fc350
+He who has it doesn't tell about it. He who takes it doesn't know about it. He who knows what it is doesn't want it. What is it?,Counterfeit money,3a5e3dae533ee6db03920dcdc1522104
+"I have a little house in which I live all alone. My house has no doors or windows, and if I want to go out I must break through the wall. What am I?",A chicken in an egg,41e5ee8c1f65adbca30903aaa6e6c6ff
+What can pass before the sun without making a shadow?,The wind.,43be26e30818455738a870cf353ad768
+"What doesn't get any wetter, no matter how much rain falls on it?",Water.,465555092a833ccd30bae733e8923e2b
+"I have a face, two arms, and two hands, yet I can not move. I count to twelve, yet I can not speak. I can still tell you something everyday.",A clock.,4860ad9001da68e3b7e0fd411d23dfe0
+"What has four fingers and one thumb, but is not alive?",A glove,495db04fdda4d7312d3397a7fec404a6
+"If you were to take two apples from three apples, how many would you have?",Two. You'd have the two that you took.,4aa4913e73d90d1c487f089b64849b2a
+Who can shave 25 times a day and still have a beard?,A barber.,4c0bbf80248f14b8273fafda15960233
+What weighs more—a ton of feathers or a ton of gold?,"They weigh exactly the same, one ton each.",50e4355dc389cd7c26b429ac2f69afc6
+What did one math book say to the other math book?,I have a lot of problems!,52a4a3e5373bf853a96d6615b6289d48
+"You are in a room with 3 monkeys. One has a banana, one has a stick, one has nothing. Which primate in the room is the smartest?",You are the smartest! Humans are primates too.,54a654e1f22d507b40f16778539ba3ac
+Name three keys that unlock no doors.,"MONkey, DONkey, TURkey",55154bbe5919d6568e84e040fad65bbc
+What fastens two people yet touches only one?,A wedding ring.,59eaefbbf42c2f559b1a23e8ee099bed
+What happens when you throw a white rock into the Red Sea?,It sinks,5b489e785b080c7d351ac1632bc4cdfc
+"Mary's father has 4 children; three are named Nana, Nene, and Nini. So what is is the 4th child's name?",Mary.,5eeb05e586c8f5069d866ca557d5aed8
+What do you serve that you cannot eat?,A tennis ball.,5fdd60d31cb558ceef928d0c7f92c3e5
+"What grows when it eats, but dies when it drinks?",Fire.,61f9f69deb3c83bc056931fb3c0c482d
+"What can be swallowed, but can also swallow you?",Water.,640c8df50c8252ff69b4e3190923530b
+"The one who made it, didn't want it. The one who bought it, didn't need it. The one who used it, never saw it. What is it?",A coffin.,66d33e0f1270162c8e240b1a8ad0c7d1
+"The more of them you take, the more you leave behind. What are they?",Footsteps,6852320ab977f2f8d643f75142e31ed3
+Two mothers and two daughters go to a pet store and buy three cats. Each female gets her own cat. How is this possible?,"There is a grandmother, a mother, and a daughter.",6cea32cb0c647002f640eefd5c7d4556
+You are pushing your car. You stop at a hotel. At that precise moment you realize that you are bankrupt. What is actually going on?,You are probably playing Monopoly!,6d005f76f5e0b3e341d52ff79d1c5b98
+What is half of 2+2?,"3 (half of 2 is 1, and then 1 plus 2 is 3)",6dd4bcbe1e1709db38edee38b68c1284
+How can you put you left hand in your right pocket and put your right hand in your left pocket without crossing your arms?,First put the clothes on backwards.,72c01f8df528475ce6c7109f0384c3ac
+How many times can you subtract the number 5 from 25?,"Only once. After that, you will be subtracting 5 from 20, then 5 from 15, etc.",73d576ba62e0d2f0fbf269963bf911b1
+"If you have it, you want to share it, but if you share it, you don't have it. What is it?",A secret.,777919b2fc296ab5b92e7151ae721efc
+What kind of cake does a mouse eat on its birthday?,cheesecake,78733f9c0f9fc7ec5a27df5a21070b14
+What's the difference between here and there?,The letter T.,7d70f47aae1658909987eb795a0784fd
+"What is better than the best thing, and worse than the worst thing?",Nothing,7dc98786af95278e029d6ce65c4a5922
+"What can burn the eyes, sting the mouth, yet be eaten?",Salt.,8309e99e8bb58cecfe311d8ad3ae2911
+How many seconds are there in a year?,"12 (January second, February second and so on)",8317c485f0138528f15fd2f2f50d3503
+Which moves faster: heat or cold?,"Heat, everybody can catch a cold.",8371eccf220bf2a31f06ceb1cf362785
+"If two's company, and three's a crowd, what are four and five?",Nine.,8794f177a966ae18aa8cdedffa724bb6
+What three numbers have the same answer when added together and multiplied together?,"1, 2, 3",883f5acf5e0bcc99ba0e9b3b2fc9c0b7
+While walking across a bridge I saw a boat full of people. Yet on the boat there wasn't a single person. Why?,Every one on the boat is married.,8c69903b4c844d62286eb56e834932e6
+Have you heard the saying what goes up must come down? Well what goes up and never goes down?,Your age!,8eb71d121c1025ab93a3768b812a9109
+"Why can't a man living in Winston Salem, NC, be buried west of the Mississippi?",Because he is still alive.,90717288c24e600062df7244c9fc4670
+"If an electric train is going east at 60 miles an hour and there is a strong westerly wind, which way does the smoke from the train drift.",Electric trains don't produce smoke,9371bad1ba01e2e5aaf586d09751a054
+Where do fish keep their money?,"In a riverbank, of course!",94498076b65d25bfbe89307253285418
+"What needs an answer, but doesn't ask a question?",A telephone!,960cda50fc4805629c78ec212f97d500
+"What is put on a table and cut, but never eaten?",A pack of cards,9c13e23182700600ec566d150b2197e4
+What kind of nut has no shell?,A doughnut,9d1814cfbad4e2016f2a0c09abd82da5
+"The more you have of it, the less you see. What is it?",Darkness.,9de22dd57bde54f027bba28a4c5ba2c4
+What goes up and down without moving?,Stairs.,9ebcaf06cdc6e1cb1468e5d1d4b4fa6f
+I know a word of letters three. Add two and fewer there will be. What is the word?,Few.,a65b0df1d771efd5f92c1f7e84400cc8
+"You enter a dark room. You have only one match. There is an oil lamp, a furnace, and a stove in the room. Which would you light first?",The match!,a81d785313175ff001fe09836f4ee95a
+What kind of rocks are on the bottom of the Mississippi River?,Wet rocks.,a8bc0b110eb9556dad844fea5f5663f6
+What is in the middle of nowhere?,H.,acca6b39db5892230525d23e50090e67
+A horse is tied to a 20 foot long rope. The horse wants to get some water that is 30 feet away. The horse gets the water easily. How is this?,The other end of the rope isn't tied to anything!,b2b29ce3da6c82098076242953b451a9
+What word in the English language is always spelled incorrectly?,Incorrectly!,b875f4194b58373ad222811037f6683d
+"What occurs once in a minute, twice in a moment, but never in an hour?",The letter M,b8ce0a46e623cc615b03dbd0146393a2
+What is is that you will break every time you name it?,Silence,bb7d5ccc130f30fa8a5513c98b065766
+"It lives without a body, hears without ears, speaks without a mouth, and is born in air. What is it?",An echo,bc122925b2279f6b6fe5f889f3a7cdcd
+From what heavy seven-letter word can you take away two letters and have eight left?,Freight or weights!,c21c9eb43f0a18a06433274a6ce32af7
+What is bigger when new and grows smaller with use?,"Soap (or a pencil, crayon, chalk, etc.)",c317a1ed6ca396f2c9ad6166a05f4ad8
+What is the center of gravity?,V.,c58e2d2174fd73215616ec08af33cf65
+What gets whiter the dirtier it gets?,A blackboard or chalkboard.,c69cb3c8535016c630a4681138ccd41d
+Do you know why orange juice is so smart?,It concentrates!,caed5c9bd134e9203802f4a72b8d6367
+"Here on earth it is always true,that a day follows a day.But there is a place where yesterday always follows today! What am I?",The dictionary!,ceb426cbba463e9a91cc01084f656cfa
+What am I? I am the only thing that always tells the truth. I show off everything that I see. I come in all shapes and sizes. So tell me what I must be!,A mirror.,d4ca9fea9e24996d7c5ab92cc8cc4d30
+"What turns everything around, but does not move?",A mirror.,d564b0f94a042e3b134f0935fe4128de
+"Twelve pears hanging high, twelve men passing by.Each took a pear and left eleven hanging there.How can this be?","""Each"" was the name of one of the men passing by.",dcb222eede6bb4369e02d5b43cb811b1
+"What's colorless and weightless, but if you put it into a barrel, the barrel would become lighter?",A hole,ddeab0392c7a48ea59dc2b8c86e67b04
+"What has no beginning, end or middle?",a doughnut,de0e864bc6ce068fd45ce1c5ae78394f
+What is the moon worth?,$1 -- because it has 4 quarters.,deddc1a0a31b63f85ac19514cc80bbbf
+"What happens twice in a week, and once in a year, but never in a day?","The appearance of the letter ""e""!",df6fb2fb0cc8ae667db8d48a37fd88c8
+Scientists have proven that cats have more hair on one side then their other side. Which side of a cat has more hair?,"The outside, of course!",e4863b428f0a5ffe2b41c81a46b99a2c
+"What has a tongue, cannot walk, but gets around a lot?",A shoe!,e8053e091d01e30af3b28852b1a2d894
+What goes around and around the wood but never goes into the wood?,The bark of a tree,eade0eaf9e67294c3a28c68c1f615894
+"If a rooster laid a brown egg and a white egg, what kind of chicks would hatch?","None, roosters can't lay eggs!",eda5b0d307b11fbdfdaa878d06dd972f
+What did the ocean say to the sea?,Nothing...it just waved.,f7cfc3a48fdab03a99859631b4b714a1
+A barrel of rainwater weighs twenty pounds. What must you add to make it weigh fifteen?,Holes!,f8637812125e284e16b1ac4da5ac1a35
+"What won't break if you throw it off the highest building in the world, but will break if you place it in the ocean?",A tissue.,f9035a33a9bb876e69fafd3fc4e0bad8
+"Take off my skin and I won't cry, but you will, what am I?",An onion.,fd7cd9aff31bcf1971a5ba9c82492645
+"When young, I am sweet in the sun.When middle-aged, I make you gay.When old, I am valued more than ever.What am I?",Wine.,fe428b72f70e90ee96fe8826b13cf019
+What did the rib cage say to the heart?,Got ya covered!,fe7e831013411b0949796c9dadec4e4c
+What kind of building is the tallest in the world?,A library; it has the most stories.,06a90404fa12f16c74faffad5309a5ee
+Why did the boy throw butter out the window?,He wanted to see a butterfly.,0877a73308da5b74d7f783c712bf281b
+What did one octopus say to the other octopus?,"I want to hold your hand, hand, hand, hand, hand, hand, hand, hand.",0ef4195d7d32bc13daf52a53c64de347
+What did the blanket say to the bed?,Got you covered!,0f6c720d39a9122fb1e5c5b7bdb4378a
+What does Frosty the Snowman eat for breakfast?,Snowflakes!,10a450dd386fd6359209de73984f44e0
+What two things aren't eaten for breakfast?,Lunch and dinner.,10c0e0039c3754b5f6c2a8fda9896eb1
+Why couldn't the Teddy Bear eat?,Because he was stuffed!,1a12d1f217f7df6618498e3ebbca6dc1
+What's the difference between a jeweler and a jailor?,One sells watches and the other watches cells.,1d74b6bdbcd2b66fcd92d454fe048f5b
+How many hamburgers can you eat on an empty stomach?,"Only one or part of one, because after that your stomach is no longer empty.",2269695378228b8883c6916b5fa0708d
+Why can't a bike stand up for itself?,Because it's two tired.,4333f02ce17be0eda5277a7888d610b2
+What time is it when you see an elephant sitting on your fence?,Time to buy a new fence.,458b9c7d0504a3101379fdb3d809c6f1
+What kind of beans can't grow in a garden?,Jelly Beans.,45cb7ced293e6aecca5a2d13430e2935
+Why do seagulls fly over the sea?,Because if they flew over the bay they would be Bagels!,48a62800a08708c7b58f527ea2ae868d
+Why did the skeleton play the piano?,Because he didn't have any organs!,4aa927bb18a6fa8ebf2cf0a4235acdac
+Why is it a bad idea to write a letter on an empty stomach?,Because it's much better to write on paper.,5a5134615a96e5a001a03d326e747730
+What did the mayonnaise say to the bread?,"Close the door, I'm dressing.",6ff9a331167d550a87849dbe2b206f3e
+How do you catch a squirrel?,Climb up a tree and act like a nut.,706345ae3fc1b2b5bd5b4e162f9008ad
+Why didn't the lobster share his toys?,He was too shellfish.,713ac0fccf8e2970c254328f83f7ea2d
+What did one plate say to the other plate?,Lunch is on me.,72849788e7c883dfded3bd80320b78bf
+What does a bee use to brush its hair?,A honeycomb!,7ecb34fdb1c328694f4db46237647037
+What kind of driver never gets a speeding ticket?,A screwdriver.,80b3a4b9ab922f7cb9c39a24ad4fd4bd
+Why did the boy throw a glass of water out the window?,He wanted to see a waterfall.,85d9a6b1e3ae45f13e662105ef398ad3
+Who was the invisible man's parents ?,His transparents,8cd72075da638a8bef96df872ba779ef
+"What do cars, trees, and elephants all have in common?",They all have trunks.,90b354fd330c27c4386062dbb57096ba
+What did one rose say to the other?,"""Hi Bud.""",93b14556d5625e8908f601cd0716ddef
+Why isn't your nose 12 inches long?,Because then it would be a foot.,96e0eb338982af93c907098e86da94ab
+"If you threw a green shoe into the Red Sea, what would it become?",Wet.,9f5b88943e6f055a1502e6c2e0ea1353
+Where does a bird go when it loses it's tail?,To a retail store.,a6bde70b98a29b10b0f0e495e8cd1a9b
+Why are fish never good tennis players?,They don't like getting close to the net.,bf4bcccfe85cb72552559edab20c7b43
+"If two shirt collars had a race, which one would win?",Neither one. It would end in a tie.,c207357d5e8acd4df88478ba8c5ef82b
+Where can you find an ocean without water?,On a map.,c3085430223f13ac1e19dea9faef7390
+What runs around a farm but doesn't move?,A fence.,c308d75f8ee8817f4ece1b17a2e8587a
+What kind of music do mummies like?,"""Wrap"" music.",c7cf3a1e8bd955444b8890b8b4224076
+Where do polar bears keep their money?,In a snow bank.,d1156cab927e68a44ff14623f8c9ad56
+How do you stop a skunk from smelling?,Put a clothes peg on its nose!,d8a3ec936a85b6ab155be5d968dd9504
+Why does it get hot after a baseball game?,Because all the fans have left!,e5937134309008c240032d7b68560d83
+How does the ocean say hello to the sand?,It waves.,e697f574ee8f6dccfa506095072e00c1
+What did one wall say to the other?,I will meet you at the corner.,e923f8c383953c2d58197aefb7a870d4
+What question can't be answered with a yes?,Are you asleep?,f5ff7832f66e97e365d3eaf51e75e2f4
+What is the one thing everybody in the world is doing at the same time?,Growing older.,fbe378c4c914e9e3cd51c7fd862121f4
+What do you take off last before getting into bed?,Your feet off the floor.,ffad391a41308aecb0a549cc91b35f3c
