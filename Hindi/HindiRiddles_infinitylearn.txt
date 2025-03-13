@@ -1,4 +1,4 @@
-﻿#https://infinitylearn.com/surge/topics/paheli-in-hindi-with-answers/
+#https://infinitylearn.com/surge/topics/paheli-in-hindi-with-answers/
 प्रश्न: ऐसा कौन सा फल है, जिसे उल्टा करने पर भी वही नाम रहता है?
 उत्तर: आम (Mango)
 प्रश्न: ऐसा कौन सा शब्द है जिसे हम गलत नहीं बोल सकते?
@@ -361,5 +361,3 @@ b) गलत
 c) सही
 d) बोलना
 उत्तर: b) गलत
-
-
