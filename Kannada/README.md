@@ -1,1 +1,1 @@
-#Kannada riddles data
+# Kannada riddles data

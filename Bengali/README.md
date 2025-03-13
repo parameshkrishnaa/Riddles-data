@@ -1,1 +1,1 @@
-#Bengali riddle data
+# Bengali riddle data
