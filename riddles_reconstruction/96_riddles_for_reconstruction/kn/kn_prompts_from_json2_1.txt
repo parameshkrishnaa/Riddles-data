@@ -1,0 +1,1631 @@
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕರಿ ಗುಡ್ಡಬಿಳಿ ನೀರು ಅದ್ರಾಗೆ ಕುಂತವಳೇ ಚಂಪರಾಣಿ
+Original Answer: ಗಡಿಗೆ ಮಜ್ಜಿಗೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಬೆಳ್ಳಿ ಸಮುದ್ರದಲ್ಲಿ ಕಪ್ಪು ಸೂರ್ಯ
+Original Answer: ಕಣ್ಣು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕಾಲಿಲ್ಲ ಹುಡುಗಿಗೆ ಮಾರುದ್ದ ಕಡಿವಾಣ
+Original Answer: ಸೂಜಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹಾರಾಡುತ್ತಿದೆ ಗಾಳಿಪತವಲ್ಲ, ಬಣ್ಣ ಮೂರಿರುವುದು ಕಾಮನಬಿಲ್ಲಲ್ಲ
+Original Answer: ಧ್ವಜ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಒಂದು ಮಡಕೆ, ಮಡಕೆಯೊಳಗೆ, ಕುಡಿಕೆ, ಕುಡಿಕೆಯಲ್ಲಿ ಸಾಗರ
+Original Answer: ತೆಂಗಿನ ಕಾಯಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ನೀಲಿ ಸಾಗರದಲ್ಲಿ ಬೆಳ್ಳನೇ ಮೀನುಗಳು ನಾನ್ಯಾರು
+Original Answer: ತಾರೆಗಳು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ನೀನಿಲ್ಲದೆ ಊಟವಿಲ್ಲ
+Original Answer: ಉಪ್ಪು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಕ್ಕ ಓದುತ್ತಾಳೆ ತಂಗಿ ನಡೀತ್ತಾಳೆ
+Original Answer: ಕಣ್ಣು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಮೂರು ಕಾಸಿನ ಕುದುರೆಗೆ ಮುನ್ನೂರು ರೂಪಾಯಿನ ಹಗ್ಗ
+Original Answer: ಹೇನು ಕೂದಲು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಒಂದು ಹಸ್ತಕ್ಕೆ ನೂರೆಂಟು ಬೆರಳು
+Original Answer: ಬಾಳೆಗೊನೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಗುಡುಗು, ಗುಡುಗಿದರೆ ಸಾವಿರ ನಯನಗಳು ಅರಳುವುದು.
+Original Answer: ನವಿಲು.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಆಕಾಶದಲ್ಲಿ ಕೊಡಲಿಗಳು ತೇಲಾಡುತ್ತವೆ
+Original Answer: ಹುಣಸೇಹಣ್ಣು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಮ್ಮನ ಆಕಾಶವಾಣಿ ನಾನು
+Original Answer: ಮಗು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕೂಗಿದರೆ ರಾವಣ, ಹಾರಿದರೆ ಹನುಮಂತ, ಕೂತರೆ ಮುಸಿ
+Original Answer: ಕಪ್ಪೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹಗ್ಗ ಹಾಸಿದೆ, ಹಸು ಮಲಗಿದೆ
+Original Answer: ಕುಂಬಳಕಾಯಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಸಾವಿರ ತರುತ್ತೆ ಲಕ್ಷ ತರುತ್ತೆ ನೀರಿನಲ್ಲಿ ಹಾಕಿದರೆ ಸಾಯುತ್ತೆ.
+Original Answer: ದುಡ್ಡು.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಬಾ ಅಂದರೆ ಬರೋಲ್ಲ, ಹೋಗು ಅಂದರೆ ಹೋಗೋಲ್ಲ
+Original Answer: ಮಳೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕೆಂಪು ಕುದುರೆಗೆ ಲಗಾಮು, ಓಬ್ಬ ಹತ್ತುತ್ತಾನೆ, ಇನ್ನೊಬ್ಬ ಇಳಿತಾನೇ
+Original Answer: ಬೆಂಕಿ,ಬಾಣಲೆ, ದೋಸೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹೊಂಚು ಹಾಕಿದ ದೆವ್ವ, ಬೇಡ ಬೇಡ ಎಂದರೂ ಜೂತೆಯೇ ಬರುತ್ತೆ.
+Original Answer: ನೆರಳು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕೆಂದ ಕುದುರೆ,ಬಿಳಿ ತಡಿ, ಕರೆ ಲಗಾಮು, ಅಣ್ಣ ಅತ್ತಾನೆ, ತಮ್ಮ ಇಳಿತ್ತಾನೆ
+Original Answer: ಬೆಂಕಿ, ಸುಣ್ಣ ಹಚ್ಚಿದ ಹಂಚು, ಹೊಗೆ, ರೊಟ್ಟಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕೆಂಪು ಕುದುರೆ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಒಬ್ಬ ಇಳಿಯುತ್ತಾನೆ
+Original Answer: ರೊಟ್ಟಿ, ದೋಸೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕೋಳಿ ಕುಗುತ್ತದೆ, ಮುಲ್ಲ ಚೂರಿ ಹಾಕುತ್ತಾನೆ.
+Original Answer: ಗಿರಣಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಒಂದು ಮನೆಗೆ ಒಂದೇ ತೊಲೆ
+Original Answer: ತಲೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹೋಗುತ್ತಾ, ಬರುತ್ತಾ ಇರುವುದು ಎರಡು,ಹೋದ ಮೇಲೆ ಬರಲಾರವು ಎರಡು
+Original Answer: ಸಿರಿತನ-ಬಡತನ, ಪ್ರಾಣ -ಬಡತನ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕಡ್ಲೆ ಕಾಳಷ್ಟು ಹಿಂಡಿ 32 ಮನೆ ಸಾರಿಸಿ ಬಚ್ಚಲ ಪಾಲು ಆಗುತ್ತೆ
+Original Answer: ಹಲ್ಲುಪುಡಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಗಿರಗಿರ ತಿರುಗುತ್ತೆ, ಸುಸ್ತಾಗಿ ಬೀಳುತ್ತೆ
+Original Answer: ಬುಗುರಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಒಂದು ಹಪ್ಪಳ ಊರಿಗೆಲ್ಲ ಊಟ
+Original Answer: ಚಂದ್ರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಶತ್ತಗಿಂಡಿ, ಶಾರಾಗಿಂಡಿ, ನೀರಾಗಿ ಹಕ್ಕಿದರೆ ಮುಳುಗದು ಮುತ್ತಿನ ಗಿಂಡಿ.
+Original Answer: ಬೆಣ್ಣೆ ಉಂಡೆ.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹಸಿರು ಕೋಲಿಗೆ ಮುತ್ತಿನ ತುರಾಯಿ
+Original Answer: ಜೋಳದ ತೆನೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ನೀಲಿ ಕೆರೆಯಲಿ ಬಿಳಿ ಮೀನು
+Original Answer: ನಕ್ಷತ್ರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಬಂಗಾರದ ಗುಬ್ಬಿ ಬಾಲದಲ್ಲೇ ನೀರನ್ನು ಕುಡಿಯುತ್ತೆ
+Original Answer: ಚಿಮಿಣಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಮರನು ಮರನೇರಿ ಮತ್ತೆ ಮರನೇರಿ ಬಸವನಾ ಕತ್ತೇರಿ ತಿರುಗುತ್ತಿದೆ
+Original Answer: ಗಾಣ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹಸಿರು ಹಾವರಾಣಿ, ತುಂಬಿದ ತತ್ರಾಣಿ, ಹೇಳದಿದ್ದರೆ ನಿಮ್ಮ ದೇವರಾಣಿ
+Original Answer: ಕಲ್ಲಂಗಡಿ ಹಣ್ಣು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ೨೧. ಮೋಟು ಗೋಡೆ ಮೇಲೆ, ದೀಪ ಉರೀತಿದೆ.
+Original Answer: ಮೂಗುಬೊಟ್ಟು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕರಿ ಗುಡ್ಡ-ಬಿಳಿ ನೀರು ಅದ್ರಾಗೆ ಕುಂತವಳೇ ಚಂಪರಾಣಿ.
+Original Answer: ಗಡಿಗೆಮಜ್ಜಿಗೆ.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಇದ್ದಲು ನುಂಗುತ್ತ, ಗದ್ದಲ ಮಾಡುತ್ತಾ, ಉದ್ದಕ್ಕೂ ಓಡುತ್ತಾ ಮುಂದಕ್ಕೆ ಸಾಗುವ ನಾನ್ಯಾರು?
+Original Answer: ರೈಲು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ೪೬. ಕೆಂಪು ಕುದುರೆ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಒಬ್ಬ ಇಳಿಯುತ್ತಾನೆ.
+Original Answer: ರೊಟ್ಟಿ, ದೋಸೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕಾಸಿನ ಕುದುರೆಗೆ ಬಾಲದ ಲಗಾಮು
+Original Answer: ಸೂಜಿ ದಾರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ವನದಲ್ಲಿ ಹುಟ್ಟಿ,ವನದಲ್ಲಿ ಬೆಳೆದು,ವನದಿಂದ ಹೊರಟು ವನಜಲೊನೆ ಶಿರಕ್ಕೆರುವರು.
+Original Answer: ಕಮಲ.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಂಗಳದಲ್ಲಿ ಹುಟ್ಟುವುದು, ಅಂಗಳದಲ್ಲಿ ಬೆಳೆಯುವುದು, ತನ್ನ ಮಕ್ಕಳ ಹಂಗಿಸಿ ಮಾತಾಡುವುದು ಇದು ಏನು?
+Original Answer: ಕೋಳಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಕ್ಕ ಪಕ್ಕ ಚದುರಂಗ,ಅದರ ಹೂವು ಪದುರಂಗ ಅದರ ಹೆಸರು ಅಯ್ಯಯ್ಯಪ್ಪ ಇದು ಏನು?
+Original Answer: ದತ್ತುರಿಯ ಮುಳ್ಳು.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕತ್ತಲೆ ಮನೆಯಲಿ ಕಾಳವ್ವ ಕುಂತವೈ ಕುಯ್ಯೋ, ಮರ್ರೋ ಅಂತವಳೇ
+Original Answer: ತಂಬೂರಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಂಗೈ ಕೊಟ್ಟರೆ ಮುಂಗೈನೂ ನುಂಗುತ್ತದೆ
+Original Answer: ಬಳೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಒಂದು ಮರ, ಮರದಾಗ ಅಲ್ಲ, ಅಲ್ಲಿನಾಗ ಕೊಬ್ರಿ ಗುಂಡ
+Original Answer: ಆಕಾಶ ನಕ್ಷತ್ರ ಚಂದ್ರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ತಕ್ಕಡೀಲಿ ಇಟ್ಟು ಮಾರೋ ಹಾಗಿಲ್ಲ, ಅದಿಲ್ಲದೆ ಹಬ್ಬ ಅಗೋ ಹಾಗಿಲ್ಲ.
+Original Answer: ಸಗಣಿ.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕಡ್ಲೆ ಕಾಳಷ್ಟು ಹಿಂಡಿ೩೨ ಮನೆ ಸಾರಿಸಿ ಬಚ್ಚಲ ಪಾಲು ಆಗುತ್ತೆ.
+Original Answer: ಹಲ್ಲುಪುಡಿ.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅನ್ನ ಮಾಡಲಿಕ್ಕೆ ಬಾರದಂತಹ ಅಕ್ಕಿ ಯಾವುದು
+Original Answer: ಏಲಕ್ಕಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಊಟಕ್ಕೆ ಕುಳಿತವರು ಹನ್ನೆರಡು ಜನರು, ಬಡಿಸುವವರು ಇಬ್ಬರು, ಒಬ್ಬನು ಒಬ್ಬರಿಗೆ ಬಡಿಸುವಸ್ಟರಲ್ಲಿ ಇನ್ನೊಬ್ಬನು ಹನ್ನೆರಡು ಜನಕ್ಕೂ ಬಡಿಸಿರುತ್ತಾನೆ
+Original Answer: ಗಡಿಯಾರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕಂದ ಬಂದ ಕೊಂದ ತಂದ
+Original Answer: ಶ್ರೀ ರಾಮ ಚಂದ್ರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ದಾಸ್‌ ಬುರುಡೆ ದೌಲಥ ಬುರುಡೆ, ಲೋಕಕ್ಕೆಲ್ಲ ಎರಡೇ ಬುರುಡೆ
+Original Answer: ಸೂರ್ಯ, ಚಂದ್ರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಬೆಳ್ಳಿ ಬಟ್ಟಲಲ್ಲಿ ಮುತ್ತಿನ ಬಿಂದು
+Original Answer: ತಾರೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹಸಿರು ಕೋಲಿಗೆ ಮುತ್ತಿನ ತುರಾಯಿ
+Original Answer: ಜೋಳದ ತೆನೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹಾರಿದರೆ ಹನುಮಂತ, ಕೂತರೆ ಮುನಿ, ಕೂಗಿದರೆ ಕಾಡಿನ ಒಡೆಯ
+Original Answer: ಕಪ್ಪೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಂಗಣ್ಣ ಮಂಗಣ್ಣ ಅಂಗಿ ಬಿಚ್ಚಿಕೊಂಡು ನುಂಗಣ್ಣ
+Original Answer: ಬಾಳೆಹಣ್ಣು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕಿರೀಟ ಇದೆ ರಾಜ ಅಲ್ಲ, ಕಲ ತಿಳಿಸುತ್ತೆ ಗಡಿಯಾರವಲ್ಲ
+Original Answer: ಕೋಳಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹಲ್ಲಿಲ್ಲದ ಹಕ್ಕಿಗೆ ಗೂಡು ತುಂಬ ಮರಿಗಳು.
+Original Answer: ಕೋಳಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಒಂಟಿಕಾಲಿನ ಕುಂಟ. ನಾನ್ಯಾರು?
+Original Answer: ಬುಗರಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ೧೩.ಒಂದು ರುಮಾಲು ನಮ್ಮಪ್ಪನೂ ಸುತ್ತಲಾರ.
+Original Answer: ದಾರಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯಲ್ಲಿ ಟೋಪಿ ಹಾಕಿರುತ್ತೆ.
+Original Answer: ಬದನೇಕಾಯಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ನೀರಿರೋತಾವ ನಿಲ್ಲಲೇ ಕೋಣ
+Original Answer: ಚಪ್ಪಲಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹಸಿರು ಗಿಡದ ಮೇಲೆ ಮೊಸರು ಚೆಲ್ಲಿದೆ
+Original Answer: ಮಲ್ಲಿಗೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಂಗೈ ಅಗಲದ ರೊಟ್ಟಿಗೆ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಉಪ್ಪಿನಕಾಯಿ
+Original Answer: ಆಕಾಶ, ನಕ್ಷತ್ರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಮನೆ, ಮನೆಗೆರಡು ಬಾಗಿಲು, ಬಾಗಿಲ ಮುಂದೆ, ಮುಚ್ಚಿದರೆ ಹಾನಿ ಇದೇನು?
+Original Answer: ಮೂಗು, ಬಾಯಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಸಾವಿರಾರು ಹಕ್ಕಿಗಳು, ಒಂದೇ ಬಾರಿಗೆ ನೀರಿಗಿಳಿತವೆ.
+Original Answer: ಅಕ್ಕಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಸುತ್ತ ಮುತ್ತ ಸುಣ್ಣದ ಗೋಡೆ, ಎತ್ತ ನೋಡಿದರೂ ಬಾಗಿಲಿಲ್ಲ ಇದು ಏನು ?
+Original Answer: ಮೊಟ್ಟೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಗಲವಾದ ಮಾಳಿಗೆಗೆ ಒಂದೇ ಕಂಬ
+Original Answer: ಛತ್ರಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಸುಟ್ಟ ಹೆಣ ಮತ್ತೆ ಸುಡ್ತಾರೆ
+Original Answer: ಇದ್ದಿಲು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಚಿಕ್ಕ ಮನೆಗೆ ಚಿನ್ನದ ಬೀಗ
+Original Answer: ಮೂಗುತಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಗಿಡ ಕೊಡಲಾರದು, ಮರ ಬೆಳೆಸಲಾರದು ಅದಿಲ್ಲದೆ ಊಟ ಸೇರಲಾರದು
+Original Answer: ಉಪ್ಪು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಲಟಪಟ ಲೇಡಿಗೆ ಒಂದೇ ಕಣ್ಣು
+Original Answer: ಸೂಜಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಮುಳ್ಳುಗಳಿವೆ ಅಪಾಯವಿಲ್ಲ, ಸಂಖ್ಯೆಗಳಿವೆ ಲೆಕ್ಕದ ಪುಸ್ತಕವಲ್ಲ, ಗಂಟೆ ಹೊಡೆಯುತ್ತದೆ, ದೇವಾಲಯವಲ್ಲ.
+Original Answer: ಗಡಿಯಾರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯಲ್ಲಿ ಟೋಪಿ ಹಾಕಿರುತ್ತೆ.
+Original Answer: ಬದನೆಕಾಯಿ.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಸಾಗರ ಪುತ್ರ, ಸಾರಿನ ಮಿತ್ರ.
+Original Answer: ಉಪ್ಪು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಎರಡು ಗವಿಗಳಿಗೆ ಒಂದೇ ಗೋಡೆ
+Original Answer: ಮೂಗು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕಣ್ಣಿಲ್ಲ, ಕಾಲಿಲ್ಲ,ಆದರು ಚಲಿಸುತಿದೆ ಯಾವುದು ಎಲ್ಲಿದೆ ಬಲ್ಲಿದನ ಹೇಳಿರಲ.
+Original Answer: ನದಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಚಿಕ್ಕಕ್ಕನಿಗೆ ಪುಕ್ಕುದ್ದ
+Original Answer: ಸೌಟು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಎಲ್ಲರ ಮನೆ ಅಜ್ಜಿಗೆ ಮೈಯೆಲ್ಲಾ ಕಜ್ಜಿ
+Original Answer: ಜರಡಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹಲ್ಲು ಹಾಕಿದರೆ ಹಾಲು ಕೆಡೋಲ್ಲ ಕಲ್ಲು ಹಾಕಿದರೆ ಕೆಡುತ್ತೇ
+Original Answer: ಕಳ್ಳಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕಲ್ಲಿಲ್ಲದ ಬೆಟ್ಟ ಮರಳಿಲ್ಲದ ಮರುಭೂಮಿ
+Original Answer: ಭೂಪಟ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಒಂದು ಹಣ್ಣಿಗೆ ಹನ್ನೆರಡು ತೊಳೆ ಮತ್ತೂ ಮೂವತ್ತು ಬೀಜ
+Original Answer: ವರ್ಷ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಕ್ಕನ ಮೇಲೆ ಛತ್ರಿ
+Original Answer: ರೆಪ್ಪೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಬ್ಬಬ್ಬ ಹಬ್ಬ ಬಂತು, ಸಿಹಿಕಹಿ ಎರಡೂ ತಂತು.
+Original Answer: ಯುಗಾದಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹೋದ ನೆಂಟ, ಬಂದ ದಾರಿ ಗೊತ್ತಿಲ್ಲ
+Original Answer: ನೆರಳು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಗುಂಡಾಕಾರ ಮೈಯೆಲ್ಲಾ ತೂತು
+Original Answer: ದೋಸೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಜ್ಜಿಯ ಸೀರೆ ಮಡಚೋಕೆ ಆಗಲ್ಲ, ಅಜ್ಜನ ರೊಕ್ಕ ಎಣಿಸೋಕೆ ಆಗಲ್ಲ
+Original Answer: ಮೋಡ, ನಕ್ಷತ್ರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ನೀಲಿ ಸಾಗರದಲ್ಲಿ ಬೆಳ್ಳನೆ ಮೀನುಗಳು ನಾನ್ಯಾರು?
+Original Answer: ತಾರೆಗಳು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಮರದೊಳಗೆ ಮರ ಹುಟ್ಟಿ ಮರ ಚಕ್ರ ಕಾಯಾಗಿ ತಿನ್ನಬಾರದ ಹಣ್ಣು ಬಲು ರುಚಿ
+Original Answer: ಮನುಷ್ಯನ ಹುಟ್ಟು ಮಗು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕೈಲಿದ್ದಾಗ ಗುದಿಸಾಡುತ್ತೇನೆ, ಕೈ ಬಿಟ್ಟಾಗ ಗೊರಕೆ ಒಡೆಯುತ್ತೇನೆ
+Original Answer: ಕಸಪೊರಕೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಪ್ಪ ಆಕಾಶಕ್ಕೆ ಅವ್ವ ಪಾತಾಳಕ್ಕೆ ಮಗ ವ್ಯಾಪಾರಕ್ಕೆ ಮಗಳು ಮದುವೆಗೆ
+Original Answer: ಅಡಿಕೆ ಮರ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಹೊಕ್ಕಿದ್ದು ಒಂದಾಗಿ ಹೊರಟಿದ್ದು ಅದು ನೂರಾಗಿ
+Original Answer: ಶ್ಯಾವಿಗೆ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಚಿಣಿಮಿನಿ ಎನ್ನುವ ಕೆರೆ, ಚಿಂತಾಮಣಿ ಎನ್ನುವ ಹಕ್ಕಿ, ಕೆರೆ ಬತ್ತಿದರೆ ಹಕ್ಕಿಗೆ ಮರಣ
+Original Answer: ದೀಪ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಅಂಗಡಿಯಿಂದ ತರೋದು ಮುಂದಿಟ್ಟುಕೊಂಡು ಅಳೋದು
+Original Answer: ಈರುಳ್ಳಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ನಾ ಇರುವಾಗ ಬರುತ್ತೆ, ನಾ ಹೋದ ಮೇಲೂ ಇರುತ್ತೆ
+Original Answer: ಕೀರ್ತಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಗೂಡ್ನಲ್ಲಿರೋ ಜೋಡಿ ಪಕ್ಷಿ ಊರೆಲ್ಲ ನೋಡುತ್ತೆ
+Original Answer: ಕಣ್ಣು
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಲಟಪಟ ಲೇಡಿಗೆ ಒಂದೇ ಕಣ್ಣು
+Original Answer: ಸೂಜಿ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Kannada:
+You are an expert in creating riddles in Kannada. Your task is to perform context reconstruction for a given riddle.
+First, carefully analyze the provided 'Original Riddle' and 'Original Answer' to deeply understand its core reasoning pattern or logical structure. Consider what makes the riddle work – for example, does it describe an object using contradictory or unexpected characteristics?
+
+Then, generate a 'New Riddle' that:
+1.  Is in a completely different context (different subject or theme).
+2.  Precisely mirrors the *same identified reasoning pattern or logical structure* of the original.
+Write 5 new riddles
+Provide the 'New Riddle' and its corresponding 'New Answer'. (provide only question and its answer)
+
+Original Riddle: ಕುತ್ತಿಗೆ ಇದೆ ತಲೆ ಇಲ್ಲ, ತೋಳಿದೆ ಬೆರಳಿಲ್ಲ, ದಡಾ ಇದೆ, ಕಾಲಿಲ್ಲ.
+Original Answer: ಅಂಗಿ.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]

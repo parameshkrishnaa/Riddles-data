@@ -1,0 +1,2116 @@
+{
+  "riddles": [
+    {
+      "original_riddle": "మొగ్గ కాని మొగ్గ, ఏమి మొగ్గ?",
+      "original_answer": "లవంగ మొగ్గ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene10_1",
+          "new_answer": "GenAn10_1"
+        },
+        {
+          "new_riddle": "Gene10_2",
+          "new_answer": "GenAn10_2"
+        },
+        {
+          "new_riddle": "Gene10_3",
+          "new_answer": "GenAn10_3"
+        },
+        {
+          "new_riddle": "Gene10_4",
+          "new_answer": "GenAn10_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఒకరు పొడుస్తారు, ఒకరు విడుస్తారు?",
+      "original_answer": "పొడుపు కథ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene85_1",
+          "new_answer": "GenAn85_1"
+        },
+        {
+          "new_riddle": "Gene85_2",
+          "new_answer": "GenAn85_2"
+        },
+        {
+          "new_riddle": "Gene85_3",
+          "new_answer": "GenAn85_3"
+        },
+        {
+          "new_riddle": "Gene85_4",
+          "new_answer": "GenAn85_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కడుపు లోన పిల్లలు, కంఠము లోన నిప్పులు! అరుపేమో ఉరుము, ఎరుపంటే భయము!!?",
+      "original_answer": "రైలు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene96_1",
+          "new_answer": "GenAn96_1"
+        },
+        {
+          "new_riddle": "Gene96_2",
+          "new_answer": "GenAn96_2"
+        },
+        {
+          "new_riddle": "Gene96_3",
+          "new_answer": "GenAn96_3"
+        },
+        {
+          "new_riddle": "Gene96_4",
+          "new_answer": "GenAn96_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "సన్నని స్తంభం, ఎక్కలేరు, దిగలేరు?",
+      "original_answer": "సూది",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene115_1",
+          "new_answer": "GenAn115_1"
+        },
+        {
+          "new_riddle": "Gene115_2",
+          "new_answer": "GenAn115_2"
+        },
+        {
+          "new_riddle": "Gene115_3",
+          "new_answer": "GenAn115_3"
+        },
+        {
+          "new_riddle": "Gene115_4",
+          "new_answer": "GenAn115_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కిరీటము ఉంటుంది కాని రాజును కాదు, నాట్యము చేస్తాను కాని మయూరిని కాదు?",
+      "original_answer": "నాగుపాము",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene93_1",
+          "new_answer": "GenAn93_1"
+        },
+        {
+          "new_riddle": "Gene93_2",
+          "new_answer": "GenAn93_2"
+        },
+        {
+          "new_riddle": "Gene93_3",
+          "new_answer": "GenAn93_3"
+        },
+        {
+          "new_riddle": "Gene93_4",
+          "new_answer": "GenAn93_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "తోలు న‌లుపు, తింటే పులుపు, ఏంటో అది?",
+      "original_answer": "చింత‌పండు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene31_1",
+          "new_answer": "GenAn31_1"
+        },
+        {
+          "new_riddle": "Gene31_2",
+          "new_answer": "GenAn31_2"
+        },
+        {
+          "new_riddle": "Gene31_3",
+          "new_answer": "GenAn31_3"
+        },
+        {
+          "new_riddle": "Gene31_4",
+          "new_answer": "GenAn31_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కాటుక రంగు, కమలము హంగు! విప్పిన పొంగు, ముడిచిన క్రుంగు!!?",
+      "original_answer": "గొడుగు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene94_1",
+          "new_answer": "GenAn94_1"
+        },
+        {
+          "new_riddle": "Gene94_2",
+          "new_answer": "GenAn94_2"
+        },
+        {
+          "new_riddle": "Gene94_3",
+          "new_answer": "GenAn94_3"
+        },
+        {
+          "new_riddle": "Gene94_4",
+          "new_answer": "GenAn94_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కాయలు కాని కాయలు, ఏమి కాయలు?",
+      "original_answer": "మొట్టి కాయలు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene88_1",
+          "new_answer": "GenAn88_1"
+        },
+        {
+          "new_riddle": "Gene88_2",
+          "new_answer": "GenAn88_2"
+        },
+        {
+          "new_riddle": "Gene88_3",
+          "new_answer": "GenAn88_3"
+        },
+        {
+          "new_riddle": "Gene88_4",
+          "new_answer": "GenAn88_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కార్డు కాని కార్డు, ఏమి కార్డు?",
+      "original_answer": "రికార్డు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene97_1",
+          "new_answer": "GenAn97_1"
+        },
+        {
+          "new_riddle": "Gene97_2",
+          "new_answer": "GenAn97_2"
+        },
+        {
+          "new_riddle": "Gene97_3",
+          "new_answer": "GenAn97_3"
+        },
+        {
+          "new_riddle": "Gene97_4",
+          "new_answer": "GenAn97_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "చింపిరి గుడ్డలు! బంగారం లాంటి బిడ్డలు!!",
+      "original_answer": "మొక్క జొన్న",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene110_1",
+          "new_answer": "GenAn110_1"
+        },
+        {
+          "new_riddle": "Gene110_2",
+          "new_answer": "GenAn110_2"
+        },
+        {
+          "new_riddle": "Gene110_3",
+          "new_answer": "GenAn110_3"
+        },
+        {
+          "new_riddle": "Gene110_4",
+          "new_answer": "GenAn110_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "పొంగ బోడ‌ది రాంగ జుట్టుది ఏంట‌ది?",
+      "original_answer": "పేలాలు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene48_1",
+          "new_answer": "GenAn48_1"
+        },
+        {
+          "new_riddle": "Gene48_2",
+          "new_answer": "GenAn48_2"
+        },
+        {
+          "new_riddle": "Gene48_3",
+          "new_answer": "GenAn48_3"
+        },
+        {
+          "new_riddle": "Gene48_4",
+          "new_answer": "GenAn48_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఎముకలు లేని జీవము, ఏటికి పోయింది?",
+      "original_answer": "జలగ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene80_1",
+          "new_answer": "GenAn80_1"
+        },
+        {
+          "new_riddle": "Gene80_2",
+          "new_answer": "GenAn80_2"
+        },
+        {
+          "new_riddle": "Gene80_3",
+          "new_answer": "GenAn80_3"
+        },
+        {
+          "new_riddle": "Gene80_4",
+          "new_answer": "GenAn80_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అందరికి చెప్పి వొచ్చేది, చెప్పకుండా వెళ్ళేది?",
+      "original_answer": "ప్రాణం",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene89_1",
+          "new_answer": "GenAn89_1"
+        },
+        {
+          "new_riddle": "Gene89_2",
+          "new_answer": "GenAn89_2"
+        },
+        {
+          "new_riddle": "Gene89_3",
+          "new_answer": "GenAn89_3"
+        },
+        {
+          "new_riddle": "Gene89_4",
+          "new_answer": "GenAn89_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "స‌న్న‌టి స్థంభం, ఎవ్వ‌రూ ఎక్క‌లేరు, దిగ‌లేరు ఏంట‌ది?",
+      "original_answer": "సూది",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene33_1",
+          "new_answer": "GenAn33_1"
+        },
+        {
+          "new_riddle": "Gene33_2",
+          "new_answer": "GenAn33_2"
+        },
+        {
+          "new_riddle": "Gene33_3",
+          "new_answer": "GenAn33_3"
+        },
+        {
+          "new_riddle": "Gene33_4",
+          "new_answer": "GenAn33_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "రాజాధి రాజులు కూడా ఒకరిముందు తల వంచుకుంటారు?",
+      "original_answer": "మంగలి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene17_1",
+          "new_answer": "GenAn17_1"
+        },
+        {
+          "new_riddle": "Gene17_2",
+          "new_answer": "GenAn17_2"
+        },
+        {
+          "new_riddle": "Gene17_3",
+          "new_answer": "GenAn17_3"
+        },
+        {
+          "new_riddle": "Gene17_4",
+          "new_answer": "GenAn17_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఇళ్ళు లేని పట్నాలు, నీళ్లు లేని సముద్రాలు ఎక్కడ ఉంటాయి?",
+      "original_answer": "మ్యాపులో",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene63_1",
+          "new_answer": "GenAn63_1"
+        },
+        {
+          "new_riddle": "Gene63_2",
+          "new_answer": "GenAn63_2"
+        },
+        {
+          "new_riddle": "Gene63_3",
+          "new_answer": "GenAn63_3"
+        },
+        {
+          "new_riddle": "Gene63_4",
+          "new_answer": "GenAn63_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఒకటి పట్టుకుంటే రెండు ఊగుతాయి?",
+      "original_answer": "తక్కెడ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene83_1",
+          "new_answer": "GenAn83_1"
+        },
+        {
+          "new_riddle": "Gene83_2",
+          "new_answer": "GenAn83_2"
+        },
+        {
+          "new_riddle": "Gene83_3",
+          "new_answer": "GenAn83_3"
+        },
+        {
+          "new_riddle": "Gene83_4",
+          "new_answer": "GenAn83_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కాయ, పువ్వు లేని పంట?",
+      "original_answer": "ఉప్పు పంట",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene98_1",
+          "new_answer": "GenAn98_1"
+        },
+        {
+          "new_riddle": "Gene98_2",
+          "new_answer": "GenAn98_2"
+        },
+        {
+          "new_riddle": "Gene98_3",
+          "new_answer": "GenAn98_3"
+        },
+        {
+          "new_riddle": "Gene98_4",
+          "new_answer": "GenAn98_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అందరూ నన్ను పట్టుకుంటారు కాని నేనే ఎవరిని పట్టుకొను, అందరూ నాతో మాట్లాడతారు కాని నేనే ఎవరితో మాట్లాడను?",
+      "original_answer": "టెలిఫోన్",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene52_1",
+          "new_answer": "GenAn52_1"
+        },
+        {
+          "new_riddle": "Gene52_2",
+          "new_answer": "GenAn52_2"
+        },
+        {
+          "new_riddle": "Gene52_3",
+          "new_answer": "GenAn52_3"
+        },
+        {
+          "new_riddle": "Gene52_4",
+          "new_answer": "GenAn52_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఇవ్వకుండా తీసుకో లేనిది! తీసుకోకుండా ఇవ్వ లేనిది!!?",
+      "original_answer": "ముద్దు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene69_1",
+          "new_answer": "GenAn69_1"
+        },
+        {
+          "new_riddle": "Gene69_2",
+          "new_answer": "GenAn69_2"
+        },
+        {
+          "new_riddle": "Gene69_3",
+          "new_answer": "GenAn69_3"
+        },
+        {
+          "new_riddle": "Gene69_4",
+          "new_answer": "GenAn69_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "మేకల్ని తోలేసి తడకలకి పాలు పిండుతారు?",
+      "original_answer": "తేనె పట్టు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene9_1",
+          "new_answer": "GenAn9_1"
+        },
+        {
+          "new_riddle": "Gene9_2",
+          "new_answer": "GenAn9_2"
+        },
+        {
+          "new_riddle": "Gene9_3",
+          "new_answer": "GenAn9_3"
+        },
+        {
+          "new_riddle": "Gene9_4",
+          "new_answer": "GenAn9_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఇల్లంతా తిరిగి మూలకు కూర్చుంటుంది?",
+      "original_answer": "చీపురు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene62_1",
+          "new_answer": "GenAn62_1"
+        },
+        {
+          "new_riddle": "Gene62_2",
+          "new_answer": "GenAn62_2"
+        },
+        {
+          "new_riddle": "Gene62_3",
+          "new_answer": "GenAn62_3"
+        },
+        {
+          "new_riddle": "Gene62_4",
+          "new_answer": "GenAn62_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కలి కాని కలి, ఏమి కలి?",
+      "original_answer": "చాకలి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene99_1",
+          "new_answer": "GenAn99_1"
+        },
+        {
+          "new_riddle": "Gene99_2",
+          "new_answer": "GenAn99_2"
+        },
+        {
+          "new_riddle": "Gene99_3",
+          "new_answer": "GenAn99_3"
+        },
+        {
+          "new_riddle": "Gene99_4",
+          "new_answer": "GenAn99_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "చీకటి ఇంటిలో జడల దయ్యము?",
+      "original_answer": "ఉట్టి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene109_1",
+          "new_answer": "GenAn109_1"
+        },
+        {
+          "new_riddle": "Gene109_2",
+          "new_answer": "GenAn109_2"
+        },
+        {
+          "new_riddle": "Gene109_3",
+          "new_answer": "GenAn109_3"
+        },
+        {
+          "new_riddle": "Gene109_4",
+          "new_answer": "GenAn109_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "మూత తెరిస్తే, ముత్యాల పేరు?",
+      "original_answer": "దంతాలు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene8_1",
+          "new_answer": "GenAn8_1"
+        },
+        {
+          "new_riddle": "Gene8_2",
+          "new_answer": "GenAn8_2"
+        },
+        {
+          "new_riddle": "Gene8_3",
+          "new_answer": "GenAn8_3"
+        },
+        {
+          "new_riddle": "Gene8_4",
+          "new_answer": "GenAn8_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "జాన కాని జాన, ఏమి జాన?",
+      "original_answer": "ఖజాన",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene2_1",
+          "new_answer": "GenAn2_1"
+        },
+        {
+          "new_riddle": "Gene2_2",
+          "new_answer": "GenAn2_2"
+        },
+        {
+          "new_riddle": "Gene2_3",
+          "new_answer": "GenAn2_3"
+        },
+        {
+          "new_riddle": "Gene2_4",
+          "new_answer": "GenAn2_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఎనమిది ఎముకలు! తట్టెడు ప్రేగులు!!?",
+      "original_answer": "మంచము",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene79_1",
+          "new_answer": "GenAn79_1"
+        },
+        {
+          "new_riddle": "Gene79_2",
+          "new_answer": "GenAn79_2"
+        },
+        {
+          "new_riddle": "Gene79_3",
+          "new_answer": "GenAn79_3"
+        },
+        {
+          "new_riddle": "Gene79_4",
+          "new_answer": "GenAn79_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఈగ ముసరని పండు! ఇంటిలో నుండు!!?",
+      "original_answer": "నిప్పు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene71_1",
+          "new_answer": "GenAn71_1"
+        },
+        {
+          "new_riddle": "Gene71_2",
+          "new_answer": "GenAn71_2"
+        },
+        {
+          "new_riddle": "Gene71_3",
+          "new_answer": "GenAn71_3"
+        },
+        {
+          "new_riddle": "Gene71_4",
+          "new_answer": "GenAn71_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "వీధిరాజుకు కొప్పుది కానీ జుట్టు లేదు, క‌ళ్ళున్నాయి కానీ చూపులేదు ఏంట‌ది?",
+      "original_answer": "కొబ్బ‌రికాయ‌",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene27_1",
+          "new_answer": "GenAn27_1"
+        },
+        {
+          "new_riddle": "Gene27_2",
+          "new_answer": "GenAn27_2"
+        },
+        {
+          "new_riddle": "Gene27_3",
+          "new_answer": "GenAn27_3"
+        },
+        {
+          "new_riddle": "Gene27_4",
+          "new_answer": "GenAn27_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఏది పెడితే అరిగి పోతుంది?, ఏది పెడితే కలకాలం ఉంటుంది?",
+      "original_answer": "అన్నము, వాత",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene81_1",
+          "new_answer": "GenAn81_1"
+        },
+        {
+          "new_riddle": "Gene81_2",
+          "new_answer": "GenAn81_2"
+        },
+        {
+          "new_riddle": "Gene81_3",
+          "new_answer": "GenAn81_3"
+        },
+        {
+          "new_riddle": "Gene81_4",
+          "new_answer": "GenAn81_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కడుపు నిండా రాగాలు, వంటి నిండా గాయాలు?",
+      "original_answer": "మురళి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene22_1",
+          "new_answer": "GenAn22_1"
+        },
+        {
+          "new_riddle": "Gene22_2",
+          "new_answer": "GenAn22_2"
+        },
+        {
+          "new_riddle": "Gene22_3",
+          "new_answer": "GenAn22_3"
+        },
+        {
+          "new_riddle": "Gene22_4",
+          "new_answer": "GenAn22_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "గీత కాని గీత, ఏమి గీత?",
+      "original_answer": "భగవద్గీత",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene53_1",
+          "new_answer": "GenAn53_1"
+        },
+        {
+          "new_riddle": "Gene53_2",
+          "new_answer": "GenAn53_2"
+        },
+        {
+          "new_riddle": "Gene53_3",
+          "new_answer": "GenAn53_3"
+        },
+        {
+          "new_riddle": "Gene53_4",
+          "new_answer": "GenAn53_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఈ ప్ర‌పంచ‌లోని వారంద‌రూ నా బిడ్డ‌లే కాని అమ్మా! అని న‌న్నెవ‌రు పిల‌వ‌రు ఏం చేయాల‌న్నా ఏమి పొందాల‌న్నా నాలోనే ఎటూ పోవాల‌న్నా ఎక్క‌డికి వెళ్లాల‌న్నా నా మీదే..నేనెవ‌ర్ని?",
+      "original_answer": "భూమి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene42_1",
+          "new_answer": "GenAn42_1"
+        },
+        {
+          "new_riddle": "Gene42_2",
+          "new_answer": "GenAn42_2"
+        },
+        {
+          "new_riddle": "Gene42_3",
+          "new_answer": "GenAn42_3"
+        },
+        {
+          "new_riddle": "Gene42_4",
+          "new_answer": "GenAn42_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అది లేకపోతే ఎవ్వరూ ఏమీ తినరు?",
+      "original_answer": "ఆకలి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene51_1",
+          "new_answer": "GenAn51_1"
+        },
+        {
+          "new_riddle": "Gene51_2",
+          "new_answer": "GenAn51_2"
+        },
+        {
+          "new_riddle": "Gene51_3",
+          "new_answer": "GenAn51_3"
+        },
+        {
+          "new_riddle": "Gene51_4",
+          "new_answer": "GenAn51_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఇద్దరు అక్క చెల్లెల్లు, ప్రపంచం మొత్తం తిరిగి చూసినా, ఒకరినొకరు చూసుకోరు?",
+      "original_answer": "కళ్ళు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene67_1",
+          "new_answer": "GenAn67_1"
+        },
+        {
+          "new_riddle": "Gene67_2",
+          "new_answer": "GenAn67_2"
+        },
+        {
+          "new_riddle": "Gene67_3",
+          "new_answer": "GenAn67_3"
+        },
+        {
+          "new_riddle": "Gene67_4",
+          "new_answer": "GenAn67_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "చెట్టుకు కాయ‌ని కాయ కర‌క‌ర‌లాడే కాయ‌? ఏంట‌ది?",
+      "original_answer": "క‌జ్జికాయ‌",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene40_1",
+          "new_answer": "GenAn40_1"
+        },
+        {
+          "new_riddle": "Gene40_2",
+          "new_answer": "GenAn40_2"
+        },
+        {
+          "new_riddle": "Gene40_3",
+          "new_answer": "GenAn40_3"
+        },
+        {
+          "new_riddle": "Gene40_4",
+          "new_answer": "GenAn40_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఇల్లు మొత్తం వెలుగు, బల్ల కింద చీకటి?",
+      "original_answer": "దీపం",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene68_1",
+          "new_answer": "GenAn68_1"
+        },
+        {
+          "new_riddle": "Gene68_2",
+          "new_answer": "GenAn68_2"
+        },
+        {
+          "new_riddle": "Gene68_3",
+          "new_answer": "GenAn68_3"
+        },
+        {
+          "new_riddle": "Gene68_4",
+          "new_answer": "GenAn68_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఇంట్లో మొగ్గ బ‌య‌ట‌కొస్తే పువ్వు?",
+      "original_answer": "గొడుగు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene35_1",
+          "new_answer": "GenAn35_1"
+        },
+        {
+          "new_riddle": "Gene35_2",
+          "new_answer": "GenAn35_2"
+        },
+        {
+          "new_riddle": "Gene35_3",
+          "new_answer": "GenAn35_3"
+        },
+        {
+          "new_riddle": "Gene35_4",
+          "new_answer": "GenAn35_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఆడవారు తక్కువగా మాట్లాడే నెల?",
+      "original_answer": "ఫిబ్రవరి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene61_1",
+          "new_answer": "GenAn61_1"
+        },
+        {
+          "new_riddle": "Gene61_2",
+          "new_answer": "GenAn61_2"
+        },
+        {
+          "new_riddle": "Gene61_3",
+          "new_answer": "GenAn61_3"
+        },
+        {
+          "new_riddle": "Gene61_4",
+          "new_answer": "GenAn61_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "నాలుగు క‌ర్ర‌ల మ‌ద్య న‌ల్ల‌రాయి? ఏంట‌ది?",
+      "original_answer": "ప‌ల‌క‌",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene39_1",
+          "new_answer": "GenAn39_1"
+        },
+        {
+          "new_riddle": "Gene39_2",
+          "new_answer": "GenAn39_2"
+        },
+        {
+          "new_riddle": "Gene39_3",
+          "new_answer": "GenAn39_3"
+        },
+        {
+          "new_riddle": "Gene39_4",
+          "new_answer": "GenAn39_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఆడదానికి పుట్టినింట ఒకటి, మెట్టినింట ఒకటి?",
+      "original_answer": "ఇంటి పేరు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene60_1",
+          "new_answer": "GenAn60_1"
+        },
+        {
+          "new_riddle": "Gene60_2",
+          "new_answer": "GenAn60_2"
+        },
+        {
+          "new_riddle": "Gene60_3",
+          "new_answer": "GenAn60_3"
+        },
+        {
+          "new_riddle": "Gene60_4",
+          "new_answer": "GenAn60_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అడవిలో చిన్న గని, గనికి చాలా గదులు, గదికొక్క సిపాయి, సిపాయికొక్క తుపాకి?",
+      "original_answer": "తేనే పట్టు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene56_1",
+          "new_answer": "GenAn56_1"
+        },
+        {
+          "new_riddle": "Gene56_2",
+          "new_answer": "GenAn56_2"
+        },
+        {
+          "new_riddle": "Gene56_3",
+          "new_answer": "GenAn56_3"
+        },
+        {
+          "new_riddle": "Gene56_4",
+          "new_answer": "GenAn56_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఎర్రగా ఉంటాను కాని నేనెవరితో సరసాలాడను, నన్ను ముట్టుకుంటే ఊరుకోను.",
+      "original_answer": "నిప్పు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene77_1",
+          "new_answer": "GenAn77_1"
+        },
+        {
+          "new_riddle": "Gene77_2",
+          "new_answer": "GenAn77_2"
+        },
+        {
+          "new_riddle": "Gene77_3",
+          "new_answer": "GenAn77_3"
+        },
+        {
+          "new_riddle": "Gene77_4",
+          "new_answer": "GenAn77_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఇష్టంగా తెచ్చుకుంటారు, చంపి ఏడుస్తారు?",
+      "original_answer": "ఉల్లి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene23_1",
+          "new_answer": "GenAn23_1"
+        },
+        {
+          "new_riddle": "Gene23_2",
+          "new_answer": "GenAn23_2"
+        },
+        {
+          "new_riddle": "Gene23_3",
+          "new_answer": "GenAn23_3"
+        },
+        {
+          "new_riddle": "Gene23_4",
+          "new_answer": "GenAn23_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఇంటిలో ఉంటే ప్రమోదము, ఒంటిలో ఉంటే ప్రమాదము?",
+      "original_answer": "పంచదార",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene64_1",
+          "new_answer": "GenAn64_1"
+        },
+        {
+          "new_riddle": "Gene64_2",
+          "new_answer": "GenAn64_2"
+        },
+        {
+          "new_riddle": "Gene64_3",
+          "new_answer": "GenAn64_3"
+        },
+        {
+          "new_riddle": "Gene64_4",
+          "new_answer": "GenAn64_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అన్నదమ్ములు ఇద్దరు, ఒకరంటే మరొకరికి పడదు, ఎప్పుడూ కొట్టుకుంటూనే ఉంటారు. వారి మధ్యకు ఎవరైనా వొస్తే పచ్చడి పచ్చడే?",
+      "original_answer": "ఇసుర్రాయి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene66_1",
+          "new_answer": "GenAn66_1"
+        },
+        {
+          "new_riddle": "Gene66_2",
+          "new_answer": "GenAn66_2"
+        },
+        {
+          "new_riddle": "Gene66_3",
+          "new_answer": "GenAn66_3"
+        },
+        {
+          "new_riddle": "Gene66_4",
+          "new_answer": "GenAn66_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "సముద్రంలో పుట్టిపెరిగి ఊరిలో అరుస్తుంది, ఏమిటది?",
+      "original_answer": "శంఖం",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene24_1",
+          "new_answer": "GenAn24_1"
+        },
+        {
+          "new_riddle": "Gene24_2",
+          "new_answer": "GenAn24_2"
+        },
+        {
+          "new_riddle": "Gene24_3",
+          "new_answer": "GenAn24_3"
+        },
+        {
+          "new_riddle": "Gene24_4",
+          "new_answer": "GenAn24_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అడ‌విలో పుట్టాను అడ‌విలో పెరిగాను వంటినిండా గాయాలు క‌డుపునిండా రాగాలు",
+      "original_answer": "ముర‌ళి – ఫ్లూట్‌",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene41_1",
+          "new_answer": "GenAn41_1"
+        },
+        {
+          "new_riddle": "Gene41_2",
+          "new_answer": "GenAn41_2"
+        },
+        {
+          "new_riddle": "Gene41_3",
+          "new_answer": "GenAn41_3"
+        },
+        {
+          "new_riddle": "Gene41_4",
+          "new_answer": "GenAn41_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కోడి కాని కోడి, ఏమి కోడి?",
+      "original_answer": "చకోడి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene100_1",
+          "new_answer": "GenAn100_1"
+        },
+        {
+          "new_riddle": "Gene100_2",
+          "new_answer": "GenAn100_2"
+        },
+        {
+          "new_riddle": "Gene100_3",
+          "new_answer": "GenAn100_3"
+        },
+        {
+          "new_riddle": "Gene100_4",
+          "new_answer": "GenAn100_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "చారల పాపకి దూది కుచ్చు!",
+      "original_answer": "ఉడుత",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene113_1",
+          "new_answer": "GenAn113_1"
+        },
+        {
+          "new_riddle": "Gene113_2",
+          "new_answer": "GenAn113_2"
+        },
+        {
+          "new_riddle": "Gene113_3",
+          "new_answer": "GenAn113_3"
+        },
+        {
+          "new_riddle": "Gene113_4",
+          "new_answer": "GenAn113_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "నీళ్లు నుంచి వ‌స్తుంది. నీకు నాకూ రుచిస్తుంది? ఇంత‌కీ ఏమిట‌ది?",
+      "original_answer": "పొట్ల‌కాయ‌లు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene25_1",
+          "new_answer": "GenAn25_1"
+        },
+        {
+          "new_riddle": "Gene25_2",
+          "new_answer": "GenAn25_2"
+        },
+        {
+          "new_riddle": "Gene25_3",
+          "new_answer": "GenAn25_3"
+        },
+        {
+          "new_riddle": "Gene25_4",
+          "new_answer": "GenAn25_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "పొద్దుటూరి చెట్లలో పొదిలింది చెళవాయి, చూసే వారే కాని పట్టే వారు లేరు?",
+      "original_answer": "సూర్యుడు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene7_1",
+          "new_answer": "GenAn7_1"
+        },
+        {
+          "new_riddle": "Gene7_2",
+          "new_answer": "GenAn7_2"
+        },
+        {
+          "new_riddle": "Gene7_3",
+          "new_answer": "GenAn7_3"
+        },
+        {
+          "new_riddle": "Gene7_4",
+          "new_answer": "GenAn7_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అన్నదమ్ములు ముగ్గురు, తిరిగితే ముగ్గురూ తిరుగుతారు, మానితే ముగ్గురూ మానుతారు?",
+      "original_answer": "ఫ్యాన్",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene57_1",
+          "new_answer": "GenAn57_1"
+        },
+        {
+          "new_riddle": "Gene57_2",
+          "new_answer": "GenAn57_2"
+        },
+        {
+          "new_riddle": "Gene57_3",
+          "new_answer": "GenAn57_3"
+        },
+        {
+          "new_riddle": "Gene57_4",
+          "new_answer": "GenAn57_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కీచు కీచు పిట్ట! నేలకేసి కొట్ట!!",
+      "original_answer": "చీమిడి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene91_1",
+          "new_answer": "GenAn91_1"
+        },
+        {
+          "new_riddle": "Gene91_2",
+          "new_answer": "GenAn91_2"
+        },
+        {
+          "new_riddle": "Gene91_3",
+          "new_answer": "GenAn91_3"
+        },
+        {
+          "new_riddle": "Gene91_4",
+          "new_answer": "GenAn91_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "రెండు కొడతాయి, ఒకటి పెడుతుంది?",
+      "original_answer": "ఎండ, వాన, చలి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene19_1",
+          "new_answer": "GenAn19_1"
+        },
+        {
+          "new_riddle": "Gene19_2",
+          "new_answer": "GenAn19_2"
+        },
+        {
+          "new_riddle": "Gene19_3",
+          "new_answer": "GenAn19_3"
+        },
+        {
+          "new_riddle": "Gene19_4",
+          "new_answer": "GenAn19_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "గారు కాని గారు, ఏమిగారు?",
+      "original_answer": "కంగారు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene50_1",
+          "new_answer": "GenAn50_1"
+        },
+        {
+          "new_riddle": "Gene50_2",
+          "new_answer": "GenAn50_2"
+        },
+        {
+          "new_riddle": "Gene50_3",
+          "new_answer": "GenAn50_3"
+        },
+        {
+          "new_riddle": "Gene50_4",
+          "new_answer": "GenAn50_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఇంట్లో మొగ్గ, వీధిలో పువ్వు?",
+      "original_answer": "గొడుగు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene119_1",
+          "new_answer": "GenAn119_1"
+        },
+        {
+          "new_riddle": "Gene119_2",
+          "new_answer": "GenAn119_2"
+        },
+        {
+          "new_riddle": "Gene119_3",
+          "new_answer": "GenAn119_3"
+        },
+        {
+          "new_riddle": "Gene119_4",
+          "new_answer": "GenAn119_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "తెల్ల‌టి శ‌న‌గ‌ల‌లో ఒక‌టేరాయి, చేతితో చ‌ల్ల‌డం నోటితో ఏరుకోవ‌డం ఏంట‌ది?",
+      "original_answer": "పుస్త‌కం",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene43_1",
+          "new_answer": "GenAn43_1"
+        },
+        {
+          "new_riddle": "Gene43_2",
+          "new_answer": "GenAn43_2"
+        },
+        {
+          "new_riddle": "Gene43_3",
+          "new_answer": "GenAn43_3"
+        },
+        {
+          "new_riddle": "Gene43_4",
+          "new_answer": "GenAn43_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "తెలిసేలా పూస్తుంది, తెలియకుండా కాస్తుంది?",
+      "original_answer": "వేరుశెనగ కాయ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene3_1",
+          "new_answer": "GenAn3_1"
+        },
+        {
+          "new_riddle": "Gene3_2",
+          "new_answer": "GenAn3_2"
+        },
+        {
+          "new_riddle": "Gene3_3",
+          "new_answer": "GenAn3_3"
+        },
+        {
+          "new_riddle": "Gene3_4",
+          "new_answer": "GenAn3_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కర్రలతో అతి చిన్న కర్ర?",
+      "original_answer": "జీలకర్ర",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene104_1",
+          "new_answer": "GenAn104_1"
+        },
+        {
+          "new_riddle": "Gene104_2",
+          "new_answer": "GenAn104_2"
+        },
+        {
+          "new_riddle": "Gene104_3",
+          "new_answer": "GenAn104_3"
+        },
+        {
+          "new_riddle": "Gene104_4",
+          "new_answer": "GenAn104_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఊరంతా కదిలిన, ఊరగాయ కుండ కదలదు?",
+      "original_answer": "బావి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene73_1",
+          "new_answer": "GenAn73_1"
+        },
+        {
+          "new_riddle": "Gene73_2",
+          "new_answer": "GenAn73_2"
+        },
+        {
+          "new_riddle": "Gene73_3",
+          "new_answer": "GenAn73_3"
+        },
+        {
+          "new_riddle": "Gene73_4",
+          "new_answer": "GenAn73_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఉరికంత ఒక్కటే దుప్పటి?",
+      "original_answer": "ఆకాశము",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene74_1",
+          "new_answer": "GenAn74_1"
+        },
+        {
+          "new_riddle": "Gene74_2",
+          "new_answer": "GenAn74_2"
+        },
+        {
+          "new_riddle": "Gene74_3",
+          "new_answer": "GenAn74_3"
+        },
+        {
+          "new_riddle": "Gene74_4",
+          "new_answer": "GenAn74_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "చ‌క్క‌న‌మ్మ చిక్కినా అందంగా ఉంటుంది? ఏంట‌ది?",
+      "original_answer": "స‌బ్బు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene37_1",
+          "new_answer": "GenAn37_1"
+        },
+        {
+          "new_riddle": "Gene37_2",
+          "new_answer": "GenAn37_2"
+        },
+        {
+          "new_riddle": "Gene37_3",
+          "new_answer": "GenAn37_3"
+        },
+        {
+          "new_riddle": "Gene37_4",
+          "new_answer": "GenAn37_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అడ‌విలో పుట్టింది అడ‌విలో పెరిగింది మా ఇంటికొచ్చింది తైత‌క్క లాడింది.",
+      "original_answer": "చిల్ల క‌వ్వ‌",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene47_1",
+          "new_answer": "GenAn47_1"
+        },
+        {
+          "new_riddle": "Gene47_2",
+          "new_answer": "GenAn47_2"
+        },
+        {
+          "new_riddle": "Gene47_3",
+          "new_answer": "GenAn47_3"
+        },
+        {
+          "new_riddle": "Gene47_4",
+          "new_answer": "GenAn47_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ప‌చ్చ‌ని పాముకు తెల్ల‌ని చార‌లు? ఏంట‌ది?",
+      "original_answer": "పొట్ల‌కాయ‌",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene38_1",
+          "new_answer": "GenAn38_1"
+        },
+        {
+          "new_riddle": "Gene38_2",
+          "new_answer": "GenAn38_2"
+        },
+        {
+          "new_riddle": "Gene38_3",
+          "new_answer": "GenAn38_3"
+        },
+        {
+          "new_riddle": "Gene38_4",
+          "new_answer": "GenAn38_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ముళ్ల కంచెలో మిఠాయి పొట్లం?",
+      "original_answer": "తేనె పట్టు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene11_1",
+          "new_answer": "GenAn11_1"
+        },
+        {
+          "new_riddle": "Gene11_2",
+          "new_answer": "GenAn11_2"
+        },
+        {
+          "new_riddle": "Gene11_3",
+          "new_answer": "GenAn11_3"
+        },
+        {
+          "new_riddle": "Gene11_4",
+          "new_answer": "GenAn11_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఎర్రనిచెట్టు! నీళ్లు పోస్తే చస్తుంది!!?",
+      "original_answer": "అగ్ని",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene75_1",
+          "new_answer": "GenAn75_1"
+        },
+        {
+          "new_riddle": "Gene75_2",
+          "new_answer": "GenAn75_2"
+        },
+        {
+          "new_riddle": "Gene75_3",
+          "new_answer": "GenAn75_3"
+        },
+        {
+          "new_riddle": "Gene75_4",
+          "new_answer": "GenAn75_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కొక లేదు, సీత కాదు! రామ చిలుక కానేకాదు!! అదేమిటి?",
+      "original_answer": "సీతాకోక చిలుక",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene16_1",
+          "new_answer": "GenAn16_1"
+        },
+        {
+          "new_riddle": "Gene16_2",
+          "new_answer": "GenAn16_2"
+        },
+        {
+          "new_riddle": "Gene16_3",
+          "new_answer": "GenAn16_3"
+        },
+        {
+          "new_riddle": "Gene16_4",
+          "new_answer": "GenAn16_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఆడవారికి ఉండనిది, మగవారికి ఉండేది?",
+      "original_answer": "మీసము",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene59_1",
+          "new_answer": "GenAn59_1"
+        },
+        {
+          "new_riddle": "Gene59_2",
+          "new_answer": "GenAn59_2"
+        },
+        {
+          "new_riddle": "Gene59_3",
+          "new_answer": "GenAn59_3"
+        },
+        {
+          "new_riddle": "Gene59_4",
+          "new_answer": "GenAn59_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "పెద్ద ఇంటిలో పొట్టివాన్ని నిలబెడితే నిండా నేనే?",
+      "original_answer": "దీపం",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene6_1",
+          "new_answer": "GenAn6_1"
+        },
+        {
+          "new_riddle": "Gene6_2",
+          "new_answer": "GenAn6_2"
+        },
+        {
+          "new_riddle": "Gene6_3",
+          "new_answer": "GenAn6_3"
+        },
+        {
+          "new_riddle": "Gene6_4",
+          "new_answer": "GenAn6_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అగ్గిపెట్టెలో ఇద్ద‌రు పోలీసులు ఏంట‌ది?",
+      "original_answer": "వేరుశ‌న‌గ కాయ‌",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene34_1",
+          "new_answer": "GenAn34_1"
+        },
+        {
+          "new_riddle": "Gene34_2",
+          "new_answer": "GenAn34_2"
+        },
+        {
+          "new_riddle": "Gene34_3",
+          "new_answer": "GenAn34_3"
+        },
+        {
+          "new_riddle": "Gene34_4",
+          "new_answer": "GenAn34_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "జీడివారి కోడ‌లు సిరిగ‌ల వారికి ఆడ‌ప‌డుచు వ‌య‌సులో కులికే వ‌య్యారి వైశాఖ‌మాసంలో వ‌స్తుంది.",
+      "original_answer": "మామిడి పండు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene45_1",
+          "new_answer": "GenAn45_1"
+        },
+        {
+          "new_riddle": "Gene45_2",
+          "new_answer": "GenAn45_2"
+        },
+        {
+          "new_riddle": "Gene45_3",
+          "new_answer": "GenAn45_3"
+        },
+        {
+          "new_riddle": "Gene45_4",
+          "new_answer": "GenAn45_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కిరు కిరు త‌లుపులు కిటారు త‌లుపులు వెయ్యంగ వెయ్య‌స్త‌వి గాని తియ్యంగా తియ్య‌రావు ఏంట‌వి?",
+      "original_answer": "ముగ్గు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene46_1",
+          "new_answer": "GenAn46_1"
+        },
+        {
+          "new_riddle": "Gene46_2",
+          "new_answer": "GenAn46_2"
+        },
+        {
+          "new_riddle": "Gene46_3",
+          "new_answer": "GenAn46_3"
+        },
+        {
+          "new_riddle": "Gene46_4",
+          "new_answer": "GenAn46_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "మొదట చప్పన, నడుమ పుల్లన, కొస కమ్మన?",
+      "original_answer": "పాలు, పెరుగు, నెయ్యి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene13_1",
+          "new_answer": "GenAn13_1"
+        },
+        {
+          "new_riddle": "Gene13_2",
+          "new_answer": "GenAn13_2"
+        },
+        {
+          "new_riddle": "Gene13_3",
+          "new_answer": "GenAn13_3"
+        },
+        {
+          "new_riddle": "Gene13_4",
+          "new_answer": "GenAn13_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "చీక‌టింట్లో జ‌డ‌ల ద‌య్యం ఏమిట‌ది?",
+      "original_answer": "ఉట్టి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene49_1",
+          "new_answer": "GenAn49_1"
+        },
+        {
+          "new_riddle": "Gene49_2",
+          "new_answer": "GenAn49_2"
+        },
+        {
+          "new_riddle": "Gene49_3",
+          "new_answer": "GenAn49_3"
+        },
+        {
+          "new_riddle": "Gene49_4",
+          "new_answer": "GenAn49_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అన్నింటికన్నా విలువైనది, అందరికి అవసరమైనది?",
+      "original_answer": "ప్రాణము",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene102_1",
+          "new_answer": "GenAn102_1"
+        },
+        {
+          "new_riddle": "Gene102_2",
+          "new_answer": "GenAn102_2"
+        },
+        {
+          "new_riddle": "Gene102_3",
+          "new_answer": "GenAn102_3"
+        },
+        {
+          "new_riddle": "Gene102_4",
+          "new_answer": "GenAn102_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "చిన్న చిట్టిలో కమ్మని కూర?",
+      "original_answer": "కిల్లీ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene111_1",
+          "new_answer": "GenAn111_1"
+        },
+        {
+          "new_riddle": "Gene111_2",
+          "new_answer": "GenAn111_2"
+        },
+        {
+          "new_riddle": "Gene111_3",
+          "new_answer": "GenAn111_3"
+        },
+        {
+          "new_riddle": "Gene111_4",
+          "new_answer": "GenAn111_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అడవిలో పుట్టాను, నల్లగా అయ్యాను, ఇంటికి వచ్చాను, ఎర్రగా మారాను, తొట్టిలో పడ్డాను తెల్లగా మారాను?",
+      "original_answer": "బొగ్గు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene120_1",
+          "new_answer": "GenAn120_1"
+        },
+        {
+          "new_riddle": "Gene120_2",
+          "new_answer": "GenAn120_2"
+        },
+        {
+          "new_riddle": "Gene120_3",
+          "new_answer": "GenAn120_3"
+        },
+        {
+          "new_riddle": "Gene120_4",
+          "new_answer": "GenAn120_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కొనే టప్పుడు నలుపు, తినేటప్పుడు ఎరుపు, పారేసేటప్పుడు తెలుపు ఏమిటది?",
+      "original_answer": "పుచ్చకాయ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene101_1",
+          "new_answer": "GenAn101_1"
+        },
+        {
+          "new_riddle": "Gene101_2",
+          "new_answer": "GenAn101_2"
+        },
+        {
+          "new_riddle": "Gene101_3",
+          "new_answer": "GenAn101_3"
+        },
+        {
+          "new_riddle": "Gene101_4",
+          "new_answer": "GenAn101_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "రాళ్ల అడుగున విల్లు, విల్లు కోనలో ముళ్లు?",
+      "original_answer": "తేలు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene20_1",
+          "new_answer": "GenAn20_1"
+        },
+        {
+          "new_riddle": "Gene20_2",
+          "new_answer": "GenAn20_2"
+        },
+        {
+          "new_riddle": "Gene20_3",
+          "new_answer": "GenAn20_3"
+        },
+        {
+          "new_riddle": "Gene20_4",
+          "new_answer": "GenAn20_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "నల్ల స్తంభం పైన నలుగురు దొంగలు?",
+      "original_answer": "లవంగం మొగ్గ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene86_1",
+          "new_answer": "GenAn86_1"
+        },
+        {
+          "new_riddle": "Gene86_2",
+          "new_answer": "GenAn86_2"
+        },
+        {
+          "new_riddle": "Gene86_3",
+          "new_answer": "GenAn86_3"
+        },
+        {
+          "new_riddle": "Gene86_4",
+          "new_answer": "GenAn86_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "రాజుగారి తోట‌లో రోజాపూలు చూచేవారేగాని లెక్క‌వేసేవారు కాదు ఏమిట‌వి?",
+      "original_answer": "చుక్క‌లు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene44_1",
+          "new_answer": "GenAn44_1"
+        },
+        {
+          "new_riddle": "Gene44_2",
+          "new_answer": "GenAn44_2"
+        },
+        {
+          "new_riddle": "Gene44_3",
+          "new_answer": "GenAn44_3"
+        },
+        {
+          "new_riddle": "Gene44_4",
+          "new_answer": "GenAn44_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "గట్టుమీద రాయి! మినుకు మినుకు రాయి!!",
+      "original_answer": "ముక్కు పుడక",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene105_1",
+          "new_answer": "GenAn105_1"
+        },
+        {
+          "new_riddle": "Gene105_2",
+          "new_answer": "GenAn105_2"
+        },
+        {
+          "new_riddle": "Gene105_3",
+          "new_answer": "GenAn105_3"
+        },
+        {
+          "new_riddle": "Gene105_4",
+          "new_answer": "GenAn105_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అందమైన గిన్నెలో ఎర్రని పిట్ట తోకతో నీళ్లు త్రాగుతుంది",
+      "original_answer": "దీపం వత్తి",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene21_1",
+          "new_answer": "GenAn21_1"
+        },
+        {
+          "new_riddle": "Gene21_2",
+          "new_answer": "GenAn21_2"
+        },
+        {
+          "new_riddle": "Gene21_3",
+          "new_answer": "GenAn21_3"
+        },
+        {
+          "new_riddle": "Gene21_4",
+          "new_answer": "GenAn21_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "చిన్న పాపకు చాలా చీరలు. ఏమిటది?",
+      "original_answer": "ఉల్లిపాయ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene1_1",
+          "new_answer": "GenAn1_1"
+        },
+        {
+          "new_riddle": "Gene1_2",
+          "new_answer": "GenAn1_2"
+        },
+        {
+          "new_riddle": "Gene1_3",
+          "new_answer": "GenAn1_3"
+        },
+        {
+          "new_riddle": "Gene1_4",
+          "new_answer": "GenAn1_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఎర్రవాడొస్తే తెల్లవాడు, పారిపోయి దాక్కుంటాడు?",
+      "original_answer": "సూర్యుడు, చంద్రుడు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene116_1",
+          "new_answer": "GenAn116_1"
+        },
+        {
+          "new_riddle": "Gene116_2",
+          "new_answer": "GenAn116_2"
+        },
+        {
+          "new_riddle": "Gene116_3",
+          "new_answer": "GenAn116_3"
+        },
+        {
+          "new_riddle": "Gene116_4",
+          "new_answer": "GenAn116_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "గాలిలో ఎగిరే అద్దము పట్టుకుంటే పలిగి పోవు?",
+      "original_answer": "సబ్బు బుడగ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene106_1",
+          "new_answer": "GenAn106_1"
+        },
+        {
+          "new_riddle": "Gene106_2",
+          "new_answer": "GenAn106_2"
+        },
+        {
+          "new_riddle": "Gene106_3",
+          "new_answer": "GenAn106_3"
+        },
+        {
+          "new_riddle": "Gene106_4",
+          "new_answer": "GenAn106_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అబ్బాయి గారి దొడ్లో పెద్ద పండు పడితే, పరుగెత్తలేక పది మంది చచ్చారు.",
+      "original_answer": "పిడుగు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene58_1",
+          "new_answer": "GenAn58_1"
+        },
+        {
+          "new_riddle": "Gene58_2",
+          "new_answer": "GenAn58_2"
+        },
+        {
+          "new_riddle": "Gene58_3",
+          "new_answer": "GenAn58_3"
+        },
+        {
+          "new_riddle": "Gene58_4",
+          "new_answer": "GenAn58_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "నూరు పళ్ళు ఒకటే నోరు?",
+      "original_answer": "దానిమ్మ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene114_1",
+          "new_answer": "GenAn114_1"
+        },
+        {
+          "new_riddle": "Gene114_2",
+          "new_answer": "GenAn114_2"
+        },
+        {
+          "new_riddle": "Gene114_3",
+          "new_answer": "GenAn114_3"
+        },
+        {
+          "new_riddle": "Gene114_4",
+          "new_answer": "GenAn114_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "గోళము కాని గోళము, ఏమి గోళము?",
+      "original_answer": "గందర గోళము",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene54_1",
+          "new_answer": "GenAn54_1"
+        },
+        {
+          "new_riddle": "Gene54_2",
+          "new_answer": "GenAn54_2"
+        },
+        {
+          "new_riddle": "Gene54_3",
+          "new_answer": "GenAn54_3"
+        },
+        {
+          "new_riddle": "Gene54_4",
+          "new_answer": "GenAn54_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "గోడకు గొలుసు పండు!?",
+      "original_answer": "లాంతరు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene108_1",
+          "new_answer": "GenAn108_1"
+        },
+        {
+          "new_riddle": "Gene108_2",
+          "new_answer": "GenAn108_2"
+        },
+        {
+          "new_riddle": "Gene108_3",
+          "new_answer": "GenAn108_3"
+        },
+        {
+          "new_riddle": "Gene108_4",
+          "new_answer": "GenAn108_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అందమైన చిన్నది, అందాల చిన్నది, నువ్వు చుస్తే నిన్ను చూస్తుంది, నేను చుస్తే నన్ను చూస్తుంది?",
+      "original_answer": "అద్దము",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene90_1",
+          "new_answer": "GenAn90_1"
+        },
+        {
+          "new_riddle": "Gene90_2",
+          "new_answer": "GenAn90_2"
+        },
+        {
+          "new_riddle": "Gene90_3",
+          "new_answer": "GenAn90_3"
+        },
+        {
+          "new_riddle": "Gene90_4",
+          "new_answer": "GenAn90_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "అడుగులున్నా, కాళ్ళులేనిది?",
+      "original_answer": "గజము బద్ద, మీటర్ స్కేలు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene84_1",
+          "new_answer": "GenAn84_1"
+        },
+        {
+          "new_riddle": "Gene84_2",
+          "new_answer": "GenAn84_2"
+        },
+        {
+          "new_riddle": "Gene84_3",
+          "new_answer": "GenAn84_3"
+        },
+        {
+          "new_riddle": "Gene84_4",
+          "new_answer": "GenAn84_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "కిట కిట తలుపులు! కిటారు తలుపులు!! ఎప్పుడు తీసినా చప్పుడు కాదు?",
+      "original_answer": "కను రెప్పలు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene92_1",
+          "new_answer": "GenAn92_1"
+        },
+        {
+          "new_riddle": "Gene92_2",
+          "new_answer": "GenAn92_2"
+        },
+        {
+          "new_riddle": "Gene92_3",
+          "new_answer": "GenAn92_3"
+        },
+        {
+          "new_riddle": "Gene92_4",
+          "new_answer": "GenAn92_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఆకులు లేని అడ‌విలో జీవం లేని జంతువు జీవాల‌ను వేటాడుతుంది ఏంట‌ది?",
+      "original_answer": "దువ్వెన‌",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene26_1",
+          "new_answer": "GenAn26_1"
+        },
+        {
+          "new_riddle": "Gene26_2",
+          "new_answer": "GenAn26_2"
+        },
+        {
+          "new_riddle": "Gene26_3",
+          "new_answer": "GenAn26_3"
+        },
+        {
+          "new_riddle": "Gene26_4",
+          "new_answer": "GenAn26_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ఈత చెట్టుకు ఇద్దరు బిడ్డలు?",
+      "original_answer": "కల్లు కుండలు",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene72_1",
+          "new_answer": "GenAn72_1"
+        },
+        {
+          "new_riddle": "Gene72_2",
+          "new_answer": "GenAn72_2"
+        },
+        {
+          "new_riddle": "Gene72_3",
+          "new_answer": "GenAn72_3"
+        },
+        {
+          "new_riddle": "Gene72_4",
+          "new_answer": "GenAn72_4"
+        }
+      ]
+    }
+  ]
+}

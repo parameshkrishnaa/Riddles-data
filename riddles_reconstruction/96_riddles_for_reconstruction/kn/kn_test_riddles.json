@@ -1,0 +1,532 @@
+{
+  "riddles": [
+    {
+      "original_riddle": "ಎರಡು ಮನೆಗೆ ಒಂದೇ ದೂಲ",
+      "original_answer": "ಮೂಗು",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene103_1",
+          "new_answer": "GenAn103_1"
+        },
+        {
+          "new_riddle": "Gene103_2",
+          "new_answer": "GenAn103_2"
+        },
+        {
+          "new_riddle": "Gene103_3",
+          "new_answer": "GenAn103_3"
+        },
+        {
+          "new_riddle": "Gene103_4",
+          "new_answer": "GenAn103_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಅಂಗೈ ಕೊಟ್ಟರೆ ಮುಂಗೈನೂ ನುಂಗುತ್ತದೆ",
+      "original_answer": "ಬಳೆ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene78_1",
+          "new_answer": "GenAn78_1"
+        },
+        {
+          "new_riddle": "Gene78_2",
+          "new_answer": "GenAn78_2"
+        },
+        {
+          "new_riddle": "Gene78_3",
+          "new_answer": "GenAn78_3"
+        },
+        {
+          "new_riddle": "Gene78_4",
+          "new_answer": "GenAn78_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಚರಚರ ಕೊಯ್ತದೆ ಕತ್ತಿ ಅಲ್ಲ, ಮಿಣಿಮಿಣಿ ಮಿಂಚುತ್ತದೆ ಮಿಂಚಲ್ಲ, ಪೆಟ್ಟಿಗೆಗೆ ತುಂಬದೆ ದಾಗಿನ ಅಲ್ಲ.",
+      "original_answer": "ಗರಗಸ.",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene65_1",
+          "new_answer": "GenAn65_1"
+        },
+        {
+          "new_riddle": "Gene65_2",
+          "new_answer": "GenAn65_2"
+        },
+        {
+          "new_riddle": "Gene65_3",
+          "new_answer": "GenAn65_3"
+        },
+        {
+          "new_riddle": "Gene65_4",
+          "new_answer": "GenAn65_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಹೋದರು ಇರುತ್ತೆ ಬಂದರೂ ಕಾಡುತ್ತೆ. ಇದು ಏನು",
+      "original_answer": "ನೆನಪು",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene30_1",
+          "new_answer": "GenAn30_1"
+        },
+        {
+          "new_riddle": "Gene30_2",
+          "new_answer": "GenAn30_2"
+        },
+        {
+          "new_riddle": "Gene30_3",
+          "new_answer": "GenAn30_3"
+        },
+        {
+          "new_riddle": "Gene30_4",
+          "new_answer": "GenAn30_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಬಿಳಿ ಹುಲ್ಲಲ್ಲಿ ಕೆಂಪು ಕುರಿಮರಿ",
+      "original_answer": "ನಾಲಿಗೆ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene28_1",
+          "new_answer": "GenAn28_1"
+        },
+        {
+          "new_riddle": "Gene28_2",
+          "new_answer": "GenAn28_2"
+        },
+        {
+          "new_riddle": "Gene28_3",
+          "new_answer": "GenAn28_3"
+        },
+        {
+          "new_riddle": "Gene28_4",
+          "new_answer": "GenAn28_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "೮೪. ಕಲ್ಲರಳಿ ಹೂವಾಗಿ, ಎಲ್ಲರಿಗೂ ಬೇಕಾಗಿ, ಮಲ್ಲಿಕಾರ್ಜುನನ ಗುಡಿಗೆ ಬೆಳಕಾಗಿ, ಬಲ್ಲವರು ಹೇಳಿ",
+      "original_answer": "ಸುಣ್ಣ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene107_1",
+          "new_answer": "GenAn107_1"
+        },
+        {
+          "new_riddle": "Gene107_2",
+          "new_answer": "GenAn107_2"
+        },
+        {
+          "new_riddle": "Gene107_3",
+          "new_answer": "GenAn107_3"
+        },
+        {
+          "new_riddle": "Gene107_4",
+          "new_answer": "GenAn107_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಆರು ಕಾಲು ಅಂಕಣ್ಣ ಮೂರು ಕಾಲು ದೊಂಕಣ್ಣ ಸದಾ ಮೀಸೆ ತಿರುವಣ್ಣ",
+      "original_answer": "ನೊಣ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene118_1",
+          "new_answer": "GenAn118_1"
+        },
+        {
+          "new_riddle": "Gene118_2",
+          "new_answer": "GenAn118_2"
+        },
+        {
+          "new_riddle": "Gene118_3",
+          "new_answer": "GenAn118_3"
+        },
+        {
+          "new_riddle": "Gene118_4",
+          "new_answer": "GenAn118_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಗುಡುಗು, ಗುಡುಗಿದರೆ ಸಾವಿರ ನಯನಗಳು ಅರಳುವುದು",
+      "original_answer": "ನವಿಲು",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene5_1",
+          "new_answer": "GenAn5_1"
+        },
+        {
+          "new_riddle": "Gene5_2",
+          "new_answer": "GenAn5_2"
+        },
+        {
+          "new_riddle": "Gene5_3",
+          "new_answer": "GenAn5_3"
+        },
+        {
+          "new_riddle": "Gene5_4",
+          "new_answer": "GenAn5_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಮಣ್ಣು ಆಗಿದೆ ಕಲ್ಲು ಸಿಕ್ಕಿತು, ಕಲ್ಲು ಆಗಿದೆ ಬೆಳ್ಳಿ ಸಿಕ್ಕಿತು, ಬೆಳ್ಳಿ ಒಡೆದ ನೀರು ಸಿಕ್ಕಿತು",
+      "original_answer": "ತೆಂಗಿನಕಾಯಿ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene55_1",
+          "new_answer": "GenAn55_1"
+        },
+        {
+          "new_riddle": "Gene55_2",
+          "new_answer": "GenAn55_2"
+        },
+        {
+          "new_riddle": "Gene55_3",
+          "new_answer": "GenAn55_3"
+        },
+        {
+          "new_riddle": "Gene55_4",
+          "new_answer": "GenAn55_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಚಿನ್ನದ ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಬೆಳ್ಳಿ ಲಿಂಗ",
+      "original_answer": "ಬಾಳೆ ಹಣ್ಣು",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene76_1",
+          "new_answer": "GenAn76_1"
+        },
+        {
+          "new_riddle": "Gene76_2",
+          "new_answer": "GenAn76_2"
+        },
+        {
+          "new_riddle": "Gene76_3",
+          "new_answer": "GenAn76_3"
+        },
+        {
+          "new_riddle": "Gene76_4",
+          "new_answer": "GenAn76_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಬಿಳಿ ತೊಟ್ಟಿಯಲ್ಲಿ ಕಪ್ಪು ದ್ರಾಕ್ಷಿ",
+      "original_answer": "ಕಣ್ಣು",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene12_1",
+          "new_answer": "GenAn12_1"
+        },
+        {
+          "new_riddle": "Gene12_2",
+          "new_answer": "GenAn12_2"
+        },
+        {
+          "new_riddle": "Gene12_3",
+          "new_answer": "GenAn12_3"
+        },
+        {
+          "new_riddle": "Gene12_4",
+          "new_answer": "GenAn12_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಕಂಬ ಕಂಬದ ಮೇಲೆ ದಿಂಬ, ದಿಂಬದ ಮೇಲೆ ಲಾಗಲೂಟೆ, ಲಾಗಲೂಟೆ ಮೇಲೆ ಎರಡು ಹುಡ್ಗರು ಓಡ್ಯಾಡುತಾರೆ.",
+      "original_answer": "ಕಣ್ಣು.",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene70_1",
+          "new_answer": "GenAn70_1"
+        },
+        {
+          "new_riddle": "Gene70_2",
+          "new_answer": "GenAn70_2"
+        },
+        {
+          "new_riddle": "Gene70_3",
+          "new_answer": "GenAn70_3"
+        },
+        {
+          "new_riddle": "Gene70_4",
+          "new_answer": "GenAn70_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಎಂದರೆ ತೆರಿತಾವ, ಅಪ್ಪ ಎಂದರೆ ಮುಚ್ಚುತಾವ",
+      "original_answer": "ಬಾಯಿ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene112_1",
+          "new_answer": "GenAn112_1"
+        },
+        {
+          "new_riddle": "Gene112_2",
+          "new_answer": "GenAn112_2"
+        },
+        {
+          "new_riddle": "Gene112_3",
+          "new_answer": "GenAn112_3"
+        },
+        {
+          "new_riddle": "Gene112_4",
+          "new_answer": "GenAn112_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ತಮ್ಮಂಗೆ ಮೂರು ಕಣ್ಣು ಅಮ್ಮಂಗೆ ಒಂದೇ ಕಣ್ಣು",
+      "original_answer": "ತೆಂಗಿನ ಕಾಯಿ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene87_1",
+          "new_answer": "GenAn87_1"
+        },
+        {
+          "new_riddle": "Gene87_2",
+          "new_answer": "GenAn87_2"
+        },
+        {
+          "new_riddle": "Gene87_3",
+          "new_answer": "GenAn87_3"
+        },
+        {
+          "new_riddle": "Gene87_4",
+          "new_answer": "GenAn87_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಹಸಿರು ಮರದಲ್ಲಿ ಮೊಸರು ಚೆಲ್ಲಿದೆ",
+      "original_answer": "ಮಲ್ಲಿಗೆ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene14_1",
+          "new_answer": "GenAn14_1"
+        },
+        {
+          "new_riddle": "Gene14_2",
+          "new_answer": "GenAn14_2"
+        },
+        {
+          "new_riddle": "Gene14_3",
+          "new_answer": "GenAn14_3"
+        },
+        {
+          "new_riddle": "Gene14_4",
+          "new_answer": "GenAn14_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಬಿಡಿಸಿದರೆ ಹೂವು, ಮದಚಿದರೆ ಮೊಗ್ಗು,ಇದು ಏನು?",
+      "original_answer": "ಛತ್ರಿ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene117_1",
+          "new_answer": "GenAn117_1"
+        },
+        {
+          "new_riddle": "Gene117_2",
+          "new_answer": "GenAn117_2"
+        },
+        {
+          "new_riddle": "Gene117_3",
+          "new_answer": "GenAn117_3"
+        },
+        {
+          "new_riddle": "Gene117_4",
+          "new_answer": "GenAn117_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಹತ್ತಾರು ಮಕ್ಕಳ ತಂದೆ ಅದಕ್ಕೆ ತಲೆಯ ಮೇಲೆ ಜುಟ್ಟು",
+      "original_answer": "ಹುಂಜ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene18_1",
+          "new_answer": "GenAn18_1"
+        },
+        {
+          "new_riddle": "Gene18_2",
+          "new_answer": "GenAn18_2"
+        },
+        {
+          "new_riddle": "Gene18_3",
+          "new_answer": "GenAn18_3"
+        },
+        {
+          "new_riddle": "Gene18_4",
+          "new_answer": "GenAn18_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಸೂಜಿ ಸಣ್ಣಕಾಗೆ ಬಣ್ಣ",
+      "original_answer": "ಕೂದಲು",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene29_1",
+          "new_answer": "GenAn29_1"
+        },
+        {
+          "new_riddle": "Gene29_2",
+          "new_answer": "GenAn29_2"
+        },
+        {
+          "new_riddle": "Gene29_3",
+          "new_answer": "GenAn29_3"
+        },
+        {
+          "new_riddle": "Gene29_4",
+          "new_answer": "GenAn29_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಬಿಡಿಸಿದರೆ ಹೂವು, ಮಡಚಿದರೆ ಮೊಗ್ಗು",
+      "original_answer": "ಛತ್ರಿ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene32_1",
+          "new_answer": "GenAn32_1"
+        },
+        {
+          "new_riddle": "Gene32_2",
+          "new_answer": "GenAn32_2"
+        },
+        {
+          "new_riddle": "Gene32_3",
+          "new_answer": "GenAn32_3"
+        },
+        {
+          "new_riddle": "Gene32_4",
+          "new_answer": "GenAn32_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಎಲೆ ಇಲ್ಲ, ಸುಣ್ಣ ಇಲ್ಲ, ಬಣ್ಣವಿಲ್ಲ ತುಟಿ ಕೆಂಪಗಾಗಿದೆ, ಮಳೆಯಿಲ್ಲ, ಬೆಲೆಯಿಲ್ಲ, ಮೈ ಹಸಿರಾಗಿದೆ",
+      "original_answer": "ಗಿಳಿ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene36_1",
+          "new_answer": "GenAn36_1"
+        },
+        {
+          "new_riddle": "Gene36_2",
+          "new_answer": "GenAn36_2"
+        },
+        {
+          "new_riddle": "Gene36_3",
+          "new_answer": "GenAn36_3"
+        },
+        {
+          "new_riddle": "Gene36_4",
+          "new_answer": "GenAn36_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಬಿಳಿ ಸರದಾರನಿಗೆ ಕರಿ ಟೋಪಿ",
+      "original_answer": "ಬೆಂಕಿಕಡ್ಡಿ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene95_1",
+          "new_answer": "GenAn95_1"
+        },
+        {
+          "new_riddle": "Gene95_2",
+          "new_answer": "GenAn95_2"
+        },
+        {
+          "new_riddle": "Gene95_3",
+          "new_answer": "GenAn95_3"
+        },
+        {
+          "new_riddle": "Gene95_4",
+          "new_answer": "GenAn95_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಸಾಗರ ಪುತ್ರ, ಸಾರಿನ ಮಿತ್ರ",
+      "original_answer": "ಉಪ್ಪು",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene4_1",
+          "new_answer": "GenAn4_1"
+        },
+        {
+          "new_riddle": "Gene4_2",
+          "new_answer": "GenAn4_2"
+        },
+        {
+          "new_riddle": "Gene4_3",
+          "new_answer": "GenAn4_3"
+        },
+        {
+          "new_riddle": "Gene4_4",
+          "new_answer": "GenAn4_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಐದು ಮನೆಗೆ ಒಂದೇ ಅಂಗಳ",
+      "original_answer": "ಅಂಗ್ಯ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene15_1",
+          "new_answer": "GenAn15_1"
+        },
+        {
+          "new_riddle": "Gene15_2",
+          "new_answer": "GenAn15_2"
+        },
+        {
+          "new_riddle": "Gene15_3",
+          "new_answer": "GenAn15_3"
+        },
+        {
+          "new_riddle": "Gene15_4",
+          "new_answer": "GenAn15_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ಒಂದು ತೇಲುತ್ತೆ ,ಒಂದು ಮುಳುಗುತ್ತೆ, ಒಂದು ಕರಗುತ್ತೆ.",
+      "original_answer": "ವಾರ,ತಿಂಗಳು,ವರ್ಷ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene82_1",
+          "new_answer": "GenAn82_1"
+        },
+        {
+          "new_riddle": "Gene82_2",
+          "new_answer": "GenAn82_2"
+        },
+        {
+          "new_riddle": "Gene82_3",
+          "new_answer": "GenAn82_3"
+        },
+        {
+          "new_riddle": "Gene82_4",
+          "new_answer": "GenAn82_4"
+        }
+      ]
+    }
+  ]
+}

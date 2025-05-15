@@ -1,0 +1,1055 @@
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: কাঁচাতে যেই ফল সর্বজনে খায়, পাঁকলে সেই ফল গড়াগড়ি যায়
+Original Answer: ডুমুর
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: জল ছাড়া নদী, পাথর ছাড়া পাহাড় এবং মানুষ ছাড়া শহর কোথায় পাওয়া যায়?
+Original Answer: একটি ম্যাপে
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: যদি থাকে বুদ্ধি বলো দেখি কোন সুখে সুখ নেই?
+Original Answer: অসুখ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: কালিদাস পন্ডিতের ফাঁকি, আড়াইশো থেকে পাঁচ পঞ্চাশ গেলে আর কত থাকে বাকী?
+Original Answer: শূন্য
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: বাঘের মত লাফ দেয়, কুকুর হয়ে বসে, পানির মধ্যে ছেড়ে দিলে, ছোলা হয়ে ভাসে।
+Original Answer: ব্যাঙ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: শহর থেকে এল সাহেব কোর্ট প্যান্ট পরে, কোর্ট প্যান্ট খোলার পরে চোখ জ্বালা করে।
+Original Answer: পেঁয়াজ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ৩ অক্ষরের নাম তার পেট ভরে পানি খায় মাঝের অক্ষর বাদ দিলে আলোয় ভরে যায়,
+Original Answer: বালতি
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: কান নাই মাথা নাই, পেট ভরে খায়, কাম নাই কাজ নাই, মাথা নিয়ে ঘুমায়।
+Original Answer: বালিশ।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: আমি কাদাঁই, আমি হাসাই, নই আমি প্রাণি, আমায় দেখে সবাই ক্ষনিক ভোলে ব্যাথার বানী।
+Original Answer: সিনেমা বা নাটক।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: আন্ধার ঘরে থাকি আমি নড়াচড়া করি, একটুখানি খাবার পেলে খাবলে তাকে ধরি।
+Original Answer: জিহ্বা।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: হাঁড়ির ভিতর, বালির ভিতর হাজার ছেলে নাচে, একটু পরই হয় সে খাবার তপ্ত চুলার আঁচে।
+Original Answer: মুড়ি।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: এতো বড় আঙিনা ঝাড় দিয়েও কুলোয় না। কতো ফুল ফুটে আছে নাই তার তুলনা!
+Original Answer: আকাশ ও তারা।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: চার পায়ে বসি মোরা, আট পায়ে চলি। বাঘও নই ভাল্লুকও নই আস্ত কাঁধে ঝুলি।
+Original Answer: পালকি।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন অক্ষরে নাম তার সর্ব অঙ্গে কালো, মাঝের অক্ষর বাদ দিলে খেতে লাগে ভাল
+Original Answer: কয়লা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: আশ্চর্য এক কথা শুনলে হাসি পায় নিজে দেখতে পায় না কিন্তু অপরকে দেখায়।
+Original Answer: আয়না
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন অক্ষরের নাম তার সবাই খায়, প্রথম অক্ষর ছেড়ে দিলে মেয়েদের হাতে যায়।
+Original Answer: খিচুড়ি
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: চোখ আছে, কান নাই, হাত আছে, প্রাণ নাই।
+Original Answer: চশমা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: এক বাড়িতে চার ভাই, তাদের গায়ে একই সাজ, কারো মুখে কেশ নাই, দিন শেষে বাড়ায় রাজ।
+Original Answer: পদ্মফুল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: এক পায়ে দাঁড়িয়ে আছে, হাত দিয়ে ঠেলে দিলে, দৌড়ে পালিয়ে যায়।
+Original Answer: লাটিম
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: সাদা দুটি পুকুরে কালো হিরে চকচক করে।
+Original Answer: চোখ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: দিনের বেলায় ঘুমিয়ে থাকে রাতের বেলায় জাগে ঘর-বাড়ি নেই আকাশেতে থাকে
+Original Answer: চাঁদ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: চাঁদ নয় সূর্য নয় আলো দেয় রাতে গাছে গাছে উড়ে বেড়ায় টিমটিম আলোতে।
+Original Answer: জোনাকি
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: গলা আছে মাথা নেই হাত আছে পা নেই এটি কি বলবে আমায়?
+Original Answer: শার্ট
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: বাঘ নয় তবে মানুষ খায় পাখি নয় তবে উড়ে যায় বোলতা নয় তবে শুং আছে জন্তু নয় তবে পা আছে।
+Original Answer: মশা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: মাথার উপর রাখে আমায় রোদ-বর্ষার দিনে বাকি সময় পড়ে থাকি শুধু ঘরের কোনে৷
+Original Answer: ছাতি
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: দাদু বুড়ো, ঠাকুমা বুড়ি আমাতে বুড়ো কী? পাঁচ আঙুলে রয়েছে সেটি বলবে সেটি কী?
+Original Answer: বুড়ো আঙুল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: উপরে থেকে পড়ল হাঁড়ি হাঁড়ির ভেতরে একশো কড়ি।
+Original Answer: কাঁঠাল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ঘরের ভেতরে ঘর সেখানে গিয়ে শুয়ে পড়।
+Original Answer: মশারী
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: এক থালা সুপারি গুণতে না পারি।
+Original Answer: আকাশ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: জটা ভরা মাথায় হাজার চোখে তাকায়।
+Original Answer: আনারস
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: থাকি গভীর জলে মাঝের বর্ণ ছেড়ে দিলে আকাশে যাই উড়ে।
+Original Answer: চিতল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: প্রজাপতি, প্রজাপতি বলছি শোন কী তিনটি মাথা, দশটি ঠ্যাং দেখেছ তুমি কি?
+Original Answer: কৃষক ও হালের দুটি গোরু
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: লেবু টক, জলপাই টক আর টক কী পাতার আড়ালে ঝুলে থাকি আমায় চেন কি?
+Original Answer: তেঁতুল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: লম্বা কেশর ফুলিয়ে তোলা গম্ভীর মেজাজ; রাজার মতো চেহারা তাই নামটি পশুরাজ
+Original Answer: সিংহ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: আয় আয় তু তু খেতে দেব দু দু! ল্যজটি তুলে নাচবি সুখে, হাসবে সোনার খুকু!
+Original Answer: বিড়াল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: গাছে হয় ঘরে আনি রান্না হয় খাওয়ার সময় ফেলা হয় ।
+Original Answer: তেজপাতা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: পাখা আছে মোর না পারি উড়তে, আঁখি আছে মোর না পারি মুদতে। পা নাই মোর তবুও ঘুরি। জীবন কাটাই জলে চরি। যদি তুমি আমায় চিনতে পারো তবে মোর নামটি মনে করো।
+Original Answer: মাছ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন বর্ণের নামটি আমার আরাম করে শুই প্রথম বর্ণ কেটে দিলে দুধের থেকে হই মাঝের বর্ণ কেটে দিলে ছাড়া পেয়ে যাই শেষের বর্ণ কেটে দিলে ভীষণ ভয় পাই।
+Original Answer: বিছানা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: দুই বর্ণের শব্দ আমি জলের মাঝে রই দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Original Answer: মাছ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ফরসা সাহেবেরা কালো টুপি পরে, একবার ঘসে দিলে উঠে যে জ্বলে
+Original Answer: দেশলাই
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: বড়ো একটি পুকুরের ছোটো দুটি ঘাট, বত্রিশটি কলাগাছ, একটি পাতা তাতে ৷
+Original Answer: মুখ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ওপার থেকে এলো বুড়ি সাদা কাপড় পরে মহানন্দে বসল খেতে ঘাড় নেড়ে নেড়ে
+Original Answer: বক
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: কোন দেশ বাজে কোন দেশ বলো দেখি তেল ঘিতে ভাজে
+Original Answer: কাশী, পুরী
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: জলের জন্তু নয় তবুও জলেই  বাস করে হাত নেই পা নেই তবু সাঁতার কাটে
+Original Answer: নৌকা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন অক্ষরে নাম যার সবার ঘরে রয় প্রথম অক্ষর বাদ দিলে সর্ব লোকে খায়। পেট তার কেটে দিলে মধুর গান গায় শেষ অক্ষর বাদ দিলে খুব কামরায়
+Original Answer: বিছানা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: দু’অক্ষরে নাম তার বহু লোকে খায় শেষের অক্ষর বাদ দিলে হেঁটে চলে যায়
+Original Answer: পান
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: দু’অক্ষরে নাম লজ্জা নিবারণী প্রথম অক্ষর বাদ দিলে হয় আমার জননী শেষের অক্ষর বাদ দিলে ভাশুর ঘরণী
+Original Answer: জামা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: প্রাণ নেই বন্ধু নয়, চলে সাথে সাথে আলো পেলে তবে চলে দিনে কিংবা রাতে
+Original Answer: ছায়া
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন অক্ষরে নাম তার প্রতি ঘরে পাবে অধ্যক্ষর বাদ দিলে বৎসর বুঝাবে মধ্য অক্ষর গেলে সবার ক্ষতি করে শেষের অক্ষর গেলে সবাই অবস্থান করে
+Original Answer: বাসন
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: দুই অক্ষরের নাম যার সব যায়গায় রায় প্রথম অক্ষর বাদ দিলে খাবার জিনিস হয়, শেষের অক্ষর বাদ দিলে আপনজন হয়
+Original Answer: মাটি
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: একলা তারে যায় না দেখা, সঙ্গী গেলে বাঁচে। আধার দেখে ভয়ে পালায়, আলোয় ফিরে আসে।
+Original Answer: ছায়া।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: একটুখানি পুস্কনি, পানি টলমল করে। রাজার ছেলের সাধ্য নেই, জাল ফেলতে পারে।
+Original Answer: চোখ।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: একটি গাছের বাঁট নাই, তবু দুগ্ধ হয় প্রচুর। দোহনকালে থাকে নাকো, তার নিকটে বাছুর।
+Original Answer: তালগাছ।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: একটি হলে কাজ হবে না, দুটি কিন্তু চাই। দুটি পেলে, হবে চাষী ভাই।
+Original Answer: বলদ।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: এপার ঝাটি, ওপার ঝাটি। ঝাটিতে করে, পিটা পিটি।
+Original Answer: চোখের পাতা।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: "তিন অক্ষরে নাম যার, যাতে তৈরি তাতেই ভেসে, শেষের অক্ষর বাদ দিলে সোজা বিয়ের পিঁড়িতে বসে" বল কি সেই মাল??
+Original Answer: বরফ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন অক্ষরে নাম তার পানিতে বাস করে, প্রথম অক্ষর বাদ দিলে স্বাদে মিষ্টি করে। বল কি তার নাম?
+Original Answer: মাগুর
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: বল কি সেই জালের নাম, যার না আছে কোনো সুতা, ফিতা, তার ; কিন্তু নিমিষেই তোমায় দেবে শেরা সম্পদের সন্ধান।
+Original Answer: আন্তজাল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: এমন একটি জিনিস যেটা সব লোকই খায় ছোট ছেলেরা খেলেপরে মায়ের কাছে যায় বৃদ্ধ লোকে খেলেপরে মাথায় দেয় হাত যুবক যুবতীরা খেলে এদিক ওদিক তাকায়
+Original Answer: আছার
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন অক্ষরে জিনিসটা কি নাম তার বলনা মাথা কাটলে চলে আর মাথা না কাটলে চলে না।
+Original Answer: পেন্সিল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: মেঘের ডাকে জল ছেড়ে ডাঙায় উঠে পড়ে মানুষ তার মাঠে পেলে নিয়ে যায় ঘরে।
+Original Answer: কইমাছ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: হাত আছে পা নেয় মাথা তার কাটা আস্ত মানুষ গিলে খায় বুক তার ফাটা।
+Original Answer: জামা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন অক্ষরে নাম তার সব লোকে খায় প্রথম অক্ষর বদ দিলে ঘর ছাওয়া যায়।
+Original Answer: কুমড়ো
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: একই প্রশ্ন কিন্তু সবাই আলাদা আলাদা উত্তর দেয় অথচ সবার উত্তরই ঠিক প্রশ্নটি কি ?
+Original Answer: তোমার নাম কি
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: আমি অন্ধকার কিন্তু আলো ছাড়া আমার অস্তিত্ব নেই আমি কে ?
+Original Answer: ছায়া
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: কোথায় নদী আছে কিন্তুু জল নেই পাহাড় আছে কিন্তু পাথর নেই দেশ আছে কিন্তু লোক নেই ?
+Original Answer: ম্যাপ বা মানচিত্র
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: সমুদ্রে জন্য আমার থাকি সবার ঘরে একটু জলের স্পশ্র পেলে যায় আমি মরে
+Original Answer: নুন বা লবণ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: কত,র মধ্যে কত বাদ দিলে কত থাকবে ?
+Original Answer: র
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: বন থেকে বেরোলো টিয়ে, সোনার টোপর মাথায় দিয়া
+Original Answer: আনারস
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: এই ঘরে যাই, ওই ঘরে যাই, দুমদুমি এ আছাড় খাই
+Original Answer: ঝাড়ু
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: লাল টুকটুক ছোটমামা, গায়ে পড়ে অনেক জামা
+Original Answer: পেঁয়াজ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন অক্ষরে নাম চোরের বুক কাঁপে, শেষ দুটি ছেড়ে দিলে কাটে এক কোপে। কিন্তু যদি প্রথম ছাড়ো দেখে লাগে দুঃখ, মাংস কম, শীর্ণকায়, চেহারাটি সূক্ষ্ম
+Original Answer: দারোগা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: হেতা দিলাম থান হয়ে গেল লতা, ফুল নাই ফল নাই সবই তার পাতা
+Original Answer: পান
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: গা করে তার খসর-মসর, পাত করে তার ফেনী; ফুল করে তার লাল-তামাসা, ফল করে কুস্তনি
+Original Answer: শিমূল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: সাগরে জন্ম তার আকাশে উড়ে, পর্বতের কাছে মার খেয়ে কেঁদে কেঁদে মড়ে
+Original Answer: কুয়াশা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তলে মাটি উপরে মাটি, তার মধ্যে সুন্দর বেটি
+Original Answer: হলুদ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: জল নয়, বৃষ্টিও নয় কিন্তু ভিজে সারা, বাড়িঘর ডুবল, ডুবল পাহাড়েরও চূড়া
+Original Answer: কুয়াশা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: হাত আছে পা নেই বুক তার ফাটা, জ্যান্ত মানুষ গিলে খায় নেই তার মাথা
+Original Answer: জামা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: জলের মাঝে জন্ম হলো দুই অক্ষরের প্রাণী, শেষের অক্ষর বাদ দিলে হয় মহারাণী
+Original Answer: মাছ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: তিন অক্ষরের নাম তার সবার ঘরে রয়, প্রথম অক্ষর বাদ দিলে খাদ্যবস্তু হয়। মাঝের অক্ষর বাদ দিলে হয় গানের শোভা, শেষের অক্ষর বাদ দিলে ভয় তুমি পাবা
+Original Answer: বিছানা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: জনম গেল দুখে, বুকে আমার আগুন দিয়ে থাকো অনেক সুখে
+Original Answer: হুঁকো
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: কাল আমাকে মেরে ছিলে সয়ে ছিলাম আমি, আজ আমায় মারো দেখি কেমন বেটা তুমি
+Original Answer: মাটির হাড়ি
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: কুল কুল কুলেরি, ভাদ্র মাসে ধুলোরি, কাঁচায়-পাকায় সবাই খায়, নেংটো হয়ে হাটে যায়
+Original Answer: তেঁতুল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: রাজার বেটা রাম দাস, খায় খোলা তার ফেলায় শাঁস
+Original Answer: চালতা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ইকরের তলে তলে ভিকমতির ছানি, কোন দেশে দেখিয়াছ গাছের আগায় পানি?
+Original Answer: নারিকেল
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: এক থালা সুপারী গুণতে পারে কোন ব্যাপারী?
+Original Answer: আকাশের তারা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: সফেদ শয্যা পড়ে আছে কেউ তাতে না শোয়, ভিতর থেকে খোলাম কুচি আঙিনাতে থোয়
+Original Answer: সমুদ্র
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: সকালে চার পায়ে হাঁটে, দুপুরে দুই পায়ে। সন্ধায় তিন পায়ে হাঁটে বলো তো কে যায়?
+Original Answer: মানুষ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ইটে গুরুগুরু বৈঠা নাগর, বিনা বৈঠায় বায় সে সাগর
+Original Answer: কচ্ছপ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: জ্বলছে তবু পুড়ছে না, কোন সে প্রাণী বলো তা
+Original Answer: জোনাকী
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: একটুখানি পুষ্পরিণী টলমল করে, একটুখানি কুটা পাড়লে সর্বনাশ করে
+Original Answer: চোখ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: আাঁধার পুকুর, গড়ান মাঠ, বত্রিশ কলাগাছ, একখানি পাট
+Original Answer: দাঁত ও জিহ্বা
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ছোট ছোট গাছখানি তার কত ফল ধরে, একটা যদি খায় তবে আহা-উহু করে
+Original Answer: বোম্বাই মরিচ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ছোট কালে লেজ হয়, বড় কালে খসে, বাঘের মত লাফ দেয়, কুকেুরের মত বসে
+Original Answer: ব্যাঙ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: একটুখানি জলে মাছ কিলবিল করে, কারো বাবার সাধ্য নাই হাত দিয়ে তা ধরে
+Original Answer: ফুটন্ত ভাত
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Bengali:
+You are an expert in creating riddles in Bengali. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: মেটো গোয়াল, কাঠের গাই বাঁছুর ছাড়াই দুধ পাই
+Original Answer: খেঁজুর গাছ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]

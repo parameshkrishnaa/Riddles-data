@@ -1,0 +1,532 @@
+{
+  "riddles": [
+    {
+      "original_riddle": "ટન ટન બસ નાદ કરે, ઘડિયાળ જોઈ સાદ કરે, સ્કૂલ નિશાળે એ લટકે રણકે તો બાળકો છટકે",
+      "original_answer": "ઘંટ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene97_1",
+          "new_answer": "GenAn97_1"
+        },
+        {
+          "new_riddle": "Gene97_2",
+          "new_answer": "GenAn97_2"
+        },
+        {
+          "new_riddle": "Gene97_3",
+          "new_answer": "GenAn97_3"
+        },
+        {
+          "new_riddle": "Gene97_4",
+          "new_answer": "GenAn97_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ચારે બાજુ વૃક્ષોથી ઘેરાયો પથરાયું મુજ પર ઘાસ પશુ પક્ષીનું ઘર હું મને ઓળખો હું કોણ ?",
+      "original_answer": "જંગલ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene98_1",
+          "new_answer": "GenAn98_1"
+        },
+        {
+          "new_riddle": "Gene98_2",
+          "new_answer": "GenAn98_2"
+        },
+        {
+          "new_riddle": "Gene98_3",
+          "new_answer": "GenAn98_3"
+        },
+        {
+          "new_riddle": "Gene98_4",
+          "new_answer": "GenAn98_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એ આપવાથી વધે છે, એ આવે ત્યારે જન જાગે છે, એ જાય ત્યારે જન ઊંઘે છે.",
+      "original_answer": "વિદ્યા",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene99_1",
+          "new_answer": "GenAn99_1"
+        },
+        {
+          "new_riddle": "Gene99_2",
+          "new_answer": "GenAn99_2"
+        },
+        {
+          "new_riddle": "Gene99_3",
+          "new_answer": "GenAn99_3"
+        },
+        {
+          "new_riddle": "Gene99_4",
+          "new_answer": "GenAn99_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એ તો કોણ જે ઘર લઇ લે છે આખું, પણ જગ્યા જરાપણ નથી રોકતું",
+      "original_answer": "પ્રકાશ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene100_1",
+          "new_answer": "GenAn100_1"
+        },
+        {
+          "new_riddle": "Gene100_2",
+          "new_answer": "GenAn100_2"
+        },
+        {
+          "new_riddle": "Gene100_3",
+          "new_answer": "GenAn100_3"
+        },
+        {
+          "new_riddle": "Gene100_4",
+          "new_answer": "GenAn100_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "હું મરું છું, હું કપાવું છું, પણ રોવો તમે છો",
+      "original_answer": "ડુંગળી",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene101_1",
+          "new_answer": "GenAn101_1"
+        },
+        {
+          "new_riddle": "Gene101_2",
+          "new_answer": "GenAn101_2"
+        },
+        {
+          "new_riddle": "Gene101_3",
+          "new_answer": "GenAn101_3"
+        },
+        {
+          "new_riddle": "Gene101_4",
+          "new_answer": "GenAn101_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "લીલી બસ, લાલ સીટ, અંદર કાળા બાવા",
+      "original_answer": "તરબૂચ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene102_1",
+          "new_answer": "GenAn102_1"
+        },
+        {
+          "new_riddle": "Gene102_2",
+          "new_answer": "GenAn102_2"
+        },
+        {
+          "new_riddle": "Gene102_3",
+          "new_answer": "GenAn102_3"
+        },
+        {
+          "new_riddle": "Gene102_4",
+          "new_answer": "GenAn102_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એવું કયું ઝાડ જેમાં લાકડી નથી હોતી?",
+      "original_answer": "કેળાનું ઝાડ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene103_1",
+          "new_answer": "GenAn103_1"
+        },
+        {
+          "new_riddle": "Gene103_2",
+          "new_answer": "GenAn103_2"
+        },
+        {
+          "new_riddle": "Gene103_3",
+          "new_answer": "GenAn103_3"
+        },
+        {
+          "new_riddle": "Gene103_4",
+          "new_answer": "GenAn103_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "લીલુ ફળને ધોળું બી, મારે માથે કાંટા, ચોમાસામાં મને સેવો તો, ટળે દવાખાનાના આંટા.",
+      "original_answer": "કારેલુ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene104_1",
+          "new_answer": "GenAn104_1"
+        },
+        {
+          "new_riddle": "Gene104_2",
+          "new_answer": "GenAn104_2"
+        },
+        {
+          "new_riddle": "Gene104_3",
+          "new_answer": "GenAn104_3"
+        },
+        {
+          "new_riddle": "Gene104_4",
+          "new_answer": "GenAn104_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "અબૂકલું ઢબૂકલું, લીલું લીલું માટલું અંદર લાલમ લાલ, કાપીને બહેનીને આપ...",
+      "original_answer": "તરબુચ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene105_1",
+          "new_answer": "GenAn105_1"
+        },
+        {
+          "new_riddle": "Gene105_2",
+          "new_answer": "GenAn105_2"
+        },
+        {
+          "new_riddle": "Gene105_3",
+          "new_answer": "GenAn105_3"
+        },
+        {
+          "new_riddle": "Gene105_4",
+          "new_answer": "GenAn105_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એવી કઈ ચીજ છે જેટલી ખેંચીએ એટલી નાની થઈ જાય?",
+      "original_answer": "સિગરેટ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene106_1",
+          "new_answer": "GenAn106_1"
+        },
+        {
+          "new_riddle": "Gene106_2",
+          "new_answer": "GenAn106_2"
+        },
+        {
+          "new_riddle": "Gene106_3",
+          "new_answer": "GenAn106_3"
+        },
+        {
+          "new_riddle": "Gene106_4",
+          "new_answer": "GenAn106_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એવી કઈ વસ્તુ છે જે સ્ત્રી ખુલ્લું રાખીને ફરે, પુરુષો સંતાડીને?",
+      "original_answer": "પર્સ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene107_1",
+          "new_answer": "GenAn107_1"
+        },
+        {
+          "new_riddle": "Gene107_2",
+          "new_answer": "GenAn107_2"
+        },
+        {
+          "new_riddle": "Gene107_3",
+          "new_answer": "GenAn107_3"
+        },
+        {
+          "new_riddle": "Gene107_4",
+          "new_answer": "GenAn107_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એવું શું છે જે જેટલું વધારે હોય એટલું ઓછું દેખાય?",
+      "original_answer": "અંધારું",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene108_1",
+          "new_answer": "GenAn108_1"
+        },
+        {
+          "new_riddle": "Gene108_2",
+          "new_answer": "GenAn108_2"
+        },
+        {
+          "new_riddle": "Gene108_3",
+          "new_answer": "GenAn108_3"
+        },
+        {
+          "new_riddle": "Gene108_4",
+          "new_answer": "GenAn108_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "સુગંધ છે પણ ફૂલ નથી, બળે છે પણ ઈર્ષા નથી?",
+      "original_answer": "અગરબતી",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene109_1",
+          "new_answer": "GenAn109_1"
+        },
+        {
+          "new_riddle": "Gene109_2",
+          "new_answer": "GenAn109_2"
+        },
+        {
+          "new_riddle": "Gene109_3",
+          "new_answer": "GenAn109_3"
+        },
+        {
+          "new_riddle": "Gene109_4",
+          "new_answer": "GenAn109_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એવું નામ બતાવો જે બીમાર નથી છતાં તેને ગોળી આપવામાં આવે છે?",
+      "original_answer": "બંદૂક",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene110_1",
+          "new_answer": "GenAn110_1"
+        },
+        {
+          "new_riddle": "Gene110_2",
+          "new_answer": "GenAn110_2"
+        },
+        {
+          "new_riddle": "Gene110_3",
+          "new_answer": "GenAn110_3"
+        },
+        {
+          "new_riddle": "Gene110_4",
+          "new_answer": "GenAn110_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એવું શું છે જેને પકડ્યા વગર રોકી શકાય?",
+      "original_answer": "શ્વાસ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene111_1",
+          "new_answer": "GenAn111_1"
+        },
+        {
+          "new_riddle": "Gene111_2",
+          "new_answer": "GenAn111_2"
+        },
+        {
+          "new_riddle": "Gene111_3",
+          "new_answer": "GenAn111_3"
+        },
+        {
+          "new_riddle": "Gene111_4",
+          "new_answer": "GenAn111_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એવી કઈ વસ્તુ જે તૂટે તો જ કામ આવે?",
+      "original_answer": "ઈંડું",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene112_1",
+          "new_answer": "GenAn112_1"
+        },
+        {
+          "new_riddle": "Gene112_2",
+          "new_answer": "GenAn112_2"
+        },
+        {
+          "new_riddle": "Gene112_3",
+          "new_answer": "GenAn112_3"
+        },
+        {
+          "new_riddle": "Gene112_4",
+          "new_answer": "GenAn112_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એવી કઈ જેલ છે જ્યાં બધા કેદી બેગુનાહ છે?",
+      "original_answer": "પ્રાણી સંગ્રાલય",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene113_1",
+          "new_answer": "GenAn113_1"
+        },
+        {
+          "new_riddle": "Gene113_2",
+          "new_answer": "GenAn113_2"
+        },
+        {
+          "new_riddle": "Gene113_3",
+          "new_answer": "GenAn113_3"
+        },
+        {
+          "new_riddle": "Gene113_4",
+          "new_answer": "GenAn113_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "હું એક વ્યક્તિને બે બનાવી દઉં બતાવો કોણ?",
+      "original_answer": "અરીસો",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene114_1",
+          "new_answer": "GenAn114_1"
+        },
+        {
+          "new_riddle": "Gene114_2",
+          "new_answer": "GenAn114_2"
+        },
+        {
+          "new_riddle": "Gene114_3",
+          "new_answer": "GenAn114_3"
+        },
+        {
+          "new_riddle": "Gene114_4",
+          "new_answer": "GenAn114_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એ શું છે જે આવે તો લોકો થુક્વાનું કહે છે?",
+      "original_answer": "ગુસ્સો",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene115_1",
+          "new_answer": "GenAn115_1"
+        },
+        {
+          "new_riddle": "Gene115_2",
+          "new_answer": "GenAn115_2"
+        },
+        {
+          "new_riddle": "Gene115_3",
+          "new_answer": "GenAn115_3"
+        },
+        {
+          "new_riddle": "Gene115_4",
+          "new_answer": "GenAn115_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એવું કોણ છે જેને ડૂબતો જોઈ કોઈ બચાવતું નથી?",
+      "original_answer": "સૂરજ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene116_1",
+          "new_answer": "GenAn116_1"
+        },
+        {
+          "new_riddle": "Gene116_2",
+          "new_answer": "GenAn116_2"
+        },
+        {
+          "new_riddle": "Gene116_3",
+          "new_answer": "GenAn116_3"
+        },
+        {
+          "new_riddle": "Gene116_4",
+          "new_answer": "GenAn116_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એ કોણ છે જે ગમે તેટલો વૃદ્ધ થઈ જાય પણ છતાં જવાન જ રહે છે?",
+      "original_answer": "સૈનિક",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene117_1",
+          "new_answer": "GenAn117_1"
+        },
+        {
+          "new_riddle": "Gene117_2",
+          "new_answer": "GenAn117_2"
+        },
+        {
+          "new_riddle": "Gene117_3",
+          "new_answer": "GenAn117_3"
+        },
+        {
+          "new_riddle": "Gene117_4",
+          "new_answer": "GenAn117_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ન ભોજન લે છે ન વેતન લે છે છતાં રખેવાળી કરે છે. જણાવો તે કઈ વસ્તુ છે?",
+      "original_answer": "તાળું",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene118_1",
+          "new_answer": "GenAn118_1"
+        },
+        {
+          "new_riddle": "Gene118_2",
+          "new_answer": "GenAn118_2"
+        },
+        {
+          "new_riddle": "Gene118_3",
+          "new_answer": "GenAn118_3"
+        },
+        {
+          "new_riddle": "Gene118_4",
+          "new_answer": "GenAn118_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એ કઈ વસ્તુ છે જે વરસાદમાં ગમે તેટલું પલળે, પણ ભીનું થઈ શકતું નથી?",
+      "original_answer": "પાણી",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene119_1",
+          "new_answer": "GenAn119_1"
+        },
+        {
+          "new_riddle": "Gene119_2",
+          "new_answer": "GenAn119_2"
+        },
+        {
+          "new_riddle": "Gene119_3",
+          "new_answer": "GenAn119_3"
+        },
+        {
+          "new_riddle": "Gene119_4",
+          "new_answer": "GenAn119_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "એક લાકડીની સાંભળો કહાણી, તેમાં ભરેલું છે મીઠું પાણી",
+      "original_answer": "શેરડી",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene120_1",
+          "new_answer": "GenAn120_1"
+        },
+        {
+          "new_riddle": "Gene120_2",
+          "new_answer": "GenAn120_2"
+        },
+        {
+          "new_riddle": "Gene120_3",
+          "new_answer": "GenAn120_3"
+        },
+        {
+          "new_riddle": "Gene120_4",
+          "new_answer": "GenAn120_4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1055 @@
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा कौन सा शब्द है, जिसे लिखते तो है, पर पढ़ते नही है ?,
+Original Answer: नही
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: अगर स्कूटी स्पीड से चला रही महिला के सामने पति और भाई खड़े है, तो सबसे पहले वो किसे मारेगी?,
+Original Answer: ब्रेक
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: कौन सी चीज है जो अगर चलते चलते थक जाए तो उसकी गर्दन काटने पर वह दोबारा चलने लग जाती है ?,
+Original Answer:  पेंसिल
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: वह क्या चीज है जिसे आदमी छुपा कर और औरत दिखा कर चलती है ?,
+Original Answer: पर्स
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: खुद कभी वह कुछ न खाए,\nलेकिन सब को खूब खिलाए |,
+Original Answer: चम्मच
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: वह क्या है, जो है तो सोने की, मगर सोने से बहुत सस्ती है?,
+Original Answer: चारपाई
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: वह कौन है, जो जितना भी बूढ़ा हो जाए, मगर फिर भी वह जवान हीं रहता है?,
+Original Answer: सैनिक
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: उसे दिन भर उठाते व रखते हैं। बिना उसके कहीं जा नहीं सकते हैं।,
+Original Answer: पैर
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: शुरुआत में वो हरा रहता है, बाद में वो पिला हो जाए, बच्चे हो या बूढ़े सभी उसे मजे से खाएं।,
+Original Answer: आम
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: काला मुंह लाल शरीर, कागज को वह खाता, रोज शाम को पेट फाड़कर कोई उन्हें ले जाता।,
+Original Answer: लेटर बॉक्स
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: रात में है, दिन में नहीं, दीया के नीचे, ऊपर नहीं, बूझो मेरा नाम सही ?,
+Original Answer: अँधेरा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: आगे ‘प’ है मध्य में भी ‘प’, अंत में इसके ‘ह’ है, कटी पतंग नहीं यह भैया, न बिल्ली चूहा है, वन में पेड़ों पर रहता है; सुर में रहकर कुछ कहता है| बताओ क्या ?,
+Original Answer: पपीहा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: डिब्बा देखा एक निराला, ना ढकना न ताला, न पेंदा नाही कोना, बंद है उसमें चांदी सोना।,
+Original Answer: अंडा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा शब्द बताइए कि, जिससे फूल, मिठाई और फल बन जाए ?,
+Original Answer: गुलाब जामुन।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: वह कौन – सा फूल है, जिसके पास कोई रंग और महक नहीं है ?,
+Original Answer: अप्रैल फूल।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा रूम, जिसकी खिड़की ना दरवाजा तो बताओ क्या ?,
+Original Answer: मशरूम।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन – सी जगह है, जहाँ पर सड़क है पर गाड़ी नहीं, जंगल है पर पेड़ नहीं और शहर है पर घर नहीं ?,
+Original Answer: नक्शा।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: कमर बांधे घर में रहता, सुबह-शाम जरूरत है पड़ती। बताओ क्या?,
+Original Answer: झाड़ू।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: हरी झंडी लाल कमान, तोबा तोबा करे इंसान।,
+Original Answer: मिर्ची।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: नाक पर चढ़कर कान पकड़कर, लोगों को है पढ़ाती।,
+Original Answer: चश्मा।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: हरे हरे से है दिखे पक्के हो या कच्चे, भीतर से यह लाल मलाई जैसे ठंडे मीठे लच्छे।,
+Original Answer: तरबूज।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: सफेद तन हरी पूंछ, न बुझे तो नानी से पूछ ॥,
+Original Answer: मूली।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: कान हैं पर बहरी हूँ, मुँह है पर मौन हूँ । आँखें हैं पर अंधी हूँ, बताओ मैं कौन हूँ ?,
+Original Answer: गुड़िया।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: काला घोडा सफ़ेद की सवारी, एक उतरा तो दूसरे की बरी ॥,
+Original Answer: तवा और रोटी।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: बूझो भैया एक पहेली, जब काटो तो नई नवेली ।,
+Original Answer: पेंसिल
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: हरी है उसकी काया, लाल मकान में, काला शैतान समाया।,
+Original Answer: तरबूज़।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: चौकी पर बैठी एक रानी, सिर पर आग बदन में पानी।,
+Original Answer: मोमबत्ती।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: जल से भरा एक मटका, जो है सबसे ऊँचा लटका। पी लो पानी है मीठा, ज़रा नहीं है खट्टा।,
+Original Answer: नारियल।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: लाल हूँ, खाती हूँ मैं सूखी घास। पानी पीकर मर जाऊँ, जल जाए जो आए मेरे पास।,
+Original Answer: आग।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: बिन खाए, बिन पिए, सबके घर में रहता हूँ । ना हँसता हूँ, ना रोता हूँ, घर की रखवाली करता हूँ।,
+Original Answer: ताला।
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन – सी चीज है, जो फ्रीज़ में रखने के बाद भी गरम रहती है?,
+Original Answer: गरम मसाला
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: वह कौन है, जो हमेशा पीटने के लिए हीं बना है?,
+Original Answer: ढोल
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन – सी चीज है, जिसके पास रिंग तो है मगर पहनने के लिए ऊँगली नहीं है?,
+Original Answer: मोबाईल
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन – सी ड्रेस है जिसे हम कभी पहन नहीं सकते हैं?,
+Original Answer: एड्रेस (Address)
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा कौन – सा सवाल है, जिसका जवाब हर वक्त बदलता रहता है?,
+Original Answer: समय क्या हुआ है?
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: पानी से पैदा होता है, पानी में मर जाता है,भोजन से तो मेरा गहरा नाता है।,
+Original Answer: नमक
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: रबड़ मुझे हराता है, लोहा मुझे खींच पाता है बताओ क्या?,
+Original Answer: चुंबक
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: वह कौन सा पक्षी है, जो पानी में तैरता भी है, आकाश में उड़ता भी है और जमीन पर चलता भी है?,
+Original Answer: बत्तख
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन – सी चीज है, जिसे हम पानी के अंदर खाते हैं?,
+Original Answer: गोता
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन – सी चीज है, जिसकी आँखों में ऊँगली डालो तो वह अपना मुँह खोल देती है!,
+Original Answer: कैंची
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: संजना की चार बेटियां हैं, चारों बेटियों के एक-एक भाई, बताओ संजना को कितने बच्चे हैं?,
+Original Answer: पाँच
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: मैं एक बार मुडूंगा तो सबको रोक दूंगा, एक बार मुडूंगा तो सब कुछ खोल दूंगा, मैं क्या हूँ?,
+Original Answer: एक चाबी
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: एक जिससे आप डरते हैं, जिससे आप डरते वो उजाले से डरता हैं?,
+Original Answer: अँधेरा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: आदमी ने ऊंगली से 6 लोगों को 6 सैकंड में उपर पहुचा दिया. वो स्पाइडरमैन नही था, सुपरमैन भी नही था और मैंन भी नही था, तो बताओं कौन था.,
+Original Answer: लिफ्टमैन
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: हमेशा आपके सामने रहता हूँ लेकिन दिखाई नहीं देता, बताओ कौन हूँ मैं?,
+Original Answer: भविष्य
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: मेरी शाखाएँ हैं, लेकिन मैं पेड़ नहीं हूँ. बध्ताहूँ घटता हूँ लेकिन कोई फल, तना या पत्तियाँ नहीं हैं। बताओ, मैं क्या हूँ?,
+Original Answer: एक बैंक
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज है, जिसके पास अनेक चाबियां होती हैं लेकिन एक भी ताला नहीं खुल सकता?,
+Original Answer: एक पियानो
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: एक बैंड, जिससे कभी कोई संगीत नहीं निकलता?,
+Original Answer: एक रबर बैंड
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: कटोरे पे कटोरा बेटा बाप से भी गोरा।,
+Original Answer: नारियल
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: एक किले के दो हीं द्वार,\nउनमें सैनिक लकड़ीदार |\nटकराए जब दीवारों से,\nख़त्म हो जाए उनका संसार |,
+Original Answer: माचिस
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: रंग बिरंगा बदन है इसका, कुदरत का वरदान मिला,\nइतनी सुंदरता पाकर भी, दो अक्षर का नाम मिला,\nये वन में करता शोर, इसके चर्चे हैं हर ओर।,
+Original Answer: मोर
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: पंख नहीं पर उड़ती हूँ,\nहाथ नहीं पर लड़ती हूँ |,
+Original Answer: पतंग
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: डब्बे पर डब्बा, डब्बे का गाँव,\nचलती फिरती बस्ती है, लोहे के पाँव |,
+Original Answer: रेलगाड़ी
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: कमर पतली है, पैर सुहाने,\nकहीं गए होंगे बीन बजाने |,
+Original Answer: मच्छर
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: बच्चों! एक लाठी की सुनो कहानी,\nछुपा है जिसमें मीठा – मीठा पानी |,
+Original Answer: गन्ना
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: आपकों सुखाता, खुद को भीगाता,\nमेरा नाम बताओ लाला?,
+Original Answer: छतरी
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: मेरे नाम के दो मतलब हैं, दोनों के हैं अर्थ निराले, एक अर्थ में सब्जी हूं मैं, एक अर्थ में पालने वाले।,
+Original Answer: पालक
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: घर के ऊपर में रहता, धूप से तुझे बचाता, बारिश में मैं खुद भीगता, आंच न तुझ पर आने देता।,
+Original Answer: छत
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: तीन पंख का ऐसा पक्षी, सबके घर में रहता, वर्षा और सर्दी में सोता, बस गर्मी में उड़ता।,
+Original Answer: पंखा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: सरस्वती की सफेद सवारी, मोती जिसको भाते, करके अलग दूध से पानी, बोलो कौन कहलाते?,
+Original Answer: हंस
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: अगर नाक पर मैं चढ़ जाऊँ,\nतो कान पकड़कर खूब पढ़ाऊँ |,
+Original Answer: चश्मा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: कल बनू धड़ के बिन, मल बनू सिर हीन, पैर कटे तो थोड़ा रहूं, अक्षर है कुल तीन।,
+Original Answer: कमल
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो जितना बढ़ती है, उतनी ही छोटी होती जाती है?
+Original Answer: मोमबत्ती
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा कौन सा कमरा है जिसमें दरवाजा, खिड़की कुछ भी नहीं होता?
+Original Answer: मशरूम
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा कौन सा सवाल है जिसका जवाब हमेशा अलग होता है?
+Original Answer: समय
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो ऊपर जाती है लेकिन कभी नीचे नहीं आती?
+Original Answer: उम्र
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो रात में दिखाई देती है लेकिन दिन में नहीं?
+Original Answer: तारे
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जिसे जितना खींचोगे, उतनी छोटी होती जाएगी?
+Original Answer: रबर
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज्यादा भरते हो, उतनी ज्यादा खाली होती जाती है?
+Original Answer: गड्ढा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा क्या है जिसे बिना छुए तोड़ सकते हैं?
+Original Answer: वादा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो खुद गिरती है और दूसरों को उठाती है?
+Original Answer: बारिश
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा क्या है जो सूरज की रोशनी में गायब हो जाता है?
+Original Answer: परछाई
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा क्या है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?
+Original Answer: ज्ञान
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो एक जगह से दूसरी जगह बिना हिले चली जाती है?
+Original Answer: चिट्ठी
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जिसका कोई शरीर नहीं, फिर भी हड्डियाँ होती हैं?
+Original Answer: मछली
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो खुद भी हंसती है और दूसरों को भी हंसाती है?
+Original Answer: जोकर
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो खुद भी चलती है और दूसरों को भी चलाती है?
+Original Answer: घड़ी
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जिसे हाथ से पकड़ सकते हैं लेकिन देख नहीं सकते?
+Original Answer: हवा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जिसे इंसान जितना निकालता है, उतनी ही बढ़ती जाती है?
+Original Answer: सांस
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा क्या है जो जितना ज्यादा गर्म होता है, उतना ही ठंडा लगता है?
+Original Answer: पसीना
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा कौन सा पक्षी है जो बिना पंखों के उड़ सकता है?
+Original Answer: पतंग
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो सूरज की रोशनी में गायब हो जाती है?
+Original Answer: परछाई
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा क्या है जिसे काट सकते हैं लेकिन पकड़ नहीं सकते?
+Original Answer: हवा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो खुद भी गिरती है और दूसरों को उठाती है?
+Original Answer: बारिश
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?
+Original Answer: ज्ञान
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो बिना देखे काम कर सकती है?
+Original Answer: घड़ी
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो बिना बिजली के भी जल सकती है?
+Original Answer: मोमबत्ती
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जिसे लोग सुनते हैं पर देख नहीं सकते?
+Original Answer: आवाज़
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो कागज की होती है लेकिन सोने से भी महंगी होती है?
+Original Answer: नोट
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो जितनी काटो उतनी लंबी होती जाती है?
+Original Answer: पेंसिल
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज्यादा डालो, उतना हल्का हो जाता है?
+Original Answer: गड्ढा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो सिर्फ आगे बढ़ सकती है, पीछे नहीं जा सकती?
+Original Answer: समय
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो किसी का भी पीछा नहीं छोड़ती?
+Original Answer: परछाई
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जो देखने में बहुत छोटी होती है लेकिन पूरी दुनिया उसमें समा सकती है?
+Original Answer: आईना
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसा क्या है जिसे हम छू नहीं सकते लेकिन महसूस कर सकते हैं?
+Original Answer: हवा
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Hindi:
+You are an expert in creating riddles in Hindi. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज्यादा खाओ उतनी ज्यादा भूख लगती है?
+Original Answer: ज्ञान
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]

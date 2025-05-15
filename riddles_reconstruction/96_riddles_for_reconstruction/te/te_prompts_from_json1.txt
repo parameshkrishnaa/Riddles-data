@@ -1,0 +1,1055 @@
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: మొగ్గ కాని మొగ్గ, ఏమి మొగ్గ?
+Original Answer: లవంగ మొగ్గ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఒకరు పొడుస్తారు, ఒకరు విడుస్తారు?
+Original Answer: పొడుపు కథ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కడుపు లోన పిల్లలు, కంఠము లోన నిప్పులు! అరుపేమో ఉరుము, ఎరుపంటే భయము!!?
+Original Answer: రైలు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: సన్నని స్తంభం, ఎక్కలేరు, దిగలేరు?
+Original Answer: సూది
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కిరీటము ఉంటుంది కాని రాజును కాదు, నాట్యము చేస్తాను కాని మయూరిని కాదు?
+Original Answer: నాగుపాము
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: తోలు న‌లుపు, తింటే పులుపు, ఏంటో అది?
+Original Answer: చింత‌పండు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కాటుక రంగు, కమలము హంగు! విప్పిన పొంగు, ముడిచిన క్రుంగు!!?
+Original Answer: గొడుగు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కాయలు కాని కాయలు, ఏమి కాయలు?
+Original Answer: మొట్టి కాయలు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కార్డు కాని కార్డు, ఏమి కార్డు?
+Original Answer: రికార్డు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: చింపిరి గుడ్డలు! బంగారం లాంటి బిడ్డలు!!
+Original Answer: మొక్క జొన్న
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: పొంగ బోడ‌ది రాంగ జుట్టుది ఏంట‌ది?
+Original Answer: పేలాలు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఎముకలు లేని జీవము, ఏటికి పోయింది?
+Original Answer: జలగ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అందరికి చెప్పి వొచ్చేది, చెప్పకుండా వెళ్ళేది?
+Original Answer: ప్రాణం
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: స‌న్న‌టి స్థంభం, ఎవ్వ‌రూ ఎక్క‌లేరు, దిగ‌లేరు ఏంట‌ది?
+Original Answer: సూది
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: రాజాధి రాజులు కూడా ఒకరిముందు తల వంచుకుంటారు?
+Original Answer: మంగలి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఇళ్ళు లేని పట్నాలు, నీళ్లు లేని సముద్రాలు ఎక్కడ ఉంటాయి?
+Original Answer: మ్యాపులో
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఒకటి పట్టుకుంటే రెండు ఊగుతాయి?
+Original Answer: తక్కెడ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కాయ, పువ్వు లేని పంట?
+Original Answer: ఉప్పు పంట
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అందరూ నన్ను పట్టుకుంటారు కాని నేనే ఎవరిని పట్టుకొను, అందరూ నాతో మాట్లాడతారు కాని నేనే ఎవరితో మాట్లాడను?
+Original Answer: టెలిఫోన్
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఇవ్వకుండా తీసుకో లేనిది! తీసుకోకుండా ఇవ్వ లేనిది!!?
+Original Answer: ముద్దు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: మేకల్ని తోలేసి తడకలకి పాలు పిండుతారు?
+Original Answer: తేనె పట్టు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఇల్లంతా తిరిగి మూలకు కూర్చుంటుంది?
+Original Answer: చీపురు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కలి కాని కలి, ఏమి కలి?
+Original Answer: చాకలి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: చీకటి ఇంటిలో జడల దయ్యము?
+Original Answer: ఉట్టి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: మూత తెరిస్తే, ముత్యాల పేరు?
+Original Answer: దంతాలు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: జాన కాని జాన, ఏమి జాన?
+Original Answer: ఖజాన
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఎనమిది ఎముకలు! తట్టెడు ప్రేగులు!!?
+Original Answer: మంచము
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఈగ ముసరని పండు! ఇంటిలో నుండు!!?
+Original Answer: నిప్పు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: వీధిరాజుకు కొప్పుది కానీ జుట్టు లేదు, క‌ళ్ళున్నాయి కానీ చూపులేదు ఏంట‌ది?
+Original Answer: కొబ్బ‌రికాయ‌
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఏది పెడితే అరిగి పోతుంది?, ఏది పెడితే కలకాలం ఉంటుంది?
+Original Answer: అన్నము, వాత
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కడుపు నిండా రాగాలు, వంటి నిండా గాయాలు?
+Original Answer: మురళి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: గీత కాని గీత, ఏమి గీత?
+Original Answer: భగవద్గీత
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఈ ప్ర‌పంచ‌లోని వారంద‌రూ నా బిడ్డ‌లే కాని అమ్మా! అని న‌న్నెవ‌రు పిల‌వ‌రు ఏం చేయాల‌న్నా ఏమి పొందాల‌న్నా నాలోనే ఎటూ పోవాల‌న్నా ఎక్క‌డికి వెళ్లాల‌న్నా నా మీదే..నేనెవ‌ర్ని?
+Original Answer: భూమి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అది లేకపోతే ఎవ్వరూ ఏమీ తినరు?
+Original Answer: ఆకలి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఇద్దరు అక్క చెల్లెల్లు, ప్రపంచం మొత్తం తిరిగి చూసినా, ఒకరినొకరు చూసుకోరు?
+Original Answer: కళ్ళు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: చెట్టుకు కాయ‌ని కాయ కర‌క‌ర‌లాడే కాయ‌? ఏంట‌ది?
+Original Answer: క‌జ్జికాయ‌
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఇల్లు మొత్తం వెలుగు, బల్ల కింద చీకటి?
+Original Answer: దీపం
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఇంట్లో మొగ్గ బ‌య‌ట‌కొస్తే పువ్వు?
+Original Answer: గొడుగు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఆడవారు తక్కువగా మాట్లాడే నెల?
+Original Answer: ఫిబ్రవరి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: నాలుగు క‌ర్ర‌ల మ‌ద్య న‌ల్ల‌రాయి? ఏంట‌ది?
+Original Answer: ప‌ల‌క‌
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఆడదానికి పుట్టినింట ఒకటి, మెట్టినింట ఒకటి?
+Original Answer: ఇంటి పేరు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అడవిలో చిన్న గని, గనికి చాలా గదులు, గదికొక్క సిపాయి, సిపాయికొక్క తుపాకి?
+Original Answer: తేనే పట్టు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఎర్రగా ఉంటాను కాని నేనెవరితో సరసాలాడను, నన్ను ముట్టుకుంటే ఊరుకోను.
+Original Answer: నిప్పు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఇష్టంగా తెచ్చుకుంటారు, చంపి ఏడుస్తారు?
+Original Answer: ఉల్లి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఇంటిలో ఉంటే ప్రమోదము, ఒంటిలో ఉంటే ప్రమాదము?
+Original Answer: పంచదార
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అన్నదమ్ములు ఇద్దరు, ఒకరంటే మరొకరికి పడదు, ఎప్పుడూ కొట్టుకుంటూనే ఉంటారు. వారి మధ్యకు ఎవరైనా వొస్తే పచ్చడి పచ్చడే?
+Original Answer: ఇసుర్రాయి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: సముద్రంలో పుట్టిపెరిగి ఊరిలో అరుస్తుంది, ఏమిటది?
+Original Answer: శంఖం
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అడ‌విలో పుట్టాను అడ‌విలో పెరిగాను వంటినిండా గాయాలు క‌డుపునిండా రాగాలు
+Original Answer: ముర‌ళి – ఫ్లూట్‌
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కోడి కాని కోడి, ఏమి కోడి?
+Original Answer: చకోడి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: చారల పాపకి దూది కుచ్చు!
+Original Answer: ఉడుత
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: నీళ్లు నుంచి వ‌స్తుంది. నీకు నాకూ రుచిస్తుంది? ఇంత‌కీ ఏమిట‌ది?
+Original Answer: పొట్ల‌కాయ‌లు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: పొద్దుటూరి చెట్లలో పొదిలింది చెళవాయి, చూసే వారే కాని పట్టే వారు లేరు?
+Original Answer: సూర్యుడు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అన్నదమ్ములు ముగ్గురు, తిరిగితే ముగ్గురూ తిరుగుతారు, మానితే ముగ్గురూ మానుతారు?
+Original Answer: ఫ్యాన్
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కీచు కీచు పిట్ట! నేలకేసి కొట్ట!!
+Original Answer: చీమిడి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: రెండు కొడతాయి, ఒకటి పెడుతుంది?
+Original Answer: ఎండ, వాన, చలి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: గారు కాని గారు, ఏమిగారు?
+Original Answer: కంగారు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఇంట్లో మొగ్గ, వీధిలో పువ్వు?
+Original Answer: గొడుగు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: తెల్ల‌టి శ‌న‌గ‌ల‌లో ఒక‌టేరాయి, చేతితో చ‌ల్ల‌డం నోటితో ఏరుకోవ‌డం ఏంట‌ది?
+Original Answer: పుస్త‌కం
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: తెలిసేలా పూస్తుంది, తెలియకుండా కాస్తుంది?
+Original Answer: వేరుశెనగ కాయ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కర్రలతో అతి చిన్న కర్ర?
+Original Answer: జీలకర్ర
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఊరంతా కదిలిన, ఊరగాయ కుండ కదలదు?
+Original Answer: బావి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఉరికంత ఒక్కటే దుప్పటి?
+Original Answer: ఆకాశము
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: చ‌క్క‌న‌మ్మ చిక్కినా అందంగా ఉంటుంది? ఏంట‌ది?
+Original Answer: స‌బ్బు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అడ‌విలో పుట్టింది అడ‌విలో పెరిగింది మా ఇంటికొచ్చింది తైత‌క్క లాడింది.
+Original Answer: చిల్ల క‌వ్వ‌
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ప‌చ్చ‌ని పాముకు తెల్ల‌ని చార‌లు? ఏంట‌ది?
+Original Answer: పొట్ల‌కాయ‌
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ముళ్ల కంచెలో మిఠాయి పొట్లం?
+Original Answer: తేనె పట్టు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఎర్రనిచెట్టు! నీళ్లు పోస్తే చస్తుంది!!?
+Original Answer: అగ్ని
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కొక లేదు, సీత కాదు! రామ చిలుక కానేకాదు!! అదేమిటి?
+Original Answer: సీతాకోక చిలుక
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఆడవారికి ఉండనిది, మగవారికి ఉండేది?
+Original Answer: మీసము
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: పెద్ద ఇంటిలో పొట్టివాన్ని నిలబెడితే నిండా నేనే?
+Original Answer: దీపం
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అగ్గిపెట్టెలో ఇద్ద‌రు పోలీసులు ఏంట‌ది?
+Original Answer: వేరుశ‌న‌గ కాయ‌
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: జీడివారి కోడ‌లు సిరిగ‌ల వారికి ఆడ‌ప‌డుచు వ‌య‌సులో కులికే వ‌య్యారి వైశాఖ‌మాసంలో వ‌స్తుంది.
+Original Answer: మామిడి పండు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కిరు కిరు త‌లుపులు కిటారు త‌లుపులు వెయ్యంగ వెయ్య‌స్త‌వి గాని తియ్యంగా తియ్య‌రావు ఏంట‌వి?
+Original Answer: ముగ్గు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: మొదట చప్పన, నడుమ పుల్లన, కొస కమ్మన?
+Original Answer: పాలు, పెరుగు, నెయ్యి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: చీక‌టింట్లో జ‌డ‌ల ద‌య్యం ఏమిట‌ది?
+Original Answer: ఉట్టి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అన్నింటికన్నా విలువైనది, అందరికి అవసరమైనది?
+Original Answer: ప్రాణము
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: చిన్న చిట్టిలో కమ్మని కూర?
+Original Answer: కిల్లీ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అడవిలో పుట్టాను, నల్లగా అయ్యాను, ఇంటికి వచ్చాను, ఎర్రగా మారాను, తొట్టిలో పడ్డాను తెల్లగా మారాను?
+Original Answer: బొగ్గు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కొనే టప్పుడు నలుపు, తినేటప్పుడు ఎరుపు, పారేసేటప్పుడు తెలుపు ఏమిటది?
+Original Answer: పుచ్చకాయ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: రాళ్ల అడుగున విల్లు, విల్లు కోనలో ముళ్లు?
+Original Answer: తేలు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: నల్ల స్తంభం పైన నలుగురు దొంగలు?
+Original Answer: లవంగం మొగ్గ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: రాజుగారి తోట‌లో రోజాపూలు చూచేవారేగాని లెక్క‌వేసేవారు కాదు ఏమిట‌వి?
+Original Answer: చుక్క‌లు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: గట్టుమీద రాయి! మినుకు మినుకు రాయి!!
+Original Answer: ముక్కు పుడక
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అందమైన గిన్నెలో ఎర్రని పిట్ట తోకతో నీళ్లు త్రాగుతుంది
+Original Answer: దీపం వత్తి
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: చిన్న పాపకు చాలా చీరలు. ఏమిటది?
+Original Answer: ఉల్లిపాయ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఎర్రవాడొస్తే తెల్లవాడు, పారిపోయి దాక్కుంటాడు?
+Original Answer: సూర్యుడు, చంద్రుడు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: గాలిలో ఎగిరే అద్దము పట్టుకుంటే పలిగి పోవు?
+Original Answer: సబ్బు బుడగ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అబ్బాయి గారి దొడ్లో పెద్ద పండు పడితే, పరుగెత్తలేక పది మంది చచ్చారు.
+Original Answer: పిడుగు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: నూరు పళ్ళు ఒకటే నోరు?
+Original Answer: దానిమ్మ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: గోళము కాని గోళము, ఏమి గోళము?
+Original Answer: గందర గోళము
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: గోడకు గొలుసు పండు!?
+Original Answer: లాంతరు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అందమైన చిన్నది, అందాల చిన్నది, నువ్వు చుస్తే నిన్ను చూస్తుంది, నేను చుస్తే నన్ను చూస్తుంది?
+Original Answer: అద్దము
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: అడుగులున్నా, కాళ్ళులేనిది?
+Original Answer: గజము బద్ద, మీటర్ స్కేలు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: కిట కిట తలుపులు! కిటారు తలుపులు!! ఎప్పుడు తీసినా చప్పుడు కాదు?
+Original Answer: కను రెప్పలు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఆకులు లేని అడ‌విలో జీవం లేని జంతువు జీవాల‌ను వేటాడుతుంది ఏంట‌ది?
+Original Answer: దువ్వెన‌
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Telugu:
+You are an expert in creating riddles in Telugu. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+provide only question and its answer
+
+Original Riddle: ఈత చెట్టుకు ఇద్దరు బిడ్డలు?
+Original Answer: కల్లు కుండలు
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]

@@ -1,0 +1,532 @@
+{
+  "riddles": [
+    {
+      "original_riddle": "നിവര്‍ത്തിയിട്ടൊരു പന്തിപ്പായി എടുത്തുമാറ്റാനൊക്കില്ല",
+      "original_answer": "പാത",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene97_1",
+          "new_answer": "GenAn97_1"
+        },
+        {
+          "new_riddle": "Gene97_2",
+          "new_answer": "GenAn97_2"
+        },
+        {
+          "new_riddle": "Gene97_3",
+          "new_answer": "GenAn97_3"
+        },
+        {
+          "new_riddle": "Gene97_4",
+          "new_answer": "GenAn97_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ഒരമ്മ നേരം വെളുത്താല്‍ വീടിനു ചുറ്റും ചുറ്റി നടക്കും പിന്നെച്ചെന്നൊരു മുക്കിലിരിക്കും",
+      "original_answer": "ചൂല്‍",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene98_1",
+          "new_answer": "GenAn98_1"
+        },
+        {
+          "new_riddle": "Gene98_2",
+          "new_answer": "GenAn98_2"
+        },
+        {
+          "new_riddle": "Gene98_3",
+          "new_answer": "GenAn98_3"
+        },
+        {
+          "new_riddle": "Gene98_4",
+          "new_answer": "GenAn98_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "അകത്തു നിന്നു നോക്കി കാണും കണ്ടതെല്ലാം ഉള്ളിലാകും",
+      "original_answer": "ക്യാമറ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene99_1",
+          "new_answer": "GenAn99_1"
+        },
+        {
+          "new_riddle": "Gene99_2",
+          "new_answer": "GenAn99_2"
+        },
+        {
+          "new_riddle": "Gene99_3",
+          "new_answer": "GenAn99_3"
+        },
+        {
+          "new_riddle": "Gene99_4",
+          "new_answer": "GenAn99_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "അകം എല്ലും തോലും പുറം പൊന്ത പൊന്തം.",
+      "original_answer": "വൈക്കോൽത്തുറു",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene100_1",
+          "new_answer": "GenAn100_1"
+        },
+        {
+          "new_riddle": "Gene100_2",
+          "new_answer": "GenAn100_2"
+        },
+        {
+          "new_riddle": "Gene100_3",
+          "new_answer": "GenAn100_3"
+        },
+        {
+          "new_riddle": "Gene100_4",
+          "new_answer": "GenAn100_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "അകത്തിരുന്നു പുറത്തേക്കു നാവു നീട്ടി",
+      "original_answer": "ഓവ്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene101_1",
+          "new_answer": "GenAn101_1"
+        },
+        {
+          "new_riddle": "Gene101_2",
+          "new_answer": "GenAn101_2"
+        },
+        {
+          "new_riddle": "Gene101_3",
+          "new_answer": "GenAn101_3"
+        },
+        {
+          "new_riddle": "Gene101_4",
+          "new_answer": "GenAn101_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "അങ്ങോട്ടോടും ഇങ്ങോട്ടോടും, മേലേനിന്ന് സത്യം പറയും.",
+      "original_answer": "തുലാസ്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene102_1",
+          "new_answer": "GenAn102_1"
+        },
+        {
+          "new_riddle": "Gene102_2",
+          "new_answer": "GenAn102_2"
+        },
+        {
+          "new_riddle": "Gene102_3",
+          "new_answer": "GenAn102_3"
+        },
+        {
+          "new_riddle": "Gene102_4",
+          "new_answer": "GenAn102_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "അച്ഛനൊരു പട്ടുതന്നു, മുക്കീട്ടും മുക്കീട്ടും നനയുന്നില്ല.",
+      "original_answer": "ചേമ്പില",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene103_1",
+          "new_answer": "GenAn103_1"
+        },
+        {
+          "new_riddle": "Gene103_2",
+          "new_answer": "GenAn103_2"
+        },
+        {
+          "new_riddle": "Gene103_3",
+          "new_answer": "GenAn103_3"
+        },
+        {
+          "new_riddle": "Gene103_4",
+          "new_answer": "GenAn103_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "അമ്പലത്തിലുള്ള ചെമ്പകത്തിനു കൊമ്പില്ല.",
+      "original_answer": "കൊടിമരം",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene104_1",
+          "new_answer": "GenAn104_1"
+        },
+        {
+          "new_riddle": "Gene104_2",
+          "new_answer": "GenAn104_2"
+        },
+        {
+          "new_riddle": "Gene104_3",
+          "new_answer": "GenAn104_3"
+        },
+        {
+          "new_riddle": "Gene104_4",
+          "new_answer": "GenAn104_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ആകാശത്തിലെത്തുന്ന തോട്ടി.",
+      "original_answer": "കണ്ണ്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene105_1",
+          "new_answer": "GenAn105_1"
+        },
+        {
+          "new_riddle": "Gene105_2",
+          "new_answer": "GenAn105_2"
+        },
+        {
+          "new_riddle": "Gene105_3",
+          "new_answer": "GenAn105_3"
+        },
+        {
+          "new_riddle": "Gene105_4",
+          "new_answer": "GenAn105_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ആരും തൊടാത്തൊരു ഇറച്ചിക്കഷണം.",
+      "original_answer": "തീക്കട്ട",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene106_1",
+          "new_answer": "GenAn106_1"
+        },
+        {
+          "new_riddle": "Gene106_2",
+          "new_answer": "GenAn106_2"
+        },
+        {
+          "new_riddle": "Gene106_3",
+          "new_answer": "GenAn106_3"
+        },
+        {
+          "new_riddle": "Gene106_4",
+          "new_answer": "GenAn106_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ഒരു കുപ്പിക്ക് രണ്ട് കുഴി.",
+      "original_answer": "മൂക്ക്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene107_1",
+          "new_answer": "GenAn107_1"
+        },
+        {
+          "new_riddle": "Gene107_2",
+          "new_answer": "GenAn107_2"
+        },
+        {
+          "new_riddle": "Gene107_3",
+          "new_answer": "GenAn107_3"
+        },
+        {
+          "new_riddle": "Gene107_4",
+          "new_answer": "GenAn107_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "കറുത്ത മതിലിന് നാല് കാല്.",
+      "original_answer": "ആന",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene108_1",
+          "new_answer": "GenAn108_1"
+        },
+        {
+          "new_riddle": "Gene108_2",
+          "new_answer": "GenAn108_2"
+        },
+        {
+          "new_riddle": "Gene108_3",
+          "new_answer": "GenAn108_3"
+        },
+        {
+          "new_riddle": "Gene108_4",
+          "new_answer": "GenAn108_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "നിലം കീറി പൊന്നെടുത്തു.",
+      "original_answer": "മഞ്ഞൾ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene109_1",
+          "new_answer": "GenAn109_1"
+        },
+        {
+          "new_riddle": "Gene109_2",
+          "new_answer": "GenAn109_2"
+        },
+        {
+          "new_riddle": "Gene109_3",
+          "new_answer": "GenAn109_3"
+        },
+        {
+          "new_riddle": "Gene109_4",
+          "new_answer": "GenAn109_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "മണ്ണിൽ മുളയ്ക്കാതെ മരത്തിൽ പടർന്നു.",
+      "original_answer": "ചിതൽ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene110_1",
+          "new_answer": "GenAn110_1"
+        },
+        {
+          "new_riddle": "Gene110_2",
+          "new_answer": "GenAn110_2"
+        },
+        {
+          "new_riddle": "Gene110_3",
+          "new_answer": "GenAn110_3"
+        },
+        {
+          "new_riddle": "Gene110_4",
+          "new_answer": "GenAn110_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "രണ്ടു കിണറിന് ഒരു പാലം.",
+      "original_answer": "മൂക്ക്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene111_1",
+          "new_answer": "GenAn111_1"
+        },
+        {
+          "new_riddle": "Gene111_2",
+          "new_answer": "GenAn111_2"
+        },
+        {
+          "new_riddle": "Gene111_3",
+          "new_answer": "GenAn111_3"
+        },
+        {
+          "new_riddle": "Gene111_4",
+          "new_answer": "GenAn111_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "രണ്ടു കാലുണ്ട്, മൂക്കില്ലെങ്കിൽ നിൽക്കാൻ പറ്റില്ല.",
+      "original_answer": "കണ്ണട",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene112_1",
+          "new_answer": "GenAn112_1"
+        },
+        {
+          "new_riddle": "Gene112_2",
+          "new_answer": "GenAn112_2"
+        },
+        {
+          "new_riddle": "Gene112_3",
+          "new_answer": "GenAn112_3"
+        },
+        {
+          "new_riddle": "Gene112_4",
+          "new_answer": "GenAn112_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ഉടുതുണിയില്ലാത്തോൻ കുട ചൂടി നിൽക്കുന്നു.",
+      "original_answer": "തെങ്ങ്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene113_1",
+          "new_answer": "GenAn113_1"
+        },
+        {
+          "new_riddle": "Gene113_2",
+          "new_answer": "GenAn113_2"
+        },
+        {
+          "new_riddle": "Gene113_3",
+          "new_answer": "GenAn113_3"
+        },
+        {
+          "new_riddle": "Gene113_4",
+          "new_answer": "GenAn113_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "കറിക്കു മുമ്പൻ ഇലക്കു പിമ്പൻ.",
+      "original_answer": "കറിവേപ്പില",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene114_1",
+          "new_answer": "GenAn114_1"
+        },
+        {
+          "new_riddle": "Gene114_2",
+          "new_answer": "GenAn114_2"
+        },
+        {
+          "new_riddle": "Gene114_3",
+          "new_answer": "GenAn114_3"
+        },
+        {
+          "new_riddle": "Gene114_4",
+          "new_answer": "GenAn114_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "കിട്ടാൻ പ്രയാസം, കിട്ടിയാൽ തീരില്ല, കൊടുത്താൽ വർദ്ധിക്കും.",
+      "original_answer": "വിദ്യ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene115_1",
+          "new_answer": "GenAn115_1"
+        },
+        {
+          "new_riddle": "Gene115_2",
+          "new_answer": "GenAn115_2"
+        },
+        {
+          "new_riddle": "Gene115_3",
+          "new_answer": "GenAn115_3"
+        },
+        {
+          "new_riddle": "Gene115_4",
+          "new_answer": "GenAn115_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "കൊക്കിരിക്കും കുളം വറ്റി വറ്റി.",
+      "original_answer": "നിലവിളക്ക്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene116_1",
+          "new_answer": "GenAn116_1"
+        },
+        {
+          "new_riddle": "Gene116_2",
+          "new_answer": "GenAn116_2"
+        },
+        {
+          "new_riddle": "Gene116_3",
+          "new_answer": "GenAn116_3"
+        },
+        {
+          "new_riddle": "Gene116_4",
+          "new_answer": "GenAn116_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "തല വട്ടിയിൽ, തടി തൊട്ടിയിൽ.",
+      "original_answer": "നെല്ല്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene117_1",
+          "new_answer": "GenAn117_1"
+        },
+        {
+          "new_riddle": "Gene117_2",
+          "new_answer": "GenAn117_2"
+        },
+        {
+          "new_riddle": "Gene117_3",
+          "new_answer": "GenAn117_3"
+        },
+        {
+          "new_riddle": "Gene117_4",
+          "new_answer": "GenAn117_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ഇവിടെ മന്ത്രിച്ചാല്‍ അവിടെ അലറും?",
+      "original_answer": "മൈക്ക്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene118_1",
+          "new_answer": "GenAn118_1"
+        },
+        {
+          "new_riddle": "Gene118_2",
+          "new_answer": "GenAn118_2"
+        },
+        {
+          "new_riddle": "Gene118_3",
+          "new_answer": "GenAn118_3"
+        },
+        {
+          "new_riddle": "Gene118_4",
+          "new_answer": "GenAn118_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "കഴിക്കാന്‍ കൊള്ളാം, പക്ഷേ ഈ കറി ചോറില്‍ കൂട്ടാന്‍ പറ്റില്ല",
+      "original_answer": "ബേക്കറി",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene119_1",
+          "new_answer": "GenAn119_1"
+        },
+        {
+          "new_riddle": "Gene119_2",
+          "new_answer": "GenAn119_2"
+        },
+        {
+          "new_riddle": "Gene119_3",
+          "new_answer": "GenAn119_3"
+        },
+        {
+          "new_riddle": "Gene119_4",
+          "new_answer": "GenAn119_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "വലിക്കും തോറും നീളം കുറയുന്ന ഒരു വസ്തു",
+      "original_answer": "സിഗററ്റ്",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene120_1",
+          "new_answer": "GenAn120_1"
+        },
+        {
+          "new_riddle": "Gene120_2",
+          "new_answer": "GenAn120_2"
+        },
+        {
+          "new_riddle": "Gene120_3",
+          "new_answer": "GenAn120_3"
+        },
+        {
+          "new_riddle": "Gene120_4",
+          "new_answer": "GenAn120_4"
+        }
+      ]
+    }
+  ]
+}

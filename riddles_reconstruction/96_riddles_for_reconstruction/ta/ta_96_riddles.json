@@ -1,0 +1,2116 @@
+{
+  "riddles": [
+    {
+      "original_riddle": "பச்சை பொட்டிக்குள் வெள்ளை முத்துகள்?",
+      "original_answer": "வெண்டைக்காய்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene10_1",
+          "new_answer": "GenAn10_1"
+        },
+        {
+          "new_riddle": "Gene10_2",
+          "new_answer": "GenAn10_2"
+        },
+        {
+          "new_riddle": "Gene10_3",
+          "new_answer": "GenAn10_3"
+        },
+        {
+          "new_riddle": "Gene10_4",
+          "new_answer": "GenAn10_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "மேலிலும் துவாரம், கீழிழும் துவாரம், வலதிலும் துவாரம், இடதிலும் துவாரம், உள்ளிலும் துவாரம் வெளியிலும் துவாரம் இருந்தும் நீரை என்னுள் சேமித்து வைப்பேன், நான் யார்?",
+      "original_answer": "பஞ்சு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene85_1",
+          "new_answer": "GenAn85_1"
+        },
+        {
+          "new_riddle": "Gene85_2",
+          "new_answer": "GenAn85_2"
+        },
+        {
+          "new_riddle": "Gene85_3",
+          "new_answer": "GenAn85_3"
+        },
+        {
+          "new_riddle": "Gene85_4",
+          "new_answer": "GenAn85_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "காலில் தண்ணீர் குடிப்பான், தலையில் முட்டையிடுவான் அவன் யார்?",
+      "original_answer": "தென்னை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene96_1",
+          "new_answer": "GenAn96_1"
+        },
+        {
+          "new_riddle": "Gene96_2",
+          "new_answer": "GenAn96_2"
+        },
+        {
+          "new_riddle": "Gene96_3",
+          "new_answer": "GenAn96_3"
+        },
+        {
+          "new_riddle": "Gene96_4",
+          "new_answer": "GenAn96_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ஊரெல்லாமல் ஒரே விளக்கு. அதற்கு ஒரு நாள் ஒய்வு அது?",
+      "original_answer": "சந்திரன்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene115_1",
+          "new_answer": "GenAn115_1"
+        },
+        {
+          "new_riddle": "Gene115_2",
+          "new_answer": "GenAn115_2"
+        },
+        {
+          "new_riddle": "Gene115_3",
+          "new_answer": "GenAn115_3"
+        },
+        {
+          "new_riddle": "Gene115_4",
+          "new_answer": "GenAn115_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பட்டுப்பை நிறைய பவுண் காசு. அது என்ன?",
+      "original_answer": "வத்தல் மிளகாய்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene93_1",
+          "new_answer": "GenAn93_1"
+        },
+        {
+          "new_riddle": "Gene93_2",
+          "new_answer": "GenAn93_2"
+        },
+        {
+          "new_riddle": "Gene93_3",
+          "new_answer": "GenAn93_3"
+        },
+        {
+          "new_riddle": "Gene93_4",
+          "new_answer": "GenAn93_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "இவனும் ஒரு பேப்பர் தான்; ஆனால், மதிப்போடு இருப்பான். அது என்ன?",
+      "original_answer": "பணம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene31_1",
+          "new_answer": "GenAn31_1"
+        },
+        {
+          "new_riddle": "Gene31_2",
+          "new_answer": "GenAn31_2"
+        },
+        {
+          "new_riddle": "Gene31_3",
+          "new_answer": "GenAn31_3"
+        },
+        {
+          "new_riddle": "Gene31_4",
+          "new_answer": "GenAn31_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "இருந்த இடத்தில் நகர்ந்தபடி இரவும் பகலும் செல்வான். அவன் யார்?",
+      "original_answer": "கடிகாரம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene94_1",
+          "new_answer": "GenAn94_1"
+        },
+        {
+          "new_riddle": "Gene94_2",
+          "new_answer": "GenAn94_2"
+        },
+        {
+          "new_riddle": "Gene94_3",
+          "new_answer": "GenAn94_3"
+        },
+        {
+          "new_riddle": "Gene94_4",
+          "new_answer": "GenAn94_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "மழையில் பிறந்து வெயிலில் காயுது?",
+      "original_answer": "காளான்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene88_1",
+          "new_answer": "GenAn88_1"
+        },
+        {
+          "new_riddle": "Gene88_2",
+          "new_answer": "GenAn88_2"
+        },
+        {
+          "new_riddle": "Gene88_3",
+          "new_answer": "GenAn88_3"
+        },
+        {
+          "new_riddle": "Gene88_4",
+          "new_answer": "GenAn88_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "சலசலவென சத்தம் போடுவான், சமயத்தில் தாகம் தீர்ப்பான். அவன் யார்?",
+      "original_answer": "அருவி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene97_1",
+          "new_answer": "GenAn97_1"
+        },
+        {
+          "new_riddle": "Gene97_2",
+          "new_answer": "GenAn97_2"
+        },
+        {
+          "new_riddle": "Gene97_3",
+          "new_answer": "GenAn97_3"
+        },
+        {
+          "new_riddle": "Gene97_4",
+          "new_answer": "GenAn97_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பச்சை நிற அழகிக்கு உதட்டுச் சாயம் பூசாமலே சிவந்தவாய் அவள் யார்?",
+      "original_answer": "கிளி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene110_1",
+          "new_answer": "GenAn110_1"
+        },
+        {
+          "new_riddle": "Gene110_2",
+          "new_answer": "GenAn110_2"
+        },
+        {
+          "new_riddle": "Gene110_3",
+          "new_answer": "GenAn110_3"
+        },
+        {
+          "new_riddle": "Gene110_4",
+          "new_answer": "GenAn110_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "செய்தி வரும் பின்னே, மணியோசை வரும் முன்னே. அது என்ன?",
+      "original_answer": "தொலைபேசி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene48_1",
+          "new_answer": "GenAn48_1"
+        },
+        {
+          "new_riddle": "Gene48_2",
+          "new_answer": "GenAn48_2"
+        },
+        {
+          "new_riddle": "Gene48_3",
+          "new_answer": "GenAn48_3"
+        },
+        {
+          "new_riddle": "Gene48_4",
+          "new_answer": "GenAn48_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "எவர் கையிலும் சிக்காத கல் எங்கும் விற்காத கல், அது என்ன?",
+      "original_answer": "விக்கல்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene80_1",
+          "new_answer": "GenAn80_1"
+        },
+        {
+          "new_riddle": "Gene80_2",
+          "new_answer": "GenAn80_2"
+        },
+        {
+          "new_riddle": "Gene80_3",
+          "new_answer": "GenAn80_3"
+        },
+        {
+          "new_riddle": "Gene80_4",
+          "new_answer": "GenAn80_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "அடித்தாலும், உதைத்தாலும் அவன் அழ மாட்டான், அவன் யார்?",
+      "original_answer": "பந்து",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene89_1",
+          "new_answer": "GenAn89_1"
+        },
+        {
+          "new_riddle": "Gene89_2",
+          "new_answer": "GenAn89_2"
+        },
+        {
+          "new_riddle": "Gene89_3",
+          "new_answer": "GenAn89_3"
+        },
+        {
+          "new_riddle": "Gene89_4",
+          "new_answer": "GenAn89_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "எப்போதும் மழையில் நனைவான் ஆனால் ஜுரம் வராது. எப்போதும் வெயிலில் காய்வான் ஆனால் ஏதும் ஆகாது. அவன் யார்?",
+      "original_answer": "குடை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene33_1",
+          "new_answer": "GenAn33_1"
+        },
+        {
+          "new_riddle": "Gene33_2",
+          "new_answer": "GenAn33_2"
+        },
+        {
+          "new_riddle": "Gene33_3",
+          "new_answer": "GenAn33_3"
+        },
+        {
+          "new_riddle": "Gene33_4",
+          "new_answer": "GenAn33_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வாயிலே தோன்றி வாயிலே மறையும் பூ. அது என்ன?",
+      "original_answer": "சிரிப்பு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene17_1",
+          "new_answer": "GenAn17_1"
+        },
+        {
+          "new_riddle": "Gene17_2",
+          "new_answer": "GenAn17_2"
+        },
+        {
+          "new_riddle": "Gene17_3",
+          "new_answer": "GenAn17_3"
+        },
+        {
+          "new_riddle": "Gene17_4",
+          "new_answer": "GenAn17_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "நீரிலும் வாழ்வேன், நிலத்திலும் வாழ்வேன். நீண்ட ஆயுள் உடைய எனக்கு இறைவன் கொடுத்த கவசமும் இருக்கு. நான் யார்?",
+      "original_answer": "ஆமை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene63_1",
+          "new_answer": "GenAn63_1"
+        },
+        {
+          "new_riddle": "Gene63_2",
+          "new_answer": "GenAn63_2"
+        },
+        {
+          "new_riddle": "Gene63_3",
+          "new_answer": "GenAn63_3"
+        },
+        {
+          "new_riddle": "Gene63_4",
+          "new_answer": "GenAn63_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பாலிலே புழு நெளியுது. அது என்ன?",
+      "original_answer": "பாயாசம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene83_1",
+          "new_answer": "GenAn83_1"
+        },
+        {
+          "new_riddle": "Gene83_2",
+          "new_answer": "GenAn83_2"
+        },
+        {
+          "new_riddle": "Gene83_3",
+          "new_answer": "GenAn83_3"
+        },
+        {
+          "new_riddle": "Gene83_4",
+          "new_answer": "GenAn83_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கல்லில் காய்க்கும்பூ தண்ணீரில் மலரும்பூ, அது என்ன பூ?",
+      "original_answer": "சுண்ணாம்பு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene98_1",
+          "new_answer": "GenAn98_1"
+        },
+        {
+          "new_riddle": "Gene98_2",
+          "new_answer": "GenAn98_2"
+        },
+        {
+          "new_riddle": "Gene98_3",
+          "new_answer": "GenAn98_3"
+        },
+        {
+          "new_riddle": "Gene98_4",
+          "new_answer": "GenAn98_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கடலிலே கலந்து, கரையிலே பிரிந்து, தெருவிலே திரியும் பூ எது?",
+      "original_answer": "உப்பு 4",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene52_1",
+          "new_answer": "GenAn52_1"
+        },
+        {
+          "new_riddle": "Gene52_2",
+          "new_answer": "GenAn52_2"
+        },
+        {
+          "new_riddle": "Gene52_3",
+          "new_answer": "GenAn52_3"
+        },
+        {
+          "new_riddle": "Gene52_4",
+          "new_answer": "GenAn52_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "எவ்வளவு முயன்றாலும் அவனை கடிக்க முடியாது. அவன் இல்லாமல் உணவே இல்லை. அவன் யார்?",
+      "original_answer": "தண்ணீர்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene69_1",
+          "new_answer": "GenAn69_1"
+        },
+        {
+          "new_riddle": "Gene69_2",
+          "new_answer": "GenAn69_2"
+        },
+        {
+          "new_riddle": "Gene69_3",
+          "new_answer": "GenAn69_3"
+        },
+        {
+          "new_riddle": "Gene69_4",
+          "new_answer": "GenAn69_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கருப்பு நிறமுடையவன், கபடம் அதிகம் கொண்டவன், கூவி அழைத்தால் வந்திடுவான், கூட்டம் சேர்த்தும் வந்திடுவான் – அவன் யார்?",
+      "original_answer": "காகம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene9_1",
+          "new_answer": "GenAn9_1"
+        },
+        {
+          "new_riddle": "Gene9_2",
+          "new_answer": "GenAn9_2"
+        },
+        {
+          "new_riddle": "Gene9_3",
+          "new_answer": "GenAn9_3"
+        },
+        {
+          "new_riddle": "Gene9_4",
+          "new_answer": "GenAn9_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "மரத்துக்கு மரம் தாவுவான் குரங்கல்ல, பட்டை போட்டிருப்பான் சாமி அல்ல, அவன் யார்?",
+      "original_answer": "அணில்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene62_1",
+          "new_answer": "GenAn62_1"
+        },
+        {
+          "new_riddle": "Gene62_2",
+          "new_answer": "GenAn62_2"
+        },
+        {
+          "new_riddle": "Gene62_3",
+          "new_answer": "GenAn62_3"
+        },
+        {
+          "new_riddle": "Gene62_4",
+          "new_answer": "GenAn62_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "காற்றைக் குடித்து காற்றில் பறப்பான், அவன் யார்?",
+      "original_answer": "பலூன்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene99_1",
+          "new_answer": "GenAn99_1"
+        },
+        {
+          "new_riddle": "Gene99_2",
+          "new_answer": "GenAn99_2"
+        },
+        {
+          "new_riddle": "Gene99_3",
+          "new_answer": "GenAn99_3"
+        },
+        {
+          "new_riddle": "Gene99_4",
+          "new_answer": "GenAn99_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "இது ஒரு பூ. முதற்பகுதி ஆதவனின் மறுபெயர்; பிற்பகுதி தேசத் தந்தையை குறிக்கும். அது என்ன?",
+      "original_answer": "சூரிய காந்தி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene109_1",
+          "new_answer": "GenAn109_1"
+        },
+        {
+          "new_riddle": "Gene109_2",
+          "new_answer": "GenAn109_2"
+        },
+        {
+          "new_riddle": "Gene109_3",
+          "new_answer": "GenAn109_3"
+        },
+        {
+          "new_riddle": "Gene109_4",
+          "new_answer": "GenAn109_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கொதிக்கும் கிணற்றில் குதித்துக் குண்டாகி வருவான். அவன் யார்?",
+      "original_answer": "பூரி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene8_1",
+          "new_answer": "GenAn8_1"
+        },
+        {
+          "new_riddle": "Gene8_2",
+          "new_answer": "GenAn8_2"
+        },
+        {
+          "new_riddle": "Gene8_3",
+          "new_answer": "GenAn8_3"
+        },
+        {
+          "new_riddle": "Gene8_4",
+          "new_answer": "GenAn8_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பிடுங்கலாம் நடமுடியாது அது என்ன?",
+      "original_answer": "தலைமுடி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene2_1",
+          "new_answer": "GenAn2_1"
+        },
+        {
+          "new_riddle": "Gene2_2",
+          "new_answer": "GenAn2_2"
+        },
+        {
+          "new_riddle": "Gene2_3",
+          "new_answer": "GenAn2_3"
+        },
+        {
+          "new_riddle": "Gene2_4",
+          "new_answer": "GenAn2_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ஆயிரம் பேர் அணி வகுத்தாலும் ஆரவாரம் இராது- அவர்கள் யார்?",
+      "original_answer": "எறும்புக் கூட்டம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene79_1",
+          "new_answer": "GenAn79_1"
+        },
+        {
+          "new_riddle": "Gene79_2",
+          "new_answer": "GenAn79_2"
+        },
+        {
+          "new_riddle": "Gene79_3",
+          "new_answer": "GenAn79_3"
+        },
+        {
+          "new_riddle": "Gene79_4",
+          "new_answer": "GenAn79_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "நான்கு கால்கள் உள்ளவன், இரண்டு கைகள் உள்ளவன், உட்கார்ந்து கொண்டிருப்பான், உட்கார இடம் கொடுப்பான் அவன் யார்?",
+      "original_answer": "நாற்காலி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene71_1",
+          "new_answer": "GenAn71_1"
+        },
+        {
+          "new_riddle": "Gene71_2",
+          "new_answer": "GenAn71_2"
+        },
+        {
+          "new_riddle": "Gene71_3",
+          "new_answer": "GenAn71_3"
+        },
+        {
+          "new_riddle": "Gene71_4",
+          "new_answer": "GenAn71_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கடல் நீரில் வளர்ந்து , மழை நீரில் மடிவது என்ன ?",
+      "original_answer": "உப்பு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene27_1",
+          "new_answer": "GenAn27_1"
+        },
+        {
+          "new_riddle": "Gene27_2",
+          "new_answer": "GenAn27_2"
+        },
+        {
+          "new_riddle": "Gene27_3",
+          "new_answer": "GenAn27_3"
+        },
+        {
+          "new_riddle": "Gene27_4",
+          "new_answer": "GenAn27_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "குண்டுச்சட்டியில குதிரை ஓட்டறான்.",
+      "original_answer": "கரன்டி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene81_1",
+          "new_answer": "GenAn81_1"
+        },
+        {
+          "new_riddle": "Gene81_2",
+          "new_answer": "GenAn81_2"
+        },
+        {
+          "new_riddle": "Gene81_3",
+          "new_answer": "GenAn81_3"
+        },
+        {
+          "new_riddle": "Gene81_4",
+          "new_answer": "GenAn81_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "படபடக்கும், பளபளக்கும், பண்டிகை வந்தால் வானில் பறக்கும். அது என்ன ?",
+      "original_answer": "பட்டாசு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene22_1",
+          "new_answer": "GenAn22_1"
+        },
+        {
+          "new_riddle": "Gene22_2",
+          "new_answer": "GenAn22_2"
+        },
+        {
+          "new_riddle": "Gene22_3",
+          "new_answer": "GenAn22_3"
+        },
+        {
+          "new_riddle": "Gene22_4",
+          "new_answer": "GenAn22_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": ". பற்கள் இருக்கும் கடிக்கமாட்டான் அவன் யார்?",
+      "original_answer": "சீப்பு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene53_1",
+          "new_answer": "GenAn53_1"
+        },
+        {
+          "new_riddle": "Gene53_2",
+          "new_answer": "GenAn53_2"
+        },
+        {
+          "new_riddle": "Gene53_3",
+          "new_answer": "GenAn53_3"
+        },
+        {
+          "new_riddle": "Gene53_4",
+          "new_answer": "GenAn53_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "உயிர் இல்லாத நீதிபதியிடம் ஒழுங்கான நியாயம்- அது என்ன?",
+      "original_answer": "தராசு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene42_1",
+          "new_answer": "GenAn42_1"
+        },
+        {
+          "new_riddle": "Gene42_2",
+          "new_answer": "GenAn42_2"
+        },
+        {
+          "new_riddle": "Gene42_3",
+          "new_answer": "GenAn42_3"
+        },
+        {
+          "new_riddle": "Gene42_4",
+          "new_answer": "GenAn42_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பல் துவக்ககாதவனுக்கு உடம்பு எல்லாம் பற்கள்?",
+      "original_answer": "சீப்பு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene51_1",
+          "new_answer": "GenAn51_1"
+        },
+        {
+          "new_riddle": "Gene51_2",
+          "new_answer": "GenAn51_2"
+        },
+        {
+          "new_riddle": "Gene51_3",
+          "new_answer": "GenAn51_3"
+        },
+        {
+          "new_riddle": "Gene51_4",
+          "new_answer": "GenAn51_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வயதான பலருக்கு புதிதாக ஒரு கை அது என்ன?",
+      "original_answer": "வழுக்கை / பொக்கை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene67_1",
+          "new_answer": "GenAn67_1"
+        },
+        {
+          "new_riddle": "Gene67_2",
+          "new_answer": "GenAn67_2"
+        },
+        {
+          "new_riddle": "Gene67_3",
+          "new_answer": "GenAn67_3"
+        },
+        {
+          "new_riddle": "Gene67_4",
+          "new_answer": "GenAn67_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கீழேயும் மேலேயும் மண்; நடுவிலே அழகான பெண். அது என்ன?",
+      "original_answer": "மஞ்சல்செடி.",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene40_1",
+          "new_answer": "GenAn40_1"
+        },
+        {
+          "new_riddle": "Gene40_2",
+          "new_answer": "GenAn40_2"
+        },
+        {
+          "new_riddle": "Gene40_3",
+          "new_answer": "GenAn40_3"
+        },
+        {
+          "new_riddle": "Gene40_4",
+          "new_answer": "GenAn40_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "இளமையில் பச்சை, முதுமையில் சிகப்பு, குணத்திலே எரிப்பு. விடை தெரியுமா?",
+      "original_answer": "மிளகாய்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene68_1",
+          "new_answer": "GenAn68_1"
+        },
+        {
+          "new_riddle": "Gene68_2",
+          "new_answer": "GenAn68_2"
+        },
+        {
+          "new_riddle": "Gene68_3",
+          "new_answer": "GenAn68_3"
+        },
+        {
+          "new_riddle": "Gene68_4",
+          "new_answer": "GenAn68_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பெட்டியைத் திறந்தால் பூட்ட முடியாது. அது என்ன?",
+      "original_answer": "தேங்காய்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene35_1",
+          "new_answer": "GenAn35_1"
+        },
+        {
+          "new_riddle": "Gene35_2",
+          "new_answer": "GenAn35_2"
+        },
+        {
+          "new_riddle": "Gene35_3",
+          "new_answer": "GenAn35_3"
+        },
+        {
+          "new_riddle": "Gene35_4",
+          "new_answer": "GenAn35_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வீட்டுக்கு வந்த விருந்தாளியை வரவேற்க ஆளில்லை. அது என்ன?",
+      "original_answer": "செருப்பு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene61_1",
+          "new_answer": "GenAn61_1"
+        },
+        {
+          "new_riddle": "Gene61_2",
+          "new_answer": "GenAn61_2"
+        },
+        {
+          "new_riddle": "Gene61_3",
+          "new_answer": "GenAn61_3"
+        },
+        {
+          "new_riddle": "Gene61_4",
+          "new_answer": "GenAn61_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "மாமா போட்ட பந்தல் மறுபடி பிரிச்சா கந்தல் அது என்ன?",
+      "original_answer": "சிலந்தி வலை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene39_1",
+          "new_answer": "GenAn39_1"
+        },
+        {
+          "new_riddle": "Gene39_2",
+          "new_answer": "GenAn39_2"
+        },
+        {
+          "new_riddle": "Gene39_3",
+          "new_answer": "GenAn39_3"
+        },
+        {
+          "new_riddle": "Gene39_4",
+          "new_answer": "GenAn39_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "முறையின்றித் தொட்டால்,ஒட்டிக் கொண்டு உயிரை எடுப்பான் அவன் யார்?",
+      "original_answer": "மின்சாரம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene60_1",
+          "new_answer": "GenAn60_1"
+        },
+        {
+          "new_riddle": "Gene60_2",
+          "new_answer": "GenAn60_2"
+        },
+        {
+          "new_riddle": "Gene60_3",
+          "new_answer": "GenAn60_3"
+        },
+        {
+          "new_riddle": "Gene60_4",
+          "new_answer": "GenAn60_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "நடுவழிய ஓய்வுக்காம், கடையிரண்டில் ஏதுமில்லை சொல், மூன்றெழுத்தில் உடுத்தலாம், மொத்தத்தில் பெண்கள் விருப்பம், அது என்ன?",
+      "original_answer": "பட்டு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene56_1",
+          "new_answer": "GenAn56_1"
+        },
+        {
+          "new_riddle": "Gene56_2",
+          "new_answer": "GenAn56_2"
+        },
+        {
+          "new_riddle": "Gene56_3",
+          "new_answer": "GenAn56_3"
+        },
+        {
+          "new_riddle": "Gene56_4",
+          "new_answer": "GenAn56_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பார்க்க அழகு பாம்புக்கு எதிரி அது என்ன?",
+      "original_answer": "மயில்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene77_1",
+          "new_answer": "GenAn77_1"
+        },
+        {
+          "new_riddle": "Gene77_2",
+          "new_answer": "GenAn77_2"
+        },
+        {
+          "new_riddle": "Gene77_3",
+          "new_answer": "GenAn77_3"
+        },
+        {
+          "new_riddle": "Gene77_4",
+          "new_answer": "GenAn77_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ஓர் அரண்மனையில் முப்பத்திரெண்டு காவலர்கள் அது என்ன?",
+      "original_answer": "பற்கள்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene23_1",
+          "new_answer": "GenAn23_1"
+        },
+        {
+          "new_riddle": "Gene23_2",
+          "new_answer": "GenAn23_2"
+        },
+        {
+          "new_riddle": "Gene23_3",
+          "new_answer": "GenAn23_3"
+        },
+        {
+          "new_riddle": "Gene23_4",
+          "new_answer": "GenAn23_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "தாய் குப்பையிலே, மகள் சந்தையிலே அவை என்ன?",
+      "original_answer": "நெல்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene64_1",
+          "new_answer": "GenAn64_1"
+        },
+        {
+          "new_riddle": "Gene64_2",
+          "new_answer": "GenAn64_2"
+        },
+        {
+          "new_riddle": "Gene64_3",
+          "new_answer": "GenAn64_3"
+        },
+        {
+          "new_riddle": "Gene64_4",
+          "new_answer": "GenAn64_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கையை வெட்டுவார்; கழுத்தை வெட்டுவார். ஆனாலும் நல்லவர். யார் அவர்?",
+      "original_answer": "தையல்காரர்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene66_1",
+          "new_answer": "GenAn66_1"
+        },
+        {
+          "new_riddle": "Gene66_2",
+          "new_answer": "GenAn66_2"
+        },
+        {
+          "new_riddle": "Gene66_3",
+          "new_answer": "GenAn66_3"
+        },
+        {
+          "new_riddle": "Gene66_4",
+          "new_answer": "GenAn66_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "உணவை எடுப்பான் ஆனால் உண்ணமாட்டான் அவன் யார்?",
+      "original_answer": "அகப்பை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene24_1",
+          "new_answer": "GenAn24_1"
+        },
+        {
+          "new_riddle": "Gene24_2",
+          "new_answer": "GenAn24_2"
+        },
+        {
+          "new_riddle": "Gene24_3",
+          "new_answer": "GenAn24_3"
+        },
+        {
+          "new_riddle": "Gene24_4",
+          "new_answer": "GenAn24_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "சொன்ன நேரத்துக்கு தொண்டை கிழிய கத்துவான். அவன் யார் ?",
+      "original_answer": "அலாரம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene41_1",
+          "new_answer": "GenAn41_1"
+        },
+        {
+          "new_riddle": "Gene41_2",
+          "new_answer": "GenAn41_2"
+        },
+        {
+          "new_riddle": "Gene41_3",
+          "new_answer": "GenAn41_3"
+        },
+        {
+          "new_riddle": "Gene41_4",
+          "new_answer": "GenAn41_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "நடந்தவன் நின்றான் கத்தியை எடுத்து தலையைச் சீவினேன் மறுபடியும் நடந்தான் அவன் யார்?",
+      "original_answer": "பென்சில்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene100_1",
+          "new_answer": "GenAn100_1"
+        },
+        {
+          "new_riddle": "Gene100_2",
+          "new_answer": "GenAn100_2"
+        },
+        {
+          "new_riddle": "Gene100_3",
+          "new_answer": "GenAn100_3"
+        },
+        {
+          "new_riddle": "Gene100_4",
+          "new_answer": "GenAn100_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "அம்மா படுத்திருக்க மகள் ஓடித்திரிவாள் அது என்ன?",
+      "original_answer": "அம்மி குளவி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene113_1",
+          "new_answer": "GenAn113_1"
+        },
+        {
+          "new_riddle": "Gene113_2",
+          "new_answer": "GenAn113_2"
+        },
+        {
+          "new_riddle": "Gene113_3",
+          "new_answer": "GenAn113_3"
+        },
+        {
+          "new_riddle": "Gene113_4",
+          "new_answer": "GenAn113_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "காலையில் வந்த விருந்தாளியை மாலையில் காணவில்லை. அது என்ன?",
+      "original_answer": "சூரியன்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene25_1",
+          "new_answer": "GenAn25_1"
+        },
+        {
+          "new_riddle": "Gene25_2",
+          "new_answer": "GenAn25_2"
+        },
+        {
+          "new_riddle": "Gene25_3",
+          "new_answer": "GenAn25_3"
+        },
+        {
+          "new_riddle": "Gene25_4",
+          "new_answer": "GenAn25_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ஆலமரம் தூங்க அவனியெல்லாம் தூங்க, சீரங்கம் தூங்க திருப்பாற்கடல் தூங்க, ஒருவன் மட்டும் தூங்கவில்லை அவன் யார்?",
+      "original_answer": "மூச்சு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene7_1",
+          "new_answer": "GenAn7_1"
+        },
+        {
+          "new_riddle": "Gene7_2",
+          "new_answer": "GenAn7_2"
+        },
+        {
+          "new_riddle": "Gene7_3",
+          "new_answer": "GenAn7_3"
+        },
+        {
+          "new_riddle": "Gene7_4",
+          "new_answer": "GenAn7_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "நாளெல்லாம் நடந்தாலும் நாற்பதடி செல்லாது அந்த நாயகனுக்கோ உடல் மேல் கவசம் அது என்ன?",
+      "original_answer": "நத்தை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene57_1",
+          "new_answer": "GenAn57_1"
+        },
+        {
+          "new_riddle": "Gene57_2",
+          "new_answer": "GenAn57_2"
+        },
+        {
+          "new_riddle": "Gene57_3",
+          "new_answer": "GenAn57_3"
+        },
+        {
+          "new_riddle": "Gene57_4",
+          "new_answer": "GenAn57_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ஓடையில கருப்பு மீனு துள்ளி விளையாடுது அது என்ன ?",
+      "original_answer": "கண்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene91_1",
+          "new_answer": "GenAn91_1"
+        },
+        {
+          "new_riddle": "Gene91_2",
+          "new_answer": "GenAn91_2"
+        },
+        {
+          "new_riddle": "Gene91_3",
+          "new_answer": "GenAn91_3"
+        },
+        {
+          "new_riddle": "Gene91_4",
+          "new_answer": "GenAn91_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "இலையுண்டு கிளையில்லை,பூ உண்டு மணமில்லை,காய் உண்டு விதையில்லை,பட்டை உண்டு கட்டை இல்லை,கன்று உண்டு பசு இல்லை அது என்ன?",
+      "original_answer": "வாழை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene19_1",
+          "new_answer": "GenAn19_1"
+        },
+        {
+          "new_riddle": "Gene19_2",
+          "new_answer": "GenAn19_2"
+        },
+        {
+          "new_riddle": "Gene19_3",
+          "new_answer": "GenAn19_3"
+        },
+        {
+          "new_riddle": "Gene19_4",
+          "new_answer": "GenAn19_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பா‌ர்‌க்க‌த்தா‌ன் கறுப்பு; ஆனா‌ல் உள்ளமோ சிவப்பு. நம‌க்கு‌த் தருவதோ சுறுசுறு‌ப்பு அது என்ன?",
+      "original_answer": "தேயிலை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene50_1",
+          "new_answer": "GenAn50_1"
+        },
+        {
+          "new_riddle": "Gene50_2",
+          "new_answer": "GenAn50_2"
+        },
+        {
+          "new_riddle": "Gene50_3",
+          "new_answer": "GenAn50_3"
+        },
+        {
+          "new_riddle": "Gene50_4",
+          "new_answer": "GenAn50_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "நன்றிக்கு வால் கோபத்துக்கு வாய் அது என்ன?",
+      "original_answer": "நாய்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene119_1",
+          "new_answer": "GenAn119_1"
+        },
+        {
+          "new_riddle": "Gene119_2",
+          "new_answer": "GenAn119_2"
+        },
+        {
+          "new_riddle": "Gene119_3",
+          "new_answer": "GenAn119_3"
+        },
+        {
+          "new_riddle": "Gene119_4",
+          "new_answer": "GenAn119_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பூவோடு பிறந்து; நாவோடு கலந்து விருந்தாவான் மருந்தாவான். அவன் யார்?",
+      "original_answer": "தேன்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene43_1",
+          "new_answer": "GenAn43_1"
+        },
+        {
+          "new_riddle": "Gene43_2",
+          "new_answer": "GenAn43_2"
+        },
+        {
+          "new_riddle": "Gene43_3",
+          "new_answer": "GenAn43_3"
+        },
+        {
+          "new_riddle": "Gene43_4",
+          "new_answer": "GenAn43_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "உடம்பில்லா ஒருவன் பத்து சட்டை அணீந்திருப்பான்? அவன் யார்?",
+      "original_answer": "வெங்காயம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene3_1",
+          "new_answer": "GenAn3_1"
+        },
+        {
+          "new_riddle": "Gene3_2",
+          "new_answer": "GenAn3_2"
+        },
+        {
+          "new_riddle": "Gene3_3",
+          "new_answer": "GenAn3_3"
+        },
+        {
+          "new_riddle": "Gene3_4",
+          "new_answer": "GenAn3_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கூரை வீட்டைப் பிரிச்சா ஓட்டுவீடு! ஓட்டு வீட்டுக்குள்ள வெள்ளை மாளிகை!வெள்ளை மாளிகைக்கு நடுவில் குளம்!அது என்ன?",
+      "original_answer": "தேங்காய்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene104_1",
+          "new_answer": "GenAn104_1"
+        },
+        {
+          "new_riddle": "Gene104_2",
+          "new_answer": "GenAn104_2"
+        },
+        {
+          "new_riddle": "Gene104_3",
+          "new_answer": "GenAn104_3"
+        },
+        {
+          "new_riddle": "Gene104_4",
+          "new_answer": "GenAn104_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ஒரு குகை, 32 வீரர்கள் , ஒரு நாகம் அது என்ன?",
+      "original_answer": "வாய்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene73_1",
+          "new_answer": "GenAn73_1"
+        },
+        {
+          "new_riddle": "Gene73_2",
+          "new_answer": "GenAn73_2"
+        },
+        {
+          "new_riddle": "Gene73_3",
+          "new_answer": "GenAn73_3"
+        },
+        {
+          "new_riddle": "Gene73_4",
+          "new_answer": "GenAn73_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கையில்லாமல் நீந்துவான்; கால் இல்லாமல் ஓடுவான். அவன் யார்?",
+      "original_answer": "படகு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene74_1",
+          "new_answer": "GenAn74_1"
+        },
+        {
+          "new_riddle": "Gene74_2",
+          "new_answer": "GenAn74_2"
+        },
+        {
+          "new_riddle": "Gene74_3",
+          "new_answer": "GenAn74_3"
+        },
+        {
+          "new_riddle": "Gene74_4",
+          "new_answer": "GenAn74_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வலை படபடக்கும்,பளபளக்கும் மனதுக்குள் இடம் பிடிக்கும் அது என்ன?",
+      "original_answer": "பட்டாசு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene37_1",
+          "new_answer": "GenAn37_1"
+        },
+        {
+          "new_riddle": "Gene37_2",
+          "new_answer": "GenAn37_2"
+        },
+        {
+          "new_riddle": "Gene37_3",
+          "new_answer": "GenAn37_3"
+        },
+        {
+          "new_riddle": "Gene37_4",
+          "new_answer": "GenAn37_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "தலைக்குள் கண் வைத்திருப்பவன் இவன் மட்டும்தான் அவன் யார்?",
+      "original_answer": "நுங்கு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene47_1",
+          "new_answer": "GenAn47_1"
+        },
+        {
+          "new_riddle": "Gene47_2",
+          "new_answer": "GenAn47_2"
+        },
+        {
+          "new_riddle": "Gene47_3",
+          "new_answer": "GenAn47_3"
+        },
+        {
+          "new_riddle": "Gene47_4",
+          "new_answer": "GenAn47_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "உயிரில்லாதவனுக்கு உடம்பெல்லாம் நரம்பு, அது என்ன?",
+      "original_answer": "பாய்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene38_1",
+          "new_answer": "GenAn38_1"
+        },
+        {
+          "new_riddle": "Gene38_2",
+          "new_answer": "GenAn38_2"
+        },
+        {
+          "new_riddle": "Gene38_3",
+          "new_answer": "GenAn38_3"
+        },
+        {
+          "new_riddle": "Gene38_4",
+          "new_answer": "GenAn38_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "சிறு தூசி விழுந்ததும் குளமே கலங்கியது அது என்ன?",
+      "original_answer": "கண்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene11_1",
+          "new_answer": "GenAn11_1"
+        },
+        {
+          "new_riddle": "Gene11_2",
+          "new_answer": "GenAn11_2"
+        },
+        {
+          "new_riddle": "Gene11_3",
+          "new_answer": "GenAn11_3"
+        },
+        {
+          "new_riddle": "Gene11_4",
+          "new_answer": "GenAn11_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "முட்டையிடும், குஞ்சு பொரிக்காது. கூட்டில் குடியிருக்கும், கூடு கட்டத் தெரியாது. குரலில் இனிமையுண்டு, சங்கீதம் தெரியாது! – அது என்ன?",
+      "original_answer": "குயில்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene75_1",
+          "new_answer": "GenAn75_1"
+        },
+        {
+          "new_riddle": "Gene75_2",
+          "new_answer": "GenAn75_2"
+        },
+        {
+          "new_riddle": "Gene75_3",
+          "new_answer": "GenAn75_3"
+        },
+        {
+          "new_riddle": "Gene75_4",
+          "new_answer": "GenAn75_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "யாரும் செய்யாத கதவு தானே திறக்கும் தானே மூடும். அது என்ன?",
+      "original_answer": "இமை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene16_1",
+          "new_answer": "GenAn16_1"
+        },
+        {
+          "new_riddle": "Gene16_2",
+          "new_answer": "GenAn16_2"
+        },
+        {
+          "new_riddle": "Gene16_3",
+          "new_answer": "GenAn16_3"
+        },
+        {
+          "new_riddle": "Gene16_4",
+          "new_answer": "GenAn16_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வீட்டுக்கு வந்த தொந்தியப்பன் தினமும் கரைகிறான். அவன் யார்?",
+      "original_answer": "நாட்காட்டி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene59_1",
+          "new_answer": "GenAn59_1"
+        },
+        {
+          "new_riddle": "Gene59_2",
+          "new_answer": "GenAn59_2"
+        },
+        {
+          "new_riddle": "Gene59_3",
+          "new_answer": "GenAn59_3"
+        },
+        {
+          "new_riddle": "Gene59_4",
+          "new_answer": "GenAn59_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "இடி இடிக்கும், மின்னல் மின்னும், மழை பெய்யாது- அது என்ன?",
+      "original_answer": "பட்டாசு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene6_1",
+          "new_answer": "GenAn6_1"
+        },
+        {
+          "new_riddle": "Gene6_2",
+          "new_answer": "GenAn6_2"
+        },
+        {
+          "new_riddle": "Gene6_3",
+          "new_answer": "GenAn6_3"
+        },
+        {
+          "new_riddle": "Gene6_4",
+          "new_answer": "GenAn6_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "தொடாமல் அழுவான், தொட்டால் பேசுவான். அவன் யார்?",
+      "original_answer": "தொலைபேசி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene34_1",
+          "new_answer": "GenAn34_1"
+        },
+        {
+          "new_riddle": "Gene34_2",
+          "new_answer": "GenAn34_2"
+        },
+        {
+          "new_riddle": "Gene34_3",
+          "new_answer": "GenAn34_3"
+        },
+        {
+          "new_riddle": "Gene34_4",
+          "new_answer": "GenAn34_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "உடம்பெல்லாம் சிவப்பு, அதன் குடுமி பச்சை அது என்ன?",
+      "original_answer": "தக்காளி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene45_1",
+          "new_answer": "GenAn45_1"
+        },
+        {
+          "new_riddle": "Gene45_2",
+          "new_answer": "GenAn45_2"
+        },
+        {
+          "new_riddle": "Gene45_3",
+          "new_answer": "GenAn45_3"
+        },
+        {
+          "new_riddle": "Gene45_4",
+          "new_answer": "GenAn45_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ஒட்டுத் திண்ணையில் பட்டுப் பாவாடை அது என்ன?",
+      "original_answer": "தோடு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene46_1",
+          "new_answer": "GenAn46_1"
+        },
+        {
+          "new_riddle": "Gene46_2",
+          "new_answer": "GenAn46_2"
+        },
+        {
+          "new_riddle": "Gene46_3",
+          "new_answer": "GenAn46_3"
+        },
+        {
+          "new_riddle": "Gene46_4",
+          "new_answer": "GenAn46_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வெள்ளை ஆடை உடுத்திய மஞ்சள் மகாராணி? அவள் யார்?",
+      "original_answer": "முட்டை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene13_1",
+          "new_answer": "GenAn13_1"
+        },
+        {
+          "new_riddle": "Gene13_2",
+          "new_answer": "GenAn13_2"
+        },
+        {
+          "new_riddle": "Gene13_3",
+          "new_answer": "GenAn13_3"
+        },
+        {
+          "new_riddle": "Gene13_4",
+          "new_answer": "GenAn13_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வாயிலிருந்து நூல் போடுவான்; மந்திரவாதியும் இல்லை, கிளைக்குக் கிளை தாவுவான்; குரங்கும் இல்லை, வலைவிரித்துப் பதுங்கியிருப்பான்; வேடனும் இல்லை – அவன் யார்?",
+      "original_answer": "சிலந்தி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene49_1",
+          "new_answer": "GenAn49_1"
+        },
+        {
+          "new_riddle": "Gene49_2",
+          "new_answer": "GenAn49_2"
+        },
+        {
+          "new_riddle": "Gene49_3",
+          "new_answer": "GenAn49_3"
+        },
+        {
+          "new_riddle": "Gene49_4",
+          "new_answer": "GenAn49_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வெள்ளை ராஜாவுக்கு கறுப்பு உடை அது என்ன?",
+      "original_answer": "உழுந்து",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene102_1",
+          "new_answer": "GenAn102_1"
+        },
+        {
+          "new_riddle": "Gene102_2",
+          "new_answer": "GenAn102_2"
+        },
+        {
+          "new_riddle": "Gene102_3",
+          "new_answer": "GenAn102_3"
+        },
+        {
+          "new_riddle": "Gene102_4",
+          "new_answer": "GenAn102_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "இரவு வீட்டிற்கு வருவான், இரவு முழுவதும் இருப்பான் காலையில் சொல்லாமல் கொள்ளாமல் போய்விட்டிருப்பான்?",
+      "original_answer": "நிலா",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene111_1",
+          "new_answer": "GenAn111_1"
+        },
+        {
+          "new_riddle": "Gene111_2",
+          "new_answer": "GenAn111_2"
+        },
+        {
+          "new_riddle": "Gene111_3",
+          "new_answer": "GenAn111_3"
+        },
+        {
+          "new_riddle": "Gene111_4",
+          "new_answer": "GenAn111_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பூ கொட்ட கொட்ட ஒன்றையும் தனியே பொறுக்க முடியவில்லை?",
+      "original_answer": "மழை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene120_1",
+          "new_answer": "GenAn120_1"
+        },
+        {
+          "new_riddle": "Gene120_2",
+          "new_answer": "GenAn120_2"
+        },
+        {
+          "new_riddle": "Gene120_3",
+          "new_answer": "GenAn120_3"
+        },
+        {
+          "new_riddle": "Gene120_4",
+          "new_answer": "GenAn120_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "எத்தனை தரம் சுற்றினாலும் தலை சுற்றாது, அது என்ன?",
+      "original_answer": "மின் விசிறி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene101_1",
+          "new_answer": "GenAn101_1"
+        },
+        {
+          "new_riddle": "Gene101_2",
+          "new_answer": "GenAn101_2"
+        },
+        {
+          "new_riddle": "Gene101_3",
+          "new_answer": "GenAn101_3"
+        },
+        {
+          "new_riddle": "Gene101_4",
+          "new_answer": "GenAn101_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வெளியே உள்ளதை எறிந்து உள்ளே உள்ளதை சமைத்தான். பின் வெளியே உள்ளதை சாப்பிட்டு விட்டு உள்ளே உள்ளதை எறிந்தான் அது என்ன?",
+      "original_answer": "சோளம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene20_1",
+          "new_answer": "GenAn20_1"
+        },
+        {
+          "new_riddle": "Gene20_2",
+          "new_answer": "GenAn20_2"
+        },
+        {
+          "new_riddle": "Gene20_3",
+          "new_answer": "GenAn20_3"
+        },
+        {
+          "new_riddle": "Gene20_4",
+          "new_answer": "GenAn20_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ஆழக் குழி தோண்டி அதிலே ஒரு முட்டையிட்டு அண்ணாந்து பார்த்தால் தொண்ணூறு முட்டை அது என்ன?",
+      "original_answer": "தென்னை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene86_1",
+          "new_answer": "GenAn86_1"
+        },
+        {
+          "new_riddle": "Gene86_2",
+          "new_answer": "GenAn86_2"
+        },
+        {
+          "new_riddle": "Gene86_3",
+          "new_answer": "GenAn86_3"
+        },
+        {
+          "new_riddle": "Gene86_4",
+          "new_answer": "GenAn86_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "நூல் நூற்கும் நெசவாளிக்கு கட்டிக்கொள்ள துணியில்லை அது என்ன?",
+      "original_answer": "சிலந்தி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene44_1",
+          "new_answer": "GenAn44_1"
+        },
+        {
+          "new_riddle": "Gene44_2",
+          "new_answer": "GenAn44_2"
+        },
+        {
+          "new_riddle": "Gene44_3",
+          "new_answer": "GenAn44_3"
+        },
+        {
+          "new_riddle": "Gene44_4",
+          "new_answer": "GenAn44_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பேச்சுக் கேட்குது பேசுபவர் தெரியவில்லை. அது என்ன?",
+      "original_answer": "வானொலி பெட்டி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene105_1",
+          "new_answer": "GenAn105_1"
+        },
+        {
+          "new_riddle": "Gene105_2",
+          "new_answer": "GenAn105_2"
+        },
+        {
+          "new_riddle": "Gene105_3",
+          "new_answer": "GenAn105_3"
+        },
+        {
+          "new_riddle": "Gene105_4",
+          "new_answer": "GenAn105_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கடைசி வார்த்தையில் மானம் உண்டு, முதல் வார்த்தையின் மென்மைக்காக இறந்தன பூச்சிகள். காஞ்சியில் நான் யார்?",
+      "original_answer": "பட்டுத்துணி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene21_1",
+          "new_answer": "GenAn21_1"
+        },
+        {
+          "new_riddle": "Gene21_2",
+          "new_answer": "GenAn21_2"
+        },
+        {
+          "new_riddle": "Gene21_3",
+          "new_answer": "GenAn21_3"
+        },
+        {
+          "new_riddle": "Gene21_4",
+          "new_answer": "GenAn21_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "இவன் வாலுக்கு வையகமே நடுங்கும் அவன் யார்?",
+      "original_answer": "தேள்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene1_1",
+          "new_answer": "GenAn1_1"
+        },
+        {
+          "new_riddle": "Gene1_2",
+          "new_answer": "GenAn1_2"
+        },
+        {
+          "new_riddle": "Gene1_3",
+          "new_answer": "GenAn1_3"
+        },
+        {
+          "new_riddle": "Gene1_4",
+          "new_answer": "GenAn1_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "உடம்பெல்லாம் தங்கநிறம், தலையில் பச்சை கிரீடம் அது என்ன?",
+      "original_answer": "அன்னாசிப் பழம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene116_1",
+          "new_answer": "GenAn116_1"
+        },
+        {
+          "new_riddle": "Gene116_2",
+          "new_answer": "GenAn116_2"
+        },
+        {
+          "new_riddle": "Gene116_3",
+          "new_answer": "GenAn116_3"
+        },
+        {
+          "new_riddle": "Gene116_4",
+          "new_answer": "GenAn116_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கந்தல் துணிக்காரி முத்துப் பிள்ளைகள் பெற்றாள் அவள் யார்?",
+      "original_answer": "சோளப்பொத்தி",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene106_1",
+          "new_answer": "GenAn106_1"
+        },
+        {
+          "new_riddle": "Gene106_2",
+          "new_answer": "GenAn106_2"
+        },
+        {
+          "new_riddle": "Gene106_3",
+          "new_answer": "GenAn106_3"
+        },
+        {
+          "new_riddle": "Gene106_4",
+          "new_answer": "GenAn106_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "நீளவால் குதிரையின் வால் ஓடஓடக் குறையும் அது என்ன?",
+      "original_answer": "தையல் ஊசியும் நூலும்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene58_1",
+          "new_answer": "GenAn58_1"
+        },
+        {
+          "new_riddle": "Gene58_2",
+          "new_answer": "GenAn58_2"
+        },
+        {
+          "new_riddle": "Gene58_3",
+          "new_answer": "GenAn58_3"
+        },
+        {
+          "new_riddle": "Gene58_4",
+          "new_answer": "GenAn58_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ஒரு வீட்டுக்கு இரண்டு வாசல்படி. அது என்ன?",
+      "original_answer": "மூக்கு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene114_1",
+          "new_answer": "GenAn114_1"
+        },
+        {
+          "new_riddle": "Gene114_2",
+          "new_answer": "GenAn114_2"
+        },
+        {
+          "new_riddle": "Gene114_3",
+          "new_answer": "GenAn114_3"
+        },
+        {
+          "new_riddle": "Gene114_4",
+          "new_answer": "GenAn114_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வால் நீண்ட குருவிக்கு வாயுண்டு. வயிறில்லை. அது என்ன?",
+      "original_answer": "அகப்பை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene54_1",
+          "new_answer": "GenAn54_1"
+        },
+        {
+          "new_riddle": "Gene54_2",
+          "new_answer": "GenAn54_2"
+        },
+        {
+          "new_riddle": "Gene54_3",
+          "new_answer": "GenAn54_3"
+        },
+        {
+          "new_riddle": "Gene54_4",
+          "new_answer": "GenAn54_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "உடல் சிவப்பு, வாய் அகலம், உணவு காகிதம்- நான் யார்?",
+      "original_answer": "அஞ்சல் பெட்டி.",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene108_1",
+          "new_answer": "GenAn108_1"
+        },
+        {
+          "new_riddle": "Gene108_2",
+          "new_answer": "GenAn108_2"
+        },
+        {
+          "new_riddle": "Gene108_3",
+          "new_answer": "GenAn108_3"
+        },
+        {
+          "new_riddle": "Gene108_4",
+          "new_answer": "GenAn108_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வட்ட வட்ட நிலவில் வரைஞ்சிருக்கு; எழுதியிருக்கு. அது என்ன?",
+      "original_answer": "நாணயம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene90_1",
+          "new_answer": "GenAn90_1"
+        },
+        {
+          "new_riddle": "Gene90_2",
+          "new_answer": "GenAn90_2"
+        },
+        {
+          "new_riddle": "Gene90_3",
+          "new_answer": "GenAn90_3"
+        },
+        {
+          "new_riddle": "Gene90_4",
+          "new_answer": "GenAn90_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "வளைந்து நெளிந்து செல்பவள் வழியெங்கும் தாகம் தீர்ப்பாள் அவள் யார்?",
+      "original_answer": "ஆறு",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene84_1",
+          "new_answer": "GenAn84_1"
+        },
+        {
+          "new_riddle": "Gene84_2",
+          "new_answer": "GenAn84_2"
+        },
+        {
+          "new_riddle": "Gene84_3",
+          "new_answer": "GenAn84_3"
+        },
+        {
+          "new_riddle": "Gene84_4",
+          "new_answer": "GenAn84_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "பூ பூப்பது கண்ணுக்குத் தெரியும். காய் காய்ப்பது கண்ணுக்குத் தெரியாது. அது என்ன?",
+      "original_answer": "வேர்கடலை",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene92_1",
+          "new_answer": "GenAn92_1"
+        },
+        {
+          "new_riddle": "Gene92_2",
+          "new_answer": "GenAn92_2"
+        },
+        {
+          "new_riddle": "Gene92_3",
+          "new_answer": "GenAn92_3"
+        },
+        {
+          "new_riddle": "Gene92_4",
+          "new_answer": "GenAn92_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "கந்தல் துணி கட்டியவன், முத்துப் பிள்ளைகளைப் பெற்று மகிழ்ந்தான். அது என்ன?",
+      "original_answer": "சோளக்கதிர்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene26_1",
+          "new_answer": "GenAn26_1"
+        },
+        {
+          "new_riddle": "Gene26_2",
+          "new_answer": "GenAn26_2"
+        },
+        {
+          "new_riddle": "Gene26_3",
+          "new_answer": "GenAn26_3"
+        },
+        {
+          "new_riddle": "Gene26_4",
+          "new_answer": "GenAn26_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "சட்டையைக் கழற்றினால் சத்துணவு அது என்ன?",
+      "original_answer": "வாழைப்பழம்",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene72_1",
+          "new_answer": "GenAn72_1"
+        },
+        {
+          "new_riddle": "Gene72_2",
+          "new_answer": "GenAn72_2"
+        },
+        {
+          "new_riddle": "Gene72_3",
+          "new_answer": "GenAn72_3"
+        },
+        {
+          "new_riddle": "Gene72_4",
+          "new_answer": "GenAn72_4"
+        }
+      ]
+    }
+  ]
+}

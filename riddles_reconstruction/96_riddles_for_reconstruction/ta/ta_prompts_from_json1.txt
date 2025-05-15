@@ -1,0 +1,959 @@
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பச்சை பொட்டிக்குள் வெள்ளை முத்துகள்?
+Original Answer: வெண்டைக்காய்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: மேலிலும் துவாரம், கீழிழும் துவாரம், வலதிலும் துவாரம், இடதிலும் துவாரம், உள்ளிலும் துவாரம் வெளியிலும் துவாரம் இருந்தும் நீரை என்னுள் சேமித்து வைப்பேன், நான் யார்?
+Original Answer: பஞ்சு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: காலில் தண்ணீர் குடிப்பான், தலையில் முட்டையிடுவான் அவன் யார்?
+Original Answer: தென்னை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: ஊரெல்லாமல் ஒரே விளக்கு. அதற்கு ஒரு நாள் ஒய்வு அது?
+Original Answer: சந்திரன்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பட்டுப்பை நிறைய பவுண் காசு. அது என்ன?
+Original Answer: வத்தல் மிளகாய்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: இவனும் ஒரு பேப்பர் தான்; ஆனால், மதிப்போடு இருப்பான். அது என்ன?
+Original Answer: பணம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: இருந்த இடத்தில் நகர்ந்தபடி இரவும் பகலும் செல்வான். அவன் யார்?
+Original Answer: கடிகாரம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: மழையில் பிறந்து வெயிலில் காயுது?
+Original Answer: காளான்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: சலசலவென சத்தம் போடுவான், சமயத்தில் தாகம் தீர்ப்பான். அவன் யார்?
+Original Answer: அருவி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பச்சை நிற அழகிக்கு உதட்டுச் சாயம் பூசாமலே சிவந்தவாய் அவள் யார்?
+Original Answer: கிளி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: செய்தி வரும் பின்னே, மணியோசை வரும் முன்னே. அது என்ன?
+Original Answer: தொலைபேசி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: எவர் கையிலும் சிக்காத கல் எங்கும் விற்காத கல், அது என்ன?
+Original Answer: விக்கல்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: அடித்தாலும், உதைத்தாலும் அவன் அழ மாட்டான், அவன் யார்?
+Original Answer: பந்து
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: எப்போதும் மழையில் நனைவான் ஆனால் ஜுரம் வராது. எப்போதும் வெயிலில் காய்வான் ஆனால் ஏதும் ஆகாது. அவன் யார்?
+Original Answer: குடை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வாயிலே தோன்றி வாயிலே மறையும் பூ. அது என்ன?
+Original Answer: சிரிப்பு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: நீரிலும் வாழ்வேன், நிலத்திலும் வாழ்வேன். நீண்ட ஆயுள் உடைய எனக்கு இறைவன் கொடுத்த கவசமும் இருக்கு. நான் யார்?
+Original Answer: ஆமை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பாலிலே புழு நெளியுது. அது என்ன?
+Original Answer: பாயாசம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கல்லில் காய்க்கும்பூ தண்ணீரில் மலரும்பூ, அது என்ன பூ?
+Original Answer: சுண்ணாம்பு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கடலிலே கலந்து, கரையிலே பிரிந்து, தெருவிலே திரியும் பூ எது?
+Original Answer: உப்பு 4
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: எவ்வளவு முயன்றாலும் அவனை கடிக்க முடியாது. அவன் இல்லாமல் உணவே இல்லை. அவன் யார்?
+Original Answer: தண்ணீர்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கருப்பு நிறமுடையவன், கபடம் அதிகம் கொண்டவன், கூவி அழைத்தால் வந்திடுவான், கூட்டம் சேர்த்தும் வந்திடுவான் – அவன் யார்?
+Original Answer: காகம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: மரத்துக்கு மரம் தாவுவான் குரங்கல்ல, பட்டை போட்டிருப்பான் சாமி அல்ல, அவன் யார்?
+Original Answer: அணில்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: காற்றைக் குடித்து காற்றில் பறப்பான், அவன் யார்?
+Original Answer: பலூன்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: இது ஒரு பூ. முதற்பகுதி ஆதவனின் மறுபெயர்; பிற்பகுதி தேசத் தந்தையை குறிக்கும். அது என்ன?
+Original Answer: சூரிய காந்தி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கொதிக்கும் கிணற்றில் குதித்துக் குண்டாகி வருவான். அவன் யார்?
+Original Answer: பூரி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பிடுங்கலாம் நடமுடியாது அது என்ன?
+Original Answer: தலைமுடி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: ஆயிரம் பேர் அணி வகுத்தாலும் ஆரவாரம் இராது- அவர்கள் யார்?
+Original Answer: எறும்புக் கூட்டம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: நான்கு கால்கள் உள்ளவன், இரண்டு கைகள் உள்ளவன், உட்கார்ந்து கொண்டிருப்பான், உட்கார இடம் கொடுப்பான் அவன் யார்?
+Original Answer: நாற்காலி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கடல் நீரில் வளர்ந்து , மழை நீரில் மடிவது என்ன ?
+Original Answer: உப்பு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: குண்டுச்சட்டியில குதிரை ஓட்டறான்.
+Original Answer: கரன்டி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: படபடக்கும், பளபளக்கும், பண்டிகை வந்தால் வானில் பறக்கும். அது என்ன ?
+Original Answer: பட்டாசு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: . பற்கள் இருக்கும் கடிக்கமாட்டான் அவன் யார்?
+Original Answer: சீப்பு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: உயிர் இல்லாத நீதிபதியிடம் ஒழுங்கான நியாயம்- அது என்ன?
+Original Answer: தராசு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பல் துவக்ககாதவனுக்கு உடம்பு எல்லாம் பற்கள்?
+Original Answer: சீப்பு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வயதான பலருக்கு புதிதாக ஒரு கை அது என்ன?
+Original Answer: வழுக்கை / பொக்கை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கீழேயும் மேலேயும் மண்; நடுவிலே அழகான பெண். அது என்ன?
+Original Answer: மஞ்சல்செடி.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: இளமையில் பச்சை, முதுமையில் சிகப்பு, குணத்திலே எரிப்பு. விடை தெரியுமா?
+Original Answer: மிளகாய்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பெட்டியைத் திறந்தால் பூட்ட முடியாது. அது என்ன?
+Original Answer: தேங்காய்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வீட்டுக்கு வந்த விருந்தாளியை வரவேற்க ஆளில்லை. அது என்ன?
+Original Answer: செருப்பு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: மாமா போட்ட பந்தல் மறுபடி பிரிச்சா கந்தல் அது என்ன?
+Original Answer: சிலந்தி வலை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: முறையின்றித் தொட்டால்,ஒட்டிக் கொண்டு உயிரை எடுப்பான் அவன் யார்?
+Original Answer: மின்சாரம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: நடுவழிய ஓய்வுக்காம், கடையிரண்டில் ஏதுமில்லை சொல், மூன்றெழுத்தில் உடுத்தலாம், மொத்தத்தில் பெண்கள் விருப்பம், அது என்ன?
+Original Answer: பட்டு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பார்க்க அழகு பாம்புக்கு எதிரி அது என்ன?
+Original Answer: மயில்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: ஓர் அரண்மனையில் முப்பத்திரெண்டு காவலர்கள் அது என்ன?
+Original Answer: பற்கள்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: தாய் குப்பையிலே, மகள் சந்தையிலே அவை என்ன?
+Original Answer: நெல்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கையை வெட்டுவார்; கழுத்தை வெட்டுவார். ஆனாலும் நல்லவர். யார் அவர்?
+Original Answer: தையல்காரர்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: உணவை எடுப்பான் ஆனால் உண்ணமாட்டான் அவன் யார்?
+Original Answer: அகப்பை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: சொன்ன நேரத்துக்கு தொண்டை கிழிய கத்துவான். அவன் யார் ?
+Original Answer: அலாரம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: நடந்தவன் நின்றான் கத்தியை எடுத்து தலையைச் சீவினேன் மறுபடியும் நடந்தான் அவன் யார்?
+Original Answer: பென்சில்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: அம்மா படுத்திருக்க மகள் ஓடித்திரிவாள் அது என்ன?
+Original Answer: அம்மி குளவி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: காலையில் வந்த விருந்தாளியை மாலையில் காணவில்லை. அது என்ன?
+Original Answer: சூரியன்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: ஆலமரம் தூங்க அவனியெல்லாம் தூங்க, சீரங்கம் தூங்க திருப்பாற்கடல் தூங்க, ஒருவன் மட்டும் தூங்கவில்லை அவன் யார்?
+Original Answer: மூச்சு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: நாளெல்லாம் நடந்தாலும் நாற்பதடி செல்லாது அந்த நாயகனுக்கோ உடல் மேல் கவசம் அது என்ன?
+Original Answer: நத்தை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: ஓடையில கருப்பு மீனு துள்ளி விளையாடுது அது என்ன ?
+Original Answer: கண்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: இலையுண்டு கிளையில்லை,பூ உண்டு மணமில்லை,காய் உண்டு விதையில்லை,பட்டை உண்டு கட்டை இல்லை,கன்று உண்டு பசு இல்லை அது என்ன?
+Original Answer: வாழை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பா‌ர்‌க்க‌த்தா‌ன் கறுப்பு; ஆனா‌ல் உள்ளமோ சிவப்பு. நம‌க்கு‌த் தருவதோ சுறுசுறு‌ப்பு அது என்ன?
+Original Answer: தேயிலை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: நன்றிக்கு வால் கோபத்துக்கு வாய் அது என்ன?
+Original Answer: நாய்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பூவோடு பிறந்து; நாவோடு கலந்து விருந்தாவான் மருந்தாவான். அவன் யார்?
+Original Answer: தேன்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: உடம்பில்லா ஒருவன் பத்து சட்டை அணீந்திருப்பான்? அவன் யார்?
+Original Answer: வெங்காயம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கூரை வீட்டைப் பிரிச்சா ஓட்டுவீடு! ஓட்டு வீட்டுக்குள்ள வெள்ளை மாளிகை!வெள்ளை மாளிகைக்கு நடுவில் குளம்!அது என்ன?
+Original Answer: தேங்காய்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: ஒரு குகை, 32 வீரர்கள் , ஒரு நாகம் அது என்ன?
+Original Answer: வாய்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கையில்லாமல் நீந்துவான்; கால் இல்லாமல் ஓடுவான். அவன் யார்?
+Original Answer: படகு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வலை படபடக்கும்,பளபளக்கும் மனதுக்குள் இடம் பிடிக்கும் அது என்ன?
+Original Answer: பட்டாசு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: தலைக்குள் கண் வைத்திருப்பவன் இவன் மட்டும்தான் அவன் யார்?
+Original Answer: நுங்கு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: உயிரில்லாதவனுக்கு உடம்பெல்லாம் நரம்பு, அது என்ன?
+Original Answer: பாய்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: சிறு தூசி விழுந்ததும் குளமே கலங்கியது அது என்ன?
+Original Answer: கண்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: முட்டையிடும், குஞ்சு பொரிக்காது. கூட்டில் குடியிருக்கும், கூடு கட்டத் தெரியாது. குரலில் இனிமையுண்டு, சங்கீதம் தெரியாது! – அது என்ன?
+Original Answer: குயில்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: யாரும் செய்யாத கதவு தானே திறக்கும் தானே மூடும். அது என்ன?
+Original Answer: இமை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வீட்டுக்கு வந்த தொந்தியப்பன் தினமும் கரைகிறான். அவன் யார்?
+Original Answer: நாட்காட்டி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: இடி இடிக்கும், மின்னல் மின்னும், மழை பெய்யாது- அது என்ன?
+Original Answer: பட்டாசு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: தொடாமல் அழுவான், தொட்டால் பேசுவான். அவன் யார்?
+Original Answer: தொலைபேசி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: உடம்பெல்லாம் சிவப்பு, அதன் குடுமி பச்சை அது என்ன?
+Original Answer: தக்காளி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: ஒட்டுத் திண்ணையில் பட்டுப் பாவாடை அது என்ன?
+Original Answer: தோடு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வெள்ளை ஆடை உடுத்திய மஞ்சள் மகாராணி? அவள் யார்?
+Original Answer: முட்டை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வாயிலிருந்து நூல் போடுவான்; மந்திரவாதியும் இல்லை, கிளைக்குக் கிளை தாவுவான்; குரங்கும் இல்லை, வலைவிரித்துப் பதுங்கியிருப்பான்; வேடனும் இல்லை – அவன் யார்?
+Original Answer: சிலந்தி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வெள்ளை ராஜாவுக்கு கறுப்பு உடை அது என்ன?
+Original Answer: உழுந்து
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: இரவு வீட்டிற்கு வருவான், இரவு முழுவதும் இருப்பான் காலையில் சொல்லாமல் கொள்ளாமல் போய்விட்டிருப்பான்?
+Original Answer: நிலா
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பூ கொட்ட கொட்ட ஒன்றையும் தனியே பொறுக்க முடியவில்லை?
+Original Answer: மழை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: எத்தனை தரம் சுற்றினாலும் தலை சுற்றாது, அது என்ன?
+Original Answer: மின் விசிறி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வெளியே உள்ளதை எறிந்து உள்ளே உள்ளதை சமைத்தான். பின் வெளியே உள்ளதை சாப்பிட்டு விட்டு உள்ளே உள்ளதை எறிந்தான் அது என்ன?
+Original Answer: சோளம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: ஆழக் குழி தோண்டி அதிலே ஒரு முட்டையிட்டு அண்ணாந்து பார்த்தால் தொண்ணூறு முட்டை அது என்ன?
+Original Answer: தென்னை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: நூல் நூற்கும் நெசவாளிக்கு கட்டிக்கொள்ள துணியில்லை அது என்ன?
+Original Answer: சிலந்தி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பேச்சுக் கேட்குது பேசுபவர் தெரியவில்லை. அது என்ன?
+Original Answer: வானொலி பெட்டி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கடைசி வார்த்தையில் மானம் உண்டு, முதல் வார்த்தையின் மென்மைக்காக இறந்தன பூச்சிகள். காஞ்சியில் நான் யார்?
+Original Answer: பட்டுத்துணி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: இவன் வாலுக்கு வையகமே நடுங்கும் அவன் யார்?
+Original Answer: தேள்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: உடம்பெல்லாம் தங்கநிறம், தலையில் பச்சை கிரீடம் அது என்ன?
+Original Answer: அன்னாசிப் பழம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கந்தல் துணிக்காரி முத்துப் பிள்ளைகள் பெற்றாள் அவள் யார்?
+Original Answer: சோளப்பொத்தி
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: நீளவால் குதிரையின் வால் ஓடஓடக் குறையும் அது என்ன?
+Original Answer: தையல் ஊசியும் நூலும்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: ஒரு வீட்டுக்கு இரண்டு வாசல்படி. அது என்ன?
+Original Answer: மூக்கு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வால் நீண்ட குருவிக்கு வாயுண்டு. வயிறில்லை. அது என்ன?
+Original Answer: அகப்பை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: உடல் சிவப்பு, வாய் அகலம், உணவு காகிதம்- நான் யார்?
+Original Answer: அஞ்சல் பெட்டி.
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வட்ட வட்ட நிலவில் வரைஞ்சிருக்கு; எழுதியிருக்கு. அது என்ன?
+Original Answer: நாணயம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: வளைந்து நெளிந்து செல்பவள் வழியெங்கும் தாகம் தீர்ப்பாள் அவள் யார்?
+Original Answer: ஆறு
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: பூ பூப்பது கண்ணுக்குத் தெரியும். காய் காய்ப்பது கண்ணுக்குத் தெரியாது. அது என்ன?
+Original Answer: வேர்கடலை
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: கந்தல் துணி கட்டியவன், முத்துப் பிள்ளைகளைப் பெற்று மகிழ்ந்தான். அது என்ன?
+Original Answer: சோளக்கதிர்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Tamil:
+You are an expert in creating riddles in Tamil. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+
+Original Riddle: சட்டையைக் கழற்றினால் சத்துணவு அது என்ன?
+Original Answer: வாழைப்பழம்
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]

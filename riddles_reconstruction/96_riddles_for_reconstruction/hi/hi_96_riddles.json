@@ -1,0 +1,2116 @@
+{
+  "riddles": [
+    {
+      "original_riddle": "ऐसा कौन सा शब्द है, जिसे लिखते तो है, पर पढ़ते नही है ?,",
+      "original_answer": "नही",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene1_1",
+          "new_answer": "GenAn1_1"
+        },
+        {
+          "new_riddle": "Gene1_2",
+          "new_answer": "GenAn1_2"
+        },
+        {
+          "new_riddle": "Gene1_3",
+          "new_answer": "GenAn1_3"
+        },
+        {
+          "new_riddle": "Gene1_4",
+          "new_answer": "GenAn1_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "अगर स्कूटी स्पीड से चला रही महिला के सामने पति और भाई खड़े है, तो सबसे पहले वो किसे मारेगी?,",
+      "original_answer": "ब्रेक",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene2_1",
+          "new_answer": "GenAn2_1"
+        },
+        {
+          "new_riddle": "Gene2_2",
+          "new_answer": "GenAn2_2"
+        },
+        {
+          "new_riddle": "Gene2_3",
+          "new_answer": "GenAn2_3"
+        },
+        {
+          "new_riddle": "Gene2_4",
+          "new_answer": "GenAn2_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "कौन सी चीज है जो अगर चलते चलते थक जाए तो उसकी गर्दन काटने पर वह दोबारा चलने लग जाती है ?,",
+      "original_answer": " पेंसिल",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene3_1",
+          "new_answer": "GenAn3_1"
+        },
+        {
+          "new_riddle": "Gene3_2",
+          "new_answer": "GenAn3_2"
+        },
+        {
+          "new_riddle": "Gene3_3",
+          "new_answer": "GenAn3_3"
+        },
+        {
+          "new_riddle": "Gene3_4",
+          "new_answer": "GenAn3_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "वह क्या चीज है जिसे आदमी छुपा कर और औरत दिखा कर चलती है ?,",
+      "original_answer": "पर्स",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene4_1",
+          "new_answer": "GenAn4_1"
+        },
+        {
+          "new_riddle": "Gene4_2",
+          "new_answer": "GenAn4_2"
+        },
+        {
+          "new_riddle": "Gene4_3",
+          "new_answer": "GenAn4_3"
+        },
+        {
+          "new_riddle": "Gene4_4",
+          "new_answer": "GenAn4_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "खुद कभी वह कुछ न खाए,\\nलेकिन सब को खूब खिलाए |,",
+      "original_answer": "चम्मच",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene5_1",
+          "new_answer": "GenAn5_1"
+        },
+        {
+          "new_riddle": "Gene5_2",
+          "new_answer": "GenAn5_2"
+        },
+        {
+          "new_riddle": "Gene5_3",
+          "new_answer": "GenAn5_3"
+        },
+        {
+          "new_riddle": "Gene5_4",
+          "new_answer": "GenAn5_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "वह क्या है, जो है तो सोने की, मगर सोने से बहुत सस्ती है?,",
+      "original_answer": "चारपाई",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene6_1",
+          "new_answer": "GenAn6_1"
+        },
+        {
+          "new_riddle": "Gene6_2",
+          "new_answer": "GenAn6_2"
+        },
+        {
+          "new_riddle": "Gene6_3",
+          "new_answer": "GenAn6_3"
+        },
+        {
+          "new_riddle": "Gene6_4",
+          "new_answer": "GenAn6_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "वह कौन है, जो जितना भी बूढ़ा हो जाए, मगर फिर भी वह जवान हीं रहता है?,",
+      "original_answer": "सैनिक",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene7_1",
+          "new_answer": "GenAn7_1"
+        },
+        {
+          "new_riddle": "Gene7_2",
+          "new_answer": "GenAn7_2"
+        },
+        {
+          "new_riddle": "Gene7_3",
+          "new_answer": "GenAn7_3"
+        },
+        {
+          "new_riddle": "Gene7_4",
+          "new_answer": "GenAn7_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "उसे दिन भर उठाते व रखते हैं। बिना उसके कहीं जा नहीं सकते हैं।,",
+      "original_answer": "पैर",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene8_1",
+          "new_answer": "GenAn8_1"
+        },
+        {
+          "new_riddle": "Gene8_2",
+          "new_answer": "GenAn8_2"
+        },
+        {
+          "new_riddle": "Gene8_3",
+          "new_answer": "GenAn8_3"
+        },
+        {
+          "new_riddle": "Gene8_4",
+          "new_answer": "GenAn8_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "शुरुआत में वो हरा रहता है, बाद में वो पिला हो जाए, बच्चे हो या बूढ़े सभी उसे मजे से खाएं।,",
+      "original_answer": "आम",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene9_1",
+          "new_answer": "GenAn9_1"
+        },
+        {
+          "new_riddle": "Gene9_2",
+          "new_answer": "GenAn9_2"
+        },
+        {
+          "new_riddle": "Gene9_3",
+          "new_answer": "GenAn9_3"
+        },
+        {
+          "new_riddle": "Gene9_4",
+          "new_answer": "GenAn9_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "काला मुंह लाल शरीर, कागज को वह खाता, रोज शाम को पेट फाड़कर कोई उन्हें ले जाता।,",
+      "original_answer": "लेटर बॉक्स",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene10_1",
+          "new_answer": "GenAn10_1"
+        },
+        {
+          "new_riddle": "Gene10_2",
+          "new_answer": "GenAn10_2"
+        },
+        {
+          "new_riddle": "Gene10_3",
+          "new_answer": "GenAn10_3"
+        },
+        {
+          "new_riddle": "Gene10_4",
+          "new_answer": "GenAn10_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "रात में है, दिन में नहीं, दीया के नीचे, ऊपर नहीं, बूझो मेरा नाम सही ?,",
+      "original_answer": "अँधेरा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene11_1",
+          "new_answer": "GenAn11_1"
+        },
+        {
+          "new_riddle": "Gene11_2",
+          "new_answer": "GenAn11_2"
+        },
+        {
+          "new_riddle": "Gene11_3",
+          "new_answer": "GenAn11_3"
+        },
+        {
+          "new_riddle": "Gene11_4",
+          "new_answer": "GenAn11_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "आगे ‘प’ है मध्य में भी ‘प’, अंत में इसके ‘ह’ है, कटी पतंग नहीं यह भैया, न बिल्ली चूहा है, वन में पेड़ों पर रहता है; सुर में रहकर कुछ कहता है| बताओ क्या ?,",
+      "original_answer": "पपीहा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene12_1",
+          "new_answer": "GenAn12_1"
+        },
+        {
+          "new_riddle": "Gene12_2",
+          "new_answer": "GenAn12_2"
+        },
+        {
+          "new_riddle": "Gene12_3",
+          "new_answer": "GenAn12_3"
+        },
+        {
+          "new_riddle": "Gene12_4",
+          "new_answer": "GenAn12_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "डिब्बा देखा एक निराला, ना ढकना न ताला, न पेंदा नाही कोना, बंद है उसमें चांदी सोना।,",
+      "original_answer": "अंडा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene13_1",
+          "new_answer": "GenAn13_1"
+        },
+        {
+          "new_riddle": "Gene13_2",
+          "new_answer": "GenAn13_2"
+        },
+        {
+          "new_riddle": "Gene13_3",
+          "new_answer": "GenAn13_3"
+        },
+        {
+          "new_riddle": "Gene13_4",
+          "new_answer": "GenAn13_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा शब्द बताइए कि, जिससे फूल, मिठाई और फल बन जाए ?,",
+      "original_answer": "गुलाब जामुन।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene14_1",
+          "new_answer": "GenAn14_1"
+        },
+        {
+          "new_riddle": "Gene14_2",
+          "new_answer": "GenAn14_2"
+        },
+        {
+          "new_riddle": "Gene14_3",
+          "new_answer": "GenAn14_3"
+        },
+        {
+          "new_riddle": "Gene14_4",
+          "new_answer": "GenAn14_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "वह कौन – सा फूल है, जिसके पास कोई रंग और महक नहीं है ?,",
+      "original_answer": "अप्रैल फूल।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene15_1",
+          "new_answer": "GenAn15_1"
+        },
+        {
+          "new_riddle": "Gene15_2",
+          "new_answer": "GenAn15_2"
+        },
+        {
+          "new_riddle": "Gene15_3",
+          "new_answer": "GenAn15_3"
+        },
+        {
+          "new_riddle": "Gene15_4",
+          "new_answer": "GenAn15_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा रूम, जिसकी खिड़की ना दरवाजा तो बताओ क्या ?,",
+      "original_answer": "मशरूम।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene16_1",
+          "new_answer": "GenAn16_1"
+        },
+        {
+          "new_riddle": "Gene16_2",
+          "new_answer": "GenAn16_2"
+        },
+        {
+          "new_riddle": "Gene16_3",
+          "new_answer": "GenAn16_3"
+        },
+        {
+          "new_riddle": "Gene16_4",
+          "new_answer": "GenAn16_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन – सी जगह है, जहाँ पर सड़क है पर गाड़ी नहीं, जंगल है पर पेड़ नहीं और शहर है पर घर नहीं ?,",
+      "original_answer": "नक्शा।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene17_1",
+          "new_answer": "GenAn17_1"
+        },
+        {
+          "new_riddle": "Gene17_2",
+          "new_answer": "GenAn17_2"
+        },
+        {
+          "new_riddle": "Gene17_3",
+          "new_answer": "GenAn17_3"
+        },
+        {
+          "new_riddle": "Gene17_4",
+          "new_answer": "GenAn17_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "कमर बांधे घर में रहता, सुबह-शाम जरूरत है पड़ती। बताओ क्या?,",
+      "original_answer": "झाड़ू।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene18_1",
+          "new_answer": "GenAn18_1"
+        },
+        {
+          "new_riddle": "Gene18_2",
+          "new_answer": "GenAn18_2"
+        },
+        {
+          "new_riddle": "Gene18_3",
+          "new_answer": "GenAn18_3"
+        },
+        {
+          "new_riddle": "Gene18_4",
+          "new_answer": "GenAn18_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "हरी झंडी लाल कमान, तोबा तोबा करे इंसान।,",
+      "original_answer": "मिर्ची।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene19_1",
+          "new_answer": "GenAn19_1"
+        },
+        {
+          "new_riddle": "Gene19_2",
+          "new_answer": "GenAn19_2"
+        },
+        {
+          "new_riddle": "Gene19_3",
+          "new_answer": "GenAn19_3"
+        },
+        {
+          "new_riddle": "Gene19_4",
+          "new_answer": "GenAn19_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "नाक पर चढ़कर कान पकड़कर, लोगों को है पढ़ाती।,",
+      "original_answer": "चश्मा।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene20_1",
+          "new_answer": "GenAn20_1"
+        },
+        {
+          "new_riddle": "Gene20_2",
+          "new_answer": "GenAn20_2"
+        },
+        {
+          "new_riddle": "Gene20_3",
+          "new_answer": "GenAn20_3"
+        },
+        {
+          "new_riddle": "Gene20_4",
+          "new_answer": "GenAn20_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "हरे हरे से है दिखे पक्के हो या कच्चे, भीतर से यह लाल मलाई जैसे ठंडे मीठे लच्छे।,",
+      "original_answer": "तरबूज।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene21_1",
+          "new_answer": "GenAn21_1"
+        },
+        {
+          "new_riddle": "Gene21_2",
+          "new_answer": "GenAn21_2"
+        },
+        {
+          "new_riddle": "Gene21_3",
+          "new_answer": "GenAn21_3"
+        },
+        {
+          "new_riddle": "Gene21_4",
+          "new_answer": "GenAn21_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "सफेद तन हरी पूंछ, न बुझे तो नानी से पूछ ॥,",
+      "original_answer": "मूली।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene22_1",
+          "new_answer": "GenAn22_1"
+        },
+        {
+          "new_riddle": "Gene22_2",
+          "new_answer": "GenAn22_2"
+        },
+        {
+          "new_riddle": "Gene22_3",
+          "new_answer": "GenAn22_3"
+        },
+        {
+          "new_riddle": "Gene22_4",
+          "new_answer": "GenAn22_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "कान हैं पर बहरी हूँ, मुँह है पर मौन हूँ । आँखें हैं पर अंधी हूँ, बताओ मैं कौन हूँ ?,",
+      "original_answer": "गुड़िया।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene23_1",
+          "new_answer": "GenAn23_1"
+        },
+        {
+          "new_riddle": "Gene23_2",
+          "new_answer": "GenAn23_2"
+        },
+        {
+          "new_riddle": "Gene23_3",
+          "new_answer": "GenAn23_3"
+        },
+        {
+          "new_riddle": "Gene23_4",
+          "new_answer": "GenAn23_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "काला घोडा सफ़ेद की सवारी, एक उतरा तो दूसरे की बरी ॥,",
+      "original_answer": "तवा और रोटी।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene24_1",
+          "new_answer": "GenAn24_1"
+        },
+        {
+          "new_riddle": "Gene24_2",
+          "new_answer": "GenAn24_2"
+        },
+        {
+          "new_riddle": "Gene24_3",
+          "new_answer": "GenAn24_3"
+        },
+        {
+          "new_riddle": "Gene24_4",
+          "new_answer": "GenAn24_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "बूझो भैया एक पहेली, जब काटो तो नई नवेली ।,",
+      "original_answer": "पेंसिल",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene25_1",
+          "new_answer": "GenAn25_1"
+        },
+        {
+          "new_riddle": "Gene25_2",
+          "new_answer": "GenAn25_2"
+        },
+        {
+          "new_riddle": "Gene25_3",
+          "new_answer": "GenAn25_3"
+        },
+        {
+          "new_riddle": "Gene25_4",
+          "new_answer": "GenAn25_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "हरी है उसकी काया, लाल मकान में, काला शैतान समाया।,",
+      "original_answer": "तरबूज़।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene26_1",
+          "new_answer": "GenAn26_1"
+        },
+        {
+          "new_riddle": "Gene26_2",
+          "new_answer": "GenAn26_2"
+        },
+        {
+          "new_riddle": "Gene26_3",
+          "new_answer": "GenAn26_3"
+        },
+        {
+          "new_riddle": "Gene26_4",
+          "new_answer": "GenAn26_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "चौकी पर बैठी एक रानी, सिर पर आग बदन में पानी।,",
+      "original_answer": "मोमबत्ती।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene27_1",
+          "new_answer": "GenAn27_1"
+        },
+        {
+          "new_riddle": "Gene27_2",
+          "new_answer": "GenAn27_2"
+        },
+        {
+          "new_riddle": "Gene27_3",
+          "new_answer": "GenAn27_3"
+        },
+        {
+          "new_riddle": "Gene27_4",
+          "new_answer": "GenAn27_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "जल से भरा एक मटका, जो है सबसे ऊँचा लटका। पी लो पानी है मीठा, ज़रा नहीं है खट्टा।,",
+      "original_answer": "नारियल।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene28_1",
+          "new_answer": "GenAn28_1"
+        },
+        {
+          "new_riddle": "Gene28_2",
+          "new_answer": "GenAn28_2"
+        },
+        {
+          "new_riddle": "Gene28_3",
+          "new_answer": "GenAn28_3"
+        },
+        {
+          "new_riddle": "Gene28_4",
+          "new_answer": "GenAn28_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "लाल हूँ, खाती हूँ मैं सूखी घास। पानी पीकर मर जाऊँ, जल जाए जो आए मेरे पास।,",
+      "original_answer": "आग।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene29_1",
+          "new_answer": "GenAn29_1"
+        },
+        {
+          "new_riddle": "Gene29_2",
+          "new_answer": "GenAn29_2"
+        },
+        {
+          "new_riddle": "Gene29_3",
+          "new_answer": "GenAn29_3"
+        },
+        {
+          "new_riddle": "Gene29_4",
+          "new_answer": "GenAn29_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "बिन खाए, बिन पिए, सबके घर में रहता हूँ । ना हँसता हूँ, ना रोता हूँ, घर की रखवाली करता हूँ।,",
+      "original_answer": "ताला।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene30_1",
+          "new_answer": "GenAn30_1"
+        },
+        {
+          "new_riddle": "Gene30_2",
+          "new_answer": "GenAn30_2"
+        },
+        {
+          "new_riddle": "Gene30_3",
+          "new_answer": "GenAn30_3"
+        },
+        {
+          "new_riddle": "Gene30_4",
+          "new_answer": "GenAn30_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन – सी चीज है, जो फ्रीज़ में रखने के बाद भी गरम रहती है?,",
+      "original_answer": "गरम मसाला",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene31_1",
+          "new_answer": "GenAn31_1"
+        },
+        {
+          "new_riddle": "Gene31_2",
+          "new_answer": "GenAn31_2"
+        },
+        {
+          "new_riddle": "Gene31_3",
+          "new_answer": "GenAn31_3"
+        },
+        {
+          "new_riddle": "Gene31_4",
+          "new_answer": "GenAn31_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "वह कौन है, जो हमेशा पीटने के लिए हीं बना है?,",
+      "original_answer": "ढोल",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene32_1",
+          "new_answer": "GenAn32_1"
+        },
+        {
+          "new_riddle": "Gene32_2",
+          "new_answer": "GenAn32_2"
+        },
+        {
+          "new_riddle": "Gene32_3",
+          "new_answer": "GenAn32_3"
+        },
+        {
+          "new_riddle": "Gene32_4",
+          "new_answer": "GenAn32_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन – सी चीज है, जिसके पास रिंग तो है मगर पहनने के लिए ऊँगली नहीं है?,",
+      "original_answer": "मोबाईल",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene33_1",
+          "new_answer": "GenAn33_1"
+        },
+        {
+          "new_riddle": "Gene33_2",
+          "new_answer": "GenAn33_2"
+        },
+        {
+          "new_riddle": "Gene33_3",
+          "new_answer": "GenAn33_3"
+        },
+        {
+          "new_riddle": "Gene33_4",
+          "new_answer": "GenAn33_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन – सी ड्रेस है जिसे हम कभी पहन नहीं सकते हैं?,",
+      "original_answer": "एड्रेस (Address)",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene34_1",
+          "new_answer": "GenAn34_1"
+        },
+        {
+          "new_riddle": "Gene34_2",
+          "new_answer": "GenAn34_2"
+        },
+        {
+          "new_riddle": "Gene34_3",
+          "new_answer": "GenAn34_3"
+        },
+        {
+          "new_riddle": "Gene34_4",
+          "new_answer": "GenAn34_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा कौन – सा सवाल है, जिसका जवाब हर वक्त बदलता रहता है?,",
+      "original_answer": "समय क्या हुआ है?",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene35_1",
+          "new_answer": "GenAn35_1"
+        },
+        {
+          "new_riddle": "Gene35_2",
+          "new_answer": "GenAn35_2"
+        },
+        {
+          "new_riddle": "Gene35_3",
+          "new_answer": "GenAn35_3"
+        },
+        {
+          "new_riddle": "Gene35_4",
+          "new_answer": "GenAn35_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "पानी से पैदा होता है, पानी में मर जाता है,भोजन से तो मेरा गहरा नाता है।,",
+      "original_answer": "नमक",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene36_1",
+          "new_answer": "GenAn36_1"
+        },
+        {
+          "new_riddle": "Gene36_2",
+          "new_answer": "GenAn36_2"
+        },
+        {
+          "new_riddle": "Gene36_3",
+          "new_answer": "GenAn36_3"
+        },
+        {
+          "new_riddle": "Gene36_4",
+          "new_answer": "GenAn36_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "रबड़ मुझे हराता है, लोहा मुझे खींच पाता है बताओ क्या?,",
+      "original_answer": "चुंबक",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene37_1",
+          "new_answer": "GenAn37_1"
+        },
+        {
+          "new_riddle": "Gene37_2",
+          "new_answer": "GenAn37_2"
+        },
+        {
+          "new_riddle": "Gene37_3",
+          "new_answer": "GenAn37_3"
+        },
+        {
+          "new_riddle": "Gene37_4",
+          "new_answer": "GenAn37_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "वह कौन सा पक्षी है, जो पानी में तैरता भी है, आकाश में उड़ता भी है और जमीन पर चलता भी है?,",
+      "original_answer": "बत्तख",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene38_1",
+          "new_answer": "GenAn38_1"
+        },
+        {
+          "new_riddle": "Gene38_2",
+          "new_answer": "GenAn38_2"
+        },
+        {
+          "new_riddle": "Gene38_3",
+          "new_answer": "GenAn38_3"
+        },
+        {
+          "new_riddle": "Gene38_4",
+          "new_answer": "GenAn38_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन – सी चीज है, जिसे हम पानी के अंदर खाते हैं?,",
+      "original_answer": "गोता",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene39_1",
+          "new_answer": "GenAn39_1"
+        },
+        {
+          "new_riddle": "Gene39_2",
+          "new_answer": "GenAn39_2"
+        },
+        {
+          "new_riddle": "Gene39_3",
+          "new_answer": "GenAn39_3"
+        },
+        {
+          "new_riddle": "Gene39_4",
+          "new_answer": "GenAn39_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन – सी चीज है, जिसकी आँखों में ऊँगली डालो तो वह अपना मुँह खोल देती है!,",
+      "original_answer": "कैंची",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene40_1",
+          "new_answer": "GenAn40_1"
+        },
+        {
+          "new_riddle": "Gene40_2",
+          "new_answer": "GenAn40_2"
+        },
+        {
+          "new_riddle": "Gene40_3",
+          "new_answer": "GenAn40_3"
+        },
+        {
+          "new_riddle": "Gene40_4",
+          "new_answer": "GenAn40_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "संजना की चार बेटियां हैं, चारों बेटियों के एक-एक भाई, बताओ संजना को कितने बच्चे हैं?,",
+      "original_answer": "पाँच",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene41_1",
+          "new_answer": "GenAn41_1"
+        },
+        {
+          "new_riddle": "Gene41_2",
+          "new_answer": "GenAn41_2"
+        },
+        {
+          "new_riddle": "Gene41_3",
+          "new_answer": "GenAn41_3"
+        },
+        {
+          "new_riddle": "Gene41_4",
+          "new_answer": "GenAn41_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "मैं एक बार मुडूंगा तो सबको रोक दूंगा, एक बार मुडूंगा तो सब कुछ खोल दूंगा, मैं क्या हूँ?,",
+      "original_answer": "एक चाबी",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene42_1",
+          "new_answer": "GenAn42_1"
+        },
+        {
+          "new_riddle": "Gene42_2",
+          "new_answer": "GenAn42_2"
+        },
+        {
+          "new_riddle": "Gene42_3",
+          "new_answer": "GenAn42_3"
+        },
+        {
+          "new_riddle": "Gene42_4",
+          "new_answer": "GenAn42_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "एक जिससे आप डरते हैं, जिससे आप डरते वो उजाले से डरता हैं?,",
+      "original_answer": "अँधेरा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene43_1",
+          "new_answer": "GenAn43_1"
+        },
+        {
+          "new_riddle": "Gene43_2",
+          "new_answer": "GenAn43_2"
+        },
+        {
+          "new_riddle": "Gene43_3",
+          "new_answer": "GenAn43_3"
+        },
+        {
+          "new_riddle": "Gene43_4",
+          "new_answer": "GenAn43_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "आदमी ने ऊंगली से 6 लोगों को 6 सैकंड में उपर पहुचा दिया. वो स्पाइडरमैन नही था, सुपरमैन भी नही था और मैंन भी नही था, तो बताओं कौन था.,",
+      "original_answer": "लिफ्टमैन",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene44_1",
+          "new_answer": "GenAn44_1"
+        },
+        {
+          "new_riddle": "Gene44_2",
+          "new_answer": "GenAn44_2"
+        },
+        {
+          "new_riddle": "Gene44_3",
+          "new_answer": "GenAn44_3"
+        },
+        {
+          "new_riddle": "Gene44_4",
+          "new_answer": "GenAn44_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "हमेशा आपके सामने रहता हूँ लेकिन दिखाई नहीं देता, बताओ कौन हूँ मैं?,",
+      "original_answer": "भविष्य",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene45_1",
+          "new_answer": "GenAn45_1"
+        },
+        {
+          "new_riddle": "Gene45_2",
+          "new_answer": "GenAn45_2"
+        },
+        {
+          "new_riddle": "Gene45_3",
+          "new_answer": "GenAn45_3"
+        },
+        {
+          "new_riddle": "Gene45_4",
+          "new_answer": "GenAn45_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "मेरी शाखाएँ हैं, लेकिन मैं पेड़ नहीं हूँ. बध्ताहूँ घटता हूँ लेकिन कोई फल, तना या पत्तियाँ नहीं हैं। बताओ, मैं क्या हूँ?,",
+      "original_answer": "एक बैंक",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene46_1",
+          "new_answer": "GenAn46_1"
+        },
+        {
+          "new_riddle": "Gene46_2",
+          "new_answer": "GenAn46_2"
+        },
+        {
+          "new_riddle": "Gene46_3",
+          "new_answer": "GenAn46_3"
+        },
+        {
+          "new_riddle": "Gene46_4",
+          "new_answer": "GenAn46_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज है, जिसके पास अनेक चाबियां होती हैं लेकिन एक भी ताला नहीं खुल सकता?,",
+      "original_answer": "एक पियानो",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene47_1",
+          "new_answer": "GenAn47_1"
+        },
+        {
+          "new_riddle": "Gene47_2",
+          "new_answer": "GenAn47_2"
+        },
+        {
+          "new_riddle": "Gene47_3",
+          "new_answer": "GenAn47_3"
+        },
+        {
+          "new_riddle": "Gene47_4",
+          "new_answer": "GenAn47_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "एक बैंड, जिससे कभी कोई संगीत नहीं निकलता?,",
+      "original_answer": "एक रबर बैंड",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene48_1",
+          "new_answer": "GenAn48_1"
+        },
+        {
+          "new_riddle": "Gene48_2",
+          "new_answer": "GenAn48_2"
+        },
+        {
+          "new_riddle": "Gene48_3",
+          "new_answer": "GenAn48_3"
+        },
+        {
+          "new_riddle": "Gene48_4",
+          "new_answer": "GenAn48_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "कटोरे पे कटोरा बेटा बाप से भी गोरा।,",
+      "original_answer": "नारियल",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene49_1",
+          "new_answer": "GenAn49_1"
+        },
+        {
+          "new_riddle": "Gene49_2",
+          "new_answer": "GenAn49_2"
+        },
+        {
+          "new_riddle": "Gene49_3",
+          "new_answer": "GenAn49_3"
+        },
+        {
+          "new_riddle": "Gene49_4",
+          "new_answer": "GenAn49_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "एक किले के दो हीं द्वार,\\nउनमें सैनिक लकड़ीदार |\\nटकराए जब दीवारों से,\\nख़त्म हो जाए उनका संसार |,",
+      "original_answer": "माचिस",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene50_1",
+          "new_answer": "GenAn50_1"
+        },
+        {
+          "new_riddle": "Gene50_2",
+          "new_answer": "GenAn50_2"
+        },
+        {
+          "new_riddle": "Gene50_3",
+          "new_answer": "GenAn50_3"
+        },
+        {
+          "new_riddle": "Gene50_4",
+          "new_answer": "GenAn50_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "रंग बिरंगा बदन है इसका, कुदरत का वरदान मिला,\\nइतनी सुंदरता पाकर भी, दो अक्षर का नाम मिला,\\nये वन में करता शोर, इसके चर्चे हैं हर ओर।,",
+      "original_answer": "मोर",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene51_1",
+          "new_answer": "GenAn51_1"
+        },
+        {
+          "new_riddle": "Gene51_2",
+          "new_answer": "GenAn51_2"
+        },
+        {
+          "new_riddle": "Gene51_3",
+          "new_answer": "GenAn51_3"
+        },
+        {
+          "new_riddle": "Gene51_4",
+          "new_answer": "GenAn51_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "पंख नहीं पर उड़ती हूँ,\\nहाथ नहीं पर लड़ती हूँ |,",
+      "original_answer": "पतंग",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene52_1",
+          "new_answer": "GenAn52_1"
+        },
+        {
+          "new_riddle": "Gene52_2",
+          "new_answer": "GenAn52_2"
+        },
+        {
+          "new_riddle": "Gene52_3",
+          "new_answer": "GenAn52_3"
+        },
+        {
+          "new_riddle": "Gene52_4",
+          "new_answer": "GenAn52_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "डब्बे पर डब्बा, डब्बे का गाँव,\\nचलती फिरती बस्ती है, लोहे के पाँव |,",
+      "original_answer": "रेलगाड़ी",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene53_1",
+          "new_answer": "GenAn53_1"
+        },
+        {
+          "new_riddle": "Gene53_2",
+          "new_answer": "GenAn53_2"
+        },
+        {
+          "new_riddle": "Gene53_3",
+          "new_answer": "GenAn53_3"
+        },
+        {
+          "new_riddle": "Gene53_4",
+          "new_answer": "GenAn53_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "कमर पतली है, पैर सुहाने,\\nकहीं गए होंगे बीन बजाने |,",
+      "original_answer": "मच्छर",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene54_1",
+          "new_answer": "GenAn54_1"
+        },
+        {
+          "new_riddle": "Gene54_2",
+          "new_answer": "GenAn54_2"
+        },
+        {
+          "new_riddle": "Gene54_3",
+          "new_answer": "GenAn54_3"
+        },
+        {
+          "new_riddle": "Gene54_4",
+          "new_answer": "GenAn54_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "बच्चों! एक लाठी की सुनो कहानी,\\nछुपा है जिसमें मीठा – मीठा पानी |,",
+      "original_answer": "गन्ना",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene55_1",
+          "new_answer": "GenAn55_1"
+        },
+        {
+          "new_riddle": "Gene55_2",
+          "new_answer": "GenAn55_2"
+        },
+        {
+          "new_riddle": "Gene55_3",
+          "new_answer": "GenAn55_3"
+        },
+        {
+          "new_riddle": "Gene55_4",
+          "new_answer": "GenAn55_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "आपकों सुखाता, खुद को भीगाता,\\nमेरा नाम बताओ लाला?,",
+      "original_answer": "छतरी",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene56_1",
+          "new_answer": "GenAn56_1"
+        },
+        {
+          "new_riddle": "Gene56_2",
+          "new_answer": "GenAn56_2"
+        },
+        {
+          "new_riddle": "Gene56_3",
+          "new_answer": "GenAn56_3"
+        },
+        {
+          "new_riddle": "Gene56_4",
+          "new_answer": "GenAn56_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "मेरे नाम के दो मतलब हैं, दोनों के हैं अर्थ निराले, एक अर्थ में सब्जी हूं मैं, एक अर्थ में पालने वाले।,",
+      "original_answer": "पालक",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene57_1",
+          "new_answer": "GenAn57_1"
+        },
+        {
+          "new_riddle": "Gene57_2",
+          "new_answer": "GenAn57_2"
+        },
+        {
+          "new_riddle": "Gene57_3",
+          "new_answer": "GenAn57_3"
+        },
+        {
+          "new_riddle": "Gene57_4",
+          "new_answer": "GenAn57_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "घर के ऊपर में रहता, धूप से तुझे बचाता, बारिश में मैं खुद भीगता, आंच न तुझ पर आने देता।,",
+      "original_answer": "छत",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene58_1",
+          "new_answer": "GenAn58_1"
+        },
+        {
+          "new_riddle": "Gene58_2",
+          "new_answer": "GenAn58_2"
+        },
+        {
+          "new_riddle": "Gene58_3",
+          "new_answer": "GenAn58_3"
+        },
+        {
+          "new_riddle": "Gene58_4",
+          "new_answer": "GenAn58_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "तीन पंख का ऐसा पक्षी, सबके घर में रहता, वर्षा और सर्दी में सोता, बस गर्मी में उड़ता।,",
+      "original_answer": "पंखा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene59_1",
+          "new_answer": "GenAn59_1"
+        },
+        {
+          "new_riddle": "Gene59_2",
+          "new_answer": "GenAn59_2"
+        },
+        {
+          "new_riddle": "Gene59_3",
+          "new_answer": "GenAn59_3"
+        },
+        {
+          "new_riddle": "Gene59_4",
+          "new_answer": "GenAn59_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "सरस्वती की सफेद सवारी, मोती जिसको भाते, करके अलग दूध से पानी, बोलो कौन कहलाते?,",
+      "original_answer": "हंस",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene60_1",
+          "new_answer": "GenAn60_1"
+        },
+        {
+          "new_riddle": "Gene60_2",
+          "new_answer": "GenAn60_2"
+        },
+        {
+          "new_riddle": "Gene60_3",
+          "new_answer": "GenAn60_3"
+        },
+        {
+          "new_riddle": "Gene60_4",
+          "new_answer": "GenAn60_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "अगर नाक पर मैं चढ़ जाऊँ,\\nतो कान पकड़कर खूब पढ़ाऊँ |,",
+      "original_answer": "चश्मा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene61_1",
+          "new_answer": "GenAn61_1"
+        },
+        {
+          "new_riddle": "Gene61_2",
+          "new_answer": "GenAn61_2"
+        },
+        {
+          "new_riddle": "Gene61_3",
+          "new_answer": "GenAn61_3"
+        },
+        {
+          "new_riddle": "Gene61_4",
+          "new_answer": "GenAn61_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "कल बनू धड़ के बिन, मल बनू सिर हीन, पैर कटे तो थोड़ा रहूं, अक्षर है कुल तीन।,",
+      "original_answer": "कमल",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene62_1",
+          "new_answer": "GenAn62_1"
+        },
+        {
+          "new_riddle": "Gene62_2",
+          "new_answer": "GenAn62_2"
+        },
+        {
+          "new_riddle": "Gene62_3",
+          "new_answer": "GenAn62_3"
+        },
+        {
+          "new_riddle": "Gene62_4",
+          "new_answer": "GenAn62_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो जितना बढ़ती है, उतनी ही छोटी होती जाती है?",
+      "original_answer": "मोमबत्ती",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene63_1",
+          "new_answer": "GenAn63_1"
+        },
+        {
+          "new_riddle": "Gene63_2",
+          "new_answer": "GenAn63_2"
+        },
+        {
+          "new_riddle": "Gene63_3",
+          "new_answer": "GenAn63_3"
+        },
+        {
+          "new_riddle": "Gene63_4",
+          "new_answer": "GenAn63_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा कौन सा कमरा है जिसमें दरवाजा, खिड़की कुछ भी नहीं होता?",
+      "original_answer": "मशरूम",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene64_1",
+          "new_answer": "GenAn64_1"
+        },
+        {
+          "new_riddle": "Gene64_2",
+          "new_answer": "GenAn64_2"
+        },
+        {
+          "new_riddle": "Gene64_3",
+          "new_answer": "GenAn64_3"
+        },
+        {
+          "new_riddle": "Gene64_4",
+          "new_answer": "GenAn64_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा कौन सा सवाल है जिसका जवाब हमेशा अलग होता है?",
+      "original_answer": "समय",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene65_1",
+          "new_answer": "GenAn65_1"
+        },
+        {
+          "new_riddle": "Gene65_2",
+          "new_answer": "GenAn65_2"
+        },
+        {
+          "new_riddle": "Gene65_3",
+          "new_answer": "GenAn65_3"
+        },
+        {
+          "new_riddle": "Gene65_4",
+          "new_answer": "GenAn65_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो ऊपर जाती है लेकिन कभी नीचे नहीं आती?",
+      "original_answer": "उम्र",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene66_1",
+          "new_answer": "GenAn66_1"
+        },
+        {
+          "new_riddle": "Gene66_2",
+          "new_answer": "GenAn66_2"
+        },
+        {
+          "new_riddle": "Gene66_3",
+          "new_answer": "GenAn66_3"
+        },
+        {
+          "new_riddle": "Gene66_4",
+          "new_answer": "GenAn66_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो रात में दिखाई देती है लेकिन दिन में नहीं?",
+      "original_answer": "तारे",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene67_1",
+          "new_answer": "GenAn67_1"
+        },
+        {
+          "new_riddle": "Gene67_2",
+          "new_answer": "GenAn67_2"
+        },
+        {
+          "new_riddle": "Gene67_3",
+          "new_answer": "GenAn67_3"
+        },
+        {
+          "new_riddle": "Gene67_4",
+          "new_answer": "GenAn67_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जिसे जितना खींचोगे, उतनी छोटी होती जाएगी?",
+      "original_answer": "रबर",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene68_1",
+          "new_answer": "GenAn68_1"
+        },
+        {
+          "new_riddle": "Gene68_2",
+          "new_answer": "GenAn68_2"
+        },
+        {
+          "new_riddle": "Gene68_3",
+          "new_answer": "GenAn68_3"
+        },
+        {
+          "new_riddle": "Gene68_4",
+          "new_answer": "GenAn68_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जिसे जितना ज्यादा भरते हो, उतनी ज्यादा खाली होती जाती है?",
+      "original_answer": "गड्ढा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene69_1",
+          "new_answer": "GenAn69_1"
+        },
+        {
+          "new_riddle": "Gene69_2",
+          "new_answer": "GenAn69_2"
+        },
+        {
+          "new_riddle": "Gene69_3",
+          "new_answer": "GenAn69_3"
+        },
+        {
+          "new_riddle": "Gene69_4",
+          "new_answer": "GenAn69_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा क्या है जिसे बिना छुए तोड़ सकते हैं?",
+      "original_answer": "वादा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene70_1",
+          "new_answer": "GenAn70_1"
+        },
+        {
+          "new_riddle": "Gene70_2",
+          "new_answer": "GenAn70_2"
+        },
+        {
+          "new_riddle": "Gene70_3",
+          "new_answer": "GenAn70_3"
+        },
+        {
+          "new_riddle": "Gene70_4",
+          "new_answer": "GenAn70_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो खुद गिरती है और दूसरों को उठाती है?",
+      "original_answer": "बारिश",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene71_1",
+          "new_answer": "GenAn71_1"
+        },
+        {
+          "new_riddle": "Gene71_2",
+          "new_answer": "GenAn71_2"
+        },
+        {
+          "new_riddle": "Gene71_3",
+          "new_answer": "GenAn71_3"
+        },
+        {
+          "new_riddle": "Gene71_4",
+          "new_answer": "GenAn71_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा क्या है जो सूरज की रोशनी में गायब हो जाता है?",
+      "original_answer": "परछाई",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene72_1",
+          "new_answer": "GenAn72_1"
+        },
+        {
+          "new_riddle": "Gene72_2",
+          "new_answer": "GenAn72_2"
+        },
+        {
+          "new_riddle": "Gene72_3",
+          "new_answer": "GenAn72_3"
+        },
+        {
+          "new_riddle": "Gene72_4",
+          "new_answer": "GenAn72_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा क्या है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?",
+      "original_answer": "ज्ञान",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene73_1",
+          "new_answer": "GenAn73_1"
+        },
+        {
+          "new_riddle": "Gene73_2",
+          "new_answer": "GenAn73_2"
+        },
+        {
+          "new_riddle": "Gene73_3",
+          "new_answer": "GenAn73_3"
+        },
+        {
+          "new_riddle": "Gene73_4",
+          "new_answer": "GenAn73_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो एक जगह से दूसरी जगह बिना हिले चली जाती है?",
+      "original_answer": "चिट्ठी",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene74_1",
+          "new_answer": "GenAn74_1"
+        },
+        {
+          "new_riddle": "Gene74_2",
+          "new_answer": "GenAn74_2"
+        },
+        {
+          "new_riddle": "Gene74_3",
+          "new_answer": "GenAn74_3"
+        },
+        {
+          "new_riddle": "Gene74_4",
+          "new_answer": "GenAn74_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जिसका कोई शरीर नहीं, फिर भी हड्डियाँ होती हैं?",
+      "original_answer": "मछली",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene75_1",
+          "new_answer": "GenAn75_1"
+        },
+        {
+          "new_riddle": "Gene75_2",
+          "new_answer": "GenAn75_2"
+        },
+        {
+          "new_riddle": "Gene75_3",
+          "new_answer": "GenAn75_3"
+        },
+        {
+          "new_riddle": "Gene75_4",
+          "new_answer": "GenAn75_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो खुद भी हंसती है और दूसरों को भी हंसाती है?",
+      "original_answer": "जोकर",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene76_1",
+          "new_answer": "GenAn76_1"
+        },
+        {
+          "new_riddle": "Gene76_2",
+          "new_answer": "GenAn76_2"
+        },
+        {
+          "new_riddle": "Gene76_3",
+          "new_answer": "GenAn76_3"
+        },
+        {
+          "new_riddle": "Gene76_4",
+          "new_answer": "GenAn76_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो खुद भी चलती है और दूसरों को भी चलाती है?",
+      "original_answer": "घड़ी",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene77_1",
+          "new_answer": "GenAn77_1"
+        },
+        {
+          "new_riddle": "Gene77_2",
+          "new_answer": "GenAn77_2"
+        },
+        {
+          "new_riddle": "Gene77_3",
+          "new_answer": "GenAn77_3"
+        },
+        {
+          "new_riddle": "Gene77_4",
+          "new_answer": "GenAn77_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जिसे हाथ से पकड़ सकते हैं लेकिन देख नहीं सकते?",
+      "original_answer": "हवा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene78_1",
+          "new_answer": "GenAn78_1"
+        },
+        {
+          "new_riddle": "Gene78_2",
+          "new_answer": "GenAn78_2"
+        },
+        {
+          "new_riddle": "Gene78_3",
+          "new_answer": "GenAn78_3"
+        },
+        {
+          "new_riddle": "Gene78_4",
+          "new_answer": "GenAn78_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जिसे इंसान जितना निकालता है, उतनी ही बढ़ती जाती है?",
+      "original_answer": "सांस",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene79_1",
+          "new_answer": "GenAn79_1"
+        },
+        {
+          "new_riddle": "Gene79_2",
+          "new_answer": "GenAn79_2"
+        },
+        {
+          "new_riddle": "Gene79_3",
+          "new_answer": "GenAn79_3"
+        },
+        {
+          "new_riddle": "Gene79_4",
+          "new_answer": "GenAn79_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा क्या है जो जितना ज्यादा गर्म होता है, उतना ही ठंडा लगता है?",
+      "original_answer": "पसीना",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene80_1",
+          "new_answer": "GenAn80_1"
+        },
+        {
+          "new_riddle": "Gene80_2",
+          "new_answer": "GenAn80_2"
+        },
+        {
+          "new_riddle": "Gene80_3",
+          "new_answer": "GenAn80_3"
+        },
+        {
+          "new_riddle": "Gene80_4",
+          "new_answer": "GenAn80_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा कौन सा पक्षी है जो बिना पंखों के उड़ सकता है?",
+      "original_answer": "पतंग",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene81_1",
+          "new_answer": "GenAn81_1"
+        },
+        {
+          "new_riddle": "Gene81_2",
+          "new_answer": "GenAn81_2"
+        },
+        {
+          "new_riddle": "Gene81_3",
+          "new_answer": "GenAn81_3"
+        },
+        {
+          "new_riddle": "Gene81_4",
+          "new_answer": "GenAn81_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो सूरज की रोशनी में गायब हो जाती है?",
+      "original_answer": "परछाई",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene82_1",
+          "new_answer": "GenAn82_1"
+        },
+        {
+          "new_riddle": "Gene82_2",
+          "new_answer": "GenAn82_2"
+        },
+        {
+          "new_riddle": "Gene82_3",
+          "new_answer": "GenAn82_3"
+        },
+        {
+          "new_riddle": "Gene82_4",
+          "new_answer": "GenAn82_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा क्या है जिसे काट सकते हैं लेकिन पकड़ नहीं सकते?",
+      "original_answer": "हवा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene83_1",
+          "new_answer": "GenAn83_1"
+        },
+        {
+          "new_riddle": "Gene83_2",
+          "new_answer": "GenAn83_2"
+        },
+        {
+          "new_riddle": "Gene83_3",
+          "new_answer": "GenAn83_3"
+        },
+        {
+          "new_riddle": "Gene83_4",
+          "new_answer": "GenAn83_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो खुद भी गिरती है और दूसरों को उठाती है?",
+      "original_answer": "बारिश",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene84_1",
+          "new_answer": "GenAn84_1"
+        },
+        {
+          "new_riddle": "Gene84_2",
+          "new_answer": "GenAn84_2"
+        },
+        {
+          "new_riddle": "Gene84_3",
+          "new_answer": "GenAn84_3"
+        },
+        {
+          "new_riddle": "Gene84_4",
+          "new_answer": "GenAn84_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?",
+      "original_answer": "ज्ञान",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene85_1",
+          "new_answer": "GenAn85_1"
+        },
+        {
+          "new_riddle": "Gene85_2",
+          "new_answer": "GenAn85_2"
+        },
+        {
+          "new_riddle": "Gene85_3",
+          "new_answer": "GenAn85_3"
+        },
+        {
+          "new_riddle": "Gene85_4",
+          "new_answer": "GenAn85_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो बिना देखे काम कर सकती है?",
+      "original_answer": "घड़ी",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene86_1",
+          "new_answer": "GenAn86_1"
+        },
+        {
+          "new_riddle": "Gene86_2",
+          "new_answer": "GenAn86_2"
+        },
+        {
+          "new_riddle": "Gene86_3",
+          "new_answer": "GenAn86_3"
+        },
+        {
+          "new_riddle": "Gene86_4",
+          "new_answer": "GenAn86_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो बिना बिजली के भी जल सकती है?",
+      "original_answer": "मोमबत्ती",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene87_1",
+          "new_answer": "GenAn87_1"
+        },
+        {
+          "new_riddle": "Gene87_2",
+          "new_answer": "GenAn87_2"
+        },
+        {
+          "new_riddle": "Gene87_3",
+          "new_answer": "GenAn87_3"
+        },
+        {
+          "new_riddle": "Gene87_4",
+          "new_answer": "GenAn87_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जिसे लोग सुनते हैं पर देख नहीं सकते?",
+      "original_answer": "आवाज़",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene88_1",
+          "new_answer": "GenAn88_1"
+        },
+        {
+          "new_riddle": "Gene88_2",
+          "new_answer": "GenAn88_2"
+        },
+        {
+          "new_riddle": "Gene88_3",
+          "new_answer": "GenAn88_3"
+        },
+        {
+          "new_riddle": "Gene88_4",
+          "new_answer": "GenAn88_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो कागज की होती है लेकिन सोने से भी महंगी होती है?",
+      "original_answer": "नोट",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene89_1",
+          "new_answer": "GenAn89_1"
+        },
+        {
+          "new_riddle": "Gene89_2",
+          "new_answer": "GenAn89_2"
+        },
+        {
+          "new_riddle": "Gene89_3",
+          "new_answer": "GenAn89_3"
+        },
+        {
+          "new_riddle": "Gene89_4",
+          "new_answer": "GenAn89_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो जितनी काटो उतनी लंबी होती जाती है?",
+      "original_answer": "पेंसिल",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene90_1",
+          "new_answer": "GenAn90_1"
+        },
+        {
+          "new_riddle": "Gene90_2",
+          "new_answer": "GenAn90_2"
+        },
+        {
+          "new_riddle": "Gene90_3",
+          "new_answer": "GenAn90_3"
+        },
+        {
+          "new_riddle": "Gene90_4",
+          "new_answer": "GenAn90_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जिसे जितना ज्यादा डालो, उतना हल्का हो जाता है?",
+      "original_answer": "गड्ढा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene91_1",
+          "new_answer": "GenAn91_1"
+        },
+        {
+          "new_riddle": "Gene91_2",
+          "new_answer": "GenAn91_2"
+        },
+        {
+          "new_riddle": "Gene91_3",
+          "new_answer": "GenAn91_3"
+        },
+        {
+          "new_riddle": "Gene91_4",
+          "new_answer": "GenAn91_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो सिर्फ आगे बढ़ सकती है, पीछे नहीं जा सकती?",
+      "original_answer": "समय",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene92_1",
+          "new_answer": "GenAn92_1"
+        },
+        {
+          "new_riddle": "Gene92_2",
+          "new_answer": "GenAn92_2"
+        },
+        {
+          "new_riddle": "Gene92_3",
+          "new_answer": "GenAn92_3"
+        },
+        {
+          "new_riddle": "Gene92_4",
+          "new_answer": "GenAn92_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो किसी का भी पीछा नहीं छोड़ती?",
+      "original_answer": "परछाई",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene93_1",
+          "new_answer": "GenAn93_1"
+        },
+        {
+          "new_riddle": "Gene93_2",
+          "new_answer": "GenAn93_2"
+        },
+        {
+          "new_riddle": "Gene93_3",
+          "new_answer": "GenAn93_3"
+        },
+        {
+          "new_riddle": "Gene93_4",
+          "new_answer": "GenAn93_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जो देखने में बहुत छोटी होती है लेकिन पूरी दुनिया उसमें समा सकती है?",
+      "original_answer": "आईना",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene94_1",
+          "new_answer": "GenAn94_1"
+        },
+        {
+          "new_riddle": "Gene94_2",
+          "new_answer": "GenAn94_2"
+        },
+        {
+          "new_riddle": "Gene94_3",
+          "new_answer": "GenAn94_3"
+        },
+        {
+          "new_riddle": "Gene94_4",
+          "new_answer": "GenAn94_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसा क्या है जिसे हम छू नहीं सकते लेकिन महसूस कर सकते हैं?",
+      "original_answer": "हवा",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene95_1",
+          "new_answer": "GenAn95_1"
+        },
+        {
+          "new_riddle": "Gene95_2",
+          "new_answer": "GenAn95_2"
+        },
+        {
+          "new_riddle": "Gene95_3",
+          "new_answer": "GenAn95_3"
+        },
+        {
+          "new_riddle": "Gene95_4",
+          "new_answer": "GenAn95_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ऐसी कौन सी चीज़ है जिसे जितना ज्यादा खाओ उतनी ज्यादा भूख लगती है?",
+      "original_answer": "ज्ञान",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene96_1",
+          "new_answer": "GenAn96_1"
+        },
+        {
+          "new_riddle": "Gene96_2",
+          "new_answer": "GenAn96_2"
+        },
+        {
+          "new_riddle": "Gene96_3",
+          "new_answer": "GenAn96_3"
+        },
+        {
+          "new_riddle": "Gene96_4",
+          "new_answer": "GenAn96_4"
+        }
+      ]
+    }
+  ]
+}

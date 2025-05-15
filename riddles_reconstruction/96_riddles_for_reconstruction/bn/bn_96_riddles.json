@@ -1,0 +1,2116 @@
+{
+  "riddles": [
+    {
+      "original_riddle": "কাঁচাতে যেই ফল সর্বজনে খায়, পাঁকলে সেই ফল গড়াগড়ি যায়",
+      "original_answer": "ডুমুর",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene1_1",
+          "new_answer": "GenAn1_1"
+        },
+        {
+          "new_riddle": "Gene1_2",
+          "new_answer": "GenAn1_2"
+        },
+        {
+          "new_riddle": "Gene1_3",
+          "new_answer": "GenAn1_3"
+        },
+        {
+          "new_riddle": "Gene1_4",
+          "new_answer": "GenAn1_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "জল ছাড়া নদী, পাথর ছাড়া পাহাড় এবং মানুষ ছাড়া শহর কোথায় পাওয়া যায়?",
+      "original_answer": "একটি ম্যাপে",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene2_1",
+          "new_answer": "GenAn2_1"
+        },
+        {
+          "new_riddle": "Gene2_2",
+          "new_answer": "GenAn2_2"
+        },
+        {
+          "new_riddle": "Gene2_3",
+          "new_answer": "GenAn2_3"
+        },
+        {
+          "new_riddle": "Gene2_4",
+          "new_answer": "GenAn2_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "যদি থাকে বুদ্ধি বলো দেখি কোন সুখে সুখ নেই?",
+      "original_answer": "অসুখ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene3_1",
+          "new_answer": "GenAn3_1"
+        },
+        {
+          "new_riddle": "Gene3_2",
+          "new_answer": "GenAn3_2"
+        },
+        {
+          "new_riddle": "Gene3_3",
+          "new_answer": "GenAn3_3"
+        },
+        {
+          "new_riddle": "Gene3_4",
+          "new_answer": "GenAn3_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "কালিদাস পন্ডিতের ফাঁকি, আড়াইশো থেকে পাঁচ পঞ্চাশ গেলে আর কত থাকে বাকী?",
+      "original_answer": "শূন্য",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene4_1",
+          "new_answer": "GenAn4_1"
+        },
+        {
+          "new_riddle": "Gene4_2",
+          "new_answer": "GenAn4_2"
+        },
+        {
+          "new_riddle": "Gene4_3",
+          "new_answer": "GenAn4_3"
+        },
+        {
+          "new_riddle": "Gene4_4",
+          "new_answer": "GenAn4_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "বাঘের মত লাফ দেয়, কুকুর হয়ে বসে, পানির মধ্যে ছেড়ে দিলে, ছোলা হয়ে ভাসে।",
+      "original_answer": "ব্যাঙ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene5_1",
+          "new_answer": "GenAn5_1"
+        },
+        {
+          "new_riddle": "Gene5_2",
+          "new_answer": "GenAn5_2"
+        },
+        {
+          "new_riddle": "Gene5_3",
+          "new_answer": "GenAn5_3"
+        },
+        {
+          "new_riddle": "Gene5_4",
+          "new_answer": "GenAn5_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "শহর থেকে এল সাহেব কোর্ট প্যান্ট পরে, কোর্ট প্যান্ট খোলার পরে চোখ জ্বালা করে।",
+      "original_answer": "পেঁয়াজ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene6_1",
+          "new_answer": "GenAn6_1"
+        },
+        {
+          "new_riddle": "Gene6_2",
+          "new_answer": "GenAn6_2"
+        },
+        {
+          "new_riddle": "Gene6_3",
+          "new_answer": "GenAn6_3"
+        },
+        {
+          "new_riddle": "Gene6_4",
+          "new_answer": "GenAn6_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "৩ অক্ষরের নাম তার পেট ভরে পানি খায় মাঝের অক্ষর বাদ দিলে আলোয় ভরে যায়,",
+      "original_answer": "বালতি",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene7_1",
+          "new_answer": "GenAn7_1"
+        },
+        {
+          "new_riddle": "Gene7_2",
+          "new_answer": "GenAn7_2"
+        },
+        {
+          "new_riddle": "Gene7_3",
+          "new_answer": "GenAn7_3"
+        },
+        {
+          "new_riddle": "Gene7_4",
+          "new_answer": "GenAn7_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "কান নাই মাথা নাই, পেট ভরে খায়, কাম নাই কাজ নাই, মাথা নিয়ে ঘুমায়।",
+      "original_answer": "বালিশ।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene8_1",
+          "new_answer": "GenAn8_1"
+        },
+        {
+          "new_riddle": "Gene8_2",
+          "new_answer": "GenAn8_2"
+        },
+        {
+          "new_riddle": "Gene8_3",
+          "new_answer": "GenAn8_3"
+        },
+        {
+          "new_riddle": "Gene8_4",
+          "new_answer": "GenAn8_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "আমি কাদাঁই, আমি হাসাই, নই আমি প্রাণি, আমায় দেখে সবাই ক্ষনিক ভোলে ব্যাথার বানী।",
+      "original_answer": "সিনেমা বা নাটক।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene9_1",
+          "new_answer": "GenAn9_1"
+        },
+        {
+          "new_riddle": "Gene9_2",
+          "new_answer": "GenAn9_2"
+        },
+        {
+          "new_riddle": "Gene9_3",
+          "new_answer": "GenAn9_3"
+        },
+        {
+          "new_riddle": "Gene9_4",
+          "new_answer": "GenAn9_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "আন্ধার ঘরে থাকি আমি নড়াচড়া করি, একটুখানি খাবার পেলে খাবলে তাকে ধরি।",
+      "original_answer": "জিহ্বা।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene10_1",
+          "new_answer": "GenAn10_1"
+        },
+        {
+          "new_riddle": "Gene10_2",
+          "new_answer": "GenAn10_2"
+        },
+        {
+          "new_riddle": "Gene10_3",
+          "new_answer": "GenAn10_3"
+        },
+        {
+          "new_riddle": "Gene10_4",
+          "new_answer": "GenAn10_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "হাঁড়ির ভিতর, বালির ভিতর হাজার ছেলে নাচে, একটু পরই হয় সে খাবার তপ্ত চুলার আঁচে।",
+      "original_answer": "মুড়ি।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene11_1",
+          "new_answer": "GenAn11_1"
+        },
+        {
+          "new_riddle": "Gene11_2",
+          "new_answer": "GenAn11_2"
+        },
+        {
+          "new_riddle": "Gene11_3",
+          "new_answer": "GenAn11_3"
+        },
+        {
+          "new_riddle": "Gene11_4",
+          "new_answer": "GenAn11_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "এতো বড় আঙিনা ঝাড় দিয়েও কুলোয় না। কতো ফুল ফুটে আছে নাই তার তুলনা!",
+      "original_answer": "আকাশ ও তারা।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene12_1",
+          "new_answer": "GenAn12_1"
+        },
+        {
+          "new_riddle": "Gene12_2",
+          "new_answer": "GenAn12_2"
+        },
+        {
+          "new_riddle": "Gene12_3",
+          "new_answer": "GenAn12_3"
+        },
+        {
+          "new_riddle": "Gene12_4",
+          "new_answer": "GenAn12_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "চার পায়ে বসি মোরা, আট পায়ে চলি। বাঘও নই ভাল্লুকও নই আস্ত কাঁধে ঝুলি।",
+      "original_answer": "পালকি।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene13_1",
+          "new_answer": "GenAn13_1"
+        },
+        {
+          "new_riddle": "Gene13_2",
+          "new_answer": "GenAn13_2"
+        },
+        {
+          "new_riddle": "Gene13_3",
+          "new_answer": "GenAn13_3"
+        },
+        {
+          "new_riddle": "Gene13_4",
+          "new_answer": "GenAn13_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন অক্ষরে নাম তার সর্ব অঙ্গে কালো, মাঝের অক্ষর বাদ দিলে খেতে লাগে ভাল",
+      "original_answer": "কয়লা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene14_1",
+          "new_answer": "GenAn14_1"
+        },
+        {
+          "new_riddle": "Gene14_2",
+          "new_answer": "GenAn14_2"
+        },
+        {
+          "new_riddle": "Gene14_3",
+          "new_answer": "GenAn14_3"
+        },
+        {
+          "new_riddle": "Gene14_4",
+          "new_answer": "GenAn14_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "আশ্চর্য এক কথা শুনলে হাসি পায় নিজে দেখতে পায় না কিন্তু অপরকে দেখায়।",
+      "original_answer": "আয়না",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene15_1",
+          "new_answer": "GenAn15_1"
+        },
+        {
+          "new_riddle": "Gene15_2",
+          "new_answer": "GenAn15_2"
+        },
+        {
+          "new_riddle": "Gene15_3",
+          "new_answer": "GenAn15_3"
+        },
+        {
+          "new_riddle": "Gene15_4",
+          "new_answer": "GenAn15_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন অক্ষরের নাম তার সবাই খায়, প্রথম অক্ষর ছেড়ে দিলে মেয়েদের হাতে যায়।",
+      "original_answer": "খিচুড়ি",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene16_1",
+          "new_answer": "GenAn16_1"
+        },
+        {
+          "new_riddle": "Gene16_2",
+          "new_answer": "GenAn16_2"
+        },
+        {
+          "new_riddle": "Gene16_3",
+          "new_answer": "GenAn16_3"
+        },
+        {
+          "new_riddle": "Gene16_4",
+          "new_answer": "GenAn16_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "চোখ আছে, কান নাই, হাত আছে, প্রাণ নাই।",
+      "original_answer": "চশমা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene17_1",
+          "new_answer": "GenAn17_1"
+        },
+        {
+          "new_riddle": "Gene17_2",
+          "new_answer": "GenAn17_2"
+        },
+        {
+          "new_riddle": "Gene17_3",
+          "new_answer": "GenAn17_3"
+        },
+        {
+          "new_riddle": "Gene17_4",
+          "new_answer": "GenAn17_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "এক বাড়িতে চার ভাই, তাদের গায়ে একই সাজ, কারো মুখে কেশ নাই, দিন শেষে বাড়ায় রাজ।",
+      "original_answer": "পদ্মফুল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene18_1",
+          "new_answer": "GenAn18_1"
+        },
+        {
+          "new_riddle": "Gene18_2",
+          "new_answer": "GenAn18_2"
+        },
+        {
+          "new_riddle": "Gene18_3",
+          "new_answer": "GenAn18_3"
+        },
+        {
+          "new_riddle": "Gene18_4",
+          "new_answer": "GenAn18_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "এক পায়ে দাঁড়িয়ে আছে, হাত দিয়ে ঠেলে দিলে, দৌড়ে পালিয়ে যায়।",
+      "original_answer": "লাটিম",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene19_1",
+          "new_answer": "GenAn19_1"
+        },
+        {
+          "new_riddle": "Gene19_2",
+          "new_answer": "GenAn19_2"
+        },
+        {
+          "new_riddle": "Gene19_3",
+          "new_answer": "GenAn19_3"
+        },
+        {
+          "new_riddle": "Gene19_4",
+          "new_answer": "GenAn19_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "সাদা দুটি পুকুরে কালো হিরে চকচক করে।",
+      "original_answer": "চোখ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene20_1",
+          "new_answer": "GenAn20_1"
+        },
+        {
+          "new_riddle": "Gene20_2",
+          "new_answer": "GenAn20_2"
+        },
+        {
+          "new_riddle": "Gene20_3",
+          "new_answer": "GenAn20_3"
+        },
+        {
+          "new_riddle": "Gene20_4",
+          "new_answer": "GenAn20_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "দিনের বেলায় ঘুমিয়ে থাকে রাতের বেলায় জাগে ঘর-বাড়ি নেই আকাশেতে থাকে",
+      "original_answer": "চাঁদ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene21_1",
+          "new_answer": "GenAn21_1"
+        },
+        {
+          "new_riddle": "Gene21_2",
+          "new_answer": "GenAn21_2"
+        },
+        {
+          "new_riddle": "Gene21_3",
+          "new_answer": "GenAn21_3"
+        },
+        {
+          "new_riddle": "Gene21_4",
+          "new_answer": "GenAn21_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "চাঁদ নয় সূর্য নয় আলো দেয় রাতে গাছে গাছে উড়ে বেড়ায় টিমটিম আলোতে।",
+      "original_answer": "জোনাকি",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene22_1",
+          "new_answer": "GenAn22_1"
+        },
+        {
+          "new_riddle": "Gene22_2",
+          "new_answer": "GenAn22_2"
+        },
+        {
+          "new_riddle": "Gene22_3",
+          "new_answer": "GenAn22_3"
+        },
+        {
+          "new_riddle": "Gene22_4",
+          "new_answer": "GenAn22_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "গলা আছে মাথা নেই হাত আছে পা নেই এটি কি বলবে আমায়?",
+      "original_answer": "শার্ট",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene23_1",
+          "new_answer": "GenAn23_1"
+        },
+        {
+          "new_riddle": "Gene23_2",
+          "new_answer": "GenAn23_2"
+        },
+        {
+          "new_riddle": "Gene23_3",
+          "new_answer": "GenAn23_3"
+        },
+        {
+          "new_riddle": "Gene23_4",
+          "new_answer": "GenAn23_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "বাঘ নয় তবে মানুষ খায় পাখি নয় তবে উড়ে যায় বোলতা নয় তবে শুং আছে জন্তু নয় তবে পা আছে।",
+      "original_answer": "মশা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene24_1",
+          "new_answer": "GenAn24_1"
+        },
+        {
+          "new_riddle": "Gene24_2",
+          "new_answer": "GenAn24_2"
+        },
+        {
+          "new_riddle": "Gene24_3",
+          "new_answer": "GenAn24_3"
+        },
+        {
+          "new_riddle": "Gene24_4",
+          "new_answer": "GenAn24_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "মাথার উপর রাখে আমায় রোদ-বর্ষার দিনে বাকি সময় পড়ে থাকি শুধু ঘরের কোনে৷",
+      "original_answer": "ছাতি",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene25_1",
+          "new_answer": "GenAn25_1"
+        },
+        {
+          "new_riddle": "Gene25_2",
+          "new_answer": "GenAn25_2"
+        },
+        {
+          "new_riddle": "Gene25_3",
+          "new_answer": "GenAn25_3"
+        },
+        {
+          "new_riddle": "Gene25_4",
+          "new_answer": "GenAn25_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "দাদু বুড়ো, ঠাকুমা বুড়ি আমাতে বুড়ো কী? পাঁচ আঙুলে রয়েছে সেটি বলবে সেটি কী?",
+      "original_answer": "বুড়ো আঙুল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene26_1",
+          "new_answer": "GenAn26_1"
+        },
+        {
+          "new_riddle": "Gene26_2",
+          "new_answer": "GenAn26_2"
+        },
+        {
+          "new_riddle": "Gene26_3",
+          "new_answer": "GenAn26_3"
+        },
+        {
+          "new_riddle": "Gene26_4",
+          "new_answer": "GenAn26_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "উপরে থেকে পড়ল হাঁড়ি হাঁড়ির ভেতরে একশো কড়ি।",
+      "original_answer": "কাঁঠাল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene27_1",
+          "new_answer": "GenAn27_1"
+        },
+        {
+          "new_riddle": "Gene27_2",
+          "new_answer": "GenAn27_2"
+        },
+        {
+          "new_riddle": "Gene27_3",
+          "new_answer": "GenAn27_3"
+        },
+        {
+          "new_riddle": "Gene27_4",
+          "new_answer": "GenAn27_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ঘরের ভেতরে ঘর সেখানে গিয়ে শুয়ে পড়।",
+      "original_answer": "মশারী",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene28_1",
+          "new_answer": "GenAn28_1"
+        },
+        {
+          "new_riddle": "Gene28_2",
+          "new_answer": "GenAn28_2"
+        },
+        {
+          "new_riddle": "Gene28_3",
+          "new_answer": "GenAn28_3"
+        },
+        {
+          "new_riddle": "Gene28_4",
+          "new_answer": "GenAn28_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "এক থালা সুপারি গুণতে না পারি।",
+      "original_answer": "আকাশ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene29_1",
+          "new_answer": "GenAn29_1"
+        },
+        {
+          "new_riddle": "Gene29_2",
+          "new_answer": "GenAn29_2"
+        },
+        {
+          "new_riddle": "Gene29_3",
+          "new_answer": "GenAn29_3"
+        },
+        {
+          "new_riddle": "Gene29_4",
+          "new_answer": "GenAn29_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "জটা ভরা মাথায় হাজার চোখে তাকায়।",
+      "original_answer": "আনারস",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene30_1",
+          "new_answer": "GenAn30_1"
+        },
+        {
+          "new_riddle": "Gene30_2",
+          "new_answer": "GenAn30_2"
+        },
+        {
+          "new_riddle": "Gene30_3",
+          "new_answer": "GenAn30_3"
+        },
+        {
+          "new_riddle": "Gene30_4",
+          "new_answer": "GenAn30_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "থাকি গভীর জলে মাঝের বর্ণ ছেড়ে দিলে আকাশে যাই উড়ে।",
+      "original_answer": "চিতল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene31_1",
+          "new_answer": "GenAn31_1"
+        },
+        {
+          "new_riddle": "Gene31_2",
+          "new_answer": "GenAn31_2"
+        },
+        {
+          "new_riddle": "Gene31_3",
+          "new_answer": "GenAn31_3"
+        },
+        {
+          "new_riddle": "Gene31_4",
+          "new_answer": "GenAn31_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "প্রজাপতি, প্রজাপতি বলছি শোন কী তিনটি মাথা, দশটি ঠ্যাং দেখেছ তুমি কি?",
+      "original_answer": "কৃষক ও হালের দুটি গোরু",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene32_1",
+          "new_answer": "GenAn32_1"
+        },
+        {
+          "new_riddle": "Gene32_2",
+          "new_answer": "GenAn32_2"
+        },
+        {
+          "new_riddle": "Gene32_3",
+          "new_answer": "GenAn32_3"
+        },
+        {
+          "new_riddle": "Gene32_4",
+          "new_answer": "GenAn32_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "লেবু টক, জলপাই টক আর টক কী পাতার আড়ালে ঝুলে থাকি আমায় চেন কি?",
+      "original_answer": "তেঁতুল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene33_1",
+          "new_answer": "GenAn33_1"
+        },
+        {
+          "new_riddle": "Gene33_2",
+          "new_answer": "GenAn33_2"
+        },
+        {
+          "new_riddle": "Gene33_3",
+          "new_answer": "GenAn33_3"
+        },
+        {
+          "new_riddle": "Gene33_4",
+          "new_answer": "GenAn33_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "লম্বা কেশর ফুলিয়ে তোলা গম্ভীর মেজাজ; রাজার মতো চেহারা তাই নামটি পশুরাজ",
+      "original_answer": "সিংহ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene34_1",
+          "new_answer": "GenAn34_1"
+        },
+        {
+          "new_riddle": "Gene34_2",
+          "new_answer": "GenAn34_2"
+        },
+        {
+          "new_riddle": "Gene34_3",
+          "new_answer": "GenAn34_3"
+        },
+        {
+          "new_riddle": "Gene34_4",
+          "new_answer": "GenAn34_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "আয় আয় তু তু খেতে দেব দু দু! ল্যজটি তুলে নাচবি সুখে, হাসবে সোনার খুকু!",
+      "original_answer": "বিড়াল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene35_1",
+          "new_answer": "GenAn35_1"
+        },
+        {
+          "new_riddle": "Gene35_2",
+          "new_answer": "GenAn35_2"
+        },
+        {
+          "new_riddle": "Gene35_3",
+          "new_answer": "GenAn35_3"
+        },
+        {
+          "new_riddle": "Gene35_4",
+          "new_answer": "GenAn35_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "গাছে হয় ঘরে আনি রান্না হয় খাওয়ার সময় ফেলা হয় ।",
+      "original_answer": "তেজপাতা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene36_1",
+          "new_answer": "GenAn36_1"
+        },
+        {
+          "new_riddle": "Gene36_2",
+          "new_answer": "GenAn36_2"
+        },
+        {
+          "new_riddle": "Gene36_3",
+          "new_answer": "GenAn36_3"
+        },
+        {
+          "new_riddle": "Gene36_4",
+          "new_answer": "GenAn36_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "পাখা আছে মোর না পারি উড়তে, আঁখি আছে মোর না পারি মুদতে। পা নাই মোর তবুও ঘুরি। জীবন কাটাই জলে চরি। যদি তুমি আমায় চিনতে পারো তবে মোর নামটি মনে করো।",
+      "original_answer": "মাছ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene37_1",
+          "new_answer": "GenAn37_1"
+        },
+        {
+          "new_riddle": "Gene37_2",
+          "new_answer": "GenAn37_2"
+        },
+        {
+          "new_riddle": "Gene37_3",
+          "new_answer": "GenAn37_3"
+        },
+        {
+          "new_riddle": "Gene37_4",
+          "new_answer": "GenAn37_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন বর্ণের নামটি আমার আরাম করে শুই প্রথম বর্ণ কেটে দিলে দুধের থেকে হই মাঝের বর্ণ কেটে দিলে ছাড়া পেয়ে যাই শেষের বর্ণ কেটে দিলে ভীষণ ভয় পাই।",
+      "original_answer": "বিছানা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene38_1",
+          "new_answer": "GenAn38_1"
+        },
+        {
+          "new_riddle": "Gene38_2",
+          "new_answer": "GenAn38_2"
+        },
+        {
+          "new_riddle": "Gene38_3",
+          "new_answer": "GenAn38_3"
+        },
+        {
+          "new_riddle": "Gene38_4",
+          "new_answer": "GenAn38_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "দুই বর্ণের শব্দ আমি জলের মাঝে রই দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।",
+      "original_answer": "মাছ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene39_1",
+          "new_answer": "GenAn39_1"
+        },
+        {
+          "new_riddle": "Gene39_2",
+          "new_answer": "GenAn39_2"
+        },
+        {
+          "new_riddle": "Gene39_3",
+          "new_answer": "GenAn39_3"
+        },
+        {
+          "new_riddle": "Gene39_4",
+          "new_answer": "GenAn39_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ফরসা সাহেবেরা কালো টুপি পরে, একবার ঘসে দিলে উঠে যে জ্বলে",
+      "original_answer": "দেশলাই",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene40_1",
+          "new_answer": "GenAn40_1"
+        },
+        {
+          "new_riddle": "Gene40_2",
+          "new_answer": "GenAn40_2"
+        },
+        {
+          "new_riddle": "Gene40_3",
+          "new_answer": "GenAn40_3"
+        },
+        {
+          "new_riddle": "Gene40_4",
+          "new_answer": "GenAn40_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "বড়ো একটি পুকুরের ছোটো দুটি ঘাট, বত্রিশটি কলাগাছ, একটি পাতা তাতে ৷",
+      "original_answer": "মুখ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene41_1",
+          "new_answer": "GenAn41_1"
+        },
+        {
+          "new_riddle": "Gene41_2",
+          "new_answer": "GenAn41_2"
+        },
+        {
+          "new_riddle": "Gene41_3",
+          "new_answer": "GenAn41_3"
+        },
+        {
+          "new_riddle": "Gene41_4",
+          "new_answer": "GenAn41_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ওপার থেকে এলো বুড়ি সাদা কাপড় পরে মহানন্দে বসল খেতে ঘাড় নেড়ে নেড়ে",
+      "original_answer": "বক",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene42_1",
+          "new_answer": "GenAn42_1"
+        },
+        {
+          "new_riddle": "Gene42_2",
+          "new_answer": "GenAn42_2"
+        },
+        {
+          "new_riddle": "Gene42_3",
+          "new_answer": "GenAn42_3"
+        },
+        {
+          "new_riddle": "Gene42_4",
+          "new_answer": "GenAn42_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "কোন দেশ বাজে কোন দেশ বলো দেখি তেল ঘিতে ভাজে",
+      "original_answer": "কাশী, পুরী",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene43_1",
+          "new_answer": "GenAn43_1"
+        },
+        {
+          "new_riddle": "Gene43_2",
+          "new_answer": "GenAn43_2"
+        },
+        {
+          "new_riddle": "Gene43_3",
+          "new_answer": "GenAn43_3"
+        },
+        {
+          "new_riddle": "Gene43_4",
+          "new_answer": "GenAn43_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "জলের জন্তু নয় তবুও জলেই  বাস করে হাত নেই পা নেই তবু সাঁতার কাটে",
+      "original_answer": "নৌকা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene44_1",
+          "new_answer": "GenAn44_1"
+        },
+        {
+          "new_riddle": "Gene44_2",
+          "new_answer": "GenAn44_2"
+        },
+        {
+          "new_riddle": "Gene44_3",
+          "new_answer": "GenAn44_3"
+        },
+        {
+          "new_riddle": "Gene44_4",
+          "new_answer": "GenAn44_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন অক্ষরে নাম যার সবার ঘরে রয় প্রথম অক্ষর বাদ দিলে সর্ব লোকে খায়। পেট তার কেটে দিলে মধুর গান গায় শেষ অক্ষর বাদ দিলে খুব কামরায়",
+      "original_answer": "বিছানা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene45_1",
+          "new_answer": "GenAn45_1"
+        },
+        {
+          "new_riddle": "Gene45_2",
+          "new_answer": "GenAn45_2"
+        },
+        {
+          "new_riddle": "Gene45_3",
+          "new_answer": "GenAn45_3"
+        },
+        {
+          "new_riddle": "Gene45_4",
+          "new_answer": "GenAn45_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "দু’অক্ষরে নাম তার বহু লোকে খায় শেষের অক্ষর বাদ দিলে হেঁটে চলে যায়",
+      "original_answer": "পান",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene46_1",
+          "new_answer": "GenAn46_1"
+        },
+        {
+          "new_riddle": "Gene46_2",
+          "new_answer": "GenAn46_2"
+        },
+        {
+          "new_riddle": "Gene46_3",
+          "new_answer": "GenAn46_3"
+        },
+        {
+          "new_riddle": "Gene46_4",
+          "new_answer": "GenAn46_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "দু’অক্ষরে নাম লজ্জা নিবারণী প্রথম অক্ষর বাদ দিলে হয় আমার জননী শেষের অক্ষর বাদ দিলে ভাশুর ঘরণী",
+      "original_answer": "জামা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene47_1",
+          "new_answer": "GenAn47_1"
+        },
+        {
+          "new_riddle": "Gene47_2",
+          "new_answer": "GenAn47_2"
+        },
+        {
+          "new_riddle": "Gene47_3",
+          "new_answer": "GenAn47_3"
+        },
+        {
+          "new_riddle": "Gene47_4",
+          "new_answer": "GenAn47_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "প্রাণ নেই বন্ধু নয়, চলে সাথে সাথে আলো পেলে তবে চলে দিনে কিংবা রাতে",
+      "original_answer": "ছায়া",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene48_1",
+          "new_answer": "GenAn48_1"
+        },
+        {
+          "new_riddle": "Gene48_2",
+          "new_answer": "GenAn48_2"
+        },
+        {
+          "new_riddle": "Gene48_3",
+          "new_answer": "GenAn48_3"
+        },
+        {
+          "new_riddle": "Gene48_4",
+          "new_answer": "GenAn48_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন অক্ষরে নাম তার প্রতি ঘরে পাবে অধ্যক্ষর বাদ দিলে বৎসর বুঝাবে মধ্য অক্ষর গেলে সবার ক্ষতি করে শেষের অক্ষর গেলে সবাই অবস্থান করে",
+      "original_answer": "বাসন",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene49_1",
+          "new_answer": "GenAn49_1"
+        },
+        {
+          "new_riddle": "Gene49_2",
+          "new_answer": "GenAn49_2"
+        },
+        {
+          "new_riddle": "Gene49_3",
+          "new_answer": "GenAn49_3"
+        },
+        {
+          "new_riddle": "Gene49_4",
+          "new_answer": "GenAn49_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "দুই অক্ষরের নাম যার সব যায়গায় রায় প্রথম অক্ষর বাদ দিলে খাবার জিনিস হয়, শেষের অক্ষর বাদ দিলে আপনজন হয়",
+      "original_answer": "মাটি",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene50_1",
+          "new_answer": "GenAn50_1"
+        },
+        {
+          "new_riddle": "Gene50_2",
+          "new_answer": "GenAn50_2"
+        },
+        {
+          "new_riddle": "Gene50_3",
+          "new_answer": "GenAn50_3"
+        },
+        {
+          "new_riddle": "Gene50_4",
+          "new_answer": "GenAn50_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "একলা তারে যায় না দেখা, সঙ্গী গেলে বাঁচে। আধার দেখে ভয়ে পালায়, আলোয় ফিরে আসে।",
+      "original_answer": "ছায়া।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene51_1",
+          "new_answer": "GenAn51_1"
+        },
+        {
+          "new_riddle": "Gene51_2",
+          "new_answer": "GenAn51_2"
+        },
+        {
+          "new_riddle": "Gene51_3",
+          "new_answer": "GenAn51_3"
+        },
+        {
+          "new_riddle": "Gene51_4",
+          "new_answer": "GenAn51_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "একটুখানি পুস্কনি, পানি টলমল করে। রাজার ছেলের সাধ্য নেই, জাল ফেলতে পারে।",
+      "original_answer": "চোখ।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene52_1",
+          "new_answer": "GenAn52_1"
+        },
+        {
+          "new_riddle": "Gene52_2",
+          "new_answer": "GenAn52_2"
+        },
+        {
+          "new_riddle": "Gene52_3",
+          "new_answer": "GenAn52_3"
+        },
+        {
+          "new_riddle": "Gene52_4",
+          "new_answer": "GenAn52_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "একটি গাছের বাঁট নাই, তবু দুগ্ধ হয় প্রচুর। দোহনকালে থাকে নাকো, তার নিকটে বাছুর।",
+      "original_answer": "তালগাছ।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene53_1",
+          "new_answer": "GenAn53_1"
+        },
+        {
+          "new_riddle": "Gene53_2",
+          "new_answer": "GenAn53_2"
+        },
+        {
+          "new_riddle": "Gene53_3",
+          "new_answer": "GenAn53_3"
+        },
+        {
+          "new_riddle": "Gene53_4",
+          "new_answer": "GenAn53_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "একটি হলে কাজ হবে না, দুটি কিন্তু চাই। দুটি পেলে, হবে চাষী ভাই।",
+      "original_answer": "বলদ।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene54_1",
+          "new_answer": "GenAn54_1"
+        },
+        {
+          "new_riddle": "Gene54_2",
+          "new_answer": "GenAn54_2"
+        },
+        {
+          "new_riddle": "Gene54_3",
+          "new_answer": "GenAn54_3"
+        },
+        {
+          "new_riddle": "Gene54_4",
+          "new_answer": "GenAn54_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "এপার ঝাটি, ওপার ঝাটি। ঝাটিতে করে, পিটা পিটি।",
+      "original_answer": "চোখের পাতা।",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene55_1",
+          "new_answer": "GenAn55_1"
+        },
+        {
+          "new_riddle": "Gene55_2",
+          "new_answer": "GenAn55_2"
+        },
+        {
+          "new_riddle": "Gene55_3",
+          "new_answer": "GenAn55_3"
+        },
+        {
+          "new_riddle": "Gene55_4",
+          "new_answer": "GenAn55_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "\"তিন অক্ষরে নাম যার, যাতে তৈরি তাতেই ভেসে, শেষের অক্ষর বাদ দিলে সোজা বিয়ের পিঁড়িতে বসে\" বল কি সেই মাল??",
+      "original_answer": "বরফ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene56_1",
+          "new_answer": "GenAn56_1"
+        },
+        {
+          "new_riddle": "Gene56_2",
+          "new_answer": "GenAn56_2"
+        },
+        {
+          "new_riddle": "Gene56_3",
+          "new_answer": "GenAn56_3"
+        },
+        {
+          "new_riddle": "Gene56_4",
+          "new_answer": "GenAn56_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন অক্ষরে নাম তার পানিতে বাস করে, প্রথম অক্ষর বাদ দিলে স্বাদে মিষ্টি করে। বল কি তার নাম?",
+      "original_answer": "মাগুর",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene57_1",
+          "new_answer": "GenAn57_1"
+        },
+        {
+          "new_riddle": "Gene57_2",
+          "new_answer": "GenAn57_2"
+        },
+        {
+          "new_riddle": "Gene57_3",
+          "new_answer": "GenAn57_3"
+        },
+        {
+          "new_riddle": "Gene57_4",
+          "new_answer": "GenAn57_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "বল কি সেই জালের নাম, যার না আছে কোনো সুতা, ফিতা, তার ; কিন্তু নিমিষেই তোমায় দেবে শেরা সম্পদের সন্ধান।",
+      "original_answer": "আন্তজাল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene58_1",
+          "new_answer": "GenAn58_1"
+        },
+        {
+          "new_riddle": "Gene58_2",
+          "new_answer": "GenAn58_2"
+        },
+        {
+          "new_riddle": "Gene58_3",
+          "new_answer": "GenAn58_3"
+        },
+        {
+          "new_riddle": "Gene58_4",
+          "new_answer": "GenAn58_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "এমন একটি জিনিস যেটা সব লোকই খায় ছোট ছেলেরা খেলেপরে মায়ের কাছে যায় বৃদ্ধ লোকে খেলেপরে মাথায় দেয় হাত যুবক যুবতীরা খেলে এদিক ওদিক তাকায়",
+      "original_answer": "আছার",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene59_1",
+          "new_answer": "GenAn59_1"
+        },
+        {
+          "new_riddle": "Gene59_2",
+          "new_answer": "GenAn59_2"
+        },
+        {
+          "new_riddle": "Gene59_3",
+          "new_answer": "GenAn59_3"
+        },
+        {
+          "new_riddle": "Gene59_4",
+          "new_answer": "GenAn59_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন অক্ষরে জিনিসটা কি নাম তার বলনা মাথা কাটলে চলে আর মাথা না কাটলে চলে না।",
+      "original_answer": "পেন্সিল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene60_1",
+          "new_answer": "GenAn60_1"
+        },
+        {
+          "new_riddle": "Gene60_2",
+          "new_answer": "GenAn60_2"
+        },
+        {
+          "new_riddle": "Gene60_3",
+          "new_answer": "GenAn60_3"
+        },
+        {
+          "new_riddle": "Gene60_4",
+          "new_answer": "GenAn60_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "মেঘের ডাকে জল ছেড়ে ডাঙায় উঠে পড়ে মানুষ তার মাঠে পেলে নিয়ে যায় ঘরে।",
+      "original_answer": "কইমাছ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene61_1",
+          "new_answer": "GenAn61_1"
+        },
+        {
+          "new_riddle": "Gene61_2",
+          "new_answer": "GenAn61_2"
+        },
+        {
+          "new_riddle": "Gene61_3",
+          "new_answer": "GenAn61_3"
+        },
+        {
+          "new_riddle": "Gene61_4",
+          "new_answer": "GenAn61_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "হাত আছে পা নেয় মাথা তার কাটা আস্ত মানুষ গিলে খায় বুক তার ফাটা।",
+      "original_answer": "জামা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene62_1",
+          "new_answer": "GenAn62_1"
+        },
+        {
+          "new_riddle": "Gene62_2",
+          "new_answer": "GenAn62_2"
+        },
+        {
+          "new_riddle": "Gene62_3",
+          "new_answer": "GenAn62_3"
+        },
+        {
+          "new_riddle": "Gene62_4",
+          "new_answer": "GenAn62_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন অক্ষরে নাম তার সব লোকে খায় প্রথম অক্ষর বদ দিলে ঘর ছাওয়া যায়।",
+      "original_answer": "কুমড়ো",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene63_1",
+          "new_answer": "GenAn63_1"
+        },
+        {
+          "new_riddle": "Gene63_2",
+          "new_answer": "GenAn63_2"
+        },
+        {
+          "new_riddle": "Gene63_3",
+          "new_answer": "GenAn63_3"
+        },
+        {
+          "new_riddle": "Gene63_4",
+          "new_answer": "GenAn63_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "একই প্রশ্ন কিন্তু সবাই আলাদা আলাদা উত্তর দেয় অথচ সবার উত্তরই ঠিক প্রশ্নটি কি ?",
+      "original_answer": "তোমার নাম কি",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene64_1",
+          "new_answer": "GenAn64_1"
+        },
+        {
+          "new_riddle": "Gene64_2",
+          "new_answer": "GenAn64_2"
+        },
+        {
+          "new_riddle": "Gene64_3",
+          "new_answer": "GenAn64_3"
+        },
+        {
+          "new_riddle": "Gene64_4",
+          "new_answer": "GenAn64_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "আমি অন্ধকার কিন্তু আলো ছাড়া আমার অস্তিত্ব নেই আমি কে ?",
+      "original_answer": "ছায়া",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene65_1",
+          "new_answer": "GenAn65_1"
+        },
+        {
+          "new_riddle": "Gene65_2",
+          "new_answer": "GenAn65_2"
+        },
+        {
+          "new_riddle": "Gene65_3",
+          "new_answer": "GenAn65_3"
+        },
+        {
+          "new_riddle": "Gene65_4",
+          "new_answer": "GenAn65_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "কোথায় নদী আছে কিন্তুু জল নেই পাহাড় আছে কিন্তু পাথর নেই দেশ আছে কিন্তু লোক নেই ?",
+      "original_answer": "ম্যাপ বা মানচিত্র",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene66_1",
+          "new_answer": "GenAn66_1"
+        },
+        {
+          "new_riddle": "Gene66_2",
+          "new_answer": "GenAn66_2"
+        },
+        {
+          "new_riddle": "Gene66_3",
+          "new_answer": "GenAn66_3"
+        },
+        {
+          "new_riddle": "Gene66_4",
+          "new_answer": "GenAn66_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "সমুদ্রে জন্য আমার থাকি সবার ঘরে একটু জলের স্পশ্র পেলে যায় আমি মরে",
+      "original_answer": "নুন বা লবণ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene67_1",
+          "new_answer": "GenAn67_1"
+        },
+        {
+          "new_riddle": "Gene67_2",
+          "new_answer": "GenAn67_2"
+        },
+        {
+          "new_riddle": "Gene67_3",
+          "new_answer": "GenAn67_3"
+        },
+        {
+          "new_riddle": "Gene67_4",
+          "new_answer": "GenAn67_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "কত,র মধ্যে কত বাদ দিলে কত থাকবে ?",
+      "original_answer": "র",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene68_1",
+          "new_answer": "GenAn68_1"
+        },
+        {
+          "new_riddle": "Gene68_2",
+          "new_answer": "GenAn68_2"
+        },
+        {
+          "new_riddle": "Gene68_3",
+          "new_answer": "GenAn68_3"
+        },
+        {
+          "new_riddle": "Gene68_4",
+          "new_answer": "GenAn68_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "বন থেকে বেরোলো টিয়ে, সোনার টোপর মাথায় দিয়া",
+      "original_answer": "আনারস",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene69_1",
+          "new_answer": "GenAn69_1"
+        },
+        {
+          "new_riddle": "Gene69_2",
+          "new_answer": "GenAn69_2"
+        },
+        {
+          "new_riddle": "Gene69_3",
+          "new_answer": "GenAn69_3"
+        },
+        {
+          "new_riddle": "Gene69_4",
+          "new_answer": "GenAn69_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "এই ঘরে যাই, ওই ঘরে যাই, দুমদুমি এ আছাড় খাই",
+      "original_answer": "ঝাড়ু",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene70_1",
+          "new_answer": "GenAn70_1"
+        },
+        {
+          "new_riddle": "Gene70_2",
+          "new_answer": "GenAn70_2"
+        },
+        {
+          "new_riddle": "Gene70_3",
+          "new_answer": "GenAn70_3"
+        },
+        {
+          "new_riddle": "Gene70_4",
+          "new_answer": "GenAn70_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "লাল টুকটুক ছোটমামা, গায়ে পড়ে অনেক জামা",
+      "original_answer": "পেঁয়াজ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene71_1",
+          "new_answer": "GenAn71_1"
+        },
+        {
+          "new_riddle": "Gene71_2",
+          "new_answer": "GenAn71_2"
+        },
+        {
+          "new_riddle": "Gene71_3",
+          "new_answer": "GenAn71_3"
+        },
+        {
+          "new_riddle": "Gene71_4",
+          "new_answer": "GenAn71_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন অক্ষরে নাম চোরের বুক কাঁপে, শেষ দুটি ছেড়ে দিলে কাটে এক কোপে। কিন্তু যদি প্রথম ছাড়ো দেখে লাগে দুঃখ, মাংস কম, শীর্ণকায়, চেহারাটি সূক্ষ্ম",
+      "original_answer": "দারোগা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene72_1",
+          "new_answer": "GenAn72_1"
+        },
+        {
+          "new_riddle": "Gene72_2",
+          "new_answer": "GenAn72_2"
+        },
+        {
+          "new_riddle": "Gene72_3",
+          "new_answer": "GenAn72_3"
+        },
+        {
+          "new_riddle": "Gene72_4",
+          "new_answer": "GenAn72_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "হেতা দিলাম থান হয়ে গেল লতা, ফুল নাই ফল নাই সবই তার পাতা",
+      "original_answer": "পান",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene73_1",
+          "new_answer": "GenAn73_1"
+        },
+        {
+          "new_riddle": "Gene73_2",
+          "new_answer": "GenAn73_2"
+        },
+        {
+          "new_riddle": "Gene73_3",
+          "new_answer": "GenAn73_3"
+        },
+        {
+          "new_riddle": "Gene73_4",
+          "new_answer": "GenAn73_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "গা করে তার খসর-মসর, পাত করে তার ফেনী; ফুল করে তার লাল-তামাসা, ফল করে কুস্তনি",
+      "original_answer": "শিমূল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene74_1",
+          "new_answer": "GenAn74_1"
+        },
+        {
+          "new_riddle": "Gene74_2",
+          "new_answer": "GenAn74_2"
+        },
+        {
+          "new_riddle": "Gene74_3",
+          "new_answer": "GenAn74_3"
+        },
+        {
+          "new_riddle": "Gene74_4",
+          "new_answer": "GenAn74_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "সাগরে জন্ম তার আকাশে উড়ে, পর্বতের কাছে মার খেয়ে কেঁদে কেঁদে মড়ে",
+      "original_answer": "কুয়াশা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene75_1",
+          "new_answer": "GenAn75_1"
+        },
+        {
+          "new_riddle": "Gene75_2",
+          "new_answer": "GenAn75_2"
+        },
+        {
+          "new_riddle": "Gene75_3",
+          "new_answer": "GenAn75_3"
+        },
+        {
+          "new_riddle": "Gene75_4",
+          "new_answer": "GenAn75_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তলে মাটি উপরে মাটি, তার মধ্যে সুন্দর বেটি",
+      "original_answer": "হলুদ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene76_1",
+          "new_answer": "GenAn76_1"
+        },
+        {
+          "new_riddle": "Gene76_2",
+          "new_answer": "GenAn76_2"
+        },
+        {
+          "new_riddle": "Gene76_3",
+          "new_answer": "GenAn76_3"
+        },
+        {
+          "new_riddle": "Gene76_4",
+          "new_answer": "GenAn76_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "জল নয়, বৃষ্টিও নয় কিন্তু ভিজে সারা, বাড়িঘর ডুবল, ডুবল পাহাড়েরও চূড়া",
+      "original_answer": "কুয়াশা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene77_1",
+          "new_answer": "GenAn77_1"
+        },
+        {
+          "new_riddle": "Gene77_2",
+          "new_answer": "GenAn77_2"
+        },
+        {
+          "new_riddle": "Gene77_3",
+          "new_answer": "GenAn77_3"
+        },
+        {
+          "new_riddle": "Gene77_4",
+          "new_answer": "GenAn77_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "হাত আছে পা নেই বুক তার ফাটা, জ্যান্ত মানুষ গিলে খায় নেই তার মাথা",
+      "original_answer": "জামা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene78_1",
+          "new_answer": "GenAn78_1"
+        },
+        {
+          "new_riddle": "Gene78_2",
+          "new_answer": "GenAn78_2"
+        },
+        {
+          "new_riddle": "Gene78_3",
+          "new_answer": "GenAn78_3"
+        },
+        {
+          "new_riddle": "Gene78_4",
+          "new_answer": "GenAn78_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "জলের মাঝে জন্ম হলো দুই অক্ষরের প্রাণী, শেষের অক্ষর বাদ দিলে হয় মহারাণী",
+      "original_answer": "মাছ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene79_1",
+          "new_answer": "GenAn79_1"
+        },
+        {
+          "new_riddle": "Gene79_2",
+          "new_answer": "GenAn79_2"
+        },
+        {
+          "new_riddle": "Gene79_3",
+          "new_answer": "GenAn79_3"
+        },
+        {
+          "new_riddle": "Gene79_4",
+          "new_answer": "GenAn79_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "তিন অক্ষরের নাম তার সবার ঘরে রয়, প্রথম অক্ষর বাদ দিলে খাদ্যবস্তু হয়। মাঝের অক্ষর বাদ দিলে হয় গানের শোভা, শেষের অক্ষর বাদ দিলে ভয় তুমি পাবা",
+      "original_answer": "বিছানা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene80_1",
+          "new_answer": "GenAn80_1"
+        },
+        {
+          "new_riddle": "Gene80_2",
+          "new_answer": "GenAn80_2"
+        },
+        {
+          "new_riddle": "Gene80_3",
+          "new_answer": "GenAn80_3"
+        },
+        {
+          "new_riddle": "Gene80_4",
+          "new_answer": "GenAn80_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "জনম গেল দুখে, বুকে আমার আগুন দিয়ে থাকো অনেক সুখে",
+      "original_answer": "হুঁকো",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene81_1",
+          "new_answer": "GenAn81_1"
+        },
+        {
+          "new_riddle": "Gene81_2",
+          "new_answer": "GenAn81_2"
+        },
+        {
+          "new_riddle": "Gene81_3",
+          "new_answer": "GenAn81_3"
+        },
+        {
+          "new_riddle": "Gene81_4",
+          "new_answer": "GenAn81_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "কাল আমাকে মেরে ছিলে সয়ে ছিলাম আমি, আজ আমায় মারো দেখি কেমন বেটা তুমি",
+      "original_answer": "মাটির হাড়ি",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene82_1",
+          "new_answer": "GenAn82_1"
+        },
+        {
+          "new_riddle": "Gene82_2",
+          "new_answer": "GenAn82_2"
+        },
+        {
+          "new_riddle": "Gene82_3",
+          "new_answer": "GenAn82_3"
+        },
+        {
+          "new_riddle": "Gene82_4",
+          "new_answer": "GenAn82_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "কুল কুল কুলেরি, ভাদ্র মাসে ধুলোরি, কাঁচায়-পাকায় সবাই খায়, নেংটো হয়ে হাটে যায়",
+      "original_answer": "তেঁতুল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene83_1",
+          "new_answer": "GenAn83_1"
+        },
+        {
+          "new_riddle": "Gene83_2",
+          "new_answer": "GenAn83_2"
+        },
+        {
+          "new_riddle": "Gene83_3",
+          "new_answer": "GenAn83_3"
+        },
+        {
+          "new_riddle": "Gene83_4",
+          "new_answer": "GenAn83_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "রাজার বেটা রাম দাস, খায় খোলা তার ফেলায় শাঁস",
+      "original_answer": "চালতা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene84_1",
+          "new_answer": "GenAn84_1"
+        },
+        {
+          "new_riddle": "Gene84_2",
+          "new_answer": "GenAn84_2"
+        },
+        {
+          "new_riddle": "Gene84_3",
+          "new_answer": "GenAn84_3"
+        },
+        {
+          "new_riddle": "Gene84_4",
+          "new_answer": "GenAn84_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ইকরের তলে তলে ভিকমতির ছানি, কোন দেশে দেখিয়াছ গাছের আগায় পানি?",
+      "original_answer": "নারিকেল",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene85_1",
+          "new_answer": "GenAn85_1"
+        },
+        {
+          "new_riddle": "Gene85_2",
+          "new_answer": "GenAn85_2"
+        },
+        {
+          "new_riddle": "Gene85_3",
+          "new_answer": "GenAn85_3"
+        },
+        {
+          "new_riddle": "Gene85_4",
+          "new_answer": "GenAn85_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "এক থালা সুপারী গুণতে পারে কোন ব্যাপারী?",
+      "original_answer": "আকাশের তারা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene86_1",
+          "new_answer": "GenAn86_1"
+        },
+        {
+          "new_riddle": "Gene86_2",
+          "new_answer": "GenAn86_2"
+        },
+        {
+          "new_riddle": "Gene86_3",
+          "new_answer": "GenAn86_3"
+        },
+        {
+          "new_riddle": "Gene86_4",
+          "new_answer": "GenAn86_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "সফেদ শয্যা পড়ে আছে কেউ তাতে না শোয়, ভিতর থেকে খোলাম কুচি আঙিনাতে থোয়",
+      "original_answer": "সমুদ্র",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene87_1",
+          "new_answer": "GenAn87_1"
+        },
+        {
+          "new_riddle": "Gene87_2",
+          "new_answer": "GenAn87_2"
+        },
+        {
+          "new_riddle": "Gene87_3",
+          "new_answer": "GenAn87_3"
+        },
+        {
+          "new_riddle": "Gene87_4",
+          "new_answer": "GenAn87_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "সকালে চার পায়ে হাঁটে, দুপুরে দুই পায়ে। সন্ধায় তিন পায়ে হাঁটে বলো তো কে যায়?",
+      "original_answer": "মানুষ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene88_1",
+          "new_answer": "GenAn88_1"
+        },
+        {
+          "new_riddle": "Gene88_2",
+          "new_answer": "GenAn88_2"
+        },
+        {
+          "new_riddle": "Gene88_3",
+          "new_answer": "GenAn88_3"
+        },
+        {
+          "new_riddle": "Gene88_4",
+          "new_answer": "GenAn88_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ইটে গুরুগুরু বৈঠা নাগর, বিনা বৈঠায় বায় সে সাগর",
+      "original_answer": "কচ্ছপ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene89_1",
+          "new_answer": "GenAn89_1"
+        },
+        {
+          "new_riddle": "Gene89_2",
+          "new_answer": "GenAn89_2"
+        },
+        {
+          "new_riddle": "Gene89_3",
+          "new_answer": "GenAn89_3"
+        },
+        {
+          "new_riddle": "Gene89_4",
+          "new_answer": "GenAn89_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "জ্বলছে তবু পুড়ছে না, কোন সে প্রাণী বলো তা",
+      "original_answer": "জোনাকী",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene90_1",
+          "new_answer": "GenAn90_1"
+        },
+        {
+          "new_riddle": "Gene90_2",
+          "new_answer": "GenAn90_2"
+        },
+        {
+          "new_riddle": "Gene90_3",
+          "new_answer": "GenAn90_3"
+        },
+        {
+          "new_riddle": "Gene90_4",
+          "new_answer": "GenAn90_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "একটুখানি পুষ্পরিণী টলমল করে, একটুখানি কুটা পাড়লে সর্বনাশ করে",
+      "original_answer": "চোখ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene91_1",
+          "new_answer": "GenAn91_1"
+        },
+        {
+          "new_riddle": "Gene91_2",
+          "new_answer": "GenAn91_2"
+        },
+        {
+          "new_riddle": "Gene91_3",
+          "new_answer": "GenAn91_3"
+        },
+        {
+          "new_riddle": "Gene91_4",
+          "new_answer": "GenAn91_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "আাঁধার পুকুর, গড়ান মাঠ, বত্রিশ কলাগাছ, একখানি পাট",
+      "original_answer": "দাঁত ও জিহ্বা",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene92_1",
+          "new_answer": "GenAn92_1"
+        },
+        {
+          "new_riddle": "Gene92_2",
+          "new_answer": "GenAn92_2"
+        },
+        {
+          "new_riddle": "Gene92_3",
+          "new_answer": "GenAn92_3"
+        },
+        {
+          "new_riddle": "Gene92_4",
+          "new_answer": "GenAn92_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ছোট ছোট গাছখানি তার কত ফল ধরে, একটা যদি খায় তবে আহা-উহু করে",
+      "original_answer": "বোম্বাই মরিচ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene93_1",
+          "new_answer": "GenAn93_1"
+        },
+        {
+          "new_riddle": "Gene93_2",
+          "new_answer": "GenAn93_2"
+        },
+        {
+          "new_riddle": "Gene93_3",
+          "new_answer": "GenAn93_3"
+        },
+        {
+          "new_riddle": "Gene93_4",
+          "new_answer": "GenAn93_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "ছোট কালে লেজ হয়, বড় কালে খসে, বাঘের মত লাফ দেয়, কুকেুরের মত বসে",
+      "original_answer": "ব্যাঙ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene94_1",
+          "new_answer": "GenAn94_1"
+        },
+        {
+          "new_riddle": "Gene94_2",
+          "new_answer": "GenAn94_2"
+        },
+        {
+          "new_riddle": "Gene94_3",
+          "new_answer": "GenAn94_3"
+        },
+        {
+          "new_riddle": "Gene94_4",
+          "new_answer": "GenAn94_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "একটুখানি জলে মাছ কিলবিল করে, কারো বাবার সাধ্য নাই হাত দিয়ে তা ধরে",
+      "original_answer": "ফুটন্ত ভাত",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene95_1",
+          "new_answer": "GenAn95_1"
+        },
+        {
+          "new_riddle": "Gene95_2",
+          "new_answer": "GenAn95_2"
+        },
+        {
+          "new_riddle": "Gene95_3",
+          "new_answer": "GenAn95_3"
+        },
+        {
+          "new_riddle": "Gene95_4",
+          "new_answer": "GenAn95_4"
+        }
+      ]
+    },
+    {
+      "original_riddle": "মেটো গোয়াল, কাঠের গাই বাঁছুর ছাড়াই দুধ পাই",
+      "original_answer": "খেঁজুর গাছ",
+      "context_riddles": [
+        {
+          "new_riddle": "Gene96_1",
+          "new_answer": "GenAn96_1"
+        },
+        {
+          "new_riddle": "Gene96_2",
+          "new_answer": "GenAn96_2"
+        },
+        {
+          "new_riddle": "Gene96_3",
+          "new_answer": "GenAn96_3"
+        },
+        {
+          "new_riddle": "Gene96_4",
+          "new_answer": "GenAn96_4"
+        }
+      ]
+    }
+  ]
+}

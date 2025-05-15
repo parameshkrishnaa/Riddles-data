@@ -1,0 +1,1055 @@
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഞെട്ടില്ല വട്ടേല?
+Original Answer: പപ്പടം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: മുള്ളുണ്ട് മുരിക്കല്ല, കൊമ്പുണ്ട് കുത്തില്ല, പാലുണ്ട് പശുവല്ല?
+Original Answer: ചക്ക
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ചെടി ചെടിയിന്മേൽകായ് കയ്യിന്മേൽ ചെടി?
+Original Answer: കൈതച്ചക്ക
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: നല്ല നായ്ക്ക് നാവിന്മേൽ പല്ല്?
+Original Answer: ചിരവ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കുത്തുന്ന കാളക്ക് പിന്നിൽ കണ്ണ്?
+Original Answer: സൂചി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കരടിയിലുണ്ട് കുതിരയിലില്ല, ഉഴുന്നിലുണ്ട് ഉലുവയിലില്ല, ജനതയിലുണ്ട് ജനങ്ങളിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Original Answer: കഴുത
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കാലുപിടിക്കുന്നവനെ സംരക്ഷിക്കുന്നവൻ?
+Original Answer: കുട
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: അകത്തുരോമം പുറത്തിറച്ചി?
+Original Answer: മൂക്ക്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കണ്ടാലൊരു വണ്ടി, തൊട്ടാലൊരു ചക്രം?
+Original Answer: തേരട്ട
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഒരമ്മ പെറ്റതെല്ലാം കറുത്ത പട്ടാളം?
+Original Answer: കട്ടുറുമ്പ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഉണ്ടാക്കുന്നവൻ ഉപയോഗിക്കുന്നില്ല, ഉപയോഗിക്കുന്നവൻ അറിയുന്നില്ല?
+Original Answer: ശവപ്പെട്ടി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: അമ്മയെകുത്തി മകൻ മരിച്ചു?
+Original Answer: തീപെട്ടി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആയിരം പറ അവളിൽ ഒരു നുള്ള് കൊട്ടത്തേങ്ങ?
+Original Answer: ചന്ദ്രക്കല
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: അടി മുള്ള്, നടു കാട്, തല പൂവ്?
+Original Answer: പൈനാപ്പിൾ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: മുറ്റത്തെ ചെപ്പിനു അടപ്പില്ല?
+Original Answer: കിണർ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആയിരം പോലീസുകാർക്ക് ഒരു ബെൽറ്റ്?
+Original Answer: ചൂല്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഇട്ടാൽ പൊട്ടും ഇംഗ്ലീഷ് മുട്ട?
+Original Answer: കടുക്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആനയിലുണ്ട് ചേനയിലില്ല, ഇമയിലുണ്ട് ഇഷ്ട്ടത്തിലില്ല. രണ്ട് അക്ഷരമുള്ള ഞാനാര്?
+Original Answer: ആമ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഓടും കുതിര, ചാടും കുതിര, വെള്ളം കണ്ടാൽ നില്കും കുതിര?
+Original Answer: ചെരുപ്പ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഒരു അമ്മ പെറ്റതെല്ലാം തൊപ്പികുട്ടന്മാർ?
+Original Answer: പാക്ക്/അടക്ക
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: അടി പാറ, നാട് വടി, മീതെ കുട?
+Original Answer: ചേന
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: അങ്ങോട്ടോടും, ഇങ്ങോട്ടോടും. നേരെനിന്ന് സത്യം പറയും?
+Original Answer: ത്രാസ്സ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: മുള്ളുണ്ട് മുരിക്കല്ല, കൈപ്പുണ്ട് കാഞ്ഞിരമല്ല?
+Original Answer: പാവക്ക
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആയിരം പോലീസുകാർക്ക് ഒരു ബെൽറ്റ്
+Original Answer: ചൂല്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആയിരം കിളികൾക്ക് ഒറ്റക്കൊക്ക്?
+Original Answer: വാഴക്കുല
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: എന്നെ തൊട്ടുകൂട്ടും, പക്ഷെ സദ്യക്ക് എടുക്കില്ല?
+Original Answer: കാൽക്കുലേറ്റർ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഒരു കുപ്പിയിൽ രണ്ടെണ്ണ?
+Original Answer: മുട്ട
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കിക്കിലുക്കം, കിലുകിലുക്കം ഉത്തരത്തിൽ ചത്തിരിക്കും?
+Original Answer: താക്കോൽകൂട്ടം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കാടുണ്ട് കടുവയില്ല, വീടുണ്ട് വീട്ടാറില്ല, കുളമുണ്ട് മീനില്ല?
+Original Answer: തേങ്ങ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: പൊന്നുതിന്ന് വെള്ളിതുപ്പി?
+Original Answer: ചക്കച്ചുള
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: മലയിലെ അമ്മക്ക് നെറുകയിൽപൂവ്?
+Original Answer: കൈതച്ചക്ക
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: മരങ്ങൾക്കും ബാങ്കുകൾക്കും പൊതുവായുള്ളത് എന്താണ് ?
+Original Answer: ശാഖ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആരും ഇഷ്ടപ്പെടാത്ത പണം ഏതാണ് ?
+Original Answer: ആരോപണം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആൺകുട്ടികളും പെൺകുട്ടികളും ഒരുപോലെ ഉപയോഗിക്കുന്ന മാല ?
+Original Answer: അക്ഷരമാല
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആരും പോകാൻ ആഗ്രഹിക്കാത്ത അറ ?
+Original Answer: കല്ലറ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: എല്ലാവർക്കും വിളമ്പി നൽകുകയും സ്വയം ഒന്നും കഴിക്കാതിരിക്കുകയും ചെയ്യുന്നത് ആരാണ് ?
+Original Answer: തവി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: തലകുത്തി നിന്നാൽ വലുതാകുന്നത് ആര് ?
+Original Answer: 6
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വെച്ചടി വെച്ചടി കയറ്റം കിട്ടുന്ന ജോലി ?
+Original Answer: തെങ്ങുകയറ്റം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കുടിക്കാൻ പറ്റുന്ന ഇഗ്ലീഷ് അക്ഷരം ?
+Original Answer: T
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന വാർഡ് ഏത്..?
+Original Answer: അവാർഡ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കുറ്റവാളികൾ ഭയപ്പെടുന്ന മരം ഏതാണ്.?
+Original Answer: കഴുമരം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വണ്ടി ഓടാത്ത റൂട്ട് ഏത്?
+Original Answer: ബീറ്റ്‌റൂട്ട്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആരും ഇഷ്ടപ്പെടാത്ത ദേശം ഏതാണ് ?
+Original Answer: ഉപദേശം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: നിങ്ങളുടെ മുന്നിലുണ്ട് എന്നാൽ നിങ്ങൾക്ക് കാണാൻ കഴിയില്ല. എന്താണത് ?
+Original Answer: നിങ്ങളുടെ ഭാവി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: എന്നും ഉപ്പിലിടുന്ന വസ്തു ഏതാണ് ?
+Original Answer: സ്പൂൺ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: പോലീസുകാർ ഒറ്റക്കാലിൽ നിൽക്കുന്നത് എപ്പോൾ ?
+Original Answer: പാന്റ് ഇടുമ്പോൾ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: എപ്പോഴും വിശപ്പുള്ള രാജ്യം ഏത്..?
+Original Answer: ഹംഗറി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആളുകൾ എപ്പോഴും തെന്നിവീഴുന്ന രാജ്യം ഏത്..?
+Original Answer: ഗ്രീസ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: എപ്പോഴും മഴയുള്ള രാജ്യം ഏത്..?
+Original Answer: ബഹ്റൈൻ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ന്യൂസുകൾ കൂടുതൽ ഉള്ള രാജ്യം ഏത്..?
+Original Answer: ന്യൂസിലാന്റ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഏറ്റവും കൂടുതൽ തിരക്കുള്ള രാജ്യം ഏത്..?
+Original Answer: അർജന്റീന
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഒരു മീനിനെ പിടിച്ചു കരയ്ക്ക് ഇട്ടാൽ എന്തുപറ്റും ?
+Original Answer: മണ്ണ് പറ്റും
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വധൂവരന്മാർ ആദ്യമായി കഴിക്കുന്നത് എന്താണ് ?
+Original Answer: വിവാഹം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: പിറകിൽ നിന്ന് ആരെങ്കിലും വിളിച്ചാൽ തിരിഞ്ഞു നോക്കുന്നത് എന്തുകൊണ്ട് ?
+Original Answer: പിറകിൽ കണ്ണില്ലാത്തതുകൊണ്ട്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: നിങ്ങളുടെ സ്വന്തം ആണെങ്കിലും ഇത് കൂടുതലും ഉപയോഗിക്കുന്നത് മറ്റുള്ളവരാണ്. എന്ത് ?
+Original Answer: നിങ്ങളുടെ പേര്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഇടുമ്പോൾ ടൈറ്റ് ആയിരിക്കും ഇട്ടു കഴിഞ്ഞാൽ ലൂസ് ആയിരിക്കും ?
+Original Answer: വള
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആകാശത്തൊരു കൂട്ടിനുള്ളില്‍
+Original Answer: മുപ്പത്തിരണ്ടു വെള്ളാന പല്ല്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വീട്ടിലെ കോവിലിൽ മൂന്നുണ്ട് ദൈവങ്ങൾ.
+Original Answer: അടുപ്പ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വെട്ടും തോറും വളരും ഞാൻ.
+Original Answer: തലമുടി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വെള്ളച്ചാരെ മാറ്റിയിരുത്തി, ചോപ്പന്മാരെ കേറ്റിയിരുത്തി.
+Original Answer: ചാരം വാരി തീകൂട്ടി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വെള്ളമതിലിനുള്ളിൽ ഒരു വെള്ളിവടി.
+Original Answer: വാഴപ്പിണ്ടി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വെള്ളിക്കിണ്ണത്തിൽ ഞാവൽപ്പഴം.
+Original Answer: കണ്ണ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വാലില്ലാത്തമ്മയ്ക്ക് വാലുള്ള മക്കൾ.
+Original Answer: തവള
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വില്ലാണ് പക്ഷേ ഞാണില്ല കെട്ടാൻ.
+Original Answer: മഴവില്ല്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വട്ടത്തിൽ ചവിട്ടിയിൽ നീളത്തിലോടും.
+Original Answer: സൈക്കിൾ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വരുമ്പോൾ കറുത്തിട്ട്, പോകുമ്പോൾ വെളുത്തിട്ട്.
+Original Answer: തലമുടി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: മുള്ളിനുള്ളിലെ സുന്ദരിക്കുട്ടി.
+Original Answer: റോസാപുഷ്പം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: മുള്ളില്ലാത്ത പുറംകാട്ടിൽ എല്ലില്ലാത്ത ഒരെലിക്കുഞ്ഞ്.
+Original Answer: പേൻ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: പുക തുപ്പുന്ന പാമ്പ്.
+Original Answer: തീവണ്ടി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: പൂട്ടാനെളുപ്പം തുറക്കാനാവില്ല.
+Original Answer: തൊട്ടാവാടി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: പലകക്കീഴെ പച്ചയിറച്ചി.
+Original Answer: നഖം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: തുമ്പിക്കൈയില്ലാത്ത ആന.
+Original Answer: കുഴിയാന
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: തെക്ക് നിന്ന് വന്ന കാളയ്ക്ക് പള്ളയ്ക്കൊരു കൊമ്പ്.
+Original Answer: കിണ്ടി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: തേങ്ങാപ്പൂളൊരു തേങ്ങാമുറിയായ്.
+Original Answer: ചന്ദ്രൻ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: തൊട്ടാൽ ചൊറിയൻ തിന്നാൻ രസികൻ.
+Original Answer: ചേന
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: തോളിൽ തൂങ്ങുന്ന തല്ലുകൊള്ളി.
+Original Answer: ചെണ്ട
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ചത്ത പോത്ത് കോലെടുത്താലോടും.
+Original Answer: തോണി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കിഴക്കൂന്ന് വരവ്, പടിഞ്ഞാട്ട് പോക്ക്.
+Original Answer: സൂര്യൻ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കുളിക്കാൻ പോകുമ്പോൾ കുഴഞ്ഞുമറിഞ്ഞ്, കുളിച്ചു വരുമ്പോൾ ബലാബലൻ.
+Original Answer: പപ്പടം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഒരമ്മ എന്നും വെന്തും നീറിയും
+Original Answer: അടുപ്പു്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ഒരു തൊഴുത്തിൽ രണ്ടുവരി വെള്ളക്കുതിര.
+Original Answer: പല്ലുകൾ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: എന്നെ തൊട്ടാൽ തൊടുന്നവനെ തട്ടും.
+Original Answer: വൈദ്യുതി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആരോടും മല്ലടിക്കും, വെള്ളത്തോട് മാത്രമില്ല.
+Original Answer: അഗ്നി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആരാലും അടിക്കാത്ത മുറ്റം.
+Original Answer: ആകാശം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ആരും കാണാതെ വരും, ആരും കാണാതെ പോകും.
+Original Answer: കാറ്റ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: അകത്ത് പോയപ്പോൾ പച്ച, പുറത്ത് വന്നപ്പോൾ ചുവപ്പ്.
+Original Answer: വെറ്റില മുറുക്ക്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: അടയ്ക്കും തുറക്കും കിങ്ങിണി പത്തായം.
+Original Answer: കണ്ണ്
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: വായില്ല നാക്കുണ്ട്, നാക്കിന്മേൽ പല്ലുണ്ട്.
+Original Answer: ചിരവ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: പിടിച്ചാൽ പിടികിട്ടില്ല, വെട്ടിയാൽ വെട്ടേൽക്കില്ല.
+Original Answer: വെള്ളം
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കാലില്‍ പിടിച്ചാല്‍ തോളില്‍ കയറും
+Original Answer: കുട
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കറുത്ത പാറമേല്‍ വെളുത്ത വേര്‍
+Original Answer: ആന
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കറുപ്പാണ് എന്‍റെ നിറം...നീ എവിടെ പോയലും നിന്‍റെ കൂടെ ഞാനും വരും
+Original Answer: നിഴല്‍
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: കൈയില്ല കാലില്ല, വാലുണ്ട് വയറുണ്ട്, നീരാടിപ്പോരുമ്പോള്‍ കൊല്ലും ഞാന്‍ നൂറാളെ
+Original Answer: മീന്‍‌വല
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: ചത്തു കിടക്കുന്ന പാമ്പ് വടിയെടുത്തല്‍ ഓടും
+Original Answer: തോണ്ണി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: പഞ്ചപാണ്ഡവര്‍ക്ക് അഞ്ചുപേര്‍ക്കും കൂടി ഒരു മുറ്റമേയുള്ളൂ
+Original Answer: കൈപ്പത്തി
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
+
+Respond in Malayalam:
+You are an expert in creating riddles in Malayalam. Given the following riddle and its answer, generate a new riddle that follows the same reasoning pattern but in a different context. The new riddle should have a different subject or theme but preserve the logical structure of the original (e.g., describing an object with paradoxical or unexpected traits). Provide the new riddle and its answer.
+Write 5 new riddles (provide only question and its answer in the given output format)
+
+Original Riddle: എല്ലാം തിന്നും എല്ലാം ദഹിക്കും വെള്ളം കുടിച്ചാല്‍ ചത്തും പോകും
+Original Answer: തീ
+
+Output format:
+New Riddle: [Your new riddle here]
+New Answer: [Your new answer here]
