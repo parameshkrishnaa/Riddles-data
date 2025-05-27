@@ -1,0 +1,2889 @@
+
+--- Starting New Generation Run at Tue May 27 15:27:17 2025 ---
+Model: mistralai/mistral-saba, Language: Hindi, Prompt: 2_shot_sem_sim_recon_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Hindi riddles.
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन सा शब्द है जिसे बोलते तो है, पर बताते नहीं ?
+Answer: राज़
+
+Example 2:
+Riddle: ऐसी कौन सी चीज है जिसका मुँह तो है, पर बोल नहीं सकती?
+Answer: नदी
+
+Now, solve this riddle:
+Riddle : ऐसा कौन सा शब्द है, जिसे लिखते तो है, पर पढ़ते नही है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नही
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: दो बिल्लियों के बीच में अगर एक रोटी का टुकड़ा रख दिया जाए, तो वे सबसे पहले किसे मारेंगी?
+Answer: झपट्टा
+
+Example 2:
+Riddle: बारिश में भीगता हुआ आदमी, जिसके पास छाता भी नहीं है, सबसे पहले क्या पकड़ेगा?
+Answer: सर्दी
+
+Now, solve this riddle:
+Riddle : अगर स्कूटी स्पीड से चला रही महिला के सामने पति और भाई खड़े है, तो सबसे पहले वो किसे मारेगी?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गैस
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है, जिसका पेट दबाओ तो वह अपना मुँह खोल कर थूकने लगती है?
+Answer: टूथपेस्ट
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो चलती है पर उसके पैर नहीं होते?
+Answer: सड़क
+
+Now, solve this riddle:
+Riddle : कौन सी चीज है जो अगर चलते चलते थक जाए तो उसकी गर्दन काटने पर वह दोबारा चलने लग जाती है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पेंसिल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: वह क्या है जिसे नेक आदमी निभाता है और धोखेबाज तोड़ देता है?
+Answer: वादा
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो आँख से लगती है, तो आदमी सो जाता है?
+Answer: आँख
+
+Now, solve this riddle:
+Riddle : वह क्या चीज है जिसे आदमी छुपा कर और औरत दिखा कर चलती है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पर्स
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: दाँत हैं पर खाती नहीं,\nमुँह नहीं पर काटती हूँ |
+Answer: आरी
+
+Example 2:
+Riddle: वह कौन सा खाना है, जिसमें न कोई स्वाद है और न ही वह पेट भरता है, फिर भी लोग उसे खाते हैं?
+Answer: कसम।
+
+Now, solve this riddle:
+Riddle : खुद कभी वह कुछ न खाए,\nलेकिन सब को खूब खिलाए |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चम्मच
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो है तो कागज़ की, पर ज़िंदगी के लिए अनमोल है?
+Answer: डिग्री
+
+Example 2:
+Riddle: वह क्या है, जो है तो तारा, मगर आसमान में नहीं रहता?
+Answer: आँख का तारा
+
+Now, solve this riddle:
+Riddle : वह क्या है, जो है तो सोने की, मगर सोने से बहुत सस्ती है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तकिया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो जितनी पुरानी होती जाती है, उतनी ही नई लगती है (कुछ लोगों के लिए)?
+Answer: शराब (पुरानी शराब) / एंटीक वस्तुएँ
+
+Example 2:
+Riddle: वह कौन है, जिसे जितना अधिक खर्च करो, उतना ही बढ़ता जाता है?
+Answer: विद्या
+
+Now, solve this riddle:
+Riddle : वह कौन है, जो जितना भी बूढ़ा हो जाए, मगर फिर भी वह जवान हीं रहता है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चाँद
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: उसे दिन भर लेते व छोड़ते हैं। बिना उसके जीवित नहीं रह सकते।
+Answer: साँस
+
+Example 2:
+Riddle: उसे दिन भर चलाते हैं। उसके बिना बोल नहीं सकते हैं।
+Answer: मुँह
+
+Now, solve this riddle:
+Riddle : उसे दिन भर उठाते व रखते हैं। बिना उसके कहीं जा नहीं सकते हैं।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पैर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: शुरुआत में लम्बा और नोकदार, इस्तेमाल करो तो छोटा हो जाए, बच्चे बड़े सब ज्ञान इसी से पाएं।
+Answer: पेंसिल
+
+Example 2:
+Riddle: शुरुआत में तरल रहता है, जम जाए तो कठोर हो जाए, गर्मी में सबकी प्यास बुझाए।
+Answer: बर्फ
+
+Now, solve this riddle:
+Riddle : शुरुआत में वो हरा रहता है, बाद में वो पिला हो जाए, बच्चे हो या बूढ़े सभी उसे मजे से खाएं।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+केला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: सफेद बदन, गोल है मुंह, गंदे कपड़े खाती। घुमा फिराकर पेट में, उन्हें साफ कर देती।
+Answer: वाशिंग मशीन
+
+Example 2:
+Riddle: तन है काला, मन है उजला, ज्ञान का सागर, अक्षर उगला।
+Answer: कलम
+
+Now, solve this riddle:
+Riddle : काला मुंह लाल शरीर, कागज को वह खाता, रोज शाम को पेट फाड़कर कोई उन्हें ले जाता।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+लेटरबॉक्स
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: खोदो तो मिलता हूँ, भर दो तो खो जाता हूँ, ऊपर नहीं हूँ, नीचे ही समाता हूँ, बूझो मेरा नाम सही?
+Answer: गड्ढा
+
+Example 2:
+Riddle: जब कोई नहीं बोलता तब होती हूँ, जब सब बोलते हैं तब नहीं होती हूँ, कानों में आती हूँ पर आवाज़ नहीं, बूझो मेरा नाम सही?
+Answer: खामोशी
+
+Now, solve this riddle:
+Riddle : रात में है, दिन में नहीं, दीया के नीचे, ऊपर नहीं, बूझो मेरा नाम सही ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अंधेरा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: आगे 'द' है मध्य में 'प', अंत में इसके 'क' है। आग नहीं यह, न कोई तारा, खुद जलकर दुनिया को रोशन करता। बताओ क्या ?
+Answer: दीपक
+
+Example 2:
+Riddle: पहला ‘ज’, मध्य में ‘हा’, अंत में फिर ‘ज’ की छटा। न सड़क पर दौड़ूँ, न हवा में पंख फैलाऊँ। सागर की छाती पर मेरा निवास, यात्रियों और सामान का मैं खास। बताओ क्या?
+Answer: जहाज़
+
+Now, solve this riddle:
+Riddle : आगे ‘प’ है मध्य में भी ‘प’, अंत में इसके ‘ह’ है, कटी पतंग नहीं यह भैया, न बिल्ली चूहा है, वन में पेड़ों पर रहता है; सुर में रहकर कुछ कहता है| बताओ क्या ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पपीहा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं हूँ एक छोटी डिबिया निराली, ना ताला, ना चाबी, ना खोली जाती। पर मेरे भीतर छिपा है, एक हरा भरा संसार सारा।
+Answer: बीज
+
+Example 2:
+Riddle: इसमें दुनिया बसी है पर कोई रहता नहीं, बातें होती हैं पर ज़ुबान नहीं, चीज़ें दिखती हैं पर पकड़ नहीं सकते।
+Answer: मोबाइल स्क्रीन
+
+Now, solve this riddle:
+Riddle : डिब्बा देखा एक निराला, ना ढकना न ताला, न पेंदा नाही कोना, बंद है उसमें चांदी सोना।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अंडा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा शब्द बताइए कि, जिससे शरीर का अंग और पौधे का हिस्सा बन जाए?
+Answer: मुँहफली
+
+Example 2:
+Riddle: ऐसी माला, जिसमें फूल ना धागा, तो बताओ क्या?
+Answer: वर्णमाला।
+
+Now, solve this riddle:
+Riddle : ऐसा शब्द बताइए कि, जिससे फूल, मिठाई और फल बन जाए ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गुलाब जामुन
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसके पास गला तो है, पर आवाज़ नहीं?
+Answer: बोतल
+
+Example 2:
+Riddle: कौन सी चीज़ है जिसकी आवाज़ है पर ज़ुबान नहीं?
+Answer: घंटी
+
+Now, solve this riddle:
+Riddle : वह कौन – सा फूल है, जिसके पास कोई रंग और महक नहीं है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कपास
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी माला, जिसमें फूल ना धागा, तो बताओ क्या?
+Answer: वर्णमाला।
+
+Example 2:
+Riddle: ऐसी कौन सी 'की' (चाबी) है जो कोई ताला नहीं खोल सकती?
+Answer: उत्तर कुंजी
+
+Now, solve this riddle:
+Riddle : ऐसा रूम, जिसकी खिड़की ना दरवाजा तो बताओ क्या ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मशरूम
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है, जहाँ स्वर हैं पर आवाज़ नहीं, ताल है पर धड़कन नहीं और गीत है पर गायक नहीं?
+Answer: शीट म्यूज़िक
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है, जिसमें लोग हैं पर जान नहीं, जगह है पर माप नहीं, और समय है पर गति नहीं?
+Answer: तस्वीर।
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी जगह है, जहाँ पर सड़क है पर गाड़ी नहीं, जंगल है पर पेड़ नहीं और शहर है पर घर नहीं ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नक्शा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: रोज सवेरे आता हूँ, शाम को छिप जाता हूँ। बिना पाँव चलता हूँ, जग को रोशन करता हूँ, बताओ मैं क्या कहलाता हूँ?
+Answer: सूरज
+
+Example 2:
+Riddle: मैं रात में सुनाई देती हूँ, पर दिन के शोर में छिप जाती हूँ।
+Answer: खामोशी
+
+Now, solve this riddle:
+Riddle : कमर बांधे घर में रहता, सुबह-शाम जरूरत है पड़ती। बताओ क्या?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+झाडू
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: लाल तन हरी पूंछ, न बुझे तो नानी से पूछ ॥
+Answer: गाजर।
+
+Example 2:
+Riddle: नीला आँगन, दो प्रहरी करें फेरी, एक छिपे तो दूजे की आए बारी।
+Answer: सूरज और चाँद।
+
+Now, solve this riddle:
+Riddle : हरी झंडी लाल कमान, तोबा तोबा करे इंसान।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मिर्च
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: कान में जा बैठे, तार का सहारा ले, बातें दुनिया भर की सुनाए।
+Answer: ईयरफोन
+
+Example 2:
+Riddle: कलाई पर बैठ जाऊँ, समय का पाठ पढ़ाऊँ |
+Answer: घड़ी
+
+Now, solve this riddle:
+Riddle : नाक पर चढ़कर कान पकड़कर, लोगों को है पढ़ाती।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चश्मा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बाहर से सफ़ेद या भूरा कड़ा, भीतर पीला-सफ़ेद नरम पड़ा। कच्चा खाओ या पका कर, देवे ताकत तुम्हें बनाकर।
+Answer: अंडा
+
+Example 2:
+Riddle: कच्चा हूँ तो हरा दिखता हूँ, पक जाऊँ तो लाल हो जाता हूँ। सब्जी में पड़ूँ या चटनी बनूँ, सबको मैं खूब भाता हूँ।
+Answer: टमाटर
+
+Now, solve this riddle:
+Riddle : हरे हरे से है दिखे पक्के हो या कच्चे, भीतर से यह लाल मलाई जैसे ठंडे मीठे लच्छे।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तरबूज
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: लाल तन हरी पूंछ, न बुझे तो नानी से पूछ ॥
+Answer: गाजर।
+
+Example 2:
+Riddle: सफेद बदन, गोल है मुंह, गंदे कपड़े खाती। घुमा फिराकर पेट में, उन्हें साफ कर देती।
+Answer: वाशिंग मशीन
+
+Now, solve this riddle:
+Riddle : सफेद तन हरी पूंछ, न बुझे तो नानी से पूछ ॥,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मिर्ची
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मेरा मुँह है पर बोल नहीं सकती। मेरे हाथ हैं पर ताली नहीं बजा सकती। मेरा शरीर नहीं, फिर भी चलती रहती हूँ। बताओ मैं क्या हूँ?
+Answer: घड़ी
+
+Example 2:
+Riddle: चेहरा है पर देख नहीं सकती, हाथ हैं पर उठा नहीं सकती, बोलती है पर सुन नहीं सकती, बताओ मैं कौन हूँ ?
+Answer: घड़ी
+
+Now, solve this riddle:
+Riddle : कान हैं पर बहरी हूँ, मुँह है पर मौन हूँ । आँखें हैं पर अंधी हूँ, बताओ मैं कौन हूँ ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पुतला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक गहरे तालाब में गोरे नहाने जाते हैं, नहाकर काले हो जाते हैं। एक निकले तो दूसरा जाए।
+Answer: तेल और पकौड़ी।
+
+Example 2:
+Riddle: मैं आगे जाऊं तो गाड़ी आगे बढ़ती है, मैं पीछे आऊं तो गाड़ी पीछे हटती है, मैं क्या हूँ?
+Answer: गियर ()
+
+Now, solve this riddle:
+Riddle : काला घोडा सफ़ेद की सवारी, एक उतरा तो दूसरे की बरी ॥,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रात और दिन
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बूझो भैया एक पहेली, जो सबकी कटाई करे अकेली। पर जब खुद को कटवाए भाई, तभी तो धार नई बन आए।
+Answer: चाकू
+
+Example 2:
+Riddle: नीला आँगन, दो प्रहरी करें फेरी, एक छिपे तो दूजे की आए बारी।
+Answer: सूरज और चाँद।
+
+Now, solve this riddle:
+Riddle : बूझो भैया एक पहेली, जब काटो तो नई नवेली ।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पेन
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: भूरा तन, सख्त मकान, अंदर भरा अमृत समान।
+Answer: नारियल।
+
+Example 2:
+Riddle: बाहर से हरी, अंदर से नारंगी है पेट, काले मोती भरे।
+Answer: पपीता।
+
+Now, solve this riddle:
+Riddle : हरी है उसकी काया, लाल मकान में, काला शैतान समाया।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तरबूज
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बैठी है चौकी पर रानी सी, सिर पर उसके आग है। बदन उसका जलता जाए, फिर भी महक जाए?
+Answer: अगरबत्ती।
+
+Example 2:
+Riddle: खड़ा है एक राजा, सिर पर मुकुट आग का पहने, बदन से उसके लाल पानी बहे।
+Answer: ज्वालामुखी।
+
+Now, solve this riddle:
+Riddle : चौकी पर बैठी एक रानी, सिर पर आग बदन में पानी।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+दीया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक घर है जो रहता ऊँचाई पर, जिसमें भरी है एक मीठी चीज़। खाने में है वो बड़ी स्वादिष्ट और सेहतमंद।
+Answer: मधुमक्खी का छत्ता
+
+Example 2:
+Riddle: वह कौन सा फल है जिसका पानी पिया भी जाता है, गूदा खाया भी जाता है, और तेल भी निकाला जाता है?
+Answer: नारियल
+
+Now, solve this riddle:
+Riddle : जल से भरा एक मटका, जो है सबसे ऊँचा लटका। पी लो पानी है मीठा, ज़रा नहीं है खट्टा।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नारियल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: कच्चा हूँ तो हरा दिखता हूँ, पक जाऊँ तो लाल हो जाता हूँ। सब्जी में पड़ूँ या चटनी बनूँ, सबको मैं खूब भाता हूँ।
+Answer: टमाटर
+
+Example 2:
+Riddle: बाहर से हूँ मैं हरा, अंदर से लाल,\nमीठे रस से भरा हूँ हर हाल।
+Answer: तरबूज
+
+Now, solve this riddle:
+Riddle : लाल हूँ, खाती हूँ मैं सूखी घास। पानी पीकर मर जाऊँ, जल जाए जो आए मेरे पास।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अग्नि
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बिना मुँह के सर्दी खा जाऊँ, बिन आग के गरमी दे जाऊँ। जाड़े में सबका मन भाऊँ, गर्मी में बिस्तर से हट जाऊँ।
+Answer: रजाई
+
+Example 2:
+Riddle: हाथ नहीं, पैर नहीं, फिर भी चलता जाऊँ,\nबिना रोये ही आँसू बरसाऊँ।.
+Answer: बादल
+
+Now, solve this riddle:
+Riddle : बिन खाए, बिन पिए, सबके घर में रहता हूँ । ना हँसता हूँ, ना रोता हूँ, घर की रखवाली करता हूँ।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ताला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो गर्मी में गायब हो जाती है?
+Answer: बर्फ
+
+Example 2:
+Riddle: वह क्या है, जिसे बनाने के बाद हमेशा काटने के लिए हीं रखा जाता है?
+Answer: केक
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी चीज है, जो फ्रीज़ में रखने के बाद भी गरम रहती है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मिर्च
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: वह क्या है, जिसे बनाने के बाद हमेशा काटने के लिए हीं रखा जाता है?
+Answer: केक
+
+Example 2:
+Riddle: वह क्या है, जिसे लोगों के पैरों तले कुचलने के लिए हीं बनाया जाता है?
+Answer: पायदान
+
+Now, solve this riddle:
+Riddle : वह कौन है, जो हमेशा पीटने के लिए हीं बना है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ढोल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज है, जिसके पास पैर तो हैं, मगर जूते पहनने के लिए नहीं?
+Answer: मेज़
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसके पास गला तो है, पर आवाज़ नहीं?
+Answer: बोतल
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी चीज है, जिसके पास रिंग तो है मगर पहनने के लिए ऊँगली नहीं है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+घंटी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो किसी का साथ कभी नहीं छोड़ती?
+Answer: नाम
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा आती है पर कभी पहुँचती नहीं?
+Answer: आने वाला कल
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी ड्रेस है जिसे हम कभी पहन नहीं सकते हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+Address
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन सा सवाल है जिसका जवाब हर दिन बदल जाता है?
+Answer: आज क्या तारीख है?
+
+Example 2:
+Riddle: ऐसा कौन सा सवाल है, जिसका जवाब जगह के साथ बदलता रहता है?
+Answer: आप कहाँ हैं?
+
+Now, solve this riddle:
+Riddle : ऐसा कौन – सा सवाल है, जिसका जवाब हर वक्त बदलता रहता है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+समय क्या है?
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मिट्टी से मेरा जन्म है, मिट्टी में ही मर जाता हूँ, पेड़-पौधों से मेरा गहरा नाता है।
+Answer: खाद
+
+Example 2:
+Riddle: प्रकाश से पैदा होती हूँ, प्रकाश में ही विलीन हो जाती हूँ, हर वस्तु से मेरा गहरा नाता है।
+Answer: छाया
+
+Now, solve this riddle:
+Riddle : पानी से पैदा होता है, पानी में मर जाता है,भोजन से तो मेरा गहरा नाता है।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नमक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: आग मुझे सुखा देती है, जड़ें मुझे पी जाती हैं, बताओ क्या?
+Answer: पानी
+
+Example 2:
+Riddle: आग मुझे जला डालती है, रोशनी मुझे बुलाती है। बताओ क्या?
+Answer: पतंगा
+
+Now, solve this riddle:
+Riddle : रबड़ मुझे हराता है, लोहा मुझे खींच पाता है बताओ क्या?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चुम्बक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: वह क्या है जो ऊपर भी जाता है, नीचे भी आता है, और एक जगह रुक भी जाता है?
+Answer: लिफ्ट
+
+Example 2:
+Riddle: वह क्या है, जो है तो तारा, मगर आसमान में नहीं रहता?
+Answer: आँख का तारा
+
+Now, solve this riddle:
+Riddle : वह कौन सा पक्षी है, जो पानी में तैरता भी है, आकाश में उड़ता भी है और जमीन पर चलता भी है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+बतख
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जो पानी पीते ही मर जाता है?
+Answer: प्यास
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो पानी पाते ही अपनी जान गँवा देती है?
+Answer: आग
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी चीज है, जिसे हम पानी के अंदर खाते हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गोता
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसके मुँह में चाबी डालो तो वह खुल जाती है?
+Answer: ताला
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है, जिसका पेट दबाओ तो वह अपना मुँह खोल कर थूकने लगती है?
+Answer: टूथपेस्ट
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी चीज है, जिसकी आँखों में ऊँगली डालो तो वह अपना मुँह खोल देती है!,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कैंची
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक कमरे में चार कोने हैं। हर कोने में एक बिल्ली बैठी है। हर बिल्ली के सामने तीन बिल्लियाँ हैं। बताओ कमरे में कुल कितनी बिल्लियाँ हैं?
+Answer: चार
+
+Example 2:
+Riddle: पाँच दोस्त हैं। हर एक दोस्त का एक गुरु है। बताओ कुल कितने लोग हैं?
+Answer: छह
+
+Now, solve this riddle:
+Riddle : संजना की चार बेटियां हैं, चारों बेटियों के एक-एक भाई, बताओ संजना को कितने बच्चे हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पाँच
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं एक बार बंद होता हूँ तो अँधेरा कर देता हूँ, एक बार चालू होता हूँ तो उजाला कर देता हूँ। बताओ मैं क्या हूँ?
+Answer: लाइट का स्विच
+
+Example 2:
+Riddle: मैं एक बार घूमता हूँ तो पानी आ जाता है, मैं एक बार घूमता हूँ तो पानी रुक जाता है, मैं क्या हूँ?
+Answer: नल
+
+Now, solve this riddle:
+Riddle : मैं एक बार मुडूंगा तो सबको रोक दूंगा, एक बार मुडूंगा तो सब कुछ खोल दूंगा, मैं क्या हूँ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चाबी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक जिससे आप डरते हैं, जिससे आप डरते वो पानी से डरता हैं?
+Answer: आग
+
+Example 2:
+Riddle: एक जिससे आप डरते हैं, जिससे आप डरते वो दवाई से डरता है?
+Answer: बीमारी
+
+Now, solve this riddle:
+Riddle : एक जिससे आप डरते हैं, जिससे आप डरते वो उजाले से डरता हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अँधेरा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन है, जिसका चेहरा है पर शरीर नहीं, नाम है पर व्यक्ति नहीं और कहानी है पर हरकत नहीं?
+Answer: किताब का पात्र
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है, जिसमें लोग हैं पर जान नहीं, जगह है पर माप नहीं, और समय है पर गति नहीं?
+Answer: तस्वीर।
+
+Now, solve this riddle:
+Riddle : आदमी ने ऊंगली से 6 लोगों को 6 सैकंड में उपर पहुचा दिया. वो स्पाइडरमैन नही था, सुपरमैन भी नही था और मैंन भी नही था, तो बताओं कौन था.,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+फोटोग्राफर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं हमेशा आपके साथ हूँ, आपके बीते हुए कल की कहानी सुनाती हूँ, लेकिन मुझे दिखाई नहीं देता। बताओ कौन हूँ मैं?
+Answer: यादें
+
+Example 2:
+Riddle: मैं हर पल तुम्हारे साथ रहता हूँ, पर मेरी कोई सूरत नहीं। मुझे महसूस करते हो सब, पर मैं दिखता नहीं। बताओ क्या हूँ मैं?
+Answer: हवा
+
+Now, solve this riddle:
+Riddle : हमेशा आपके सामने रहता हूँ लेकिन दिखाई नहीं देता, बताओ कौन हूँ मैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+भविष्य
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मेरी धार होती है, पर मैं किसी चीज़ को काटती नहीं हूँ। मैं नीचे गिरती हूँ, पर मैं फल नहीं हूँ। बताओ क्या?
+Answer: पानी की धार
+
+Example 2:
+Riddle: मेरे दाँत हैं, पर मैं काटता नहीं। मैं बालों को सँवारता हूँ, पर मेरे अपने कोई बाल नहीं हैं। बताओ, मैं क्या हूँ?
+Answer: कंघा
+
+Now, solve this riddle:
+Riddle : मेरी शाखाएँ हैं, लेकिन मैं पेड़ नहीं हूँ. बध्ताहूँ घटता हूँ लेकिन कोई फल, तना या पत्तियाँ नहीं हैं। बताओ, मैं क्या हूँ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नदी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी 'की' (चाबी) है जो कोई ताला नहीं खोल सकती?
+Answer: उत्तर कुंजी
+
+Example 2:
+Riddle: ऐसी कौन – सी चीज है, जिसके दाँत हैं मगर चबा नहीं सकती?
+Answer: कंघी
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज है, जिसके पास अनेक चाबियां होती हैं लेकिन एक भी ताला नहीं खुल सकता?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+प्याज
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो किसी का साथ कभी नहीं छोड़ती?
+Answer: नाम
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा आती है पर कभी पहुँचती नहीं?
+Answer: आने वाला कल
+
+Now, solve this riddle:
+Riddle : एक बैंड, जिससे कभी कोई संगीत नहीं निकलता?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रबर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: म्यान में सोये वीर, बेटा बाप से भी ज़्यादा तेज़ और गंभीर।
+Answer: तलवार
+
+Example 2:
+Riddle: घर के अंदर घर, संदेश वो लाए, बेटा बाप से ज़्यादा बातें बताए।
+Answer: चिट्ठी और लिफ़ाफ़ा
+
+Now, solve this riddle:
+Riddle : कटोरे पे कटोरा बेटा बाप से भी गोरा।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नारियल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक शांत महल में रहते हैं,\nआग के सिपाही बैठे हैं |\nचिंगारी की ठोकर लगे जब,\nशोर मचाकर दुनिया तजें तब ||
+Answer: पटाखा
+
+Example 2:
+Riddle: दो पटरियाँ पास-पास, उन पर दाँतों की कतार। एक सवार जब उन पर चलता, खुलता या मिलता संसार।
+Answer: ज़िप/चेन
+
+Now, solve this riddle:
+Riddle : एक किले के दो हीं द्वार,\nउनमें सैनिक लकड़ीदार |\nटकराए जब दीवारों से,\nख़त्म हो जाए उनका संसार |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+माचिस
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: सफ़ेद चमकता रूप है इसका, रात का ये वरदान मिला,\nइतनी शीतलता पाकर भी, दो अक्षर का नाम मिला,\nये नभ में करता राज, इसके चर्चे हैं हर ओर।
+Answer: चाँद
+
+Example 2:
+Riddle: कुदरत का दिया अनमोल ख़ज़ाना, हर जगह मेरा ठिकाना। हर जीव की मैं हूँ जान, नाम है मेरा सिर्फ़ दो अक्षर का।
+Answer: जल
+
+Now, solve this riddle:
+Riddle : रंग बिरंगा बदन है इसका, कुदरत का वरदान मिला,\nइतनी सुंदरता पाकर भी, दो अक्षर का नाम मिला,\nये वन में करता शोर, इसके चर्चे हैं हर ओर।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मोर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मुँह नहीं पर बोलती हूँ,\nपैर नहीं पर दूर तक जाती हूँ |
+Answer: गूँज
+
+Example 2:
+Riddle: दाँत हैं पर खाती नहीं,\nमुँह नहीं पर काटती हूँ |
+Answer: आरी
+
+Now, solve this riddle:
+Riddle : पंख नहीं पर उड़ती हूँ,\nहाथ नहीं पर लड़ती हूँ |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पतंग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बूँद बूँद से बने, बूँदों का घर|\nचलता जाए रात दिन, पर रुके न कभी डगर|\nखुद ही रास्ता बनाए, खुद ही चलता जाए,\nकिसी के पाँव नहीं, पर मीलों जाए|
+Answer: नदी
+
+Example 2:
+Riddle: छोटे छोटे सिपाही, लंबी कतार,\nचलता फिरता घर उनका, जमीन पर करते व्यापार|\nमुँह में दाना दबाए, चले झुंड बनाकर,\nछोटे पाँव सैकड़ों, गाँव चले घर बनाकर|
+Answer: चींटियों का झुंड
+
+Now, solve this riddle:
+Riddle : डब्बे पर डब्बा, डब्बे का गाँव,\nचलती फिरती बस्ती है, लोहे के पाँव |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ट्रेन
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बदन है पतला, फन है सुहाना, बीन की धुन पर नाचने गया |
+Answer: साँप
+
+Example 2:
+Riddle: बदन है पतला, नोक है तीखी, कागज़ पर दौड़ लगाने गया |
+Answer: पेंसिल
+
+Now, solve this riddle:
+Riddle : कमर पतली है, पैर सुहाने,\nकहीं गए होंगे बीन बजाने |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तितली
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: कान में जा बैठे, तार का सहारा ले, बातें दुनिया भर की सुनाए।
+Answer: ईयरफोन
+
+Example 2:
+Riddle: ऊपर से कठोर, अंदर मीठा रस, ना मुंह ना पेट, बताओ क्या है बस?
+Answer: नारियल
+
+Now, solve this riddle:
+Riddle : बच्चों! एक लाठी की सुनो कहानी,\nछुपा है जिसमें मीठा – मीठा पानी |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गन्ना
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: आपको करता साफ़, खुद हो जाता हूँ कम। बताओ मेरा नाम?
+Answer: साबुन
+
+Example 2:
+Riddle: गले में लिपटा रहता हूँ, सर्दी में देता हूँ आराम। रंग-बिरंगा भी होता हूँ, बोलो मेरा नाम। बताओ क्या?
+Answer: मफ़लर / स्कार्फ़।
+
+Now, solve this riddle:
+Riddle : आपकों सुखाता, खुद को भीगाता,\nमेरा नाम बताओ लाला?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तौलिया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मेरे नाम के दो अर्थ हैं, दोनों के हैं अर्थ निराले, एक अर्थ में फल हूँ मैं, एक अर्थ में साधारण हूँ मैं।
+Answer: आम
+
+Example 2:
+Riddle: मेरे नाम के दो मतलब हैं, दोनों के हैं अर्थ निराले, एक रूप में हूँ धातु मूल्यवान, दूजे में तन को मिले आराम।
+Answer: सोना
+
+Now, solve this riddle:
+Riddle : मेरे नाम के दो मतलब हैं, दोनों के हैं अर्थ निराले, एक अर्थ में सब्जी हूं मैं, एक अर्थ में पालने वाले।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पालक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: खड़ा रहता हूँ एक पाँव पर, छाया देता हूँ सबके ऊपर। खुद सहता हूँ धूप और गर्मी, तुम बैठो नीचे आराम कर।
+Answer: पेड़
+
+Example 2:
+Riddle: शीशी में बंद रहती हूँ, बीमारी से तुम्हें बचाती हूँ, कड़वाहट खुद में समाती हूँ, पर सेहत तुम्हारी लौटाती हूँ।
+Answer: औषधि (दवा)
+
+Now, solve this riddle:
+Riddle : घर के ऊपर में रहता, धूप से तुझे बचाता, बारिश में मैं खुद भीगता, आंच न तुझ पर आने देता।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+छत
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बिना पंखों के उड़ जाती है, बिना पैरों के दौड़ जाती है, पूरी दुनिया में फैल जाती है?
+Answer: ख़बर
+
+Example 2:
+Riddle: ऐसा कौन सा तारा है जो आसमान में नहीं रहता?
+Answer: आँख का तारा
+
+Now, solve this riddle:
+Riddle : तीन पंख का ऐसा पक्षी, सबके घर में रहता, वर्षा और सर्दी में सोता, बस गर्मी में उड़ता।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पंखा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: विद्या की सवारी, कागज़ जिसको भाए, बिना पैर के दौड़ी जाए, बोलो कौन कहलाए?
+Answer: कलम
+
+Example 2:
+Riddle: गोरा सिपाही करता स्नान, खुद ही मिटाए अपनी जान। पानी से जब भी मिलता है, धीरे-धीरे घुल जाता है।
+Answer: साबुन
+
+Now, solve this riddle:
+Riddle : सरस्वती की सफेद सवारी, मोती जिसको भाते, करके अलग दूध से पानी, बोलो कौन कहलाते?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+दूध
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: अगर कानों में घुस जाऊँ, तो दुनिया भर की सैर कराऊँ।
+Answer: हेडफ़ोन
+
+Example 2:
+Riddle: मुँह नहीं पर बोलती हूँ,\nपैर नहीं पर दूर तक जाती हूँ |
+Answer: गूँज
+
+Now, solve this riddle:
+Riddle : अगर नाक पर मैं चढ़ जाऊँ,\nतो कान पकड़कर खूब पढ़ाऊँ |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चश्मा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: धड़ के बिन बनू कण, सिर के बिन बनू रण, पैर के बिन बनू कर, अक्षर है कुल तीन।
+Answer: करण
+
+Example 2:
+Riddle: सिर कटे तो 'दम' बन जाऊं, धड़ कटे तो 'कम' बन जाऊं, पैर कटे तो 'कद' रह जाऊं, तीन अक्षर का नाम बताऊं।
+Answer: कदम
+
+Now, solve this riddle:
+Riddle : कल बनू धड़ के बिन, मल बनू सिर हीन, पैर कटे तो थोड़ा रहूं, अक्षर है कुल तीन।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कलम
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो जितनी बढ़ती है, उतनी ही कम होती जाती है?
+Answer: उम्र
+
+Example 2:
+Riddle: ऐसा क्या है जो जितना बढ़ता है, उतना ही कम होता जाता है?
+Answer: उम्र / जीवन
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो जितना बढ़ती है, उतनी ही छोटी होती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+छेद
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन सा घर है जिसमें खिड़कियाँ और दरवाज़े हैं, लेकिन नींव नहीं?
+Answer: लिफाफा
+
+Example 2:
+Riddle: ऐसी कौन सी 'की' (चाबी) है जो कोई ताला नहीं खोल सकती?
+Answer: उत्तर कुंजी
+
+Now, solve this riddle:
+Riddle : ऐसा कौन सा कमरा है जिसमें दरवाजा, खिड़की कुछ भी नहीं होता?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मशरूम
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन सा सवाल है जिसका जवाब हर दिन बदल जाता है?
+Answer: आज क्या तारीख है?
+
+Example 2:
+Riddle: ऐसा कौन सा सवाल है, जिसका जवाब जगह के साथ बदलता रहता है?
+Answer: आप कहाँ हैं?
+
+Now, solve this riddle:
+Riddle : ऐसा कौन सा सवाल है जिसका जवाब हमेशा अलग होता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आपका नाम क्या है?
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा नीचे की ओर जाती है, कभी ऊपर नहीं आती?
+Answer: बारिश
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा बढ़ती है, कभी घटती नहीं?
+Answer: उम्र
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो ऊपर जाती है लेकिन कभी नीचे नहीं आती?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आयु
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो रात में आसमान भर देती है लेकिन दिन में गायब हो जाती है?
+Answer: तारे
+
+Example 2:
+Riddle: ऐसी कौन सी चीज है जिसकी आँख है लेकिन वह देख नहीं सकती?
+Answer: सुई
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो रात में दिखाई देती है लेकिन दिन में नहीं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चाँद
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे तुम जितना इस्तेमाल करोगे, वो उतनी ही छोटी होती जाएगी?
+Answer: साबुन (या रबर/इरेज़र)
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना जलाओ, वो उतनी ही छोटी होती जाती है?
+Answer: मोमबत्ती
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना खींचोगे, उतनी छोटी होती जाएगी?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+धागा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना चुकाते (भरते) जाते हो, वो उतनी ही खाली होती जाती है?
+Answer: कर्ज़
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसमें से जितना निकालो, वह उतनी ही बड़ी होती जाती है?
+Answer: गड्ढा
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना ज्यादा भरते हो, उतनी ज्यादा खाली होती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कुछ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जिसे छू नहीं सकते, पर खो सकते हैं?
+Answer: भरोसा
+
+Example 2:
+Riddle: ऐसा क्या है जिसे तोड़ सकते हैं, पर पकड़ नहीं सकते?
+Answer: खामोशी
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जिसे बिना छुए तोड़ सकते हैं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+वादा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी जम जाती है और दूसरों को भी जमा देती है?
+Answer: बर्फ
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो खुद घिसती है और दूसरों की गलती मिटाती है?
+Answer: रबर (इरेज़र)
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो खुद गिरती है और दूसरों को उठाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पैसा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो गर्मी में गायब हो जाती है?
+Answer: बर्फ
+
+Example 2:
+Riddle: ऐसा क्या है जो शोर होने पर गायब हो जाता है?
+Answer: खामोशी
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जो सूरज की रोशनी में गायब हो जाता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+परछाई
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना बाँटोगे, उतनी बढ़ती जाएगी?
+Answer: ज्ञान
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे तुम जितना बाँटते हो, वो उतनी ही बढ़ती जाती है?
+Answer: ज्ञान ()
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+खुशी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो चलती है पर उसके पैर नहीं होते?
+Answer: सड़क
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो बिना पैर के मीलों तक चली जाती है?
+Answer: आवाज़
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो एक जगह से दूसरी जगह बिना हिले चली जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+समय
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसका शरीर तो चमड़े का है, पर हड्डियाँ लोहे की होती हैं?
+Answer: छाता
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसके पास गला तो है, पर आवाज़ नहीं?
+Answer: बोतल
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसका कोई शरीर नहीं, फिर भी हड्डियाँ होती हैं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+किताब
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी जलती है और दूसरों को भी जलाती है?
+Answer: आग
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो दूसरों को हँसाती है पर खुद नहीं हँसती?
+Answer: चुटकुला
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो खुद भी हंसती है और दूसरों को भी हंसाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मुस्कान
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी चलती है और दूसरों को भी चलाती है?
+Answer: गाड़ी
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी आगे बढ़ती है, और दूसरों को भी आगे बढ़ाती है?
+Answer: सड़क
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो खुद भी चलती है और दूसरों को भी चलाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+घड़ी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज है जिसकी आँख है लेकिन वह देख नहीं सकती?
+Answer: सुई
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे आप महसूस कर सकते हैं लेकिन देख नहीं सकते?
+Answer: भूख ()
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे हाथ से पकड़ सकते हैं लेकिन देख नहीं सकते?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+हवा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसमें से जितना निकालो, वह उतनी ही बड़ी होती जाती है?
+Answer: गड्ढा
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज़्यादा लो, वह उतनी ही ज़्यादा बढ़ती जाती है?
+Answer: क़र्ज़
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे इंसान जितना निकालता है, उतनी ही बढ़ती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+खुशी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जो जितना बढ़ता है, उतना ही कम होता जाता है?
+Answer: उम्र / जीवन
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है, जो जितना ज़्यादा शोर होता है, उतनी ही कम होती जाती है?
+Answer: शांति (या ख़ामोशी)
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जो जितना ज्यादा गर्म होता है, उतना ही ठंडा लगता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पसीना
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो बिना पंखों के उड़ती है?
+Answer: पतंग
+
+Example 2:
+Riddle: ऐसा कौन सा तारा है जो आसमान में नहीं रहता?
+Answer: आँख का तारा
+
+Now, solve this riddle:
+Riddle : ऐसा कौन सा पक्षी है जो बिना पंखों के उड़ सकता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पतंग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो गर्मी में गायब हो जाती है?
+Answer: बर्फ
+
+Example 2:
+Riddle: ऐसा क्या है जो शोर होने पर गायब हो जाता है?
+Answer: खामोशी
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो सूरज की रोशनी में गायब हो जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+परछाई
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जिसे तोड़ सकते हैं, पर पकड़ नहीं सकते?
+Answer: खामोशी
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे आप पकड़ सकते हैं, पर फेंक नहीं सकते?
+Answer: ज़ुकाम
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जिसे काट सकते हैं लेकिन पकड़ नहीं सकते?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+हवा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी जम जाती है और दूसरों को भी जमा देती है?
+Answer: बर्फ
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी जलती है और दूसरों को भी जलाती है?
+Answer: आग
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो खुद भी गिरती है और दूसरों को उठाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पैसा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना बाँटोगे, उतनी बढ़ती जाएगी?
+Answer: ज्ञान
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे तुम जितना बाँटते हो, वो उतनी ही बढ़ती जाती है?
+Answer: ज्ञान ()
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+Gian
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जिसे बिना आँखों के भी देखा जा सकता है?
+Answer: सपना
+
+Example 2:
+Riddle: ऐसी कौन सी चीज है जिसकी आँख है लेकिन वह देख नहीं सकती?
+Answer: सुई
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो बिना देखे काम कर सकती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मशीन
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन सा तार है जो बिजली नहीं ले जाता?
+Answer: सितार
+
+Example 2:
+Riddle: ऐसा क्या है जिसे बिना आँखों के भी देखा जा सकता है?
+Answer: सपना
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो बिना बिजली के भी जल सकती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे सुन सकते हैं पर देख नहीं सकते?
+Answer: आवाज़
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे लोग महसूस करते हैं पर देख नहीं सकते?
+Answer: हवा
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे लोग सुनते हैं पर देख नहीं सकते?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आवाज़
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो है तो कागज़ की, पर ज़िंदगी के लिए अनमोल है?
+Answer: डिग्री
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे काला कहते हैं, पर वो काली नहीं होती?
+Answer: काला धन
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो कागज की होती है लेकिन सोने से भी महंगी होती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नोट
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना काटो उतनी ही लंबी होती जाती है?
+Answer: नाली (या खाई)
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो जितनी बढ़ती है, उतनी ही कम होती जाती है?
+Answer: उम्र
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो जितनी काटो उतनी लंबी होती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नाली
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसमें जितना खाना डालो, वो उतनी ही हल्की होती जाती है?
+Answer: भूख
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज़्यादा लो, वह उतनी ही ज़्यादा बढ़ती जाती है?
+Answer: क़र्ज़
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना ज्यादा डालो, उतना हल्का हो जाता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+भूख
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा आगे ही चलती है, कभी पीछे नहीं आती?
+Answer: समय
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो सिर्फ बढ़ती है, घटती नहीं?
+Answer: ज्ञान / अनुभव
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो सिर्फ आगे बढ़ सकती है, पीछे नहीं जा सकती?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+वक़्त
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो किसी का साथ कभी नहीं छोड़ती?
+Answer: नाम
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो बीत जाने के बाद भी, तुम्हारा पीछा नहीं छोड़ती?
+Answer: यादें
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो किसी का भी पीछा नहीं छोड़ती?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+परछाई
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो होती तो छोटी सी है, पर उसमें ज्ञान का पूरा संसार समाया होता है?
+Answer: किताब
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो होती तो मुट्ठी भर है, पर उसमें दुनिया भर की बातें भरी होती हैं?
+Answer: मोबाइल फ़ोन
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो देखने में बहुत छोटी होती है लेकिन पूरी दुनिया उसमें समा सकती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आँख
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जिसे हम छू नहीं सकते लेकिन अपने दिल में महसूस कर सकते हैं?
+Answer: प्यार
+
+Example 2:
+Riddle: ऐसा क्या है जिसे हम देख नहीं सकते, छू नहीं सकते, पर सोच सकते हैं?
+Answer: विचार
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जिसे हम छू नहीं सकते लेकिन महसूस कर सकते हैं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+हवा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples of Hindi riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसमें जितना खाना डालो, वो उतनी ही हल्की होती जाती है?
+Answer: भूख
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज़्यादा लो, वह उतनी ही ज़्यादा बढ़ती जाती है?
+Answer: क़र्ज़
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना ज्यादा खाओ उतनी ज्यादा भूख लगती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नमक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 15:31:13 2025 ---

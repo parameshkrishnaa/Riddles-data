@@ -1,0 +1,3599 @@
+
+--- Starting New Generation Run at Tue May 27 02:25:53 2025 ---
+Model: meta-llama/llama-4-maverick, Language: Hindi, Prompt: 4_shot_method1_pattern_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Hindi riddles.
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं वो चीज़ हूँ जिसे बोलने पर मेरा अस्तित्व टूट जाता है। मैं कौन हूँ?
+Answer: मौन
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे आप उठाते या साथ रखते तो हैं, पर उसमें वज़न नहीं होता ?
+Answer: वादा
+
+Example 3:
+Riddle: ऐसा कौन सा शब्द है जिसे बोलते तो है, पर बताते नहीं ?
+Answer: राज़
+
+Example 4:
+Riddle: ऐसा क्या है जिसे हम पूछते तो हैं, पर उसका जवाब नहीं देते ?
+Answer: सवाल
+
+Now, solve this riddle:
+Riddle : ऐसा कौन सा शब्द है, जिसे लिखते तो है, पर पढ़ते नही है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गलत शब्द, but a more suitable answer would be: मुर्दा अक्षर or simply, एक शब्द that is written but doesn't make sense when read. However, the most accurate and contextually suitable answer is: गलत शब्द is not the best fit. 
+The best answer is: गलत 
+or 
+The correct answer is: मुर्दा अक्षर is not the standard answer.
+The answer is: गलत 
+A more appropriate response: उत्तर 
+The best fit is : गलत is not suitable here.
+ उत्तर is not the exact fit.
+The answer is : गलत is not appropriate.
+A suitable answer: दवा का लेबल नहीं,  पर आम तौर पर उत्तर माना जाता है: गलत 
+Most suitable: हस्ताक्षर or मुहर not being read if not meaningful, still a popular answer is:  उत्तर: गलत 
+Most appropriate is: हस्ताक्षर 
+The most accurate is: उत्तर 
+A more precise and contextually accurate answer is: हस्ताक्षर 
+The best and most suitable answer: उत्तर 
+ उत्तर 
+The most fitting is: हस्ताक्षर 
+Most appropriate: उत्तर 
+A commonly used and suitable answer is : हस्ताक्षर
+The final and most appropriate answer is : हस्ताक्षर 
+
+The answer is: हस्ताक्षर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बारिश में भीगता हुआ आदमी, जिसके पास छाता भी नहीं है, सबसे पहले क्या पकड़ेगा?
+Answer: सर्दी
+
+Example 2:
+Riddle: एक पुरानी चीज़ जो इस्तेमाल नहीं हो रही है, पड़ी-पड़ी सबसे पहले क्या खाएगी?
+Answer: धूल
+
+Example 3:
+Riddle: दो बिल्लियों के बीच में अगर एक रोटी का टुकड़ा रख दिया जाए, तो वे सबसे पहले किसे मारेंगी?
+Answer: झपट्टा
+
+Example 4:
+Riddle: दो लोगों में तीखी बहस हो रही है, बच्चा रो रहा है और पड़ोसी सुन रहे हैं। इस झगड़े में सबसे पहले क्या टूटेगा?
+Answer: शांति
+
+Now, solve this riddle:
+Riddle : अगर स्कूटी स्पीड से चला रही महिला के सामने पति और भाई खड़े है, तो सबसे पहले वो किसे मारेगी?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ब्रेक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: काटते-काटते थक जाऊं, तो पत्थर से सिर टकराऊं, फिर से काटने लग जाऊं। बताओ क्या?
+Answer: चाकू या छुरी
+
+Example 2:
+Riddle: मैं घर साफ करता हूँ, पर जब गंदा होकर थक जाता हूँ, तो मुझे पानी में डुबोया जाता है, और मैं फिर से काम के लिए तैयार हो जाता हूँ।
+Answer: पोंछा
+
+Example 3:
+Riddle: गोल हूँ पर गेंद नहीं, हवा निकल जाए तो काम नहीं। हवा भरने पर फिर से दौड़ लगाता हूँ। बताओ क्या?
+Answer: टायर
+
+Example 4:
+Riddle: जितना मुझ पर पड़ती है मार, उतना ही निकलता है मधुर स्वर बाहर। बताओ क्या?
+Answer: ढोल
+
+Now, solve this riddle:
+Riddle : कौन सी चीज है जो अगर चलते चलते थक जाए तो उसकी गर्दन काटने पर वह दोबारा चलने लग जाती है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पेंसिल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं जंगल में राजा कहलाता हूँ, पर सर्कस में मनोरंजन कराता हूँ। बताओ क्या?
+Answer: शेर
+
+Example 2:
+Riddle: वह क्या है जिसे नेक आदमी निभाता है और धोखेबाज तोड़ देता है?
+Answer: वादा
+
+Example 3:
+Riddle: वह क्या है जिसे कान सुनते हैं, पर आंखें नहीं देख सकतीं?
+Answer: आवाज़
+
+Example 4:
+Riddle: वह क्या है जिसे आग बढ़ाती है और पानी बुझाता है?
+Answer: प्यास
+
+Now, solve this riddle:
+Riddle : वह क्या चीज है जिसे आदमी छुपा कर और औरत दिखा कर चलती है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तिलक/बिंदी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: खुद जलती है, पर दुनिया को रोशन करती है |
+Answer: मोमबत्ती
+
+Example 2:
+Riddle: दूर-दूर की बात कराए, पर खुद एक भी बोल न पाए।
+Answer: टेलीफोन
+
+Example 3:
+Riddle: बातें बहुत करती है, पर ज़ुबान नहीं रखती है | दुनिया भर का ज्ञान बताती है, पर खुद पढ़ी-लिखी नहीं है |
+Answer: किताब
+
+Example 4:
+Riddle: पैर नहीं, पर रास्ता दिखाती है, खुद कभी नहीं चलती, दूसरों को मंजिल तक पहुँचाती है |
+Answer: सड़क
+
+Now, solve this riddle:
+Riddle : खुद कभी वह कुछ न खाए,\nलेकिन सब को खूब खिलाए |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पेड़
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: वह क्या है जो आज नहीं है, पर आने वाला भी है और गया हुआ भी?
+Answer: कल
+
+Example 2:
+Riddle: वह क्या है, जो है तो तारा, मगर आसमान में नहीं रहता?
+Answer: आँख का तारा
+
+Example 3:
+Riddle: वह क्या है, जो एक जाल है, पर उससे कुछ पकड़ा नहीं जाता?
+Answer: इंटरनेट
+
+Example 4:
+Riddle: वह क्या है, जो सवाल भी है और दिशा भी?
+Answer: उत्तर
+
+Now, solve this riddle:
+Riddle : वह क्या है, जो है तो सोने की, मगर सोने से बहुत सस्ती है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+सोने की मछली
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: वह क्या है, जिसमें से आप जितना निकालेंगे, वह उतनी ही बड़ी होती जाएगी?
+Answer: गड्ढा
+
+Example 2:
+Riddle: वह क्या है, जो जितना पूछो, उतना ही बड़ा होता जाता है?
+Answer: सवाल
+
+Example 3:
+Riddle: मैं बूढ़ा होता जाता हूँ, पर मेरे माता-पिता की नज़रों में मैं बच्चा ही रहता हूँ। बताओ मैं कौन हूँ?
+Answer: संतान
+
+Example 4:
+Riddle: वह कौन है, जिसे जितना अधिक खर्च करो, उतना ही बढ़ता जाता है?
+Answer: विद्या
+
+Now, solve this riddle:
+Riddle : वह कौन है, जो जितना भी बूढ़ा हो जाए, मगर फिर भी वह जवान हीं रहता है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कैलेंडर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: उसे दिन भर लेते व छोड़ते हैं। बिना उसके जीवित नहीं रह सकते।
+Answer: साँस
+
+Example 2:
+Riddle: उसे दिन भर चलाते हैं। उसके बिना बोल नहीं सकते हैं।
+Answer: मुँह
+
+Example 3:
+Riddle: वह दिन भर धड़कता रहता है। बिना उसके जीवित नहीं रह सकते हैं।
+Answer: दिल
+
+Example 4:
+Riddle: उन्हें दिन भर खोलते व बंद करते हैं। उनके बिना दुनिया देख नहीं सकते हैं।
+Answer: आँखें
+
+Now, solve this riddle:
+Riddle : उसे दिन भर उठाते व रखते हैं। बिना उसके कहीं जा नहीं सकते हैं।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पैर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: शुरुआत में लम्बा और नोकदार, इस्तेमाल करो तो छोटा हो जाए, बच्चे बड़े सब ज्ञान इसी से पाएं।
+Answer: पेंसिल
+
+Example 2:
+Riddle: कच्चा हूँ तो हरा दिखता हूँ, पक जाऊँ तो लाल हो जाता हूँ। सब्जी में पड़ूँ या चटनी बनूँ, सबको मैं खूब भाता हूँ।
+Answer: टमाटर
+
+Example 3:
+Riddle: पहले छोटा सा बीज कहाऊं, फिर बड़ा होकर छाया फैलाऊं। फल भी दूं, लकड़ी भी दूं, जीवन का आधार कहलाऊं।
+Answer: पेड़
+
+Example 4:
+Riddle: शुरुआत में तरल रहता है, जम जाए तो कठोर हो जाए, गर्मी में सबकी प्यास बुझाए।
+Answer: बर्फ
+
+Now, solve this riddle:
+Riddle : शुरुआत में वो हरा रहता है, बाद में वो पिला हो जाए, बच्चे हो या बूढ़े सभी उसे मजे से खाएं।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+केला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बिन पानी का सागर मैं, बिन पैरों के चलता जाऊँ। रोऊँ तो जग खुश हो जाए, बरस कर हल्का हो जाऊँ।
+Answer: बादल
+
+Example 2:
+Riddle: एक आँख की है वो रानी, सबको जोड़े, है सयानी। घुसती है तन में किसी के, धागे से रिश्ता बनाए।
+Answer: सुई
+
+Example 3:
+Riddle: मुंह है छोटा, पेट है गोल। इसमें डालो सिक्का-नोट का मोल। जब पेट भरे, मारो इस पर वार, सारा धन आ जाए बाहर।
+Answer: गुल्लक
+
+Example 4:
+Riddle: सफेद बदन, गोल है मुंह, गंदे कपड़े खाती। घुमा फिराकर पेट में, उन्हें साफ कर देती।
+Answer: वाशिंग मशीन
+
+Now, solve this riddle:
+Riddle : काला मुंह लाल शरीर, कागज को वह खाता, रोज शाम को पेट फाड़कर कोई उन्हें ले जाता।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कूड़ा दान पेटी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: खोदो तो मिलता हूँ, भर दो तो खो जाता हूँ, ऊपर नहीं हूँ, नीचे ही समाता हूँ, बूझो मेरा नाम सही?
+Answer: गड्ढा
+
+Example 2:
+Riddle: जब कोई नहीं बोलता तब होती हूँ, जब सब बोलते हैं तब नहीं होती हूँ, कानों में आती हूँ पर आवाज़ नहीं, बूझो मेरा नाम सही?
+Answer: खामोशी
+
+Example 3:
+Riddle: पेट खाली हो तो लगती हूँ, खाना खाते ही भाग जाती हूँ। पेट में रहती हूँ, मुँह में नहीं। बताओ क्या?
+Answer: भूख
+
+Example 4:
+Riddle: आँखें बंद करो तो आ जाए, आँखें खोलो तो चली जाए। बिना पैर दुनिया घुमाए। क्या है?
+Answer: नींद
+
+Now, solve this riddle:
+Riddle : रात में है, दिन में नहीं, दीया के नीचे, ऊपर नहीं, बूझो मेरा नाम सही ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+साया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: आगे 'द' है मध्य में 'प', अंत में इसके 'क' है। आग नहीं यह, न कोई तारा, खुद जलकर दुनिया को रोशन करता। बताओ क्या ?
+Answer: दीपक
+
+Example 2:
+Riddle: पहला अक्षर ‘ट’ है, बीच में ‘मा’ का वास, अंत में ‘र’ से होती बात समाप्त। न मैं सेब, न संतरा, फिर भी हूँ रसदार। लाल रंग मेरा खास, सलाद-सॉस में मेरा साथ। बताओ क्या?
+Answer: टमाटर
+
+Example 3:
+Riddle: पहला ‘ज’, मध्य में ‘हा’, अंत में फिर ‘ज’ की छटा। न सड़क पर दौड़ूँ, न हवा में पंख फैलाऊँ। सागर की छाती पर मेरा निवास, यात्रियों और सामान का मैं खास। बताओ क्या?
+Answer: जहाज़
+
+Example 4:
+Riddle: 'म' से शुरू, 'ल' पे खत्म, हाथ नहीं पर सब कुछ थामे, बात कराए, राह दिखाए, जेब में दुनिया सारी समाए। बताओ क्या?
+Answer: मोबाइल
+
+Now, solve this riddle:
+Riddle : आगे ‘प’ है मध्य में भी ‘प’, अंत में इसके ‘ह’ है, कटी पतंग नहीं यह भैया, न बिल्ली चूहा है, वन में पेड़ों पर रहता है; सुर में रहकर कुछ कहता है| बताओ क्या ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पपीहा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक फूल है काले रंग का, सिर पर सदा सुहाए, धूप देखकर खिलता है, छाँव देखकर मुरझाए।
+Answer: छाता
+
+Example 2:
+Riddle: ऊपर से कठोर, अंदर मीठा रस, ना मुंह ना पेट, बताओ क्या है बस?
+Answer: नारियल
+
+Example 3:
+Riddle: मैं हूँ एक छोटी डिबिया निराली, ना ताला, ना चाबी, ना खोली जाती। पर मेरे भीतर छिपा है, एक हरा भरा संसार सारा।
+Answer: बीज
+
+Example 4:
+Riddle: मैं जलती हूँ तो छोटी होती हूँ, पर औरों को रोशनी देती हूँ।
+Answer: मोमबत्ती
+
+Now, solve this riddle:
+Riddle : डिब्बा देखा एक निराला, ना ढकना न ताला, न पेंदा नाही कोना, बंद है उसमें चांदी सोना।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अंडा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा नाम बताइए जो एक रंग भी है, एक इमारत भी है, और एक ऐतिहासिक जगह भी है?
+Answer: लाल किला
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो एक दिशा भी है, बीते हुए समय को भी दर्शाती है, और बड़े-बुजुर्गों से भी सम्बंधित है?
+Answer: पूर्व (पूर्व दिशा, भूतपूर्व, पूर्वज)
+
+Example 3:
+Riddle: ऐसा शब्द बताओ, जिसका पहला अंश 'पुण्य कर्म' या 'मज़हब' दर्शाए, दूजा अंश 'रहने का स्थान' बताए, और पूरा मिलकर 'थके पथिकों का आसरा' बन जाए?
+Answer: धर्मशाला
+
+Example 4:
+Riddle: ऐसा शब्द बताइए कि, जिससे शरीर का अंग और पौधे का हिस्सा बन जाए?
+Answer: मुँहफली
+
+Now, solve this riddle:
+Riddle : ऐसा शब्द बताइए कि, जिससे फूल, मिठाई और फल बन जाए ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रसगुल्ला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं एक तारा हूँ, पर आसमान में नहीं चमकता। बताओ क्या?
+Answer: आँख का तारा
+
+Example 2:
+Riddle: वह कौन सा खाना है, जिसमें न कोई स्वाद है और न ही वह पेट भरता है, फिर भी लोग उसे खाते हैं?
+Answer: कसम।
+
+Example 3:
+Riddle: वह कौन सी चाबी है, जिसके पास कोई धातु या दांतें नहीं होतीं, फिर भी वह हर मुश्किल सवाल का ताला खोल देती है?
+Answer: उत्तर कुंजी।
+
+Example 4:
+Riddle: वह कौन – सा बैंक है, जिसके पास कोई धन या खजाना नहीं है ?
+Answer: नदी का किनारा (रिवर बैंक)।
+
+Now, solve this riddle:
+Riddle : वह कौन – सा फूल है, जिसके पास कोई रंग और महक नहीं है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+शून्य फूल या कोई अन्य संदर्भ-आधारित उत्तर नहीं, बल्कि सबसे उपयुक्त उत्तर है: बैंक का फूल (Balance sheet में 'फूल' यानी की 'surplus' या बचत, लेकिन यहाँ उत्तर दिया जा सकता है कि)  -  'फूल' यानी यहाँ अर्थशास्त्र या बही-खाते में नहीं, सामान्य रूप से - 'शेयर मार्केट या बैंकिंग' से जुड़े कुछ संदर्भों में 'फूल' को अंग्रेजी के 'Float' का अनुवाद मानते हुए,  'मुद्रा का प्रवाह'  अर्थ में लिए जा सकने वाला एक संभावित उत्तर - 'कैश फ्लो'।
+लेकिन सबसे सरल और सटीक उत्तर है:  'पत्थर का फूल', नहीं; 
+उत्तर है: 'बैंक का फूल' नहीं; 
+सबसे उपयुक्त उत्तर है: 'शून्य फूल' नहीं;
+उत्तर:  'कागज़ का फूल'।
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी माला, जिसमें फूल ना धागा, तो बताओ क्या?
+Answer: वर्णमाला।
+
+Example 2:
+Riddle: ऐसा धन, जो बांधे सबको, पर तिजोरी में न रहे। बताओ क्या?
+Answer: बंधन।
+
+Example 3:
+Riddle: ऐसा राज, जहाँ राजा ना रानी, फिर भी है सबसे बड़ी नगरी, तो बताओ क्या?
+Answer: राजधानी।
+
+Example 4:
+Riddle: ऐसा तार, जो बजाए धुन, खींचे ना बिजली का खून। बताओ क्या?
+Answer: सितार।
+
+Now, solve this riddle:
+Riddle : ऐसा रूम, जिसकी खिड़की ना दरवाजा तो बताओ क्या ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मुश्किलात का कमरा (ड्रीम रूम) या मस्तिष्क (ब्रेन) का कमरा नहीं, बल्कि सीधा सा जवाब है: ड्रीम रूम नहीं, बल्कि "मधुमक्खी का छत्ता"  या अधिक सटीक उत्तर: मशरूम।
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: इसमें दुनिया बसी है पर कोई रहता नहीं, बातें होती हैं पर ज़ुबान नहीं, चीज़ें दिखती हैं पर पकड़ नहीं सकते।
+Answer: मोबाइल स्क्रीन
+
+Example 2:
+Riddle: ऐसा कौन है, जिसका चेहरा है पर शरीर नहीं, नाम है पर व्यक्ति नहीं और कहानी है पर हरकत नहीं?
+Answer: किताब का पात्र
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है, जिसमें लोग हैं पर जान नहीं, जगह है पर माप नहीं, और समय है पर गति नहीं?
+Answer: तस्वीर।
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है, जहाँ स्वर हैं पर आवाज़ नहीं, ताल है पर धड़कन नहीं और गीत है पर गायक नहीं?
+Answer: शीट म्यूज़िक
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी जगह है, जहाँ पर सड़क है पर गाड़ी नहीं, जंगल है पर पेड़ नहीं और शहर है पर घर नहीं ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नक्शा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: तन है मेरा सफ़ेद कागज़, मन में भरी है स्याही। हर दिन नया रूप धरकर, दुनिया की ख़बरें लाती। बताओ क्या?
+Answer: अख़बार।
+
+Example 2:
+Riddle: जिसका दिल ठंडा रहता है, घर में हरदम साथ है रहता है। बताओ क्या?
+Answer: फ्रिज
+
+Example 3:
+Riddle: आँखें हैं पर देख नहीं सकती, छिलका है पर फल नहीं। रसोई में रहती है, रोज़ काम आती है। बताओ क्या?
+Answer: आलू
+
+Example 4:
+Riddle: गले में लिपटा रहता हूँ, सर्दी में देता हूँ आराम। रंग-बिरंगा भी होता हूँ, बोलो मेरा नाम। बताओ क्या?
+Answer: मफ़लर / स्कार्फ़।
+
+Now, solve this riddle:
+Riddle : कमर बांधे घर में रहता, सुबह-शाम जरूरत है पड़ती। बताओ क्या?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+झाड़ू
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: दिखने में हूँ छोटा, पर हूँ बड़ा शैतान। आग लगे तो धूम मचाऊँ, काँप उठे इंसान।
+Answer: पटाखा।
+
+Example 2:
+Riddle: छोटा सा, पर बड़ा शैतान। कान के पास गाए, करे परेशान इंसान।
+Answer: मच्छर
+
+Example 3:
+Riddle: लाल है इसका रंग, जब ये आए, तो हर कोई पसीना बहाए।
+Answer: सूरज
+
+Example 4:
+Riddle: परत दर परत, नहीं कोई राजा। काटे तो रोए बिना आवाजा।
+Answer: प्याज
+
+Now, solve this riddle:
+Riddle : हरी झंडी लाल कमान, तोबा तोबा करे इंसान।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मिर्च
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: पैरों में समाकर, राहों पर चलकर, मंज़िल तक पहुँचाते।
+Answer: जूते
+
+Example 2:
+Riddle: कान में जा बैठे, तार का सहारा ले, बातें दुनिया भर की सुनाए।
+Answer: ईयरफोन
+
+Example 3:
+Riddle: आँख है पर अंधी हूँ, धागे से बंधी हूँ। सबका घर सी लती हूँ।
+Answer: सुई
+
+Example 4:
+Riddle: सिर पर सजकर, धूप से बचाकर, छाया है दिलाती।
+Answer: टोपी
+
+Now, solve this riddle:
+Riddle : नाक पर चढ़कर कान पकड़कर, लोगों को है पढ़ाती।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चश्मा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बाहर से है काँटों का लिबास, पर भीतर मीठा है अहसास। पीले रंग का यह फल, खाने में लाजवाब हर पल।
+Answer: अनानास
+
+Example 2:
+Riddle: बाहर से सफ़ेद या भूरा कड़ा, भीतर पीला-सफ़ेद नरम पड़ा। कच्चा खाओ या पका कर, देवे ताकत तुम्हें बनाकर।
+Answer: अंडा
+
+Example 3:
+Riddle: बाहर से हरी एक डंडी, भीतर मोती की मंडी।
+Answer: मटर की फली
+
+Example 4:
+Riddle: कड़ा है तन, रेशमी बाना। अंदर छिपा है मीठा पानी का खज़ाना।
+Answer: नारियल।
+
+Now, solve this riddle:
+Riddle : हरे हरे से है दिखे पक्के हो या कच्चे, भीतर से यह लाल मलाई जैसे ठंडे मीठे लच्छे।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तरबूज
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक आँख पर देखे सब, धागा पूंछ समान। कपड़ों को वह जोड़े झट, क्या है उसका नाम?॥ न बुझे तो नानी से पूछ।
+Answer: सुई।
+
+Example 2:
+Riddle: जितना ज्यादा इस्तेमाल करो, उतना ही छोटा होता जाता हूँ। मैले हाथ साफ कराता हूँ, घर में न दिखे तो माँ से पूछो।
+Answer: साबुन।
+
+Example 3:
+Riddle: लाल तन हरी पूंछ, न बुझे तो नानी से पूछ ॥
+Answer: गाजर।
+
+Example 4:
+Riddle: मुँह है पर बोल नहीं सकता, पेट है पर खाता नहीं। पानी इसमें रहता है, न मिले तो दादी से पूछो।
+Answer: घड़ा।
+
+Now, solve this riddle:
+Riddle : सफेद तन हरी पूंछ, न बुझे तो नानी से पूछ ॥,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मूली।
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: चेहरा है पर देख नहीं सकती, हाथ हैं पर उठा नहीं सकती, बोलती है पर सुन नहीं सकती, बताओ मैं कौन हूँ ?
+Answer: घड़ी
+
+Example 2:
+Riddle: दाँत हैं पर काटती नहीं, पीठ है पर आराम करती नहीं। बालों में फिरती हूँ पर जीती नहीं, बताओ मैं कौन हूँ?
+Answer: कंघी
+
+Example 3:
+Riddle: मेरे पैर हैं पर चल नहीं सकता। लोगों को आराम देता हूँ पर खुद सो नहीं सकता। बताओ मैं कौन हूँ?
+Answer: कुर्सी।
+
+Example 4:
+Riddle: मेरा मुँह है पर मैं बोलती नहीं, मेरा बिस्तर है पर मैं सोती नहीं। मैं चलती हूँ पर मेरे पैर नहीं, बताओ क्या हूँ मैं सही?
+Answer: नदी।
+
+Now, solve this riddle:
+Riddle : कान हैं पर बहरी हूँ, मुँह है पर मौन हूँ । आँखें हैं पर अंधी हूँ, बताओ मैं कौन हूँ ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मूर्ति
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक गहरे तालाब में गोरे नहाने जाते हैं, नहाकर काले हो जाते हैं। एक निकले तो दूसरा जाए।
+Answer: तेल और पकौड़ी।
+
+Example 2:
+Riddle: नीला आँगन, दो प्रहरी करें फेरी, एक छिपे तो दूजे की आए बारी।
+Answer: सूरज और चाँद।
+
+Example 3:
+Riddle: छोटे से घर में रहते सैनिक कई, सिर पर सबके लाल टोपी नई। एक जब रगड़ कर शहीद हो जाए, दूजा फिर काम में आए॥
+Answer: माचिस और तीली।
+
+Example 4:
+Riddle: गोल मटका, पर पानी पीता नहीं। गंदे कपड़े खाए, साफ़ बाहर लाए। एक निकले, दूसरे जाएँ।
+Answer: वाशिंग मशीन और कपड़े
+
+Now, solve this riddle:
+Riddle : काला घोडा सफ़ेद की सवारी, एक उतरा तो दूसरे की बरी ॥,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+दिन और रात ।
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: जितना मुझमें से खोदो और निकालो, उतना ही मैं बड़ा बनूं, निराला।
+Answer: गड्ढा
+
+Example 2:
+Riddle: बूझो भैया एक पहेली, जो सबकी कटाई करे अकेली। पर जब खुद को कटवाए भाई, तभी तो धार नई बन आए।
+Answer: चाकू
+
+Example 3:
+Riddle: घिसते घिसते छोटा हो जाऊँ, फिर भी सबको चमकाऊँ।
+Answer: साबुन
+
+Example 4:
+Riddle: ऐसी कौन सी है चीज़ हरियाली, काटो तो दिखे और निराली?
+Answer: घास
+
+Now, solve this riddle:
+Riddle : बूझो भैया एक पहेली, जब काटो तो नई नवेली ।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नाखून
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: भूरा तन, सख्त मकान, अंदर भरा अमृत समान।
+Answer: नारियल।
+
+Example 2:
+Riddle: एक सुंदर खोल के अंदर, बैठा है एक गोरा। गोरे के पेट में, छुपा है एक पीला डोरा।
+Answer: अंडा
+
+Example 3:
+Riddle: काँच की है पारदर्शी काया, तार के सुनसान मकान में, उजाले का राज़ समाया।
+Answer: बल्ब।
+
+Example 4:
+Riddle: बाहर से हरी, अंदर से नारंगी है पेट, काले मोती भरे।
+Answer: पपीता।
+
+Now, solve this riddle:
+Riddle : हरी है उसकी काया, लाल मकान में, काला शैतान समाया।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तरबूज।
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: छोटा सा सिपाही, डंडी का बना। सिर पर आग लगे, खुद जलकर हुआ फ़ना।
+Answer: माचिस की तीली।
+
+Example 2:
+Riddle: खड़ा है एक राजा, सिर पर मुकुट आग का पहने, बदन से उसके लाल पानी बहे।
+Answer: ज्वालामुखी।
+
+Example 3:
+Riddle: मैं हूँ मौन, पर सब कुछ बताता हूँ। मेरा शरीर नहीं, पर कई चेहरे दिखाता हूँ।
+Answer: आईना
+
+Example 4:
+Riddle: बैठी है चौकी पर रानी सी, सिर पर उसके आग है। बदन उसका जलता जाए, फिर भी महक जाए?
+Answer: अगरबत्ती।
+
+Now, solve this riddle:
+Riddle : चौकी पर बैठी एक रानी, सिर पर आग बदन में पानी।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मोमबत्ती
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: सोने का थाल, आसमान में चमके। गर्मी दे, रोशनी फैलाए, पर कोई उसे पकड़ न पाए।
+Answer: सूरज
+
+Example 2:
+Riddle: लंबी सी काया, चलती न एक कदम, सब मुझ पर चलें, पहुँचे अपने धाम। शहर गाँव को जोड़ूँ, पर खुद रहूँ गुमनाम।
+Answer: सड़क
+
+Example 3:
+Riddle: एक घर है जो रहता ऊँचाई पर, जिसमें भरी है एक मीठी चीज़। खाने में है वो बड़ी स्वादिष्ट और सेहतमंद।
+Answer: मधुमक्खी का छत्ता
+
+Example 4:
+Riddle: तन है मेरा जलता जाए, आँसू मेरे बहते जाएँ। रोशनी मैं जग को दूँ, धीरे-धीरे घटती जाऊँ।
+Answer: मोमबत्ती।
+
+Now, solve this riddle:
+Riddle : जल से भरा एक मटका, जो है सबसे ऊँचा लटका। पी लो पानी है मीठा, ज़रा नहीं है खट्टा।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ककड़ी (or any other similar fruit like Khira or Cucumber, but "ककड़ी" is the most likely answer)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: रोती हूँ जब जलती हूँ, घटती जाती हूँ पल-पल। धागा मेरा जीवन है, देती हूँ प्रकाश उज्ज्वल।
+Answer: मोमबत्ती।
+
+Example 2:
+Riddle: जान नहीं, पर बढ़ता जाता हूँ। जब मुझे पैसे से खाना खिलाते हो, तब मैं मर जाता हूँ। लोग मुझसे पीछा छुड़ाना चाहते हैं।
+Answer: कर्ज़
+
+Example 3:
+Riddle: छोटा सा हूँ, धरती में छुपा रहता हूँ। पानी और गर्मी को मैं खाता हूँ, अंकुरित होकर मैं मिट जाऊँ, एक नया जीवन दे जाऊँ।
+Answer: बीज।
+
+Example 4:
+Riddle: पानी से जन्मा, पर पानी नहीं। ठंडा हूँ इतना, कि छूने से डरो तुम कहीं। गर्मी से दोस्ती मेरी नहीं, उसी से अंत मेरा सही।
+Answer: बर्फ
+
+Now, solve this riddle:
+Riddle : लाल हूँ, खाती हूँ मैं सूखी घास। पानी पीकर मर जाऊँ, जल जाए जो आए मेरे पास।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: पत्तों से लदी पर पेड़ नहीं, अक्षर हैं पर किताब नहीं, खबर लाए पर डाकिया नहीं, बताओ क्या?
+Answer: अखबार।
+
+Example 2:
+Riddle: पैर नहीं, पर मीलों चलती हूँ । जान नहीं, पर लोगों को मंजिल तक पहुँचाती हूँ ।
+Answer: सड़क
+
+Example 3:
+Riddle: हिलती नहीं, पर बहुत मजबूत हूँ । खाती-पीती नहीं, पर घर का सहारा हूँ ।
+Answer: दीवार
+
+Example 4:
+Riddle: बिन मुख के समाचार सुनाता, बिन पैरों के दूर तक जाता। ज्ञान और मनोरंजन का भंडार, घर-घर में मेरा प्रसार।
+Answer: रेडियो
+
+Now, solve this riddle:
+Riddle : बिन खाए, बिन पिए, सबके घर में रहता हूँ । ना हँसता हूँ, ना रोता हूँ, घर की रखवाली करता हूँ।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ताला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज है, जिसका नाम काला है, पर वो असल में काली नहीं होती?
+Answer: काला नमक
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे काला कहते हैं, पर वो काली नहीं होती?
+Answer: काला धन
+
+Example 3:
+Riddle: ऐसा कौन सा दिन है जिसे 'बड़ा दिन' कहते हैं, पर वो साल का सबसे लम्बा दिन नहीं होता?
+Answer: बड़ा दिन (क्रिसमस)
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है, जिसका नाम तो उजाला है, पर वो खुद नीले रंग की होती है?
+Answer: उजाला नील (कपड़ों में लगाने वाला)
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी चीज है, जो फ्रीज़ में रखने के बाद भी गरम रहती है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गरम मसाला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: वह क्या है जो जितना घिसता है, उतना ही साफ़ करता है?
+Answer: साबुन
+
+Example 2:
+Riddle: वह क्या है, जिसे बनाने के बाद हमेशा काटने के लिए हीं रखा जाता है?
+Answer: केक
+
+Example 3:
+Riddle: वह क्या है, जिसे लोगों के पैरों तले कुचलने के लिए हीं बनाया जाता है?
+Answer: पायदान
+
+Example 4:
+Riddle: वह क्या है, जिसे पालन करने के लिए हीं बनाया जाता है?
+Answer: नियम
+
+Now, solve this riddle:
+Riddle : वह कौन है, जो हमेशा पीटने के लिए हीं बना है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ढोलक, ढोल, या ड्रम
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसका बिस्तर तो है, पर वो कभी सोती नहीं?
+Answer: नदी
+
+Example 2:
+Riddle: ऐसी कौन – सी चीज है, जिसके दाँत हैं मगर चबा नहीं सकती?
+Answer: कंघी
+
+Example 3:
+Riddle: ऐसी कौन सी चीज है, जिसके पास पैर तो हैं, मगर जूते पहनने के लिए नहीं?
+Answer: मेज़
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसका सिर है, मगर सोच नहीं सकती?
+Answer: हथौड़ा
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी चीज है, जिसके पास रिंग तो है मगर पहनने के लिए ऊँगली नहीं है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+टेलिफोन
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी टेबल है जिस पर खाना नहीं परोसा जाता, पर वह सबको समय का पाबंद बनाती है?
+Answer: टाइमटेबल
+
+Example 2:
+Riddle: ऐसी कौन – सी कप है जिसमें चाय या पानी नहीं डाला जा सकता है?
+Answer: कपकपी
+
+Example 3:
+Riddle: ऐसी कौन सी रानी है जो महल में नहीं रहती?
+Answer: रात रानी का फूल
+
+Example 4:
+Riddle: ऐसी कौन सी 'की' (चाबी) है जो कोई ताला नहीं खोल सकती?
+Answer: उत्तर कुंजी
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी ड्रेस है जिसे हम कभी पहन नहीं सकते हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+एड्रेस
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन सा सवाल है, जिसका जवाब जगह के साथ बदलता रहता है?
+Answer: आप कहाँ हैं?
+
+Example 2:
+Riddle: ऐसा कौन सा सवाल है, जिसका उत्तर किसी खेल के दौरान लगातार बदलता रहता है?
+Answer: अभी स्कोर क्या है?
+
+Example 3:
+Riddle: ऐसा कौन सा सवाल है, जिसका उत्तर हर पल तुम्हारी मनःस्थिति के अनुसार बदल सकता है?
+Answer: तुम अभी कैसा महसूस कर रहे हो?
+
+Example 4:
+Riddle: ऐसा कौन सा सवाल है जिसका जवाब हर दिन बदल जाता है?
+Answer: आज क्या तारीख है?
+
+Now, solve this riddle:
+Riddle : ऐसा कौन – सा सवाल है, जिसका जवाब हर वक्त बदलता रहता है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अभी क्या समय है?
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मिट्टी से मेरा जन्म है, मिट्टी में ही मर जाता हूँ, पेड़-पौधों से मेरा गहरा नाता है।
+Answer: खाद
+
+Example 2:
+Riddle: प्रकाश से पैदा होती हूँ, प्रकाश में ही विलीन हो जाती हूँ, हर वस्तु से मेरा गहरा नाता है।
+Answer: छाया
+
+Example 3:
+Riddle: भाप से बनता हूँ, पानी बनकर बरस जाता हूँ, धरती की प्यास बुझाता हूँ।
+Answer: बादल
+
+Example 4:
+Riddle: आग से मेरा जीवन शुरू होता है, आग में ही मैं खत्म हो जाता हूँ, अँधेरे में मैं बहुत काम आता हूँ।
+Answer: मोमबत्ती
+
+Now, solve this riddle:
+Riddle : पानी से पैदा होता है, पानी में मर जाता है,भोजन से तो मेरा गहरा नाता है।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नमक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: आग मुझे जला डालती है, रोशनी मुझे बुलाती है। बताओ क्या?
+Answer: पतंगा
+
+Example 2:
+Riddle: शोर मुझे भगा देता है, पर मैं सबकी थकान मिटाती हूँ। बताओ क्या?
+Answer: नींद ()
+
+Example 3:
+Riddle: जुबान मुझे मार डालती है, पर भरोसा मुझे जिंदा रखता है। बताओ क्या?
+Answer: राज़
+
+Example 4:
+Riddle: आग मुझे सुखा देती है, जड़ें मुझे पी जाती हैं, बताओ क्या?
+Answer: पानी
+
+Now, solve this riddle:
+Riddle : रबड़ मुझे हराता है, लोहा मुझे खींच पाता है बताओ क्या?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चुंबक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: वह क्या है जो ऊपर भी जाता है, नीचे भी आता है, और एक जगह रुक भी जाता है?
+Answer: लिफ्ट
+
+Example 2:
+Riddle: मैं कभी ठोस बन जाता हूँ, कभी तरल बहता हूँ, और कभी हवा में उड़ जाता हूँ। बताओ मैं क्या हूँ?
+Answer: पानी
+
+Example 3:
+Riddle: मैं हवा में उड़ता हूँ, पानी में भी जाता हूँ, और ठोस चीज़ों से टकराकर लौट आता हूँ। बताओ मैं कौन हूँ?
+Answer: आवाज़
+
+Example 4:
+Riddle: वह कौन सा फल है जिसका पानी पिया भी जाता है, गूदा खाया भी जाता है, और तेल भी निकाला जाता है?
+Answer: नारियल
+
+Now, solve this riddle:
+Riddle : वह कौन सा पक्षी है, जो पानी में तैरता भी है, आकाश में उड़ता भी है और जमीन पर चलता भी है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+बत्तख
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है, जिसे हम आँखें बंद करके देखते हैं?
+Answer: सपना
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे हम सुबह उठकर लेते हैं?
+Answer: अंगड़ाई
+
+Example 3:
+Riddle: ऐसी कौन सी चीज है जिसे लोग बैठकर 'काटते' हैं, पर वो छोटी नहीं होती?
+Answer: समय
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो आँख से लगती है, तो आदमी सो जाता है?
+Answer: आँख
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी चीज है, जिसे हम पानी के अंदर खाते हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नमक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है, जिसका पेट दबाओ तो वह अपना मुँह खोल कर थूकने लगती है?
+Answer: टूथपेस्ट
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसके मुँह में फूँक मारो तो वह बोलती है?
+Answer: बाँसुरी
+
+Example 3:
+Riddle: ऐसी कौन सी चीज है जिसके दाँत होते हैं पर वो खा नहीं सकती, और जब तुम उसे पकड़ते हो तो उसका मुँह खुल या बंद होता है?
+Answer: ज़िप (चेन)
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसके मुँह में चाबी डालो तो वह खुल जाती है?
+Answer: ताला
+
+Now, solve this riddle:
+Riddle : ऐसी कौन – सी चीज है, जिसकी आँखों में ऊँगली डालो तो वह अपना मुँह खोल देती है!,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रेफ्रिजरेटर (फ्रिज)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक कमरे में चार कोने हैं। हर कोने में एक बिल्ली बैठी है। हर बिल्ली के सामने तीन बिल्लियाँ हैं। बताओ कमरे में कुल कितनी बिल्लियाँ हैं?
+Answer: चार
+
+Example 2:
+Riddle: आप एक दौड़ में दौड़ रहे हैं। आपने दूसरे स्थान पर चल रहे व्यक्ति को पीछे छोड़ दिया। अब आप किस स्थान पर हैं?
+Answer: दूसरे स्थान पर
+
+Example 3:
+Riddle: तीन मुर्गियाँ एक कतार में खड़ी हैं। पहली मुर्गी के पीछे दो मुर्गियाँ हैं, और आखिरी मुर्गी के आगे दो मुर्गियाँ हैं। बताओ कुल कितनी मुर्गियाँ हैं?
+Answer: तीन
+
+Example 4:
+Riddle: पाँच दोस्त हैं। हर एक दोस्त का एक गुरु है। बताओ कुल कितने लोग हैं?
+Answer: छह
+
+Now, solve this riddle:
+Riddle : संजना की चार बेटियां हैं, चारों बेटियों के एक-एक भाई, बताओ संजना को कितने बच्चे हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पाँच
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं आगे जाऊं तो गाड़ी आगे बढ़ती है, मैं पीछे आऊं तो गाड़ी पीछे हटती है, मैं क्या हूँ?
+Answer: गियर ()
+
+Example 2:
+Riddle: मैं एक बार बंद होता हूँ तो अँधेरा कर देता हूँ, एक बार चालू होता हूँ तो उजाला कर देता हूँ। बताओ मैं क्या हूँ?
+Answer: लाइट का स्विच
+
+Example 3:
+Riddle: एक बार घिसोगे तो रोशनी दूंगा, पर उसी पल खुद को मिटा दूंगा। बताओ क्या हूँ?
+Answer: माचिस की तीली
+
+Example 4:
+Riddle: मैं एक बार घूमता हूँ तो पानी आ जाता है, मैं एक बार घूमता हूँ तो पानी रुक जाता है, मैं क्या हूँ?
+Answer: नल
+
+Now, solve this riddle:
+Riddle : मैं एक बार मुडूंगा तो सबको रोक दूंगा, एक बार मुडूंगा तो सब कुछ खोल दूंगा, मैं क्या हूँ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चाबी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: एक जिससे आप उलझते हैं, जिससे आप उलझते वो हल से डरता है?
+Answer: मुश्किल
+
+Example 2:
+Riddle: थका हुआ जिसे बुलाता है, जिसे थका हुआ बुलाता है, वो शोर से भाग जाती है?
+Answer: नींद
+
+Example 3:
+Riddle: एक जिससे आप डरते हैं, जिससे आप डरते वो दवाई से डरता है?
+Answer: बीमारी
+
+Example 4:
+Riddle: एक जिससे आप डरते हैं, जिससे आप डरते वो पानी से डरता हैं?
+Answer: आग
+
+Now, solve this riddle:
+Riddle : एक जिससे आप डरते हैं, जिससे आप डरते वो उजाले से डरता हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अंधेरा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं बिना छुए लोगों को रुला देता हूँ, पर मैं कोई दुखद समाचार नहीं, न ही कोई अत्याचारी। बताओ कौन?
+Answer: प्याज़
+
+Example 2:
+Riddle: वह बिना आवाज़ निकाले आदेश देता है, और सब उसका पालन करते हैं। वह न तो राजा है, न ही सेनापति। बताओ कौन?
+Answer: ट्रैफिक लाइट
+
+Example 3:
+Riddle: एक आदमी अपनी ऊँगली के इशारे से पलों को कैद कर लेता है। वह न तो कोई जादूगर है, न ही समय को रोकने वाला कोई देवता। बताओ कौन?
+Answer: फोटोग्राफर
+
+Example 4:
+Riddle: मैं दो किनारे जोड़ता हूँ, पर खुद चलता कभी नहीं। मैं सड़क नहीं हूँ, नाव नहीं हूँ, और आदमी भी नहीं हूँ, तो बताओ मैं क्या हूँ?
+Answer: पुल
+
+Now, solve this riddle:
+Riddle : आदमी ने ऊंगली से 6 लोगों को 6 सैकंड में उपर पहुचा दिया. वो स्पाइडरमैन नही था, सुपरमैन भी नही था और मैंन भी नही था, तो बताओं कौन था.,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+लिफ्ट ऑपरेटर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं हमेशा आपके साथ हूँ, आपके बीते हुए कल की कहानी सुनाती हूँ, लेकिन मुझे दिखाई नहीं देता। बताओ कौन हूँ मैं?
+Answer: यादें
+
+Example 2:
+Riddle: मैं प्रकाश में हमेशा तुम्हारे साथ रहती हूँ, पर मेरा कोई भार नहीं। अँधेरा आते ही मैं चली जाती हूँ। बताओ कौन हूँ मैं?
+Answer: परछाई
+
+Example 3:
+Riddle: मैं रात को आता हूँ और तुम्हें एक नई दुनिया दिखाता हूँ, पर सुबह होते ही मैं गायब हो जाता हूँ। बताओ कौन हूँ मैं?
+Answer: सपना
+
+Example 4:
+Riddle: मैं हर पल तुम्हारे साथ रहता हूँ, पर मेरी कोई सूरत नहीं। मुझे महसूस करते हो सब, पर मैं दिखता नहीं। बताओ क्या हूँ मैं?
+Answer: हवा
+
+Now, solve this riddle:
+Riddle : हमेशा आपके सामने रहता हूँ लेकिन दिखाई नहीं देता, बताओ कौन हूँ मैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+भविष्य
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मेरी आँख है, पर मैं शरीर का अंग नहीं हूँ। मैं चीज़ों को जोड़ती हूँ, और मेरी पलकें नहीं होतीं। बताओ, मैं क्या हूँ?
+Answer: एक सुई
+
+Example 2:
+Riddle: मेरे दाँत हैं, पर मैं काटता नहीं। मैं बालों को सँवारता हूँ, पर मेरे अपने कोई बाल नहीं हैं। बताओ, मैं क्या हूँ?
+Answer: कंघा
+
+Example 3:
+Riddle: मेरी धार होती है, पर मैं किसी चीज़ को काटती नहीं हूँ। मैं नीचे गिरती हूँ, पर मैं फल नहीं हूँ। बताओ क्या?
+Answer: पानी की धार
+
+Example 4:
+Riddle: मेरा मुँह है पर बोल नहीं सकती। मेरे हाथ हैं पर ताली नहीं बजा सकती। मेरा शरीर नहीं, फिर भी चलती रहती हूँ। बताओ मैं क्या हूँ?
+Answer: घड़ी
+
+Now, solve this riddle:
+Riddle : मेरी शाखाएँ हैं, लेकिन मैं पेड़ नहीं हूँ. बध्ताहूँ घटता हूँ लेकिन कोई फल, तना या पत्तियाँ नहीं हैं। बताओ, मैं क्या हूँ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+बैंक खाता
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज है जिसकी आँख है लेकिन वह देख नहीं सकती?
+Answer: सुई
+
+Example 2:
+Riddle: ऐसी कौन सी चीज है जिसके दाँत हैं, पर वह काट नहीं सकती?
+Answer: कंघी
+
+Example 3:
+Riddle: ऐसी कौन सी चीज है जिसका मुँह तो है, पर बोल नहीं सकती?
+Answer: नदी
+
+Example 4:
+Riddle: ऐसी कौन सी चीज है जिसके पत्ते होते हैं पर वह पेड़ नहीं है?
+Answer: ताश
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज है, जिसके पास अनेक चाबियां होती हैं लेकिन एक भी ताला नहीं खुल सकता?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पियानो
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन सा तारा है जो आसमान में नहीं रहता?
+Answer: आँख का तारा
+
+Example 2:
+Riddle: एक जड़, जो ज़मीन में नहीं उगती, पर गणित में काम आती है?
+Answer: वर्गमूल ( )
+
+Example 3:
+Riddle: ऐसा कौन सा पत्ता है जो पेड़ पर नहीं उगता?
+Answer: ताश का पत्ता
+
+Example 4:
+Riddle: एक बैंक जहाँ पैसे जमा नहीं होते और न ही निकाले जाते हैं?
+Answer: नदी का किनारा
+
+Now, solve this riddle:
+Riddle : एक बैंड, जिससे कभी कोई संगीत नहीं निकलता?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+दाँतों की पंक्ति
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: घर के अंदर घर, संदेश वो लाए, बेटा बाप से ज़्यादा बातें बताए।
+Answer: चिट्ठी और लिफ़ाफ़ा
+
+Example 2:
+Riddle: परतों पे परत, खोले उसे जो वो रोता जाए।
+Answer: प्याज
+
+Example 3:
+Riddle: म्यान में सोये वीर, बेटा बाप से भी ज़्यादा तेज़ और गंभीर।
+Answer: तलवार
+
+Example 4:
+Riddle: कठोर है तन, पर ज्ञानी है मन।
+Answer: अखरोट
+
+Now, solve this riddle:
+Riddle : कटोरे पे कटोरा बेटा बाप से भी गोरा।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अंडा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: गोरा सिपाही करता स्नान, खुद ही मिटाए अपनी जान। पानी से जब भी मिलता है, धीरे-धीरे घुल जाता है।
+Answer: साबुन
+
+Example 2:
+Riddle: एक शांत महल में रहते हैं,\nआग के सिपाही बैठे हैं |\nचिंगारी की ठोकर लगे जब,\nशोर मचाकर दुनिया तजें तब ||
+Answer: पटाखा
+
+Example 3:
+Riddle: दो पटरियाँ पास-पास, उन पर दाँतों की कतार। एक सवार जब उन पर चलता, खुलता या मिलता संसार।
+Answer: ज़िप/चेन
+
+Example 4:
+Riddle: कागज़ है उसका दुश्मन, रगड़ता है उस पर अपना तन। दुश्मन को मिटाने के चक्कर में, खुद भी हो जाए वो ख़त्म।
+Answer: रबड़ (इरेज़र)
+
+Now, solve this riddle:
+Riddle : एक किले के दो हीं द्वार,\nउनमें सैनिक लकड़ीदार |\nटकराए जब दीवारों से,\nख़त्म हो जाए उनका संसार |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चीड़ का पेड़ (or simply चीड़) is not the answer I will provide as per the format. The answer is सुरमा/आरी/कैंची नहीं है, Answer is दियासलाई की तीली. 
+दियासलाई की तीली
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: कुदरत का दिया अनमोल ख़ज़ाना, हर जगह मेरा ठिकाना। हर जीव की मैं हूँ जान, नाम है मेरा सिर्फ़ दो अक्षर का।
+Answer: जल
+
+Example 2:
+Riddle: सफ़ेद चमकता रूप है इसका, रात का ये वरदान मिला,\nइतनी शीतलता पाकर भी, दो अक्षर का नाम मिला,\nये नभ में करता राज, इसके चर्चे हैं हर ओर।
+Answer: चाँद
+
+Example 3:
+Riddle: बहुत सुंदर हूँ, सबकी प्यारी, खुशबू से दुनिया महकाऊँ,\nइतनी कोमलता पाकर भी, कांटेदार राह बनाऊँ।
+Answer: गुलाब
+
+Example 4:
+Riddle: इतनी छोटी सी जान हूँ मैं, धरती पर रेंगती जाती,\nइतनी कमज़ोरी पाकर भी, पहाड़ सा बोझ उठाती।
+Answer: चींटी
+
+Now, solve this riddle:
+Riddle : रंग बिरंगा बदन है इसका, कुदरत का वरदान मिला,\nइतनी सुंदरता पाकर भी, दो अक्षर का नाम मिला,\nये वन में करता शोर, इसके चर्चे हैं हर ओर।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कौआ is not correct, the correct answer is तोता.
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: गला नहीं पर गाता हूँ, शरीर नहीं पर मनोरंजन कराता हूँ।
+Answer: रेडियो
+
+Example 2:
+Riddle: आँख है पर देख नहीं सकती,\nजोड़ती हूँ पर हाथ नहीं।
+Answer: सुई
+
+Example 3:
+Riddle: मुँह नहीं पर बोलती हूँ,\nपैर नहीं पर दूर तक जाती हूँ |
+Answer: गूँज
+
+Example 4:
+Riddle: दाँत हैं पर खाती नहीं,\nमुँह नहीं पर काटती हूँ |
+Answer: आरी
+
+Now, solve this riddle:
+Riddle : पंख नहीं पर उड़ती हूँ,\nहाथ नहीं पर लड़ती हूँ |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गोली
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: कमरा दर कमरा, घर एक विशाल,\nरानी एक, प्रजा अपार,\nमीठा रस है इनका आहार, देतीं सबको उपहार।
+Answer: मधुमक्खी
+
+Example 2:
+Riddle: पन्ने पन्ने का घर, ज्ञान का भंडार|\nचुपचाप बैठी बस्ती है, पर बातें करे हजार|\nहाथों में उठकर जाए, मन में बस जाए ज्ञान,\nबिना पाँव के चले ये बस्ती, दे सबको पहचान|
+Answer: पुस्तकालय
+
+Example 3:
+Riddle: बूँद बूँद से बने, बूँदों का घर|\nचलता जाए रात दिन, पर रुके न कभी डगर|\nखुद ही रास्ता बनाए, खुद ही चलता जाए,\nकिसी के पाँव नहीं, पर मीलों जाए|
+Answer: नदी
+
+Example 4:
+Riddle: छोटे छोटे सिपाही, लंबी कतार,\nचलता फिरता घर उनका, जमीन पर करते व्यापार|\nमुँह में दाना दबाए, चले झुंड बनाकर,\nछोटे पाँव सैकड़ों, गाँव चले घर बनाकर|
+Answer: चींटियों का झुंड
+
+Now, solve this riddle:
+Riddle : डब्बे पर डब्बा, डब्बे का गाँव,\nचलती फिरती बस्ती है, लोहे के पाँव |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रेल गाड़ी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बदन है पतला, नोक है तीखी, कागज़ पर दौड़ लगाने गया |
+Answer: पेंसिल
+
+Example 2:
+Riddle: बदन है पतला, फन है सुहाना, बीन की धुन पर नाचने गया |
+Answer: साँप
+
+Example 3:
+Riddle: तन है काला, मन है उजला, ज्ञान का सागर, अक्षर उगला।
+Answer: कलम
+
+Example 4:
+Riddle: तन नहीं पर पंख सुहाने, गोल-गोल घूमे मनमाने | बिन पैरों के खड़ा रहे, गर्मी दूर भगाता रहे |
+Answer: पंखा
+
+Now, solve this riddle:
+Riddle : कमर पतली है, पैर सुहाने,\nकहीं गए होंगे बीन बजाने |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+साँप
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: तन लकड़ी का, मुँह पर है खाल,\nपेट में रखता मीठे सुर-ताल।
+Answer: ढोल
+
+Example 2:
+Riddle: बाहर से हूँ मैं हरा, अंदर से लाल,\nमीठे रस से भरा हूँ हर हाल।
+Answer: तरबूज
+
+Example 3:
+Riddle: सफेद कोट पहने खड़ा,\nअंदर जीवन का रस भरा।
+Answer: अंडा
+
+Example 4:
+Riddle: लाल खोल के अंदर बैठा, मीठे दानों का राजा।
+Answer: अनार
+
+Now, solve this riddle:
+Riddle : बच्चों! एक लाठी की सुनो कहानी,\nछुपा है जिसमें मीठा – मीठा पानी |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नारियल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: जो लिखो कागज़ पर उसे मिटाए, पर खुद ही मिटता जाए। बताओ क्या?
+Answer: रबर
+
+Example 2:
+Riddle: आपको करता साफ़, खुद हो जाता हूँ कम। बताओ मेरा नाम?
+Answer: साबुन
+
+Example 3:
+Riddle: खुद को मिटाकर, नए जीवन का सृजन करता हूँ। बताओ क्या?
+Answer: बीज
+
+Example 4:
+Riddle: मैं योद्धा की जान बचाता, पर खुद चोटें खाता जाता। बताओ क्या?
+Answer: ढाल
+
+Now, solve this riddle:
+Riddle : आपकों सुखाता, खुद को भीगाता,\nमेरा नाम बताओ लाला?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पंखा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मेरे नाम के हैं दो अर्थ, दोनों हैं बिल्कुल जुदा। एक बताए दिशाओं का ज्ञान, दूजा प्रश्न का दे पता।
+Answer: उत्तर
+
+Example 2:
+Riddle: मेरे नाम के दो अर्थ हैं, दोनों के हैं अर्थ निराले, एक अर्थ में फल हूँ मैं, एक अर्थ में साधारण हूँ मैं।
+Answer: आम
+
+Example 3:
+Riddle: मेरे दो रूप गगन में छाएं, गणित में भी काम आएं। एक रूप में बरसूं पानी, एक रूप में हो जाती हूं कम की निशानी।
+Answer: घटा
+
+Example 4:
+Riddle: मेरे नाम के दो मतलब हैं, दोनों के हैं अर्थ निराले, एक रूप में हूँ धातु मूल्यवान, दूजे में तन को मिले आराम।
+Answer: सोना
+
+Now, solve this riddle:
+Riddle : मेरे नाम के दो मतलब हैं, दोनों के हैं अर्थ निराले, एक अर्थ में सब्जी हूं मैं, एक अर्थ में पालने वाले।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पालक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: आँखों का पहरेदार हूँ, धूल और रौशनी से तुझे बचाऊं। तेज रौशनी आए तो खुद बंद हो जाऊं, पर तुझ पर आंच न आए। बताओ क्या?
+Answer: पलक
+
+Example 2:
+Riddle: बीज या जड़ पर मेरा बसेरा, धूप हवा से बचाऊँ तेरा। खुद गीली सूखी हो जाऊँ, तुझको जीवन दे जाऊँ।
+Answer: मिट्टी ()
+
+Example 3:
+Riddle: खड़ा रहता हूँ एक पाँव पर, छाया देता हूँ सबके ऊपर। खुद सहता हूँ धूप और गर्मी, तुम बैठो नीचे आराम कर।
+Answer: पेड़
+
+Example 4:
+Riddle: शीशी में बंद रहती हूँ, बीमारी से तुम्हें बचाती हूँ, कड़वाहट खुद में समाती हूँ, पर सेहत तुम्हारी लौटाती हूँ।
+Answer: औषधि (दवा)
+
+Now, solve this riddle:
+Riddle : घर के ऊपर में रहता, धूप से तुझे बचाता, बारिश में मैं खुद भीगता, आंच न तुझ पर आने देता।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+छत
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बिना मुँह के सर्दी खा जाऊँ, बिन आग के गरमी दे जाऊँ। जाड़े में सबका मन भाऊँ, गर्मी में बिस्तर से हट जाऊँ।
+Answer: रजाई
+
+Example 2:
+Riddle: छोटा सा सिपाही, पीठ पर बैठा जाए, दुनिया भर की सैर करे, बिना पैर चल जाए।
+Answer: डाक टिकट
+
+Example 3:
+Riddle: कागज़ का पंछी उड़ता जाए, हवा का सहारा पाए। हवा न हो तो सोया रहे, हवा चले तो आसमान छू आए।
+Answer: पतंग
+
+Example 4:
+Riddle: रंग-बिरंगा पंछी, हवा से उड़ता जाए। बच्चों के हाथ में खेले, चोट लगे तो शोर मचाए।
+Answer: गुब्बारा
+
+Now, solve this riddle:
+Riddle : तीन पंख का ऐसा पक्षी, सबके घर में रहता, वर्षा और सर्दी में सोता, बस गर्मी में उड़ता।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पंखा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: तीन आँखें पर देखे ना, पानी रखे पर कुआँ ना। ऊपर से कठोर है काया, मीठा गूदा अंदर पाया, बोलो क्या है ये माया?
+Answer: नारियल
+
+Example 2:
+Riddle: विद्या की सवारी, कागज़ जिसको भाए, बिना पैर के दौड़ी जाए, बोलो कौन कहलाए?
+Answer: कलम
+
+Example 3:
+Riddle: रात में आकर, दुनिया चमकाता हूँ, कभी गोल, कभी आधा हो जाता हूँ। ठंडी रोशनी मुझमें होती है, दूर से देखकर दुनिया सोती है। बोलो कौन?
+Answer: चाँद
+
+Example 4:
+Riddle: रोज सवेरे आता हूँ, शाम को छिप जाता हूँ। बिना पाँव चलता हूँ, जग को रोशन करता हूँ, बताओ मैं क्या कहलाता हूँ?
+Answer: सूरज
+
+Now, solve this riddle:
+Riddle : सरस्वती की सफेद सवारी, मोती जिसको भाते, करके अलग दूध से पानी, बोलो कौन कहलाते?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+छलनी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: कलाई पर बैठ जाऊँ, समय का पाठ पढ़ाऊँ |
+Answer: घड़ी
+
+Example 2:
+Riddle: अगर कानों में घुस जाऊँ, तो दुनिया भर की सैर कराऊँ।
+Answer: हेडफ़ोन
+
+Example 3:
+Riddle: हाथ नहीं, पैर नहीं, फिर भी चलता जाऊँ,\nबिना रोये ही आँसू बरसाऊँ।.
+Answer: बादल
+
+Example 4:
+Riddle: अगर मैं कागज के कोने पर बैठ जाऊँ,\nदूर देशों की सैर कराऊँ।
+Answer: डाक टिकट
+
+Now, solve this riddle:
+Riddle : अगर नाक पर मैं चढ़ जाऊँ,\nतो कान पकड़कर खूब पढ़ाऊँ |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चश्मा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ज्ञान का हूँ सागर, अक्षर तीन का मेरा घर। पैर कटे तो 'कल' बन जाऊँ, बीच कटे तो 'कम' हो जाऊँ।
+Answer: कलम
+
+Example 2:
+Riddle: धड़ के बिन बनू कण, सिर के बिन बनू रण, पैर के बिन बनू कर, अक्षर है कुल तीन।
+Answer: करण
+
+Example 3:
+Riddle: मध्य हटे तो भय उपजाऊँ, सिर कटे तो 'यदि' बन जाऊँ। पैर कटे तो कदम कहाऊँ, तीन अक्षर का पथ मैं बताऊँ।
+Answer: डगर
+
+Example 4:
+Riddle: सिर कटे तो 'दम' बन जाऊं, धड़ कटे तो 'कम' बन जाऊं, पैर कटे तो 'कद' रह जाऊं, तीन अक्षर का नाम बताऊं।
+Answer: कदम
+
+Now, solve this riddle:
+Riddle : कल बनू धड़ के बिन, मल बनू सिर हीन, पैर कटे तो थोड़ा रहूं, अक्षर है कुल तीन।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कमल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो जितनी बढ़ती है, उतनी ही कम होती जाती है?
+Answer: उम्र
+
+Example 2:
+Riddle: ऐसा क्या है जो जितना बढ़ता है, उतना ही कम होता जाता है?
+Answer: उम्र / जीवन
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जिसका उपयोग जितना बढ़ता है, वह उतनी ही छोटी होती जाती है?
+Answer: पेंसिल
+
+Example 4:
+Riddle: मुझमें जितना भरते जाओगे, उतना ही ख़ुद को ख़ाली पाओगे।
+Answer: ज्ञान
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो जितना बढ़ती है, उतनी ही छोटी होती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+साबुन / मोमबत्ती / बत्ती / पेंसिल / रबर / खाना साबुन 
+
+The best answer is साबुन.
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन सा बैंक है जहाँ पैसे नहीं रखे जाते, पर लाल रंग की चीजें रखी जाती हैं?
+Answer: रक्त बैंक
+
+Example 2:
+Riddle: ऐसा कौन सा तार है जो बिजली नहीं ले जाता?
+Answer: सितार
+
+Example 3:
+Riddle: ऐसा कौन सा स्कूल है जहाँ कोई छात्र नहीं, कोई शिक्षक नहीं, पर बहुत कुछ सिखाता है?
+Answer: अनुभव
+
+Example 4:
+Riddle: किसकी जीभ तो है, पर वह बोल नहीं सकती?
+Answer: जूता
+
+Now, solve this riddle:
+Riddle : ऐसा कौन सा कमरा है जिसमें दरवाजा, खिड़की कुछ भी नहीं होता?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मधुमक्खी का छत्ता
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो हर रात एक नई होती है?
+Answer: सपना
+
+Example 2:
+Riddle: ऐसा कौन सा आईना है जिसमें हर बार एक नया इंसान नज़र आता है?
+Answer: तुम/मैं
+
+Example 3:
+Riddle: वह क्या है जो हमेशा आपके सामने रहता है, पर आप उसे कभी देख नहीं पाते?
+Answer: भविष्य
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसका जवाब हर दिल में अलग होता है?
+Answer: एहसास
+
+Now, solve this riddle:
+Riddle : ऐसा कौन सा सवाल है जिसका जवाब हमेशा अलग होता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+सवाल की तारीख/आज की तारीख
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा आगे ही चलती है, कभी पीछे नहीं आती?
+Answer: समय
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो बिना मुँह के बोलती है और बिना कानों के सुनती है, और हर आवाज़ दोहराती है?
+Answer: गूँज
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा ऊपर की ओर जाती है पर ज़मीन पर वापस नहीं आती?
+Answer: धुआँ
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो सिर्फ बढ़ती है, घटती नहीं?
+Answer: ज्ञान / अनुभव
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो ऊपर जाती है लेकिन कभी नीचे नहीं आती?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+उम्र
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो आँखें बंद करने पर दिखाई देती है, पर आँखें खोलते ही गायब हो जाती है?
+Answer: सपना
+
+Example 2:
+Riddle: मैं रात में सुनाई देती हूँ, पर दिन के शोर में छिप जाती हूँ।
+Answer: खामोशी
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो भीड़ में चुप रहती है, पर अकेले में खूब बोलती है?
+Answer: अंतरात्मा / सोच
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा आती है पर कभी पहुँचती नहीं?
+Answer: आने वाला कल
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो रात में दिखाई देती है लेकिन दिन में नहीं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तारे
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना बाँटोगे, उतनी बढ़ती जाएगी?
+Answer: ज्ञान
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है, जो जितना ज़्यादा शोर होता है, उतनी ही कम होती जाती है?
+Answer: शांति (या ख़ामोशी)
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना जलाओ, वो उतनी ही छोटी होती जाती है?
+Answer: मोमबत्ती
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो सुबह हरी, दोपहर को काली, शाम को नीली और रात को सफेद हो जाती है?
+Answer: बिल्ली की आँखें (यह एक क्लासिक पहेली है, लेकिन संदर्भ बदल दिया गया है)
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना खींचोगे, उतनी छोटी होती जाएगी?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रबर की डोरी (या इलास्टिक)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज़्यादा लेते हो, उतना ही पीछे छोड़ते जाते हो?
+Answer: कदम
+
+Example 2:
+Riddle: मुझमें जितना ज़्यादा डालते हो, उतना ही कम मुझमें बचता है। बताओ क्या हूँ मैं?
+Answer: छलनी
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जिसे तुम जितना इस्तेमाल करोगे, वो उतनी ही छोटी होती जाएगी?
+Answer: साबुन (या रबर/इरेज़र)
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना चुकाते (भरते) जाते हो, वो उतनी ही खाली होती जाती है?
+Answer: कर्ज़
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना ज्यादा भरते हो, उतनी ज्यादा खाली होती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कर्ज़
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जो टूटता है, पर उसमें आवाज़ नहीं आती?
+Answer: सपना
+
+Example 2:
+Riddle: ऐसा क्या है जिसे बिना आँखों के भी देखा जा सकता है?
+Answer: सपना
+
+Example 3:
+Riddle: ऐसा क्या है जिसे तोड़ने के लिए किसी औजार की जरूरत नहीं पड़ती?
+Answer: रिकॉर्ड
+
+Example 4:
+Riddle: ऐसा क्या है जिसे छू नहीं सकते, पर खो सकते हैं?
+Answer: भरोसा
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जिसे बिना छुए तोड़ सकते हैं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+वादा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो खुद घिसती जाती है पर सबको कुछ सिखा जाती है?
+Answer: चॉक
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो खुद पिटती है पर खेल आगे बढ़ाती है?
+Answer: गेंद
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो खुद घिसती है और दूसरों की गलती मिटाती है?
+Answer: रबर (इरेज़र)
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो खुद जलती है और दूसरों को रोशनी देती है?
+Answer: मोमबत्ती
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो खुद गिरती है और दूसरों को उठाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+सीढ़ी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जो पानी पीते ही मर जाता है?
+Answer: प्यास
+
+Example 2:
+Riddle: ऐसा क्या है जो सवाल का जवाब मिलते ही गायब हो जाता है?
+Answer: उलझन
+
+Example 3:
+Riddle: ऐसा क्या है जो शोर होने पर गायब हो जाता है?
+Answer: खामोशी
+
+Example 4:
+Riddle: ऐसा क्या है जिसके पास आँखें हैं पर देख नहीं सकता?
+Answer: सुई
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जो सूरज की रोशनी में गायब हो जाता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पेड़ों की साया (or simply) छाया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जो बाँटने से घटता नहीं, बल्कि बढ़ता जाता है?
+Answer: प्यार
+
+Example 2:
+Riddle: एक छोटी सी पहल हूँ, पर जब फैलती हूँ, तो पूरे समाज में बदलाव लाती हूँ।
+Answer: अच्छाई (या नेकी)
+
+Example 3:
+Riddle: ऐसा कौन सा खजाना है जिसे जितना लुटाओगे, उतना ही बढ़ेगा?
+Answer: हुनर
+
+Example 4:
+Riddle: मैं ऐसी कौन सी चीज़ हूँ, जिसे आप दूसरों को दें, तो वह आपके पास से कम नहीं होती, बल्कि और बढ़ जाती है?
+Answer: आग
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ज्ञान
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: बिना पंखों के उड़ जाती है, बिना पैरों के दौड़ जाती है, पूरी दुनिया में फैल जाती है?
+Answer: ख़बर
+
+Example 2:
+Riddle: मैं एक दिमाग से दूसरे दिमाग तक पहुँचता हूँ, पर मेरे कोई पैर नहीं। बताओ क्या?
+Answer: विचार
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो बिना पैर के मीलों तक चली जाती है?
+Answer: आवाज़
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो आपको बिस्तर से उठाए बिना, पूरी दुनिया की सैर करा देती है?
+Answer: सपना
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो एक जगह से दूसरी जगह बिना हिले चली जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+सड़क
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसका शरीर तो चमड़े का है, पर हड्डियाँ लोहे की होती हैं?
+Answer: छाता
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसके पास गला तो है, पर आवाज़ नहीं?
+Answer: बोतल
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जिसके पास शहर तो हैं, पर घर एक भी नहीं?
+Answer: नक्शा
+
+Example 4:
+Riddle: ऐसा क्या है जिसके पास दाँत तो हैं, पर वो कुछ चबा नहीं सकती?
+Answer: कंघी
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसका कोई शरीर नहीं, फिर भी हड्डियाँ होती हैं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मछली के कांटा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी मीठी है, और उसे खाने वाली चीज़ों को भी मीठा बना देती है?
+Answer: चीनी
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी जम जाती है और दूसरों को भी जमा देती है?
+Answer: बर्फ
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी चलती है और दूसरों को भी चलाती है?
+Answer: गाड़ी
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी गीली रहती है और दूसरों को भी गीला कर देती है?
+Answer: पानी
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो खुद भी हंसती है और दूसरों को भी हंसाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+जोक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी चलती है और पूरी मशीनरी को भी चलाती है?
+Answer: इंजन / मोटर
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो पटरी पर खुद दौड़ती है और लोगों को एक जगह से दूसरी जगह ले जाती है?
+Answer: रेलगाड़ी
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी जलती है और दूसरों को भी जलाती है?
+Answer: आग
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो खुद भी आगे बढ़ती है, और दूसरों को भी आगे बढ़ाती है?
+Answer: सड़क
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो खुद भी चलती है और दूसरों को भी चलाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+बाइक / साइकिल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो सबके पास होती है लेकिन कोई उसे देख नहीं सकता?
+Answer: समय ()
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसे सुन सकते हैं पर देख नहीं सकते?
+Answer: आवाज़
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जिसे आप पकड़ सकते हैं, पर फेंक नहीं सकते?
+Answer: ज़ुकाम
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसे आप महसूस कर सकते हैं लेकिन देख नहीं सकते?
+Answer: भूख ()
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे हाथ से पकड़ सकते हैं लेकिन देख नहीं सकते?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अंधेरा () or साँस or ठंड 
+
+is simplified to 
+साँस
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे तुम जितना बाँटते हो, वो उतनी ही बढ़ती जाती है?
+Answer: ज्ञान ()
+
+Example 2:
+Riddle: वह क्या है जिसे जितना साफ करो, उतना ही काला होता जाता है?
+Answer: ब्लैकबोर्ड
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना बाँटा जाए, वह उतनी ही बढ़ती जाती है?
+Answer: ज्ञान
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना बाँटा जाए, वह उतनी ही ज़्यादा मिलती है?
+Answer: प्यार / ख़ुशी / इज़्ज़त
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे इंसान जितना निकालता है, उतनी ही बढ़ती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नदी / खोदा गया गड्ढा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: जितनी शांति होती है, उतनी ही इसकी आवाज़ साफ़ सुनाई देती है?
+Answer: दिल की धड़कन ()
+
+Example 2:
+Riddle: ऐसा क्या है जो अँधेरा बढ़ने पर और तेज़ चमकता है?
+Answer: दीया ()
+
+Example 3:
+Riddle: ऐसा क्या है जो जितना ज्यादा तुम्हारे पास होता है, उतना ही कम वो तुम्हारा होता है?
+Answer: कर्ज
+
+Example 4:
+Riddle: प्रकाश से जन्म लेती है, पर अंधेरा कर देती है।
+Answer: परछाईं
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जो जितना ज्यादा गर्म होता है, उतना ही ठंडा लगता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+बुखार
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा कौन सा घर है जिसमें खिड़कियाँ और दरवाज़े हैं, लेकिन नींव नहीं?
+Answer: लिफाफा
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसका सिर होता है, पर दिमाग नहीं होता?
+Answer: कील
+
+Example 3:
+Riddle: कौन सी चीज़ है जिसकी आवाज़ है पर ज़ुबान नहीं?
+Answer: घंटी
+
+Example 4:
+Riddle: ऐसा कौन है जिसके पास आँखें नहीं, फिर भी सब कुछ दिखाता है?
+Answer: शीशा
+
+Now, solve this riddle:
+Riddle : ऐसा कौन सा पक्षी है जो बिना पंखों के उड़ सकता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पतंग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो रात में आसमान भर देती है लेकिन दिन में गायब हो जाती है?
+Answer: तारे
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो हवा के सहारे जलती है, पर तेज़ हवा उसे बुझा देती है?
+Answer: दीपक की लौ
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो गर्मी में गायब हो जाती है?
+Answer: बर्फ
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो पानी पाते ही अपनी जान गँवा देती है?
+Answer: आग
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो सूरज की रोशनी में गायब हो जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+छाया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे तोड़ा जा सकता है (जैसे काटना) पर मुट्ठी में बंद नहीं कर सकते?
+Answer: वादा
+
+Example 2:
+Riddle: ऐसा क्या है जिसे तोड़ सकते हैं, पर पकड़ नहीं सकते?
+Answer: खामोशी
+
+Example 3:
+Riddle: ऐसा क्या है जिसे तोड़ सकते हैं पर देख नहीं सकते?
+Answer: वादा
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिस पर आप कदम रख सकते हैं, पर उसे पकड़ नहीं सकते?
+Answer: परछाई
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जिसे काट सकते हैं लेकिन पकड़ नहीं सकते?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+छाया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो खुद ज़मीन में जाती है, पर अपने अंदर से एक नया जीवन ऊपर उठाती है?
+Answer: बीज
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो खुद घिस जाती है पर दूसरों को सिखाती है?
+Answer: पेंसिल
+
+Example 3:
+Riddle: ऐसा कौन है जो खुद हारता है, ताकि दूसरा जीत सके?
+Answer: एक अच्छा प्रशिक्षक (कोच) या माता-पिता (कुछ संदर्भों में)
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो खुद नाकाम होती है, पर दूसरों को कामयाबी का रास्ता दिखाती है?
+Answer: असफलता
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो खुद भी गिरती है और दूसरों को उठाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+सीढ़ी (लिफ्ट या और अन्य संदर्भों में भी लागू हो सकता है, लेकिन सबसे आम उत्तर सीढ़ी है) 
+लिफ्ट 
+ stair नहीं सबसे उचित उत्तर है, 
+सीढ़ी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी भावना है जो देने से बढ़ती है और अपने पास रखने से कम हो जाती है?
+Answer: प्यार
+
+Example 2:
+Riddle: ऐसी कौन सी भावना है, जिसे जितना ज़्यादा तुम दूसरों को दोगे, वो उतनी ही ज़्यादा तुम्हारे पास लौटकर आएगी और बढ़ेगी?
+Answer: प्यार
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जिसे ज़मीन में जितना ज़्यादा बोओगे, उतनी ही ज़्यादा पाओगे?
+Answer: बीज
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसे तुम दूसरों को जितना दोगे, वो तुम्हारे पास उतनी ही ज़्यादा महसूस होगी?
+Answer: खुशी
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+खुशी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो बिना पंखों के उड़ती है?
+Answer: पतंग
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो दूसरों को हँसाती है पर खुद नहीं हँसती?
+Answer: चुटकुला
+
+Example 3:
+Riddle: बोलती नहीं पर सब कुछ बताती है।
+Answer: किताब
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसकी आँखें नहीं, पर वो रास्ता दिखाती है?
+Answer: सड़क का निशान (या दिशा सूचक)
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो बिना देखे काम कर सकती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मशीन (या कंप्यूटर/रोबोट)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो बिना हाथों के भी देती है और बिना पैरों के खड़ी रहती है?
+Answer: पेड़
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो बिना तेल और बाती के सारी दुनिया को रौशन करती है?
+Answer: सूरज
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो बिना मुंह के बोलती है?
+Answer: घड़ी
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो बिना किसी सवारी के भी लंबी दूरी तय कर सकती है?
+Answer: पैर
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो बिना बिजली के भी जल सकती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मोमबत्ती
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे आप दूसरों को देते हैं, पर फिर भी अपने पास रखते हैं?
+Answer: वचन
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो चलती है पर उसके पैर नहीं होते?
+Answer: सड़क
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो तुम्हारे पास हमेशा रहती है, पर तुम उसे देख या छू नहीं सकते?
+Answer: विचार
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसे लोग महसूस करते हैं पर देख नहीं सकते?
+Answer: हवा
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे लोग सुनते हैं पर देख नहीं सकते?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आवाज़
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे देने में कोई पैसा नहीं लगता, पर वो दुनिया की सबसे कीमती चीज़ हो सकती है?
+Answer: मुस्कान ()
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो है तो कागज़ की, पर ज़िंदगी के लिए अनमोल है?
+Answer: डिग्री
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो छोटी सी लोहे की बनी होती है, पर बड़े-बड़े खजाने खोल सकती है?
+Answer: चाबी ()
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो बस एक आवाज़ होती है, लेकिन दुनिया के किसी भी खजाने से ज़्यादा खुशी दे सकती है?
+Answer: हँसी
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो कागज की होती है लेकिन सोने से भी महंगी होती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+टिकट
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो जितनी पुरानी होती जाती है, उतनी ही नई लगती है (कुछ लोगों के लिए)?
+Answer: शराब (पुरानी शराब) / एंटीक वस्तुएँ
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसमें से जितना निकालो, वह उतनी ही बड़ी होती जाती है?
+Answer: गड्ढा
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो बाँटने से बढ़ती है?
+Answer: ज्ञान
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना काटो उतनी ही लंबी होती जाती है?
+Answer: नाली (या खाई)
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो जितनी काटो उतनी लंबी होती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नाली
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना चलते हैं, वो उतनी कम होती जाती है?
+Answer: दूरी
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जिसमें सबूत डालने से वो कम होती जाती है?
+Answer: शक
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज्यादा लोगों को बताओ, वो उतनी कम रहती है?
+Answer: रहस्य
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जिसमें जितना खाना डालो, वो उतनी ही हल्की होती जाती है?
+Answer: भूख
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना ज्यादा डालो, उतना हल्का हो जाता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कपड़ा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा नीचे की ओर जाती है, कभी ऊपर नहीं आती?
+Answer: बारिश
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो हमेशा बढ़ती है, कभी घटती नहीं?
+Answer: उम्र
+
+Example 3:
+Riddle: मैं हमेशा आगे की ओर बढ़ता हूँ, कभी पीछे नहीं लौटता। जो रूप एक बार छूट गया, उसे दोबारा नहीं पाता।
+Answer: जीवन
+
+Example 4:
+Riddle: ये क्या है जो आपको सिर्फ आगे ले जाती है, कभी पीछे नहीं?
+Answer: ज़िन्दगी
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो सिर्फ आगे बढ़ सकती है, पीछे नहीं जा सकती?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ज़िन्दगी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं तुम्हारे अंदर भी हूँ, बाहर भी। तुम्हारे जन्म से मृत्यु तक साथ निभाती हूँ, एक पल भी तुम्हारा पीछा नहीं छोड़ती। बताओ क्या?
+Answer: साँस
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो किसी का साथ कभी नहीं छोड़ती?
+Answer: नाम
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो बीत जाने के बाद भी, तुम्हारा पीछा नहीं छोड़ती?
+Answer: यादें
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो तुम्हारे साथ-साथ बढ़ती है, पर कभी छोटी नहीं होती?
+Answer: उम्र
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो किसी का भी पीछा नहीं छोड़ती?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+छाया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: मैं बहुत छोटी हूँ, पर एक पल में पूरा संसार देख लेती हूँ। बताओ क्या?
+Answer: आँख
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो होती तो छोटी सी है, पर उसमें ज्ञान का पूरा संसार समाया होता है?
+Answer: किताब
+
+Example 3:
+Riddle: ऐसी कौन सी चीज़ है जो होती तो मुट्ठी भर है, पर उसमें दुनिया भर की बातें भरी होती हैं?
+Answer: मोबाइल फ़ोन
+
+Example 4:
+Riddle: ऐसी कौन सी छोटी सी चीज़ है जिसमें एक विशाल वृक्ष का जीवन समाया रहता है?
+Answer: बीज
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जो देखने में बहुत छोटी होती है लेकिन पूरी दुनिया उसमें समा सकती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कैमरा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसा क्या है जिसे हम छू नहीं सकते लेकिन अपने दिल में महसूस कर सकते हैं?
+Answer: प्यार
+
+Example 2:
+Riddle: ऐसा क्या है जिसे हम देख नहीं सकते, छू नहीं सकते, पर सोच सकते हैं?
+Answer: विचार
+
+Example 3:
+Riddle: मेरा कोई आकार नहीं, मुझे छू नहीं सकते, पर मैं दुनिया बदल सकती हूँ।
+Answer: विचार
+
+Example 4:
+Riddle: मैं हमेशा चलता रहता हूँ, पर कभी कहीं पहुँचता नहीं। तुम मुझे पकड़ नहीं सकते, पर मेरा गुज़रना महसूस करते हो। बताओ क्या?
+Answer: समय
+
+Now, solve this riddle:
+Riddle : ऐसा क्या है जिसे हम छू नहीं सकते लेकिन महसूस कर सकते हैं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+प्यार
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Hindi riddle with its answer, followed by one or more 'context-reconstructed' Hindi riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ऐसी कौन सी चीज़ है जिसे जितना ज़्यादा लो, वह उतनी ही ज़्यादा बढ़ती जाती है?
+Answer: क़र्ज़
+
+Example 2:
+Riddle: ऐसी कौन सी चीज़ है जो जितनी ज़्यादा फैलाई जाए, उतनी ज़्यादा बढ़ती है?
+Answer: अफवाह
+
+Example 3:
+Riddle: ऐसी कौन सी प्यास है जो बुझाने से बुझती नहीं, बल्कि और बढ़ जाती है?
+Answer: जिज्ञासा
+
+Example 4:
+Riddle: ऐसी कौन सी चीज़ है जो जितनी ज़्यादा मिले, उतनी ज़्यादा और पाने की इच्छा होती है?
+Answer: धन
+
+Now, solve this riddle:
+Riddle : ऐसी कौन सी चीज़ है जिसे जितना ज्यादा खाओ उतनी ज्यादा भूख लगती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+क़र्ज़ की जगह भूख से जुड़ी कोई चीज़, जैसे कि Original Riddle में क़र्ज़ को बढ़ने की बात कही गई थी उसी तरह यहाँ भी कुछ ऐसा ही होना चाहिए। 
+जवाब है: प्याज़ 
+
+ 
+प्याज़
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 02:30:53 2025 ---

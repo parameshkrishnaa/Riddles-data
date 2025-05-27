@@ -1,0 +1,2889 @@
+
+--- Starting New Generation Run at Mon May 26 18:46:35 2025 ---
+Model: meta-llama/llama-4-maverick, Language: Telugu, Prompt: 2_shot_sem_sim_recon_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Telugu riddles.
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: దండు కాని దండు, ఏమి దండు?
+Answer: మిరపదండు
+
+Example 2:
+Riddle: పురం కాని పురం, ఏమి పురం?
+Answer: అంతఃపురం
+
+Now, solve this riddle:
+Riddle : మొగ్గ కాని మొగ్గ, ఏమి మొగ్గ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వినాయక మొగ్గ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఒకరు ఇస్తారు, ఒకరు తీసుకుంటారు?
+Answer: సలహా
+
+Example 2:
+Riddle: రెండు పడతాయి, ఒకటి లేస్తుంది?
+Answer: ఆకులు, పళ్ళు, మొలక
+
+Now, solve this riddle:
+Riddle : ఒకరు పొడుస్తారు, ఒకరు విడుస్తారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కూలి, పని
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కడుపు లోన జలనిధి, కంఠము లోన మెరుపు. అరుపేమో ఉరుము, ఎండంటే భయము.
+Answer: మేఘము
+
+Example 2:
+Riddle: కడుపులో సమాచారం, నోటిలో ప్రపంచం! పిలుపుకే స్పందన, శక్తి ఆగిపోతే మౌనం!!
+Answer: చరవాణి
+
+Now, solve this riddle:
+Riddle : కడుపు లోన పిల్లలు, కంఠము లోన నిప్పులు! అరుపేమో ఉరుము, ఎరుపంటే భయము!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మద్దెలమ్మ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: గోడ మీద ఆడుతుంది, కానీ పట్టుకోలేము?
+Answer: వెలుగు
+
+Example 2:
+Riddle: వెలుగునిచ్చే గోళం, ఎవ్వరూ దాన్ని పట్టుకోలేరు, దాని మీద నిలబడలేరు. ఏంటది?
+Answer: సూర్యుడు
+
+Now, solve this riddle:
+Riddle : సన్నని స్తంభం, ఎక్కలేరు, దిగలేరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+విద్యుత్ తీగ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: రెక్కలుంటాయి కాని పక్షిని కాదు, మకరందాన్ని తాగుతాను కాని తేనెటీగను కాదు?
+Answer: సీతాకోకచిలుక
+
+Example 2:
+Riddle: పళ్ళు ఉంటాయి కానీ జంతువును కాదు, కోస్తాను కానీ కత్తిని కాదు?
+Answer: రంపము
+
+Now, solve this riddle:
+Riddle : కిరీటము ఉంటుంది కాని రాజును కాదు, నాట్యము చేస్తాను కాని మయూరిని కాదు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కోడి పుంభం (కోడి)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తోలు నలుపు, తింటే కారం, ఏంటో అది?
+Answer: మిరియాలు
+
+Example 2:
+Riddle: తోలు ప‌సుపు, తింటే తీపి, ఏంటో అది?
+Answer: అరటి పండు
+
+Now, solve this riddle:
+Riddle : తోలు న‌లుపు, తింటే పులుపు, ఏంటో అది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నిమ్మకాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: రంగులు మారును, రూపము చూపును! సంతోషాన విరియును, కోపాన ముడుచును!!
+Answer: ముఖము
+
+Example 2:
+Riddle: సున్నపు గూడు! రెండు రంగుల కూడు!!
+Answer: గ్రుడ్డు
+
+Now, solve this riddle:
+Riddle : కాటుక రంగు, కమలము హంగు! విప్పిన పొంగు, ముడిచిన క్రుంగు!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పాము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కాయ కాని కాయ, ఏమి కాయ?
+Answer: పత్తి కాయ
+
+Example 2:
+Riddle: కాయ కాని కాయ, ఏమి కాయ?
+Answer: తలకాయ
+
+Now, solve this riddle:
+Riddle : కాయలు కాని కాయలు, ఏమి కాయలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ముక్కాయలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఇల్లు కాని ఇల్లు, ఏమి ఇల్లు?
+Answer: బొమ్మరిల్లు
+
+Example 2:
+Riddle: దారి కాని దారి, ఏమి దారి?
+Answer: అడ్డదారి
+
+Now, solve this riddle:
+Riddle : కార్డు కాని కార్డు, ఏమి కార్డు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వస్తాదు కార్డు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఒంటినిండా పోటుగాళ్లు! కడుపునిండా చంటిపిల్లలు!!
+Answer: పనస పండు
+
+Example 2:
+Riddle: మట్టి బట్టలు! రుచికరమైన బిడ్డలు!!
+Answer: వేరుశనగ కాయ
+
+Now, solve this riddle:
+Riddle : చింపిరి గుడ్డలు! బంగారం లాంటి బిడ్డలు!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బరి కాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పురం కాని పురం, ఏమి పురం?
+Answer: అంతఃపురం
+
+Example 2:
+Riddle: మెడకు చుట్టుకునే పాము, కానీ కరవదు ఏమిటి?
+Answer: నెక్లెస్ / హారం
+
+Now, solve this riddle:
+Riddle : పొంగ బోడ‌ది రాంగ జుట్టుది ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పులి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: దేహం ఉంది, ప్రాణం లేదు?
+Answer: బొమ్మ
+
+Example 2:
+Riddle: చెట్లకు లేనిది, జంతువులకు ఉండేది?
+Answer: చలనం
+
+Now, solve this riddle:
+Riddle : ఎముకలు లేని జీవము, ఏటికి పోయింది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పాము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చెప్పి వొచ్చేది, చెప్పకుండా వెళ్ళిపోయేది?
+Answer: వాన
+
+Example 2:
+Riddle: మాట విని వొచ్చేది, చెప్పకుండా వెళ్ళేది?
+Answer: ప్రతిధ్వని
+
+Now, solve this riddle:
+Riddle : అందరికి చెప్పి వొచ్చేది, చెప్పకుండా వెళ్ళేది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పేరు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వెలుగునిచ్చే గోళం, ఎవ్వరూ దాన్ని పట్టుకోలేరు, దాని మీద నిలబడలేరు. ఏంటది?
+Answer: సూర్యుడు
+
+Example 2:
+Riddle: లోతైన నీటిమడుగు, ఎవ్వరూ దాని అడుగు చూడలేరు, ఎవ్వరూ దాన్ని పూర్తిగా తాగలేరు. ఏంటది?
+Answer: సముద్రం
+
+Now, solve this riddle:
+Riddle : స‌న్న‌టి స్థంభం, ఎవ్వ‌రూ ఎక్క‌లేరు, దిగ‌లేరు ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వరి మొక్క
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పెద్ద పెద్ద రైళ్లు కూడా ఒక దాని దగ్గర ఆగాల్సి వస్తుంది?
+Answer: సిగ్నల్
+
+Example 2:
+Riddle: పెద్ద పర్వతాలు కూడా ఎవరి దారికి అడ్డు చెప్పలేవు?
+Answer: నది
+
+Now, solve this riddle:
+Riddle : రాజాధి రాజులు కూడా ఒకరిముందు తల వంచుకుంటారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మంగళసూత్రం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: రుచి చూడలేని వంటకాలు, తాగలేని పానీయాలు ఎక్కడ ఉంటాయి?
+Answer: వంట పుస్తకంలో
+
+Example 2:
+Riddle: గింజ లేని మామిడి పండ్లు, పురుగు లేని కూరగాయలు ఎక్కడ ఉంటాయి?
+Answer: మెనూలో
+
+Now, solve this riddle:
+Riddle : ఇళ్ళు లేని పట్నాలు, నీళ్లు లేని సముద్రాలు ఎక్కడ ఉంటాయి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మ్యాపులో
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఒకటి పట్టుకుంటే రెండు కదులుతాయి?
+Answer: కత్తెర
+
+Example 2:
+Riddle: ఒకటి నొక్కితే రెండు దగ్గరవుతాయి?
+Answer: చిమట
+
+Now, solve this riddle:
+Riddle : ఒకటి పట్టుకుంటే రెండు ఊగుతాయి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+తూకం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కాయల్లో కోయలేని కాయ?
+Answer: తలకాయ
+
+Example 2:
+Riddle: ఆకు కాని ఆకు, ఏమి ఆకు?
+Answer: విస్తరాకు
+
+Now, solve this riddle:
+Riddle : కాయ, పువ్వు లేని పంట?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నారికాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అందరూ నా మీద రాస్తారు కాని నేనెవరి మీద రాయను. నన్ను చదువుతారు కాని నేను ఎవరిని చదవను?
+Answer: కాగితం
+
+Example 2:
+Riddle: అందరూ నన్ను చూడగలరు, కానీ నేను ఎవరినీ చూడలేను. నేను ఎప్పుడూ మీతోనే ఉంటాను, కానీ నేను మీతో మాట్లాడలేను.
+Answer: నీడ
+
+Now, solve this riddle:
+Riddle : అందరూ నన్ను పట్టుకుంటారు కాని నేనే ఎవరిని పట్టుకొను, అందరూ నాతో మాట్లాడతారు కాని నేనే ఎవరితో మాట్లాడను?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సెల్ ఫోన్
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పీల్చకుండా వదలలేనిది! వదలకుండా పీల్చలేనిది!!
+Answer: శ్వాస
+
+Example 2:
+Riddle: అమ్మకుండా కొనలేనిది! కొనకుండా అమ్మలేనిది!!?
+Answer: వ్యాపారం / లావాదేవీ
+
+Now, solve this riddle:
+Riddle : ఇవ్వకుండా తీసుకో లేనిది! తీసుకోకుండా ఇవ్వ లేనిది!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+లావాదేవీ / వ్యాపారం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: గొర్రెల్ని తోలేసి గుండ్లకి దారం లాగుతారు?
+Answer: పట్టు పురుగు గూడు
+
+Example 2:
+Riddle: ఆకులు దులిపేసి, కర్రలకు రసం పిండుతారు?
+Answer: చెరకు గడ
+
+Now, solve this riddle:
+Riddle : మేకల్ని తోలేసి తడకలకి పాలు పిండుతారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వరి పొలం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కాగితాలన్నీ తిరుగుతుంది, పెట్టెలో కూర్చుంటుంది?
+Answer: పెన్ను
+
+Example 2:
+Riddle: భూమి మొత్తం తిరిగినా, తాను మాత్రం కదలడు?
+Answer: కొండ
+
+Now, solve this riddle:
+Riddle : ఇల్లంతా తిరిగి మూలకు కూర్చుంటుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+బొగ్గుపెన్సిలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: గడి కాని గడి, ఏమి గడి?
+Answer: అంగడి
+
+Example 2:
+Riddle: వనం కాని వనం, ఏమి వనం?
+Answer: భవనం
+
+Now, solve this riddle:
+Riddle : కలి కాని కలి, ఏమి కలి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సంకలి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పెంకు ఇంటిలో తియ్యని నీరు?
+Answer: కొబ్బరి బొండం
+
+Example 2:
+Riddle: లోతైన నీటిలో దాగిన మెరుపు?
+Answer: ముత్యం
+
+Now, solve this riddle:
+Riddle : చీకటి ఇంటిలో జడల దయ్యము?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వెంట్రుకల గూడు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఆకాశం తెరిస్తే, వజ్రాల రాశి?
+Answer: చుక్కలు
+
+Example 2:
+Riddle: తలుపు తెరిస్తే, జ్ఞాన భాండాగారం?
+Answer: గ్రంథాలయం
+
+Now, solve this riddle:
+Riddle : మూత తెరిస్తే, ముత్యాల పేరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కళ్ళు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వనం కాని వనం, ఏమి వనం?
+Answer: భవనం
+
+Example 2:
+Riddle: దండు కాని దండు, ఏమి దండు?
+Answer: మిరపదండు
+
+Now, solve this riddle:
+Riddle : జాన కాని జాన, ఏమి జాన?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొలుజాన
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వేల పళ్ళు! ఒకే ఎముక!!
+Answer: మొక్కజొన్న కంకి
+
+Example 2:
+Riddle: రెండు కాళ్లున్నాయి! అనేక పక్కటెముకలున్నాయి!!?
+Answer: నిచ్చెన
+
+Now, solve this riddle:
+Riddle : ఎనమిది ఎముకలు! తట్టెడు ప్రేగులు!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బరికాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చెవిలో పూచిన పువ్వు!?
+Answer: చెవి కమ్మ
+
+Example 2:
+Riddle: ఒంటినిండా పోటుగాళ్లు! కడుపునిండా చంటిపిల్లలు!!
+Answer: పనస పండు
+
+Now, solve this riddle:
+Riddle : ఈగ ముసరని పండు! ఇంటిలో నుండు!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+జామపండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పళ్ళుంటాయి కాని జంతువును కాదు, తల దువ్వుతాను కాని క్షురకుడిని కాదు?
+Answer: దువ్వెన
+
+Example 2:
+Riddle: జుట్టు ఉంటుంది కాని మనిషిని కాదు, దాహం తీరుస్తాను కాని నదిని కాదు?
+Answer: కొబ్బరికాయ
+
+Now, solve this riddle:
+Riddle : వీధిరాజుకు కొప్పుది కానీ జుట్టు లేదు, క‌ళ్ళున్నాయి కానీ చూపులేదు ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కోడికూత‌ర‌ము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఏది ఇస్తే తరిగిపోతుంది? ఏది ఇస్తే పెరుగుతుంది?
+Answer: డబ్బు, జ్ఞానము
+
+Example 2:
+Riddle: ఏది పూస్తే పోతుంది? ఏది పూస్తే పోదు?
+Answer: గోరింటాకు, పచ్చబొట్టు
+
+Now, solve this riddle:
+Riddle : ఏది పెడితే అరిగి పోతుంది?, ఏది పెడితే కలకాలం ఉంటుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+బట్టలు, పేరు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కడుపు నిండా ఘాటు, వంటి నిండా సోకు?
+Answer: మిరపకాయ
+
+Example 2:
+Riddle: కడుపు నిండా ధ్వనులు, వంటి నిండా గాయాలు.
+Answer: డప్పు
+
+Now, solve this riddle:
+Riddle : కడుపు నిండా రాగాలు, వంటి నిండా గాయాలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వీణ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పతి కాని పతి, ఏమి పతి?
+Answer: తిరుపతి
+
+Example 2:
+Riddle: దారం కాని దారం, ఏమి దారం?
+Answer: ఆధారం
+
+Now, solve this riddle:
+Riddle : గీత కాని గీత, ఏమి గీత?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సుగీత
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఈ లోకంలో నడిచేవారంతా నా బిడ్డ‌లే, కాని అమ్మా! అని న‌న్నెవ‌రు పిల‌వ‌రు. ఎక్కడికి వెళ్లాలన్నా నా మీదే, ఏదైనా చేరాలన్నా నా మీదే. నేనెవ‌ర్ని?
+Answer: దారి (రహదారి)
+
+Example 2:
+Riddle: ఈ సృష్టిలోని ప్రతిదీ నా బిడ్డే. కాని ఎవరూ నన్ను అమ్మా! తాతా! అని పిలవరు. ఏమి జరిగినా నాలోనే జరుగుతుంది, ఎటూ పోవాలన్నా నాతో పాటే. నేనెవ‌ర్ని?
+Answer: కాలం
+
+Now, solve this riddle:
+Riddle : ఈ ప్ర‌పంచ‌లోని వారంద‌రూ నా బిడ్డ‌లే కాని అమ్మా! అని న‌న్నెవ‌రు పిల‌వ‌రు ఏం చేయాల‌న్నా ఏమి పొందాల‌న్నా నాలోనే ఎటూ పోవాల‌న్నా ఎక్క‌డికి వెళ్లాల‌న్నా నా మీదే..నేనెవ‌ర్ని?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+భూమి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అది లేకపోతే ఏమీ వినిపించదు?
+Answer: శబ్దం
+
+Example 2:
+Riddle: అది లేకపోతే ఎవ్వరూ ప్రయాణం మొదలుపెట్టరు?
+Answer: గమ్యం
+
+Now, solve this riddle:
+Riddle : అది లేకపోతే ఎవ్వరూ ఏమీ తినరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఆకలి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఇద్దరు అన్నదమ్ములు, దేశాలన్నీ తిరిగినా, ఎప్పుడూ కలుసుకోరు?
+Answer: రైలు పట్టాలు
+
+Example 2:
+Riddle: అక్క చెల్లెల్లు పక్కపక్కనే ఉంటారు, అన్ని మాటలు వింటారు, కానీ ఒకరినొకరు చూసుకోలేరు?
+Answer: చెవులు
+
+Now, solve this riddle:
+Riddle : ఇద్దరు అక్క చెల్లెల్లు, ప్రపంచం మొత్తం తిరిగి చూసినా, ఒకరినొకరు చూసుకోరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కళ్ళు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చెట్టుకు పూయని పువ్వు, వెలుగులీనే పువ్వు? ఏంట‌ది?
+Answer: కాకర పువ్వొత్తు
+
+Example 2:
+Riddle: ఆకు కాని ఆకు, ఏమి ఆకు?
+Answer: విస్తరాకు
+
+Now, solve this riddle:
+Riddle : చెట్టుకు కాయ‌ని కాయ కర‌క‌ర‌లాడే కాయ‌? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గోగు కాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: బయట అంతా తడి, ఇంట్లో అంతా పొడి?
+Answer: వాన
+
+Example 2:
+Riddle: రాత్రి పూట ప్రపంచమంతా ఒక్కటే కప్పు?
+Answer: చీకటి
+
+Now, solve this riddle:
+Riddle : ఇల్లు మొత్తం వెలుగు, బల్ల కింద చీకటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దీపం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పెంకు ఇంటిలో తియ్యని నీరు?
+Answer: కొబ్బరి బొండం
+
+Example 2:
+Riddle: బయట అంతా తడి, ఇంట్లో అంతా పొడి?
+Answer: వాన
+
+Now, solve this riddle:
+Riddle : ఇంట్లో మొగ్గ బ‌య‌ట‌కొస్తే పువ్వు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బరికాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నోరున్నా, మాటరానిది?
+Answer: కూజా
+
+Example 2:
+Riddle: కుంభకర్ణుడు కూడా తక్కువగా నిద్రపోయే రాత్రి ఏది?
+Answer: శివరాత్రి
+
+Now, solve this riddle:
+Riddle : ఆడవారు తక్కువగా మాట్లాడే నెల?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నోమునేల
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తెల్ల‌టి గుర్రానికి నల్ల‌టి చార‌లు? ఏంట‌ది?
+Answer: జీబ్రా
+
+Example 2:
+Riddle: తోలు నలుపు, తింటే కారం, ఏంటో అది?
+Answer: మిరియాలు
+
+Now, solve this riddle:
+Riddle : నాలుగు క‌ర్ర‌ల మ‌ద్య న‌ల్ల‌రాయి? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+క‌ర్ర‌పుప్పి (క‌ప్ప‌ర‌పుప్పి)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నదికి పుట్టినచోట ఒకటి, సాగిపోయాక మరొకటి?
+Answer: పేరు
+
+Example 2:
+Riddle: చిన్నప్పుడు చెప్పినది ఒకటి, పెద్దయ్యాక చూసినది ఒకటి?
+Answer: మాట, అనుభవం
+
+Now, solve this riddle:
+Riddle : ఆడదానికి పుట్టినింట ఒకటి, మెట్టినింట ఒకటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పేరు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పచ్చని పడవ, లోపల చాలా గదులు, గదికొక్క మనిషి, మనిషికొక్క పచ్చటి బట్ట?
+Answer: బఠానీ కాయ
+
+Example 2:
+Riddle: పొడవైన పాముకు చాలా గదులు, గదిలో మనుషులు, మనిషికి గమ్యం?
+Answer: రైలు లేదా బస్సు
+
+Now, solve this riddle:
+Riddle : అడవిలో చిన్న గని, గనికి చాలా గదులు, గదికొక్క సిపాయి, సిపాయికొక్క తుపాకి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కరివేపాకు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అందంగా ఉంటాను కాని ఎవరితో మాట్లాడను, దగ్గరికి వస్తే గుచ్చుకుంటాను.
+Answer: ముళ్ళ చెట్టు
+
+Example 2:
+Riddle: నేను చిన్నవాడిని కానీ నన్ను తాకితే ఊరుకోను.
+Answer: ముల్లు
+
+Now, solve this riddle:
+Riddle : ఎర్రగా ఉంటాను కాని నేనెవరితో సరసాలాడను, నన్ను ముట్టుకుంటే ఊరుకోను.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మిర్చి పండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పిలిస్తేనే వెళ్తారు, మోసుకుంటూ ఏడుస్తారు?
+Answer: శవయాత్ర
+
+Example 2:
+Riddle: ఒకరు తీస్తారు, ఒకరు చూస్తారు?
+Answer: సినిమా
+
+Now, solve this riddle:
+Riddle : ఇష్టంగా తెచ్చుకుంటారు, చంపి ఏడుస్తారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వెల్లుల్లిపాయలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వంట ఇంట్లో ఉంటే ఉపకారం, ఒంటి మీద పడితే అపకారం?
+Answer: కత్తి
+
+Example 2:
+Riddle: బయట అంతా తడి, ఇంట్లో అంతా పొడి?
+Answer: వాన
+
+Now, solve this riddle:
+Riddle : ఇంటిలో ఉంటే ప్రమోదము, ఒంటిలో ఉంటే ప్రమాదము?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+బంగారం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అక్కాచెల్లెళ్లు ఇద్దరు, ఎప్పుడూ పోట్లాడుకుంటూనే ఉంటారు, వారి మధ్యకు వచ్చినదాన్ని రెండు ముక్కలు చేస్తారు.
+Answer: కత్తెర
+
+Example 2:
+Riddle: ఇద్దరు స్నేహితులు, ఒకరినొకరు వెంబడిస్తూ ఉంటారు, కానీ ఎప్పుడూ కలుసుకోరు?
+Answer: గతం, భవిష్యత్తు
+
+Now, solve this riddle:
+Riddle : అన్నదమ్ములు ఇద్దరు, ఒకరంటే మరొకరికి పడదు, ఎప్పుడూ కొట్టుకుంటూనే ఉంటారు. వారి మధ్యకు ఎవరైనా వొస్తే పచ్చడి పచ్చడే?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చిల్లర డబ్బులు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అడవిలో పుట్టిపెరిగి, నోటితో అరుస్తుంది, ఏమిటది?
+Answer: పిల్లనగ్రోవి
+
+Example 2:
+Riddle: పొలంలో పుట్టి, పళ్ళెంలో కడుపు నింపుతుంది, ఏమిటది?
+Answer: అన్నం
+
+Now, solve this riddle:
+Riddle : సముద్రంలో పుట్టిపెరిగి ఊరిలో అరుస్తుంది, ఏమిటది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+శంఖం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అడవిలో పుట్టింది, అడవిలో పెరిగింది, పట్నం వచ్చింది, ఢమ ఢమ లాడింది.
+Answer: డప్పు
+
+Example 2:
+Riddle: అడవిలో పెరిగిన దానికి నేను బిడ్డను, నా ఒంటినిండా అక్షరాల గాయాలు, నా కడుపునిండా లోకజ్ఞానం.
+Answer: పుస్తకం
+
+Now, solve this riddle:
+Riddle : అడ‌విలో పుట్టాను అడ‌విలో పెరిగాను వంటినిండా గాయాలు క‌డుపునిండా రాగాలు
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వీణ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కోడి కాని కోడి, ఏమి కోడి?
+Answer: పకోడి
+
+Example 2:
+Riddle: పురం కాని పురం, ఏమి పురం?
+Answer: అంతఃపురం
+
+Now, solve this riddle:
+Riddle : కోడి కాని కోడి, ఏమి కోడి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పకోడి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: గూటి లోన పాప! తిరుగు తిరుగు పాప!!
+Answer: కను పాప
+
+Example 2:
+Riddle: ఒంటినిండా పోటుగాళ్లు! కడుపునిండా చంటిపిల్లలు!!
+Answer: పనస పండు
+
+Now, solve this riddle:
+Riddle : చారల పాపకి దూది కుచ్చు!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వెదురు కర్ర
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నేల నుంచి వస్తుంది. నానా రంగులు అద్దుకుంటుంది. ఏమిటది?
+Answer: పూలు
+
+Example 2:
+Riddle: నీరు కాని నీరు, ఏమి నీరు?
+Answer: కన్నీరు
+
+Now, solve this riddle:
+Riddle : నీళ్లు నుంచి వ‌స్తుంది. నీకు నాకూ రుచిస్తుంది? ఇంత‌కీ ఏమిట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఉప్పు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కొమ్మలేని చెట్టు మీద రంగుల పువ్వు, ముట్టుకుంటే చేతికి మంట అంటును?
+Answer: కొవ్వొత్తి మంట
+
+Example 2:
+Riddle: ఆకాశపు పల్లెలో వెండి పళ్లెం, అందరూ చూస్తారు కానీ అందుకోలేరు?
+Answer: చంద్రుడు
+
+Now, solve this riddle:
+Riddle : పొద్దుటూరి చెట్లలో పొదిలింది చెళవాయి, చూసే వారే కాని పట్టే వారు లేరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మృగతాజు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ముగ్గురు అన్నదమ్ములు, ఒకే ఇంట్లో ఉంటారు. ఒకరు తిరుగుతుంటే అందరూ తిరుగుతారు, ఒకరు ఆగితే అందరూ ఆగిపోతారు?
+Answer: గడియారం ముళ్ళు
+
+Example 2:
+Riddle: ఇద్దరు మిత్రులు, నడవాలంటే ఇద్దరూ కదలాలి, ఆగాలంటే ఇద్దరూ ఆగాలి?
+Answer: కాళ్ళు
+
+Now, solve this riddle:
+Riddle : అన్నదమ్ములు ముగ్గురు, తిరిగితే ముగ్గురూ తిరుగుతారు, మానితే ముగ్గురూ మానుతారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సైకిలు చక్రాలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కిర్రు కిర్రు పుల్ల! గీస్తే మంట జ్వాల!!
+Answer: అగ్గిపుల్ల
+
+Example 2:
+Riddle: గూటి లోన పాప! తిరుగు తిరుగు పాప!!
+Answer: కను పాప
+
+Now, solve this riddle:
+Riddle : కీచు కీచు పిట్ట! నేలకేసి కొట్ట!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కాకిటికీ పిట్ట/కిటికీ పిట్ట
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: రెండు పడతాయి, ఒకటి లేస్తుంది?
+Answer: ఆకులు, పళ్ళు, మొలక
+
+Example 2:
+Riddle: రెండు ఓడిస్తాయి, ఒకటి గెలిపిస్తుంది?
+Answer: తప్పులు, సోమరితనం, పట్టుదల
+
+Now, solve this riddle:
+Riddle : రెండు కొడతాయి, ఒకటి పెడుతుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చేతులు, కాళ్ళు, పిల్లలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: గడి కాని గడి, ఏమి గడి?
+Answer: అంగడి
+
+Example 2:
+Riddle: వనం కాని వనం, ఏమి వనం?
+Answer: భవనం
+
+Now, solve this riddle:
+Riddle : గారు కాని గారు, ఏమిగారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వాగారు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: బయట అంతా తడి, ఇంట్లో అంతా పొడి?
+Answer: వాన
+
+Example 2:
+Riddle: పెంకు ఇంటిలో తియ్యని నీరు?
+Answer: కొబ్బరి బొండం
+
+Now, solve this riddle:
+Riddle : ఇంట్లో మొగ్గ, వీధిలో పువ్వు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బరికాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తెల్లని పొలంలో నల్లని చీమలు ఏంట‌ది?
+Answer: అక్షరాలు
+
+Example 2:
+Riddle: ఒక తెల్ల‌టి గుట్ట, దాని చుట్టూ రంగు రంగుల నీళ్లు. చేత్తో దాన్ని కలుపుతాం, నోటితో దాన్ని ఏరుకుంటాం. ఏంట‌ది?
+Answer: భోజనం
+
+Now, solve this riddle:
+Riddle : తెల్ల‌టి శ‌న‌గ‌ల‌లో ఒక‌టేరాయి, చేతితో చ‌ల్ల‌డం నోటితో ఏరుకోవ‌డం ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వ‌డ‌పప్పు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తెలిసేలా చుక్క వేస్తారు, తెలియకుండా గడ్డ కడుతుంది?
+Answer: పెరుగు
+
+Example 2:
+Riddle: చెప్పకుండా తెలియనిది, తెలియకుండా చెప్పలేనిది?
+Answer: రహస్యం
+
+Now, solve this riddle:
+Riddle : తెలిసేలా పూస్తుంది, తెలియకుండా కాస్తుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మామిడి చెట్టు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: దారులలో అతి చిన్న దార?
+Answer: కన్నీటి దార
+
+Example 2:
+Riddle: చిన్న నోట్లో పెద్ద ఏరు?
+Answer: కుళాయి
+
+Now, solve this riddle:
+Riddle : కర్రలతో అతి చిన్న కర్ర?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గుడ్డికర్ర
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: భూమి మొత్తం తిరిగినా, తాను మాత్రం కదలడు?
+Answer: కొండ
+
+Example 2:
+Riddle: ఆకాశంలో అన్నీ కదిలినా, అదొక్కటే కదలదు?
+Answer: ధృవ నక్షత్రం
+
+Now, solve this riddle:
+Riddle : ఊరంతా కదిలిన, ఊరగాయ కుండ కదలదు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గాలి గోపురం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: శరీరానికంత ఒక్కటే దుప్పటి?
+Answer: చర్మము
+
+Example 2:
+Riddle: ఇంటికంత ఒక్కటే కప్పు?
+Answer: ఇంటి కప్పు
+
+Now, solve this riddle:
+Riddle : ఉరికంత ఒక్కటే దుప్పటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వెలుగు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తోలు ప‌సుపు, తింటే తీపి, ఏంటో అది?
+Answer: అరటి పండు
+
+Example 2:
+Riddle: పైన తియ్యగా ఉంటుంది, లోపల రాయిని దాస్తుంది?
+Answer: మామిడి పండు
+
+Now, solve this riddle:
+Riddle : చ‌క్క‌న‌మ్మ చిక్కినా అందంగా ఉంటుంది? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పూల‌మాల
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అడ‌విలో పుట్టింది అడ‌విలో పెరిగింది మా ఇంటికొచ్చింది ఊడుస్తూ ఆడింది.
+Answer: చీపురు క‌ట్ట
+
+Example 2:
+Riddle: అడవిలో పుట్టింది, అడవిలో పెరిగింది, పట్నం వచ్చింది, ఢమ ఢమ లాడింది.
+Answer: డప్పు
+
+Now, solve this riddle:
+Riddle : అడ‌విలో పుట్టింది అడ‌విలో పెరిగింది మా ఇంటికొచ్చింది తైత‌క్క లాడింది.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వెదురుబొంగు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పచ్చని చిలుకకు నల్లని చుక్కలు? ఏంటది?
+Answer: అరటిపండు
+
+Example 2:
+Riddle: తెల్ల‌టి గుర్రానికి నల్ల‌టి చార‌లు? ఏంట‌ది?
+Answer: జీబ్రా
+
+Now, solve this riddle:
+Riddle : ప‌చ్చ‌ని పాముకు తెల్ల‌ని చార‌లు? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బ‌రాకు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వత్తులలో సువాసన ఇచ్చే వత్తి?
+Answer: అగరవత్తి
+
+Example 2:
+Riddle: కాయల్లో కోయలేని కాయ?
+Answer: తలకాయ
+
+Now, solve this riddle:
+Riddle : ముళ్ల కంచెలో మిఠాయి పొట్లం?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+అనాసపండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కిర్రు కిర్రు పుల్ల! గీస్తే మంట జ్వాల!!
+Answer: అగ్గిపుల్ల
+
+Example 2:
+Riddle: గ ర గ ర బావ! చేత్తో పట్టి తిప్పు!!
+Answer: తిరగలి
+
+Now, solve this riddle:
+Riddle : ఎర్రనిచెట్టు! నీళ్లు పోస్తే చస్తుంది!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కూరగాయల చెట్టు (or) కూరగాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఏరు కాదు, సముద్రం కాదు! అలలు కానేకావు!! అదేమిటి?
+Answer: కన్నీరు
+
+Example 2:
+Riddle: పాలు కాదు, పుంత కాదు! ఆకాశంలో ఉంటుంది!! అదేమిటి?
+Answer: పాలపుంత
+
+Now, solve this riddle:
+Riddle : కొక లేదు, సీత కాదు! రామ చిలుక కానేకాదు!! అదేమిటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పూలరాళి చిలుక
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మనుషులకు ఉండనిది, జంతువులకు ఉండేది?
+Answer: తోక
+
+Example 2:
+Riddle: చెట్లకు లేనిది, జంతువులకు ఉండేది?
+Answer: చలనం
+
+Now, solve this riddle:
+Riddle : ఆడవారికి ఉండనిది, మగవారికి ఉండేది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గడ్డం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పెద్ద హాలులో చిట్టి అత్తరు బొట్టు పెడితే నిండా నేనే?
+Answer: వాసన
+
+Example 2:
+Riddle: పెద్ద పొలంలో చిట్టి గింజని పాతితే నిండా నేనే?
+Answer: పంట
+
+Now, solve this riddle:
+Riddle : పెద్ద ఇంటిలో పొట్టివాన్ని నిలబెడితే నిండా నేనే?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కాంతి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కంటికి ఇద్దరు తోబుట్టువులు?
+Answer: రెప్పలు
+
+Example 2:
+Riddle: కళ్ళజోడుకు ఇద్దరు బిడ్డలు?
+Answer: అద్దాలు
+
+Now, solve this riddle:
+Riddle : అగ్గిపెట్టెలో ఇద్ద‌రు పోలీసులు ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కర్ర, పెట్టె
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నోటివారి కోడలు, పలుకులకు ఆడపడుచు, తియ్యని చేదుని పంచుతుంది, మాట్లాడేటప్పుడు వస్తుంది.
+Answer: నాలుక
+
+Example 2:
+Riddle: నవ్వుల వసంతం వస్తే, కన్నీటి శిశిరం వెళ్ళిపోతుంది. ఏమిటవి?
+Answer: ఆనందం, విచారం
+
+Now, solve this riddle:
+Riddle : జీడివారి కోడ‌లు సిరిగ‌ల వారికి ఆడ‌ప‌డుచు వ‌య‌సులో కులికే వ‌య్యారి వైశాఖ‌మాసంలో వ‌స్తుంది.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మామిడి పండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తలుపులు, కిటికీలు లేని కోట?
+Answer: పుట్ట
+
+Example 2:
+Riddle: తలుపు తెరిస్తే, జ్ఞాన భాండాగారం?
+Answer: గ్రంథాలయం
+
+Now, solve this riddle:
+Riddle : కిరు కిరు త‌లుపులు కిటారు త‌లుపులు వెయ్యంగ వెయ్య‌స్త‌వి గాని తియ్యంగా తియ్య‌రావు ఏంట‌వి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కీలు బొమ్మలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మొదట అదృశ్యం, నడుమ పచ్చన, కొసకు ఫలభరితం?
+Answer: మొక్క
+
+Example 2:
+Riddle: మొదట దూదిని, నడుమ నూలు పోగును, కొసన బట్టను. ఏమిటది?
+Answer: వస్త్రం
+
+Now, solve this riddle:
+Riddle : మొదట చప్పన, నడుమ పుల్లన, కొస కమ్మన?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కమలం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వంటగదిలో నల్లని భూతం ఏమిటది?
+Answer: పొయ్యి
+
+Example 2:
+Riddle: తెల్లని పొలంలో నల్లని చీమలు ఏంట‌ది?
+Answer: అక్షరాలు
+
+Now, solve this riddle:
+Riddle : చీక‌టింట్లో జ‌డ‌ల ద‌య్యం ఏమిట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+క‌ల‌ము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అందరికీ అవసరమైనది, ప్రాణాధారమైనది?
+Answer: నీరు
+
+Example 2:
+Riddle: డబ్బుతో కొనలేనిది, అన్నింటికన్నా ముఖ్యమైనది?
+Answer: ఆరోగ్యం
+
+Now, solve this riddle:
+Riddle : అన్నింటికన్నా విలువైనది, అందరికి అవసరమైనది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నీరు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చిన్న నోట్లో పెద్ద ఏరు?
+Answer: కుళాయి
+
+Example 2:
+Riddle: కాయల్లో కోయలేని కాయ?
+Answer: తలకాయ
+
+Now, solve this riddle:
+Riddle : చిన్న చిట్టిలో కమ్మని కూర?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వెల్లుల్లి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పొలంలో పుట్టాను పచ్చగా ఉన్నాను, ఇంటికి వచ్చాను తెల్లగా మారాను, కుండలో పడ్డాను మెత్తగా అయ్యాను, పళ్ళెంలో చేరాను మాయమైపోయాను?
+Answer: బియ్యం
+
+Example 2:
+Riddle: అడవిలో పచ్చగా ఉన్నాను, ఫ్యాక్టరీలో తెల్లగా మారాను, మంటల్లో పడ్డాను బూడిదగా మారాను.
+Answer: కాగితం
+
+Now, solve this riddle:
+Riddle : అడవిలో పుట్టాను, నల్లగా అయ్యాను, ఇంటికి వచ్చాను, ఎర్రగా మారాను, తొట్టిలో పడ్డాను తెల్లగా మారాను?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వెల్లుల్లి పెడ్డి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కొనేటప్పుడు ఆకుపచ్చ, తినేటప్పుడు పసుపు, పారేసేటప్పుడు నలుపు ఏమిటది?
+Answer: అరటిపండు
+
+Example 2:
+Riddle: పొద్దున తెలుపు, సాయంత్రం ఎరుపు, రాత్రి నలుపు ఏమిటది?
+Answer: ఆకాశం
+
+Now, solve this riddle:
+Riddle : కొనే టప్పుడు నలుపు, తినేటప్పుడు ఎరుపు, పారేసేటప్పుడు తెలుపు ఏమిటది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బరికాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ముఖం మీద కొండ, కొండ అడుగున రంధ్రాలు?
+Answer: ముక్కు
+
+Example 2:
+Riddle: కుండలో రాయి, కంచంలో అన్నం?
+Answer: వరి గింజ
+
+Now, solve this riddle:
+Riddle : రాళ్ల అడుగున విల్లు, విల్లు కోనలో ముళ్లు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కమలం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కుర్చీకి నలుగురు మిత్రులు?
+Answer: కాళ్ళు
+
+Example 2:
+Riddle: ఒక పొదలో పది మంది దొంగలు ఏంట‌ది?
+Answer: చేతులు
+
+Now, solve this riddle:
+Riddle : నల్ల స్తంభం పైన నలుగురు దొంగలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కాలి వేళ్ళు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కొండపై అడవిలో సన్నని గడ్డి పోచలు చూచేవారేగాని లెక్కవేసేవారు కాదు ఏమిటవి?
+Answer: తల వెంట్రుకలు
+
+Example 2:
+Riddle: గుండ్రని కుండ పైన లెక్కలేనన్ని పాములు?
+Answer: తల, జుట్టు
+
+Now, solve this riddle:
+Riddle : రాజుగారి తోట‌లో రోజాపూలు చూచేవారేగాని లెక్క‌వేసేవారు కాదు ఏమిట‌వి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నక్షత్రాలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చెవి గట్టున రాయి! మినుకు మినుకు రాయి!!
+Answer: చెవి కమ్మ రాయి
+
+Example 2:
+Riddle: ఒంటిలో తీగలు! అల్లుకుపోయే తీగలు!!
+Answer: నరాలు
+
+Now, solve this riddle:
+Riddle : గట్టుమీద రాయి! మినుకు మినుకు రాయి!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కన్నుమీద రాయి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: భూమి అనే గిన్నెలో ఆకుపచ్చని పిట్ట కాళ్ళతో నీళ్లు తాగుతుంది
+Answer: మొక్క
+
+Example 2:
+Riddle: నోటి గుహలో ఎర్ర పాము?
+Answer: నాలుక
+
+Now, solve this riddle:
+Riddle : అందమైన గిన్నెలో ఎర్రని పిట్ట తోకతో నీళ్లు త్రాగుతుంది
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మిర్చి పండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఆకుపచ్చని బంతికి బోలెడు చొక్కాలు. ఏమిటది?
+Answer: క్యాబేజీ
+
+Example 2:
+Riddle: పొడవైన బాబుకు చిన్న టోపీ?
+Answer: సీసా మరియు మూత
+
+Now, solve this riddle:
+Riddle : చిన్న పాపకు చాలా చీరలు. ఏమిటది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కోస కూరగాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఒంటి కన్ను వాడొస్తే, నల్ల దుప్పటి పారిపోతుంది?
+Answer: అగ్గిపుల్ల, చీకటి
+
+Example 2:
+Riddle: నల్ల దొర వస్తే, తెల్ల దొరసాని వెళ్ళిపోతుంది. ఏమిటవి?
+Answer: రాత్రి, పగలు
+
+Now, solve this riddle:
+Riddle : ఎర్రవాడొస్తే తెల్లవాడు, పారిపోయి దాక్కుంటాడు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కారం, చెమట
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చేతిలో ఉన్నప్పుడు చారెడు, గాలి ఊదితే గంపెడు?
+Answer: గాలిబుడగ (బెలూన్)
+
+Example 2:
+Riddle: ఆకాశంలో అన్నీ కదిలినా, అదొక్కటే కదలదు?
+Answer: ధృవ నక్షత్రం
+
+Now, solve this riddle:
+Riddle : గాలిలో ఎగిరే అద్దము పట్టుకుంటే పలిగి పోవు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పుప్పొడి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చిన్న శబ్దం వచ్చి పడితే, పది మంది నిద్రని వదిలేసి పారిపోయారు.
+Answer: అలారం
+
+Example 2:
+Riddle: ఒక పొదలో పది మంది దొంగలు ఏంట‌ది?
+Answer: చేతులు
+
+Now, solve this riddle:
+Riddle : అబ్బాయి గారి దొడ్లో పెద్ద పండు పడితే, పరుగెత్తలేక పది మంది చచ్చారు.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పదులు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ముఖాలు చాలా ఉన్నా, ఒక్క నోరు కూడా లేనిది?
+Answer: పాచిక
+
+Example 2:
+Riddle: వేలాది పువ్వులు ఒకటే దారం?
+Answer: పూలమాల
+
+Now, solve this riddle:
+Riddle : నూరు పళ్ళు ఒకటే నోరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కత్తెర
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పురం కాని పురం, ఏమి పురం?
+Answer: అంతఃపురం
+
+Example 2:
+Riddle: హారం కాని హారం, ఏమి హారం?
+Answer: ఆహారం
+
+Now, solve this riddle:
+Riddle : గోళము కాని గోళము, ఏమి గోళము?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+అగోళము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చెవిలో పూచిన పువ్వు!?
+Answer: చెవి కమ్మ
+
+Example 2:
+Riddle: గోడ మీద ఆడుతుంది, కానీ పట్టుకోలేము?
+Answer: వెలుగు
+
+Now, solve this riddle:
+Riddle : గోడకు గొలుసు పండు!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మంగలి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పాతకాలపు నిన్ను నీకు చూపిస్తూ, నువ్వు నన్ను చూసినప్పుడల్లా, నేను కదలక మెదలక నిన్నే చూస్తాను. ఏంటది?
+Answer: ఛాయాచిత్రం
+
+Example 2:
+Riddle: నువ్వు తాకితే నీ గుర్తు పడుతుంది, నేను తాకితే నా గుర్తు పడుతుంది?
+Answer: వేలిముద్ర
+
+Now, solve this riddle:
+Riddle : అందమైన చిన్నది, అందాల చిన్నది, నువ్వు చుస్తే నిన్ను చూస్తుంది, నేను చుస్తే నన్ను చూస్తుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కన్నడి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కాళ్ళు, వాహనం లేని ప్రయాణం?
+Answer: ఆలోచన
+
+Example 2:
+Riddle: కళ్ళకు లేనిది, చెవులకు ఉండేది?
+Answer: వినికిడి
+
+Now, solve this riddle:
+Riddle : అడుగులున్నా, కాళ్ళులేనిది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మెట్లు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తలుపులు, కిటికీలు లేని కోట?
+Answer: పుట్ట
+
+Example 2:
+Riddle: ఏ కీ తో తలుపు తెరవలేము?
+Answer: మ్యూజిక్ కీ
+
+Now, solve this riddle:
+Riddle : కిట కిట తలుపులు! కిటారు తలుపులు!! ఎప్పుడు తీసినా చప్పుడు కాదు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కీలు బొమ్మలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: దారి లేని ప్రయాణంలో, జీవం లేని వేటగాడు క్షణాలనే జీవాలను వేటాడుతాడు. ఏంట‌ది?
+Answer: కాలం
+
+Example 2:
+Riddle: చెట్లకు లేనిది, జంతువులకు ఉండేది?
+Answer: చలనం
+
+Now, solve this riddle:
+Riddle : ఆకులు లేని అడ‌విలో జీవం లేని జంతువు జీవాల‌ను వేటాడుతుంది ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కాలం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples of Telugu riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కళ్ళజోడుకు ఇద్దరు బిడ్డలు?
+Answer: అద్దాలు
+
+Example 2:
+Riddle: సైకిల్‌కు ఇద్దరు బిడ్డలు?
+Answer: చక్రాలు
+
+Now, solve this riddle:
+Riddle : ఈత చెట్టుకు ఇద్దరు బిడ్డలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కాయలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Mon May 26 18:51:24 2025 ---

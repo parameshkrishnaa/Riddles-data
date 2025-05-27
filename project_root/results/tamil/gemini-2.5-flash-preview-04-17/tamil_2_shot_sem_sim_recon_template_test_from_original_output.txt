@@ -1,0 +1,2891 @@
+
+--- Starting New Generation Run at Tue May 27 00:43:43 2025 ---
+Model: gemini-2.5-flash-preview-04-17, Language: Tamil, Prompt: 2_shot_sem_sim_recon_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Tamil riddles.
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஊதாப் பெட்டிக்குள் வெள்ளை முத்துக்கள்?
+Answer: கத்தரிக்காய்
+
+Example 2:
+Riddle: வெள்ளைப் பெட்டிக்குள் மஞ்சள் புதையல்?
+Answer: முட்டை
+
+Now, solve this riddle:
+Riddle : பச்சை பொட்டிக்குள் வெள்ளை முத்துகள்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வெள்ளரிக்காய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மேலிலும் துவாரம், கீழேயும் துவாரம், எங்கும் துளைகள், இருந்தும் மழையை என்னுள் அடக்கி வைப்பேன். நான் யார்?
+Answer: மேகம்
+
+Example 2:
+Riddle: வானில் மிதந்து செல்வேன் பூமிக்கு உயிர் கொடுப்பேன் நான் யார்?
+Answer: மேகம்
+
+Now, solve this riddle:
+Riddle : மேலிலும் துவாரம், கீழிழும் துவாரம், வலதிலும் துவாரம், இடதிலும் துவாரம், உள்ளிலும் துவாரம் வெளியிலும் துவாரம் இருந்தும் நீரை என்னுள் சேமித்து வைப்பேன், நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பஞ்சு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: காலில் எண்ணெய் குடிக்கும், தலையில் வெளிச்சம் தரும். அவன் யார்?
+Answer: விளக்கு
+
+Example 2:
+Riddle: தலையில் குடுமி வைத்திருப்பான், தாகத்திற்கு நீர் கொடுப்பான். அவன் யார்?
+Answer: தேங்காய்
+
+Now, solve this riddle:
+Riddle : காலில் தண்ணீர் குடிப்பான், தலையில் முட்டையிடுவான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நெல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: யாரும் ஊற்றாத எண்ணெய், இரவில் எரியும் விளக்கு. அது என்ன?
+Answer: மின்மினிப் பூச்சி
+
+Example 2:
+Riddle: ஒரே ஒரு தூண் தான் வீடு முழுக்க தாங்கும் அது என்ன?
+Answer: காளான்
+
+Now, solve this riddle:
+Riddle : ஊரெல்லாமல் ஒரே விளக்கு. அதற்கு ஒரு நாள் ஒய்வு அது?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ஞாயிற்றுக்கிழமை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கருப்பு வானம் நிறைய வெள்ளிக் காசுகள். அது என்ன?
+Answer: வானம் மற்றும் நட்சத்திரங்கள்
+
+Example 2:
+Riddle: புத்தகத்தின் திண்ணையில் பட்டுத் துணி. அது என்ன?
+Answer: நூல் குறிப்பான்
+
+Now, solve this riddle:
+Riddle : பட்டுப்பை நிறைய பவுண் காசு. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பலாப்பழம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இவனும் ஒரு காகிதம் தான்; ஆனால், உலகம் முழுவதும் சுற்றி வந்திருப்பான். அது என்ன?
+Answer: செய்தித்தாள்
+
+Example 2:
+Riddle: வெறும் துணியாக இருப்பான்; ஆனால், எல்லோரும் வணங்குவார்கள். அவன் யார்?
+Answer: தேசியக் கொடி
+
+Now, solve this riddle:
+Riddle : இவனும் ஒரு பேப்பர் தான்; ஆனால், மதிப்போடு இருப்பான். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ரூபாய் நோட்டு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தான் இருக்கும் இடத்தில் நகராமல், இரவும் பகலும் சுழலும். அது என்ன?
+Answer: விசிறி
+
+Example 2:
+Riddle: நின்ற இடத்திலேயே எப்போதும் கீழே விழுவான். இரவும் பகலும் இந்த வேலைதான். அவன் யார்?
+Answer: அருவி (நீர்வீழ்ச்சி)
+
+Now, solve this riddle:
+Riddle : இருந்த இடத்தில் நகர்ந்தபடி இரவும் பகலும் செல்வான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நதி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தண்ணீரில் பிறப்பான், வெயிலில் இறப்பான். அது என்ன?
+Answer: பனிக்கட்டி
+
+Example 2:
+Riddle: வெளிச்சத்தில் பிறந்து இருட்டில் மறையுது?
+Answer: நிழல்
+
+Now, solve this riddle:
+Riddle : மழையில் பிறந்து வெயிலில் காயுது?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+குட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நேரம் வந்தால் கத்து கத்தென்று கத்துவான், தட்டிவிட்டால் அமைதியாகி விடுவான். அவன் யார்?
+Answer: அலாரம் கடிகாரம்
+
+Example 2:
+Riddle: பசியோடு இருக்கும்போது முன்னே நிற்பான், பசியாறியதும் மறைந்து போவான். அவன் யார்?
+Answer: உணவு
+
+Now, solve this riddle:
+Riddle : சலசலவென சத்தம் போடுவான், சமயத்தில் தாகம் தீர்ப்பான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தண்ணீர்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வெள்ளை நிற அழகிக்கு, சாயம் பூசாமலே சிவந்த நுனி உண்டு. அவள் யார்?
+Answer: முள்ளங்கி
+
+Example 2:
+Riddle: பழுப்பு ஆடை உடுத்திய மஞ்சள் மருத்துவர்? அவள் யார்?
+Answer: இஞ்சி
+
+Now, solve this riddle:
+Riddle : பச்சை நிற அழகிக்கு உதட்டுச் சாயம் பூசாமலே சிவந்தவாய் அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கொய்யா
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒளி வரும் முன்னே, ஓசை வரும் பின்னே. அது என்ன?
+Answer: இடி மின்னல்
+
+Example 2:
+Riddle: விசில் ஒலி வரும் முன்னே, சோறு வெந்துவிடும் பின்னே. அது என்ன?
+Answer: குக்கர்
+
+Now, solve this riddle:
+Riddle : செய்தி வரும் பின்னே, மணியோசை வரும் முன்னே. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தொலைபேசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடைந்தாலும் ஓசை வராத கண்ணாடி, கடையில் கிடைக்காத கண்ணாடி, அது என்ன?
+Answer: மனம்
+
+Example 2:
+Riddle: சிப்பியைத் திறந்தால் விலைமதிப்புள்ள கல், அது என்ன?
+Answer: முத்து
+
+Now, solve this riddle:
+Riddle : எவர் கையிலும் சிக்காத கல் எங்கும் விற்காத கல், அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விதி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கிழித்தாலும், வெட்டினாலும் கத்த மாட்டான், அவன் யார்?
+Answer: காகிதம்
+
+Example 2:
+Riddle: கீழே போட்டாலும், கிள்ளிப் பார்த்தாலும் அழ மாட்டேன், யார் நான்?
+Answer: பொம்மை
+
+Now, solve this riddle:
+Riddle : அடித்தாலும், உதைத்தாலும் அவன் அழ மாட்டான், அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பந்து
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: எப்போதும் மழையில் நனையும் ஆனால் ஜுரம் வராது. எப்போதும் வெயிலில் நிற்கும் ஆனால் களைப்படையாது. அது யார்?
+Answer: சிலை
+
+Example 2:
+Riddle: இடி இடிக்கும், மின்னல் மின்னும், ஆனால் மழை பெய்யாது. அது என்ன?
+Answer: பட்டாசு
+
+Now, solve this riddle:
+Riddle : எப்போதும் மழையில் நனைவான் ஆனால் ஜுரம் வராது. எப்போதும் வெயிலில் காய்வான் ஆனால் ஏதும் ஆகாது. அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சிலை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கண்ணிலே தோன்றி கண்ணிலே மறையும் நீர்வீழ்ச்சி. அது என்ன?
+Answer: கண்ணீர்
+
+Example 2:
+Riddle: கரும்பலகையில் பூக்கும் பூ, அழித்தால் மறைந்து போகும் பூ. அது என்ன?
+Answer: எழுத்து
+
+Now, solve this riddle:
+Riddle : வாயிலே தோன்றி வாயிலே மறையும் பூ. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சொல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வானில் மிதந்து செல்வேன் பூமிக்கு உயிர் கொடுப்பேன் நான் யார்?
+Answer: மேகம்
+
+Example 2:
+Riddle: நான் வானத்திலும் பறப்பேன், தரையிலும் நிற்பேன். எனக்கு பெரிய சிறகுகள் உண்டு, ஆனால் நான் பறவை இல்லை. நான் யார்?
+Answer: விமானம்
+
+Now, solve this riddle:
+Riddle : நீரிலும் வாழ்வேன், நிலத்திலும் வாழ்வேன். நீண்ட ஆயுள் உடைய எனக்கு இறைவன் கொடுத்த கவசமும் இருக்கு. நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ஆமை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: குளத்திலே குடை பிடிக்குது. அது என்ன?
+Answer: தாமரை இலை
+
+Example 2:
+Riddle: புத்தகத்தின் திண்ணையில் பட்டுத் துணி. அது என்ன?
+Answer: நூல் குறிப்பான்
+
+Now, solve this riddle:
+Riddle : பாலிலே புழு நெளியுது. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பாலாடை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: விறகில் பூக்கும் பூ, நீரில் மாயும் பூ, அது என்ன பூ?
+Answer: நெருப்பு
+
+Example 2:
+Riddle: நீரிலே ஊறி, உரலிலே அரைபட்டு, தட்டினிலே மலரும் பூ எது?
+Answer: இட்லி
+
+Now, solve this riddle:
+Riddle : கல்லில் காய்க்கும்பூ தண்ணீரில் மலரும்பூ, அது என்ன பூ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சுண்ணாம்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நீரிலே ஊறி, உரலிலே அரைபட்டு, தட்டினிலே மலரும் பூ எது?
+Answer: இட்லி
+
+Example 2:
+Riddle: விறகில் பூக்கும் பூ, நீரில் மாயும் பூ, அது என்ன பூ?
+Answer: நெருப்பு
+
+Now, solve this riddle:
+Riddle : கடலிலே கலந்து, கரையிலே பிரிந்து, தெருவிலே திரியும் பூ எது?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வலை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: எவ்வளவு முயன்றாலும் கைகளால் பிடிக்க முடியாது. அது இல்லாமல் உயிரே இல்லை. அது என்ன?
+Answer: காற்று
+
+Example 2:
+Riddle: சோறு போடுவான், ஆனால் சாப்பிட மாட்டான். அவன் யார்?
+Answer: அகப்பை
+
+Now, solve this riddle:
+Riddle : எவ்வளவு முயன்றாலும் அவனை கடிக்க முடியாது. அவன் இல்லாமல் உணவே இல்லை. அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சுவை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறிய உருவம் உடையவன், சுறுசுறுப்பு கொண்டவன், இனிப்பு சிந்தினால் வந்திடுவான், கூட்டமாய் கோடு கட்டி வந்திடுவான் – அவன் யார்?
+Answer: எறும்பு
+
+Example 2:
+Riddle: உடம்பு இல்லாதவன், குறும்பு அதிகம் செய்பவன், கோப்புகளைத் திறந்தால் வந்திடுவான், வேகமாகப் பரவி விடுவான் – அவன் யார்?
+Answer: கணினி வைரஸ்
+
+Now, solve this riddle:
+Riddle : கருப்பு நிறமுடையவன், கபடம் அதிகம் கொண்டவன், கூவி அழைத்தால் வந்திடுவான், கூட்டம் சேர்த்தும் வந்திடுவான் – அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காகம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மரத்தைத் தின்று தூசியைக் கக்குவான், அவன் யார்?
+Answer: ரம்பம்
+
+Example 2:
+Riddle: கிழித்தாலும், வெட்டினாலும் கத்த மாட்டான், அவன் யார்?
+Answer: காகிதம்
+
+Now, solve this riddle:
+Riddle : மரத்துக்கு மரம் தாவுவான் குரங்கல்ல, பட்டை போட்டிருப்பான் சாமி அல்ல, அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அணில்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தண்ணீரைக் குடித்து வானத்தை நோக்கி வளருவான், அவன் யார்?
+Answer: மரம்
+
+Example 2:
+Riddle: மரத்தைத் தின்று தூசியைக் கக்குவான், அவன் யார்?
+Answer: ரம்பம்
+
+Now, solve this riddle:
+Riddle : காற்றைக் குடித்து காற்றில் பறப்பான், அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இது ஒரு பூச்சி. முதற்பகுதி அழகைக் குறிக்கும் சொல்; பிற்பகுதி பறக்கும் ஒரு சிறிய உயிரி. அது என்ன?
+Answer: வண்ணத்துப்பூச்சி
+
+Example 2:
+Riddle: இது ஒரு பறவை. முதற்பகுதி நிலமும் நீரும் சேருமிடம்; பிற்பகுதி அமைதியின் சின்னம். அது என்ன?
+Answer: கடல்புறா
+
+Now, solve this riddle:
+Riddle : இது ஒரு பூ. முதற்பகுதி ஆதவனின் மறுபெயர்; பிற்பகுதி தேசத் தந்தையை குறிக்கும். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ரவிகாந்தி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நெருப்பெனும் கிணற்றில் விழுந்து, சம்மட்டி அடிபட்டு, உருமாறி எழுவான். அவன் யார்?
+Answer: இரும்பு
+
+Example 2:
+Riddle: சூடான கல்லில் விழுந்து, மெலிந்து பரவுவான். அவன் யார்?
+Answer: தோசை
+
+Now, solve this riddle:
+Riddle : கொதிக்கும் கிணற்றில் குதித்துக் குண்டாகி வருவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அரிசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அடிக்கலாம் ஓடமுடியாது அது என்ன?
+Answer: ஆணி
+
+Example 2:
+Riddle: பிடுங்கலாம், நடக்காது அது என்ன?
+Answer: பல்
+
+Now, solve this riddle:
+Riddle : பிடுங்கலாம் நடமுடியாது அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பலர் வாய்க்குள் அணிவகுத்து நின்றாலும், வாய் திறந்து பேச மாட்டார்கள் - அவர்கள் யார்?
+Answer: பற்கள்
+
+Example 2:
+Riddle: பாட்டு கேட்கும், இசை வரும், பாடுபவர் யாரும் இல்லை - அது என்ன?
+Answer: வானொலி / ஒலிப்பான்
+
+Now, solve this riddle:
+Riddle : ஆயிரம் பேர் அணி வகுத்தாலும் ஆரவாரம் இராது- அவர்கள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+புத்தகம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கைகள் இல்லாமல் நீந்துவான், கால்கள் இல்லாமல் ஓடுவான். அவன் யார்?
+Answer: பாம்பு
+
+Example 2:
+Riddle: எங்கும் போவான் கால்கள் இல்லை; கதை சொல்வான் வாய் இல்லை; இடம் காட்டுவான் கண் இல்லை – அவன் யார்?
+Answer: வரைபடம்
+
+Now, solve this riddle:
+Riddle : நான்கு கால்கள் உள்ளவன், இரண்டு கைகள் உள்ளவன், உட்கார்ந்து கொண்டிருப்பான், உட்கார இடம் கொடுப்பான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நாற்காலி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நெருப்பில் பிறந்து, நீரில் கரையும் அது என்ன?
+Answer: சாம்பல்
+
+Example 2:
+Riddle: தண்ணீரில் பிறப்பான், வெயிலில் இறப்பான். அது என்ன?
+Answer: பனிக்கட்டி
+
+Now, solve this riddle:
+Riddle : கடல் நீரில் வளர்ந்து , மழை நீரில் மடிவது என்ன ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+உப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வட்டமான குளத்துக்குள்ளே ஒற்றைக் குதிரை ஓடுது, அது என்ன?
+Answer: மத்து
+
+Example 2:
+Riddle: சுருண்ட பாம்பு ஓட ஓட, அதன் வால் சுருங்கும். அது என்ன?
+Answer: டேப் ரோல் / பேப்பர் ரோல்
+
+Now, solve this riddle:
+Riddle : குண்டுச்சட்டியில குதிரை ஓட்டறான்.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கையளவு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: விறகில் பூக்கும் பூ, நீரில் மாயும் பூ, அது என்ன பூ?
+Answer: நெருப்பு
+
+Example 2:
+Riddle: சிவப்பு மேனி, கருப்புப் புள்ளிகள், பறந்தால் அதிர்ஷ்டம் என்பார்கள். அது என்ன?
+Answer: பொன்வண்டு
+
+Now, solve this riddle:
+Riddle : படபடக்கும், பளபளக்கும், பண்டிகை வந்தால் வானில் பறக்கும். அது என்ன ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கிழித்தாலும், வெட்டினாலும் கத்த மாட்டான், அவன் யார்?
+Answer: காகிதம்
+
+Example 2:
+Riddle: சாப்பிடத் தெரியாதவனுக்கு உடம்பெல்லாம் பற்கள்?
+Answer: பூண்டு
+
+Now, solve this riddle:
+Riddle : . பற்கள் இருக்கும் கடிக்கமாட்டான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சீப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உயிர் இல்லாத காவலன், இரவு பகல் பாராமல் காவல் காப்பான் - அது என்ன?
+Answer: கதவு / வாசல்
+
+Example 2:
+Riddle: உயிர் இல்லாத மௌன சாட்சி பல வரலாறுகளை சொல்லும் - அது என்ன?
+Answer: சுவர் / கட்டிடம்
+
+Now, solve this riddle:
+Riddle : உயிர் இல்லாத நீதிபதியிடம் ஒழுங்கான நியாயம்- அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தராசு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சாப்பிடத் தெரியாதவனுக்கு உடம்பெல்லாம் பற்கள்?
+Answer: பூண்டு
+
+Example 2:
+Riddle: நடக்கத் தெரியாதவனுக்கு உடம்பெல்லாம் கால்கள், அது என்ன?
+Answer: ஏணி
+
+Now, solve this riddle:
+Riddle : பல் துவக்ககாதவனுக்கு உடம்பு எல்லாம் பற்கள்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மக்காச்சோளம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வயதான பலருக்கு புதிதாக இரண்டு கண்கள், அது என்ன?
+Answer: மூக்குக்கண்ணாடி
+
+Example 2:
+Riddle: ஒன்றுமில்லாத இடத்தில் புதிதாக ஒரு கண் தோன்றுமே அது என்ன?
+Answer: துளை / ஓட்டை
+
+Now, solve this riddle:
+Riddle : வயதான பலருக்கு புதிதாக ஒரு கை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ஊன்றுகோல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கீழேயும் மேலேயும் தரை; நடுவிலே குளிர்ச்சியான நீர். அது என்ன?
+Answer: கிணறு.
+
+Example 2:
+Riddle: மேலே ஒரு ஓடு, கீழே ஒரு ஓடு; நடுவிலே ஒரு விலை உயர்ந்த ஒளி. அது என்ன?
+Answer: முத்து.
+
+Now, solve this riddle:
+Riddle : கீழேயும் மேலேயும் மண்; நடுவிலே அழகான பெண். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சமாதி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இளமையில் பச்சை, முதுமையில் பொன்னிறம், பசி போக்கும் குணம். விடை என்ன?
+Answer: நெல்
+
+Example 2:
+Riddle: பிறக்கும்போது வெள்ளை, வளரும்போது பச்சை, சாகும்போது சிகப்பு. அது என்ன?
+Answer: வெற்றிலை
+
+Now, solve this riddle:
+Riddle : இளமையில் பச்சை, முதுமையில் சிகப்பு, குணத்திலே எரிப்பு. விடை தெரியுமா?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மிளகாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: திறந்தால் மீண்டும் மூடி பூட்ட முடியாது. அது என்ன?
+Answer: குளிர்பான டின்
+
+Example 2:
+Riddle: மொட்டு விரிந்தால், மீண்டும் மூடாது. அது என்ன?
+Answer: பூ
+
+Now, solve this riddle:
+Riddle : பெட்டியைத் திறந்தால் பூட்ட முடியாது. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இரவில் வந்த விருந்தாளியை காலையில் காணவில்லை. அது என்ன?
+Answer: கனவு
+
+Example 2:
+Riddle: பேசும், பதில் சொல்லும், மனிதன் இல்லை - அது என்ன?
+Answer: கிளி
+
+Now, solve this riddle:
+Riddle : வீட்டுக்கு வந்த விருந்தாளியை வரவேற்க ஆளில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கடிதம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறு துளி விழுந்ததும் தாளைக் கெடுத்தது அது என்ன?
+Answer: மை
+
+Example 2:
+Riddle: குப்பை மேட்டில் விரித்த குடை, அது என்ன?
+Answer: காளான்
+
+Now, solve this riddle:
+Riddle : மாமா போட்ட பந்தல் மறுபடி பிரிச்சா கந்தல் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சிலந்தி வலை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கிழித்தாலும், வெட்டினாலும் கத்த மாட்டான், அவன் யார்?
+Answer: காகிதம்
+
+Example 2:
+Riddle: கையில்லாமல் அணைப்பான், வாயில்லாமல் விழுங்குவான். அவன் யார்?
+Answer: கடல்
+
+Now, solve this riddle:
+Riddle : முறையின்றித் தொட்டால்,ஒட்டிக் கொண்டு உயிரை எடுப்பான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மின்சாரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நடுவே தனித்திருக்கும், கடைசியில் 'இல்லை' என்று வரும், மூன்றெழுத்தில் ஏறலாம், மொத்தத்தில் எல்லோரும் வியக்கும், அது என்ன?
+Answer: புகைப்படம்
+
+Example 2:
+Riddle: நடுவில் 'நீ' என்பாய், முதலும் கடையும் தனியே நின்றால் பயனில்லை, மூன்றெழுத்தில் பருகலாம், மொத்தத்தில் காலை நேர உற்சாகம். அது என்ன?
+Answer: தேநீர்
+
+Now, solve this riddle:
+Riddle : நடுவழிய ஓய்வுக்காம், கடையிரண்டில் ஏதுமில்லை சொல், மூன்றெழுத்தில் உடுத்தலாம், மொத்தத்தில் பெண்கள் விருப்பம், அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+nīr'.
+
+Let's look at 'பாவாடை' (Pā-vāபாவாடை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பாசத்துக்குச் சத்தம், பயத்துக்கு நகம் அது என்ன?
+Answer: பூனை
+
+Example 2:
+Riddle: ஒன்றுமில்லாத இடத்தில் புதிதாக ஒரு கண் தோன்றுமே அது என்ன?
+Answer: துளை / ஓட்டை
+
+Now, solve this riddle:
+Riddle : பார்க்க அழகு பாம்புக்கு எதிரி அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மயில்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு உடலில் இருபது காவலர்கள் அது என்ன?
+Answer: நகங்கள்
+
+Example 2:
+Riddle: ஒரு பெட்டிக்குள் ஆயிரம் தம்பிகள் அது என்ன?
+Answer: தீப்பெட்டி
+
+Now, solve this riddle:
+Riddle : ஓர் அரண்மனையில் முப்பத்திரெண்டு காவலர்கள் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பற்கள்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தாய் சேற்றிலே, மகள் சமையலறையிலே அவை என்ன?
+Answer: மண் பானை
+
+Example 2:
+Riddle: தாய் பஞ்சிலே, மகள் உடலிலே அவை என்ன?
+Answer: துணி
+
+Now, solve this riddle:
+Riddle : தாய் குப்பையிலே, மகள் சந்தையிலே அவை என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காய்கறி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கிழித்தாலும், வெட்டினாலும் கத்த மாட்டான், அவன் யார்?
+Answer: காகிதம்
+
+Example 2:
+Riddle: கையில்லாமல் அணைப்பான், வாயில்லாமல் விழுங்குவான். அவன் யார்?
+Answer: கடல்
+
+Now, solve this riddle:
+Riddle : கையை வெட்டுவார்; கழுத்தை வெட்டுவார். ஆனாலும் நல்லவர். யார் அவர்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விவசாயி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சோறு போடுவான், ஆனால் சாப்பிட மாட்டான். அவன் யார்?
+Answer: அகப்பை
+
+Example 2:
+Riddle: உடையைத் தொங்கவிடுவான், ஆனால் அதை அணியமாட்டான். அவன் யார்?
+Answer: ஆடைத் தொங்கி
+
+Now, solve this riddle:
+Riddle : உணவை எடுப்பான் ஆனால் உண்ணமாட்டான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கரண்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பதம் வந்ததும் சீறி கத்துவான். அவன் யார் ?
+Answer: குக்கர்
+
+Example 2:
+Riddle: நேரம் வந்தால் கத்து கத்தென்று கத்துவான், தட்டிவிட்டால் அமைதியாகி விடுவான். அவன் யார்?
+Answer: அலாரம் கடிகாரம்
+
+Now, solve this riddle:
+Riddle : சொன்ன நேரத்துக்கு தொண்டை கிழிய கத்துவான். அவன் யார் ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அலாரம் கடிகாரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நடந்தவன் நின்றான். என் தலையைத் தேய்த்துச் சீவினார்கள். மறுபடியும் நடக்க ஆரம்பித்தேன். நான் யார்?
+Answer: அழிப்பான்
+
+Example 2:
+Riddle: சுட்டவன் ஓய்ந்தான், வெங்காயத்தை எடுத்து முகத்தைத் தேய்த்தேன், மறுபடியும் சுட்டான். அவன் யார்?
+Answer: தோசைக்கல்
+
+Now, solve this riddle:
+Riddle : நடந்தவன் நின்றான் கத்தியை எடுத்து தலையைச் சீவினேன் மறுபடியும் நடந்தான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பென்சில்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அம்மா பள்ளத்தில் இருக்க மகள் குத்தி வருவாள் அது என்ன?
+Answer: உரல் உலக்கை
+
+Example 2:
+Riddle: அம்மா மேடையில் நிற்க பிள்ளை ஆடி வருவான் அது என்ன?
+Answer: மேடை நடனக் கலைஞர்
+
+Now, solve this riddle:
+Riddle : அம்மா படுத்திருக்க மகள் ஓடித்திரிவாள் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தாள் பேனா
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இரவில் வந்த விருந்தாளியை காலையில் காணவில்லை. அது என்ன?
+Answer: கனவு
+
+Example 2:
+Riddle: பாட்டு கேட்கும், இசை வரும், பாடுபவர் யாரும் இல்லை - அது என்ன?
+Answer: வானொலி / ஒலிப்பான்
+
+Now, solve this riddle:
+Riddle : காலையில் வந்த விருந்தாளியை மாலையில் காணவில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நிழல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடலுக்கெல்லாம் ஒரே காவலன், உறக்கத்தில் மட்டும் ஓய்வெடுப்பான். அவன் யார்?
+Answer: மூளை
+
+Example 2:
+Riddle: விறகில் பூக்கும் பூ, நீரில் மாயும் பூ, அது என்ன பூ?
+Answer: நெருப்பு
+
+Now, solve this riddle:
+Riddle : ஆலமரம் தூங்க அவனியெல்லாம் தூங்க, சீரங்கம் தூங்க திருப்பாற்கடல் தூங்க, ஒருவன் மட்டும் தூங்கவில்லை அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சூரியன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடலெல்லாம் வண்ணப் போர்வை, தலையில் சிகப்புக் கொண்டை, அது என்ன?
+Answer: சேவல்
+
+Example 2:
+Riddle: உயிர் இல்லாத காவலன், இரவு பகல் பாராமல் காவல் காப்பான் - அது என்ன?
+Answer: கதவு / வாசல்
+
+Now, solve this riddle:
+Riddle : நாளெல்லாம் நடந்தாலும் நாற்பதடி செல்லாது அந்த நாயகனுக்கோ உடல் மேல் கவசம் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ஆமை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வெள்ளை வயலில் கருப்பு முத்துக்கள், அது என்ன?
+Answer: எழுத்துக்கள்
+
+Example 2:
+Riddle: வட்டமான குளத்துக்குள்ளே ஒற்றைக் குதிரை ஓடுது, அது என்ன?
+Answer: மத்து
+
+Now, solve this riddle:
+Riddle : ஓடையில கருப்பு மீனு துள்ளி விளையாடுது அது என்ன ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பேனா
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கிளைகள் உண்டு, இலைகள் இல்லை. பூக்கள் உண்டு, காய்கள் இல்லை. – அது என்ன?
+Answer: பவளப்பாறை
+
+Example 2:
+Riddle: சத்தம் உண்டு வாய் இல்லை,பதில் உண்டு கேள்வி இல்லை,வரும் உண்டு போனவர் இல்லை,இடம் உண்டு உடல் இல்லை அது என்ன?
+Answer: எதிரொலி
+
+Now, solve this riddle:
+Riddle : இலையுண்டு கிளையில்லை,பூ உண்டு மணமில்லை,காய் உண்டு விதையில்லை,பட்டை உண்டு கட்டை இல்லை,கன்று உண்டு பசு இல்லை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வாழை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தண்டு கருப்பு, இலைகள் பச்சை, பூவோ சிவப்பு. அது என்ன?
+Answer: செம்பருத்திச் செடி
+
+Example 2:
+Riddle: வெள்ளை வயலில் கருப்பு முத்துக்கள், அது என்ன?
+Answer: எழுத்துக்கள்
+
+Now, solve this riddle:
+Riddle : பா‌ர்‌க்க‌த்தா‌ன் கறுப்பு; ஆனா‌ல் உள்ளமோ சிவப்பு. நம‌க்கு‌த் தருவதோ சுறுசுறு‌ப்பு அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காபி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பாசத்துக்குச் சத்தம், பயத்துக்கு நகம் அது என்ன?
+Answer: பூனை
+
+Example 2:
+Riddle: வேலைக்கு துதிக்கை, சண்டைக்கு தந்தம் அது என்ன?
+Answer: யானை
+
+Now, solve this riddle:
+Riddle : நன்றிக்கு வால் கோபத்துக்கு வாய் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வயலோடு பிறந்து; நீரோடு கலந்து; விருந்தாவான் மருந்தாவான். அவன் யார்?
+Answer: அரிசி
+
+Example 2:
+Riddle: கருப்பாய் பிறப்பான், சிவப்பாய் எரிவான், சாம்பலாய் மிஞ்சுவான். அவன் யார்?
+Answer: கரி
+
+Now, solve this riddle:
+Riddle : பூவோடு பிறந்து; நாவோடு கலந்து விருந்தாவான் மருந்தாவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கிராம்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடம்பில்லா ஒருவன், பல சட்டைகளை அணிந்து வருவான். அவனது சட்டைகளை உரித்தால், உள்ளே ஒரு செய்தி இருக்கும். அவன் யார்?
+Answer: கடிதம்
+
+Example 2:
+Riddle: உடம்பில்லா ஒருவன், பல வண்ண சட்டைகள் அணிந்திருப்பான், எல்லாரும் அவனை சாப்பிட விரும்புவார்கள். அவன் யார்?
+Answer: லேயர் கேக்
+
+Now, solve this riddle:
+Riddle : உடம்பில்லா ஒருவன் பத்து சட்டை அணீந்திருப்பான்? அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வெங்காயம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சுண்ணாம்புக்கல்லால் கட்டப்பட்ட கோட்டை! கோட்டையை உடைத்தால் வெள்ளை மாளிகை! வெள்ளை மாளிகைக்குள் மஞ்சள் சூரியன்! அது என்ன?
+Answer: முட்டை
+
+Example 2:
+Riddle: பழுப்பு வீட்டுக்குள் வெள்ளைக் குழந்தைகள். அது என்ன?
+Answer: வேர்க்கடலை
+
+Now, solve this riddle:
+Riddle : கூரை வீட்டைப் பிரிச்சா ஓட்டுவீடு! ஓட்டு வீட்டுக்குள்ள வெள்ளை மாளிகை!வெள்ளை மாளிகைக்கு நடுவில் குளம்!அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தேங்காய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு உடலில் இருபது காவலர்கள் அது என்ன?
+Answer: நகங்கள்
+
+Example 2:
+Riddle: வட்டமான குளத்துக்குள்ளே ஒற்றைக் குதிரை ஓடுது, அது என்ன?
+Answer: மத்து
+
+Now, solve this riddle:
+Riddle : ஒரு குகை, 32 வீரர்கள் , ஒரு நாகம் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கைகள் இல்லாமல் நீந்துவான், கால்கள் இல்லாமல் ஓடுவான். அவன் யார்?
+Answer: பாம்பு
+
+Example 2:
+Riddle: கையில்லாமல் அணைப்பான், வாயில்லாமல் விழுங்குவான். அவன் யார்?
+Answer: கடல்
+
+Now, solve this riddle:
+Riddle : கையில்லாமல் நீந்துவான்; கால் இல்லாமல் ஓடுவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பாம்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சொல்லில் சுழலும், பொருளில் ஒளிரும், மனதை அள்ளும், அது என்ன?
+Answer: கவிதை
+
+Example 2:
+Riddle: படபடவென நகரும், உடல் பளபளக்கும், மனதுக்குள் பயத்தை ஏற்படுத்தும் அது என்ன?
+Answer: பாம்பு
+
+Now, solve this riddle:
+Riddle : வலை படபடக்கும்,பளபளக்கும் மனதுக்குள் இடம் பிடிக்கும் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ஆசை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தலைக்குள் விரல்கள் வைத்திருப்பவன் இவன் மட்டும்தான். அவன் யார்?
+Answer: பூண்டு
+
+Example 2:
+Riddle: தான் எரிந்து பிறருக்கு வெளிச்சம் தருவாள் அவள் யார்?
+Answer: விளக்கு
+
+Now, solve this riddle:
+Riddle : தலைக்குள் கண் வைத்திருப்பவன் இவன் மட்டும்தான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ஊசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உயிரில்லாத உடம்புக்கு ஒரே ஒரு தோல், அது என்ன?
+Answer: பறவை
+
+Example 2:
+Riddle: நடக்கத் தெரியாதவனுக்கு உடம்பெல்லாம் கால்கள், அது என்ன?
+Answer: ஏணி
+
+Now, solve this riddle:
+Riddle : உயிரில்லாதவனுக்கு உடம்பெல்லாம் நரம்பு, அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வலை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறு துளி விழுந்ததும் தாளைக் கெடுத்தது அது என்ன?
+Answer: மை
+
+Example 2:
+Riddle: ஒரு சின்ன கீறல் பட்டதும், உடல் முழுவதும் வலித்தது அது என்ன?
+Answer: புண்
+
+Now, solve this riddle:
+Riddle : சிறு தூசி விழுந்ததும் குளமே கலங்கியது அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கண்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சத்தம் போடுவான், தொண்டை இல்லை. தாளம் போடுவான், இசைஞன் அல்ல. அவன் யார்?
+Answer: மேளம்
+
+Example 2:
+Riddle: நாக்கு உண்டு, பேசத் தெரியாது. காலில் இருக்கும், நடக்கத் தெரியாது. குதிகால் உண்டு, உதைக்கத் தெரியாது. – அது என்ன?
+Answer: செருப்பு (காலணி)
+
+Now, solve this riddle:
+Riddle : முட்டையிடும், குஞ்சு பொரிக்காது. கூட்டில் குடியிருக்கும், கூடு கட்டத் தெரியாது. குரலில் இனிமையுண்டு, சங்கீதம் தெரியாது! – அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+குயில்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: திறந்தால் மீண்டும் மூடி பூட்ட முடியாது. அது என்ன?
+Answer: குளிர்பான டின்
+
+Example 2:
+Riddle: சுவரில்லா வீடு, கதவில்லா வீடு, உள்ளே யாரும் வசிக்க மாட்டார்கள். அது என்ன?
+Answer: ரகசியம்
+
+Now, solve this riddle:
+Riddle : யாரும் செய்யாத கதவு தானே திறக்கும் தானே மூடும். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கண்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வந்ததும் மொத்தமாய் இருப்பான், தினமும் குளித்தால் கரைவான். அவன் யார்?
+Answer: சோப்பு
+
+Example 2:
+Riddle: தினமும் இடி வாங்குவான், ஆனால் ஒருபோதும் அழமாட்டான். கடினமானதை எல்லாம் நொறுக்குவான், ஆனால் அவன் சோர்ந்து போகமாட்டான். அவன் யார்?
+Answer: அம்மிக்கல்
+
+Now, solve this riddle:
+Riddle : வீட்டுக்கு வந்த தொந்தியப்பன் தினமும் கரைகிறான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வெண்ணெய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இடி இடிக்கும், மின்னல் மின்னும், ஆனால் மழை பெய்யாது. அது என்ன?
+Answer: பட்டாசு
+
+Example 2:
+Riddle: நெருப்பைக் கக்கும், புகையையும் கக்கும், ஆனால் தானாய் சாம்பல் ஆகாது - அது என்ன?
+Answer: அடுப்பு
+
+Now, solve this riddle:
+Riddle : இடி இடிக்கும், மின்னல் மின்னும், மழை பெய்யாது- அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டாசு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அடித்தால் அழுவான், பிடிக்காவிட்டால் ஓடுவான். அவன் யார்?
+Answer: பந்து
+
+Example 2:
+Riddle: அடிக்காமல் அழவைப்பான், துன்பம் தராமல் கண்ணீர் வரவைப்பான். அவன் யார்?
+Answer: வெங்காயம்
+
+Now, solve this riddle:
+Riddle : தொடாமல் அழுவான், தொட்டால் பேசுவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தொலைபேசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடம்பெல்லாம் ஆரஞ்சு, அதன் தலை பச்சை அது என்ன?
+Answer: கேரட்
+
+Example 2:
+Riddle: உடம்பெல்லாம் ஊதா, அதன் கொண்டை பச்சை. அது என்ன?
+Answer: கத்திரிக்காய்
+
+Now, solve this riddle:
+Riddle : உடம்பெல்லாம் சிவப்பு, அதன் குடுமி பச்சை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தக்காளி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: புத்தகத்தின் திண்ணையில் பட்டுத் துணி. அது என்ன?
+Answer: நூல் குறிப்பான்
+
+Example 2:
+Riddle: குப்பை மேட்டில் விரித்த குடை, அது என்ன?
+Answer: காளான்
+
+Now, solve this riddle:
+Riddle : ஒட்டுத் திண்ணையில் பட்டுப் பாவாடை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கோலம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பழுப்பு ஆடை உடுத்திய மஞ்சள் மருத்துவர்? அவள் யார்?
+Answer: இஞ்சி
+
+Example 2:
+Riddle: மஞ்சள் மேலாடைக்குள் மறைந்திருக்கும் வெண்ணிற மங்கை. அவள் யார்?
+Answer: வாழைப்பழம்
+
+Now, solve this riddle:
+Riddle : வெள்ளை ஆடை உடுத்திய மஞ்சள் மகாராணி? அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நீளமாக ஓடுவான், ஆனால் பாம்பில்லை; கூவிக்கொண்டே செல்வான், ஆனால் பறவை இல்லை; பலரைச் சுமந்து செல்வான், ஆனால் யானை இல்லை – அவன் யார்?
+Answer: தொடர்வண்டி
+
+Example 2:
+Riddle: எங்கும் போவான் கால்கள் இல்லை; கதை சொல்வான் வாய் இல்லை; இடம் காட்டுவான் கண் இல்லை – அவன் யார்?
+Answer: வரைபடம்
+
+Now, solve this riddle:
+Riddle : வாயிலிருந்து நூல் போடுவான்; மந்திரவாதியும் இல்லை, கிளைக்குக் கிளை தாவுவான்; குரங்கும் இல்லை, வலைவிரித்துப் பதுங்கியிருப்பான்; வேடனும் இல்லை – அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சிலந்தி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கரிய ராஜாவுக்கு வண்ண ஆடை. அது என்ன?
+Answer: எழுதுகோல்
+
+Example 2:
+Riddle: வெள்ளை வயலில் கருப்பு முத்துக்கள், அது என்ன?
+Answer: எழுத்துக்கள்
+
+Now, solve this riddle:
+Riddle : வெள்ளை ராஜாவுக்கு கறுப்பு உடை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தேங்காய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பகல் முழுவதும் எழுதுவான், ஆனால் கை வலிக்காது. இரவில் ஓய்வெடுப்பான், ஆனால் தூங்க மாட்டான். அவன் யார்?
+Answer: பேனா
+
+Example 2:
+Riddle: உயிர் இல்லாத காவலன், இரவு பகல் பாராமல் காவல் காப்பான் - அது என்ன?
+Answer: கதவு / வாசல்
+
+Now, solve this riddle:
+Riddle : இரவு வீட்டிற்கு வருவான், இரவு முழுவதும் இருப்பான் காலையில் சொல்லாமல் கொள்ளாமல் போய்விட்டிருப்பான்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+இருட்டு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறு சிறு மணிகளாய் கொட்டிக்கிடந்தாலும், ஒன்றை மட்டும் தனியாக எடுக்க முடியாது?
+Answer: கடுகு
+
+Example 2:
+Riddle: அரிசி போல கொட்டும், ஆனால் ஒன்றை மட்டும் பொறுக்க முடியாது?
+Answer: மணல்
+
+Now, solve this riddle:
+Riddle : பூ கொட்ட கொட்ட ஒன்றையும் தனியே பொறுக்க முடியவில்லை?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பனி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடலெல்லாம் வண்ணப் போர்வை, தலையில் சிகப்புக் கொண்டை, அது என்ன?
+Answer: சேவல்
+
+Example 2:
+Riddle: கால்களுண்டு ஆனால் நடப்பதில்லை, அது என்ன?
+Answer: நாற்காலி / மேஜை ( / )
+
+Now, solve this riddle:
+Riddle : எத்தனை தரம் சுற்றினாலும் தலை சுற்றாது, அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பம்பரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வெளியில் உள்ளதை உரித்து எறிந்து, உள்ளே உள்ளதை உடைப்பான். பின் வெளியே உள்ளதை தின்றுவிட்டு, உள்ளே உள்ளதை எறிவான். அது என்ன?
+Answer: தேங்காய்
+
+Example 2:
+Riddle: வெளியே உள்ளதை உரித்து, உள்ளே உள்ளதை மென்றான். பின் வெளியே உள்ளதை குடித்துவிட்டு, உள்ளே உள்ளதை துப்பினான். அது என்ன?
+Answer: கரும்பு
+
+Now, solve this riddle:
+Riddle : வெளியே உள்ளதை எறிந்து உள்ளே உள்ளதை சமைத்தான். பின் வெளியே உள்ளதை சாப்பிட்டு விட்டு உள்ளே உள்ளதை எறிந்தான் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+டீ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கீழே ஒரு விதை விதைத்து, மேலே பார்த்தால் ஆயிரம் வைரங்கள். அது என்ன?
+Answer: வானவேடிக்கை
+
+Example 2:
+Riddle: ஒரு பெட்டிக்குள் ஆயிரம் தம்பிகள் அது என்ன?
+Answer: தீப்பெட்டி
+
+Now, solve this riddle:
+Riddle : ஆழக் குழி தோண்டி அதிலே ஒரு முட்டையிட்டு அண்ணாந்து பார்த்தால் தொண்ணூறு முட்டை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தென்னை மரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அடிக்கலாம் ஓடமுடியாது அது என்ன?
+Answer: ஆணி
+
+Example 2:
+Riddle: சட்டையை உரித்தால் சத்தான முத்துக்கள் அது என்ன?
+Answer: மக்காச்சோளம்
+
+Now, solve this riddle:
+Riddle : நூல் நூற்கும் நெசவாளிக்கு கட்டிக்கொள்ள துணியில்லை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டுப்புழு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வாயுண்டு பேசாது. பல்லுண்டு கடிக்காது. கதவைத் திறக்கும். யார் நான்?
+Answer: சாவி
+
+Example 2:
+Riddle: பேசும், பதில் சொல்லும், மனிதன் இல்லை - அது என்ன?
+Answer: கிளி
+
+Now, solve this riddle:
+Riddle : பேச்சுக் கேட்குது பேசுபவர் தெரியவில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வானொலி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: என் கடைசி வார்த்தைக்கு கோவிலில் மதிப்புண்டு. என் முதல் வார்த்தை கரும்பிலிருந்து பிறக்கும். கோவிலில் நான் யார்?
+Answer: சர்க்கரை பொங்கல்
+
+Example 2:
+Riddle: கடைசி வார்த்தை ஒட்டும் குணம் கொண்டது, ஆனால் இங்கே பற்களை சுத்தம் செய்யும். முதல் வார்த்தையின் வெண்மைக்காக தினமும் என்னை உபயோகிப்பாய். காலையில் நான் யார்?
+Answer: பற்பசை
+
+Now, solve this riddle:
+Riddle : கடைசி வார்த்தையில் மானம் உண்டு, முதல் வார்த்தையின் மென்மைக்காக இறந்தன பூச்சிகள். காஞ்சியில் நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டு சேலை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இவன் ஒரு சொல்லுக்கு உலகே நடுங்கும் இவன் யார்?
+Answer: அரசன்
+
+Example 2:
+Riddle: மரத்தைத் தின்று தூசியைக் கக்குவான், அவன் யார்?
+Answer: ரம்பம்
+
+Now, solve this riddle:
+Riddle : இவன் வாலுக்கு வையகமே நடுங்கும் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வால் நட்சத்திரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடலெல்லாம் வண்ணப் போர்வை, தலையில் சிகப்புக் கொண்டை, அது என்ன?
+Answer: சேவல்
+
+Example 2:
+Riddle: உடம்பெல்லாம் ஆரஞ்சு, அதன் தலை பச்சை அது என்ன?
+Answer: கேரட்
+
+Now, solve this riddle:
+Riddle : உடம்பெல்லாம் தங்கநிறம், தலையில் பச்சை கிரீடம் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அன்னாசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: முள்ளுடம்புக்காரி, மஞ்சள் நிறத்தில் மணக்கும் பிள்ளைகள் பெற்றாள். அவள் யார்?
+Answer: பலாப்பழம்
+
+Example 2:
+Riddle: சிவப்புச் சட்டை அணிந்து கறுப்புப் பொட்டுகள் வைத்தவள். அவள் யார்?
+Answer: தட்டான் பூச்சி (லேடிபக்)
+
+Now, solve this riddle:
+Riddle : கந்தல் துணிக்காரி முத்துப் பிள்ளைகள் பெற்றாள் அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பூண்டு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தலையில் புகை வர, உடல் வேகமாகக் குறையும் அது என்ன?
+Answer: ஊதுபத்தி
+
+Example 2:
+Riddle: ஓட சக்கரம், நிற்க தாங்கி அது என்ன?
+Answer: மிதிவண்டி
+
+Now, solve this riddle:
+Riddle : நீளவால் குதிரையின் வால் ஓடஓடக் குறையும் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டாசு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு தலைக்கு இரண்டு கதவுகள். அது என்ன?
+Answer: காதுகள்
+
+Example 2:
+Riddle: ஒரு பாலத்துக்கு இரண்டு கண்கள். அது என்ன?
+Answer: கண்ணாடி
+
+Now, solve this riddle:
+Riddle : ஒரு வீட்டுக்கு இரண்டு வாசல்படி. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கால் சட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கூந்தலில் பாம்பு ஊருது. அது என்ன?
+Answer: ஜடை
+
+Example 2:
+Riddle: வாய் அகன்ற மலைக்கு வயிறில்லை. அது என்ன?
+Answer: புனல் ()
+
+Now, solve this riddle:
+Riddle : வால் நீண்ட குருவிக்கு வாயுண்டு. வயிறில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கரண்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வயிறு ஆழம், வாய் அகலம், உணவு நீர் - நான் யார்?
+Answer: கிணறு
+
+Example 2:
+Riddle: உடல் உருண்டது, வாய் சிறியது, உணவு பணம் - நான் யார்?
+Answer: உண்டியல்.
+
+Now, solve this riddle:
+Riddle : உடல் சிவப்பு, வாய் அகலம், உணவு காகிதம்- நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அஞ்சல் பெட்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: யாரும் வரையாத கோலம், தரையில் நெளிந்து ஓடும். அது என்ன?
+Answer: பாம்பு
+
+Example 2:
+Riddle: குப்பை மேட்டில் விரித்த குடை, அது என்ன?
+Answer: காளான்
+
+Now, solve this riddle:
+Riddle : வட்ட வட்ட நிலவில் வரைஞ்சிருக்கு; எழுதியிருக்கு. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பொட்டு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தான் எரிந்து பிறருக்கு வெளிச்சம் தருவாள் அவள் யார்?
+Answer: விளக்கு
+
+Example 2:
+Riddle: நேராகச் செல்லும், பல ஊர்களைச் சேர்ப்பாள் அவள் யார்?
+Answer: இரயில்
+
+Now, solve this riddle:
+Riddle : வளைந்து நெளிந்து செல்பவள் வழியெங்கும் தாகம் தீர்ப்பாள் அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ஆறு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: விதைப்பது கண்ணுக்குத் தெரியும். வேர் விடுவது கண்ணுக்குத் தெரியாது. அது என்ன?
+Answer: விதை
+
+Example 2:
+Riddle: விறகில் பூக்கும் பூ, நீரில் மாயும் பூ, அது என்ன பூ?
+Answer: நெருப்பு
+
+Now, solve this riddle:
+Riddle : பூ பூப்பது கண்ணுக்குத் தெரியும். காய் காய்ப்பது கண்ணுக்குத் தெரியாது. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சொல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: முள்ளுடம்புக்காரி, மஞ்சள் நிறத்தில் மணக்கும் பிள்ளைகள் பெற்றாள். அவள் யார்?
+Answer: பலாப்பழம்
+
+Example 2:
+Riddle: பஞ்சில் பிறந்து, நூலாய் நெய்து, உடையாவான், மானம் காப்பான். அது என்ன?
+Answer: ஆடை
+
+Now, solve this riddle:
+Riddle : கந்தல் துணி கட்டியவன், முத்துப் பிள்ளைகளைப் பெற்று மகிழ்ந்தான். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மக்காச்சோளம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+These examples were chosen because they are semantically similar to the kind of riddle you need to solve, even though their specific reasoning patterns might vary.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சட்டையை உரித்தால் சத்தான முத்துக்கள் அது என்ன?
+Answer: மக்காச்சோளம்
+
+Example 2:
+Riddle: சட்டைகளைக் கழற்றினால் கண்ணீர் வரும் அது என்ன?
+Answer: வெங்காயம்
+
+Now, solve this riddle:
+Riddle : சட்டையைக் கழற்றினால் சத்துணவு அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வாழைப்பழம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 01:01:17 2025 ---

@@ -1,0 +1,2889 @@
+
+--- Starting New Generation Run at Mon May 26 15:58:26 2025 ---
+Model: meta-llama/llama-4-maverick, Language: Kannada, Prompt: 2_shot_context_recon_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Kannada riddles.
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಒಂದು ಮಾತು ಶುರುಮಾಡಿದರೆ, ಗಂಟೆಗಟ್ಟಲೆ ಸಮಯ ತಿನ್ನುತ್ತದೆ.
+Answer: ಹರಟೆ
+
+Example 2:
+Riddle: ಒಡೆದ ಕಾಯನ್ನು ಮತ್ತೆ ಒಡೆಯುತ್ತಾರೆ
+Answer: ತೆಂಗಿನಕಾಯಿ
+
+
+Now, solve this riddle:
+Riddle : ಕರಿ ಗುಡ್ಡಬಿಳಿ ನೀರು ಅದ್ರಾಗೆ ಕುಂತವಳೇ ಚಂಪರಾಣಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬಾಳೆಹಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಎರಡು ಹಳಿ, ಒಂದೇ ದಾರಿಯಲ್ಲಿ.
+Answer: ರೈಲು ಹಳಿ
+
+Example 2:
+Riddle: ಅಮ್ಮನ ಮೇಲೆ ಟೋಪಿ
+Answer: ಸೂಡು
+
+
+Now, solve this riddle:
+Riddle : ಬೆಳ್ಳಿ ಸಮುದ್ರದಲ್ಲಿ ಕಪ್ಪು ಸೂರ್ಯ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಾಗದ ಮತ್ತು ಶಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಆಕಾಶದಂಗಳದಲಿ ಅಲೆಯೋ ಬಿಳಿ ಕುರಿ
+Answer: ಮೋಡ
+
+Example 2:
+Riddle: ಮೂಡಿದ, ಬೆಳಗಿದ, ಮುಳುಗಿದ, ಪೊರೆದ.
+Answer: ಸೂರ್ಯ
+
+
+Now, solve this riddle:
+Riddle : ಕಾಲಿಲ್ಲ ಹುಡುಗಿಗೆ ಮಾರುದ್ದ ಕಡಿವಾಣ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಗವಸು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಜಡೆ ಹರಡಿದೆ, ತಲೆ ಮಲಗಿದೆ
+Answer: ಕ್ಯಾರೆಟ್
+
+Example 2:
+Riddle: ಬಂಗಾರದ ಸಾಮ್ರಾಜ್ಯದಲ್ಲಿ ಮುಖಗಳು ಆಕಾಶ ನೋಡುತ್ತಿವೆ.
+Answer: ಸೂರ್ಯಕಾಂತಿ ಹೂವು
+
+
+Now, solve this riddle:
+Riddle : ಹಾರಾಡುತ್ತಿದೆ ಗಾಳಿಪತವಲ್ಲ, ಬಣ್ಣ ಮೂರಿರುವುದು ಕಾಮನಬಿಲ್ಲಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಪತಂಗ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕುದುರೆ ಓಡುತ್ತದೆ, ರಾಜಕುಮಾರ ಕುಳಿತುಕೊಳ್ಳುತ್ತಾನೆ.
+Answer: ಸೈಕಲ್
+
+Example 2:
+Riddle: ಬಂದರೆ ಹಗಲು, ಹೋದರೆ ರಾತ್ರಿ, ನೋಡಿದರೆ ಕಣ್ಣು ಕುಕ್ಕುವುದು.
+Answer: ಸೂರ್ಯ
+
+
+Now, solve this riddle:
+Riddle : ಒಂದು ಮಡಕೆ, ಮಡಕೆಯೊಳಗೆ, ಕುಡಿಕೆ, ಕುಡಿಕೆಯಲ್ಲಿ ಸಾಗರ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಉದ್ದುಬೆಳೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಒಂದು ಅಂಗೈಯಷ್ಟು ಗೋಲಿ ಮೇಲೆ, ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಇರುವೆಗಳು.
+Answer: ಭೂಮಿ, ಮನುಷ್ಯರು
+
+Example 2:
+Riddle: ಕೆಂಪು ಗುಹೆಯಲ್ಲಿ ಬಿಳಿ ಕಲ್ಲುಗಳು.
+Answer: ಹಲ್ಲುಗಳು
+
+
+Now, solve this riddle:
+Riddle : ನೀಲಿ ಸಾಗರದಲ್ಲಿ ಬೆಳ್ಳನೇ ಮೀನುಗಳು ನಾನ್ಯಾರು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಆಕಾಶ, ನಕ್ಷತ್ರಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಾಲಿಲ್ಲದ ದಾಸ, ಯಾವಾಗಲೂ ಯಜಮಾನನ ಹಿಂದೆ.
+Answer: ನೆರಳು
+
+Example 2:
+Riddle: ಒಂದೇ ಮರಕ್ಕೆ ಐದು ಕೊಂಬೆಗಳು, ಹೂವಿಲ್ಲ, ಕಾಯಿಲ್ಲ.
+Answer: ಕೈ
+
+
+Now, solve this riddle:
+Riddle : ನೀನಿಲ್ಲದೆ ಊಟವಿಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಪ್ಪು ಹೊಲದಲ್ಲಿ ಬಿಳಿ ಸಾಲುಗಳು, ನಾನ್ಯಾರು?
+Answer: ಬಳಪದ ಬರಹ
+
+Example 2:
+Riddle: ಚಿಂತೆಯ ಕೋಟೆಯಲ್ಲಿ ಹನ್ನೆರಡು ಬಾಗಿಲುಗಳು, ಕಾವಲುಗಾರರು ಇಬ್ಬರು. ಒಬ್ಬನು ಒಂದು ಬಾಗಿಲ ಬಳಿ ಚಿಂತಿಸುತ್ತಾ ನಿಂತರೆ, ಇನ್ನೊಬ್ಬನು ಹನ್ನೆರಡು ಬಾಗಿಲುಗಳ ಚಿಂತೆಯನ್ನೂ ಕ್ಷಣದಲ್ಲಿ ಹೊತ್ತು ತರುತ್ತಾನೆ.
+Answer: ಮನಸ್ಸು ಮತ್ತು ಕಲ್ಪನೆ
+
+
+Now, solve this riddle:
+Riddle : ಅಕ್ಕ ಓದುತ್ತಾಳೆ ತಂಗಿ ನಡೀತ್ತಾಳೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಳಕು ಮತ್ತು ನೆರಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಹಸಿರು ಸೀರೆಯುಟ್ಟ ಚೆಲುವೆ, ಒಳಗೆ ಹಳದಿ ಮುತ್ತುಗಳ ಹಾರ ಧರಿಸಿದ್ದಾಳೆ, ಹೇಳದಿದ್ದರೆ ನಿಮ್ಮ ದೇವರಾಣಿ.
+Answer: ಮುಸುಕಿನ ಜೋಳ
+
+Example 2:
+Riddle: ಕಲ್ಲಿನ ಕೂಸು, ಹೆಣ್ಣಿನ ಸೊಗಸು.
+Answer: ಚಿನ್ನ
+
+
+Now, solve this riddle:
+Riddle : ಮೂರು ಕಾಸಿನ ಕುದುರೆಗೆ ಮುನ್ನೂರು ರೂಪಾಯಿನ ಹಗ್ಗ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆತ್ತದ ಕುದುರೆ, ಸರಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಂಠದೊಳಗೆ ರಾಗ ಹುಟ್ಟಿ, ನಾದ ಚಕ್ರ ಸ್ವರವಾಗಿ, ಕಿವಿಗೆ ಹಣ್ಣು, ಬಾಯಿಗೆ ದಕ್ಕದು, ಕೇಳಲು ಬಲು ಇಂಪು.
+Answer: ಹಾಡು
+
+Example 2:
+Riddle: ನೆಲದ ಮೇಲೆ ನಿಂತ ರಾಜ, ಕಣ್ಣೀರು ಹಾಕುತ್ತಾ ದಾರಿ ತೋರಿಸುವಳು. ಅವಳ ಹೆಸರು ಪಾರ್ವತಮ್ಮ ಇದು ಏನು?
+Answer: ದೀಪ
+
+
+Now, solve this riddle:
+Riddle : ಒಂದು ಹಸ್ತಕ್ಕೆ ನೂರೆಂಟು ಬೆರಳು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕತ್ತರಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಮೂಡಿದ, ಬೆಳಗಿದ, ಮುಳುಗಿದ, ಪೊರೆದ.
+Answer: ಸೂರ್ಯ
+
+Example 2:
+Riddle: ಕಣ್ಣುಳ್ಳ ಕುರುಡ, ನಾನ್ಯಾರು?
+Answer: ಸೂಜಿ
+
+
+Now, solve this riddle:
+Riddle : ಗುಡುಗು, ಗುಡುಗಿದರೆ ಸಾವಿರ ನಯನಗಳು ಅರಳುವುದು.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮಿಂಚು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಿಳಿ ಕಲ್ಲು, ಪರಿಮಳದ ಹೂವು, ಬತ್ತಿಯಿಲ್ಲದೆ ಉರಿದು, ಬೂದಿಯಿಲ್ಲದೆ ಕರಗುವುದು.
+Answer: ಕರ್ಪೂರ
+
+Example 2:
+Riddle: ಸಮುದ್ರದಲ್ಲಿ ಹುಟ್ಟಿ ಸಮುದ್ರದಲ್ಲಿ ಬೆಳೆದು, ಸಮುದ್ರದಿಂದ ಹೊರಟು ಅಡಿಗೆ ಸೇರುವುದು.
+Answer: ಉಪ್ಪು
+
+
+Now, solve this riddle:
+Riddle : ಆಕಾಶದಲ್ಲಿ ಕೊಡಲಿಗಳು ತೇಲಾಡುತ್ತವೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೋಡಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಮೈ ತುಂಬಾ ಬಟ್ಟೆ, ಬಿಚ್ಚಿದರೆ ಕಣ್ಣೀರು. ಅದು ಯಾರು?
+Answer: ಈರುಳ್ಳಿ
+
+Example 2:
+Riddle: ಕಪ್ಪು ಆಕಾಶದಲ್ಲಿ ಹೊಳೆಯುವ ಮುತ್ತು
+Answer: ನಕ್ಷತ್ರ
+
+
+Now, solve this riddle:
+Riddle : ಅಮ್ಮನ ಆಕಾಶವಾಣಿ ನಾನು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮಿಂಚು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಣ್ಣಿಲ್ಲದ ಸುಂದರಿ, ಎಲ್ಲರ ರೂಪ ತೋರಿಸುತ್ತಾಳೆ
+Answer: ಕನ್ನಡಿ
+
+Example 2:
+Riddle: ** ಮಾತಿಲ್ಲದ ನಕ್ಷತ್ರಕ್ಕೆ ಆಕಾಶ ತುಂಬ ಗೆಳೆಯರು.
+Answer: ** ನಕ್ಷತ್ರ
+
+
+Now, solve this riddle:
+Riddle : ಕೂಗಿದರೆ ರಾವಣ, ಹಾರಿದರೆ ಹನುಮಂತ, ಕೂತರೆ ಮುಸಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ವಿಮಾನ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಹಸಿರು ಹೊಲ, ಹೊಲದಾಗಲ್ಲ ಸಸಿಗಳ ಸಾಲು, ನಡುವಲ್ಲೊಂದು ಹಳದಿ ಉಂಡೆ.
+Answer: ಹೊಲ, ಪೈರು, ಕುಂಬಳಕಾಯಿ
+
+Example 2:
+Riddle: ಸೇತುವೆಯ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಇನ್ನೊಬ್ಬ ಇಳಿಯುತ್ತಾನೆ, ಆದರೆ ಇಬ್ಬರೂ ಒಂದೇ.
+Answer: ಹಗ್ಗ, ಬಟ್ಟೆ
+
+
+Now, solve this riddle:
+Riddle : ಹಗ್ಗ ಹಾಸಿದೆ, ಹಸು ಮಲಗಿದೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ರಸ್ತೆ, ನಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಒಡೆದ ಚೂರನು ಮತ್ತೆ ಒಡೆಯುವರು
+Answer: ಕಲ್ಲು
+
+Example 2:
+Riddle: ನಾನು ಬದುಕಿರುವಾಗ ಸೃಷ್ಟಿಯಾಗುತ್ತೆ, ನಾನು ಹೋದ ಮೇಲೂ ಉಳಿಯುತ್ತೆ.
+Answer: ಕೃತಿ (Work/Composition)
+
+
+Now, solve this riddle:
+Riddle : ಸಾವಿರ ತರುತ್ತೆ ಲಕ್ಷ ತರುತ್ತೆ ನೀರಿನಲ್ಲಿ ಹಾಕಿದರೆ ಸಾಯುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಉಪ್ಪು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: New Riddle: ಬಾಗಿಲಿರುವ ಮನೆ, ಒಬ್ಬ ಒಳಗೆ ಹೋಗ್ತಾನೆ, ಇನ್ನೊಬ್ಬ ಕೆಳಗೆ ಇಳಿತಾನೆ.
+Answer: ಬಾಯಿ, ಊಟ
+
+Example 2:
+Riddle: ಅಮ್ಮನ ಮೇಲೆ ಟೋಪಿ
+Answer: ಸೂಡು
+
+
+Now, solve this riddle:
+Riddle : ಬಾ ಅಂದರೆ ಬರೋಲ್ಲ, ಹೋಗು ಅಂದರೆ ಹೋಗೋಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹಾಸಿಗೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕೊಡಲಿ ಕತ್ತರಿಸಲಾರದು, ಸುತ್ತಿಗೆ ಬಡಿಯಲಾರದು ಅದಿಲ್ಲದೆ ಕೆಲಸ ಆಗಲಾರದು
+Answer: ಯೋಜನೆ
+
+Example 2:
+Riddle: ಅಡುಗೆ ಮನೆಯಲ್ಲಿರುವುದು, ಬೆಂಕಿಯ ಮೇಲೆ ಕುಳಿತಿರುವುದು, ತನ್ನ ಮಕ್ಕಳನ್ನೇ ಕುದಿಸಿ ಕಾಟ ಕೊಡುವುದು. ಅದು ಏನು?
+Answer: ಅಡುಗೆ ಪಾತ್ರೆ (ಅಥವಾ ಮಡಕೆ)
+
+
+Now, solve this riddle:
+Riddle : ಕೆಂಪು ಕುದುರೆಗೆ ಲಗಾಮು, ಓಬ್ಬ ಹತ್ತುತ್ತಾನೆ, ಇನ್ನೊಬ್ಬ ಇಳಿತಾನೇ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬಾಳೆಹಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಗಿಡ್ಡನೆಯ ಮರಕ್ಕೆ ನೂರಾರು ಬಟ್ಟೆಗಳು
+Answer: ಎಲೆಕೋಸು
+
+Example 2:
+Riddle: ಕಬ್ಬಿಣದ ಹಲ್ಲು, ಮರವನ್ನೇ ತಿನ್ನುತ್ತೆ.
+Answer: ಗರಗಸ
+
+
+Now, solve this riddle:
+Riddle : ಹೊಂಚು ಹಾಕಿದ ದೆವ್ವ, ಬೇಡ ಬೇಡ ಎಂದರೂ ಜೂತೆಯೇ ಬರುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸಾವು/ಸಾವು/ಮರಣ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಅರಮನೆಯಿಲ್ಲದ ಅರಮನೆ, ರಾಜನಿಲ್ಲದ ರಾಜ್ಯ
+Answer: ಕಥೆ
+
+Example 2:
+Riddle: ತಲೆ ಕೊಟ್ಟರೆ, ದೇಹ ನುಂಗುತ್ತದೆ.
+Answer: ಅಂಗಿ
+
+
+Now, solve this riddle:
+Riddle : ಕೆಂದ ಕುದುರೆ,ಬಿಳಿ ತಡಿ, ಕರೆ ಲಗಾಮು, ಅಣ್ಣ ಅತ್ತಾನೆ, ತಮ್ಮ ಇಳಿತ್ತಾನೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹಲ್ಲು,ನಾಲಿಗೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಣ್ಣಿಗೆ ಕಾಣಲ್ಲ, ಕೈಗೆ ಸಿಗಲ್ಲ, ಅದಿಲ್ಲದೆ ಊಟ ರುಚಿಸಲ್ಲ.
+Answer: ವಾಸನೆ
+
+Example 2:
+Riddle: ದೊಡ್ಡ ಕಡಲ ತೀರಕ್ಕೆ ಅಂಟಿದ ಸಣ್ಣ ಕಣ.
+Answer: ಮರಳು ಮತ್ತು ಕಡಲ ತೀರ
+
+
+Now, solve this riddle:
+Riddle : ಕೆಂಪು ಕುದುರೆ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಒಬ್ಬ ಇಳಿಯುತ್ತಾನೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಳಗುವ ದೀಪ ಮತ್ತು ಹಚ್ಚುಗೆಣತಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಒಂದು ದೇಹಕ್ಕೆ ಎರಡು ಕಿಟಕಿ
+Answer: ಕಣ್ಣುಗಳು
+
+Example 2:
+Riddle: ಕಣ್ಣಿಗೆ ಕಾಣದ ಕಾಟ, ಬೇಡವೆಂದರೂ ಜೊತೆಯಲ್ಲೇ ಇರುತ್ತೆ.
+Answer: ಚಿಂತೆ
+
+
+Now, solve this riddle:
+Riddle : ಕೋಳಿ ಕುಗುತ್ತದೆ, ಮುಲ್ಲ ಚೂರಿ ಹಾಕುತ್ತಾನೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೇವಂತಿಗೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಮನೆಯಿಲ್ಲದ ಅಣ್ಣ, ಬಟ್ಟೆ ಬಿಚ್ಚಿ ಮಾತಾಡಣ್ಣ
+Answer: ಪತ್ರ
+
+Example 2:
+Riddle: ಮುಳ್ಳಿನ ಬೇಲಿಯೊಳಗೆ ಸಿಂಗಾರದ ರಾಣಿ.
+Answer: ಗುಲಾಬಿ ಹೂವು
+
+
+Now, solve this riddle:
+Riddle : ಒಂದು ಮನೆಗೆ ಒಂದೇ ತೊಲೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಛತ್ರಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಹುಟ್ಟುತ್ತಲೇ ಮೈಮೇಲೆ ಮನೆ ಹೊತ್ತುಕೊಂಡು ಓಡಾಡುತ್ತಾನೆ.
+Answer: ಆಮೆ
+
+Example 2:
+Riddle: ಕಣ್ಣುಗಳಿದ್ದರೂ ಕಾಣದವನು. ನಾನ್ಯಾರು?
+Answer: ಆಲೂಗಡ್ಡೆ
+
+
+Now, solve this riddle:
+Riddle : ಹೋಗುತ್ತಾ, ಬರುತ್ತಾ ಇರುವುದು ಎರಡು,ಹೋದ ಮೇಲೆ ಬರಲಾರವು ಎರಡು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಾಲುಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕುಡಿಯಲಿಕ್ಕೆ ಆಗದ ಹಾಲು ಯಾವುದು?
+Answer: ಹಾಲುಗಲ್ಲು
+
+Example 2:
+Riddle: ಗುಂಡಗೆ ಇರುತ್ತೇನೆ, ಮೈಯೆಲ್ಲಾ ದಾರ.
+Answer: ನೂಲಿನ ಉಂಡೆ
+
+
+Now, solve this riddle:
+Riddle : ಕಡ್ಲೆ ಕಾಳಷ್ಟು ಹಿಂಡಿ 32 ಮನೆ ಸಾರಿಸಿ ಬಚ್ಚಲ ಪಾಲು ಆಗುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಳ್ಳಂಬೆಳಗು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಟ್ಟೆಯನ್ನು ತಿನ್ನುತ್ತಾ, ಶಬ್ದ ಮಾಡುತ್ತಾ, ನೇರವಾಗಿ ಸೀಳುತ್ತಾ ಹೋಗುವ ನಾನ್ಯಾರು?
+Answer: ಹೊಲಿಗೆ ಯಂತ್ರ
+
+Example 2:
+Riddle: ಕಲ್ಲಿನ ಮನೆ, ಜ್ಞಾನದ ಬೆಳಕು, ಒಳಗಿದ್ದಾರೆ ಗುರುಗಳು.
+Answer: ಶಾಲೆ
+
+
+Now, solve this riddle:
+Riddle : ಗಿರಗಿರ ತಿರುಗುತ್ತೆ, ಸುಸ್ತಾಗಿ ಬೀಳುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ನೆಲಗಡಲೆ ಯಂತ್ರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಿಳಿ ಕಲ್ಲು, ಪರಿಮಳದ ಹೂವು, ಬತ್ತಿಯಿಲ್ಲದೆ ಉರಿದು, ಬೂದಿಯಿಲ್ಲದೆ ಕರಗುವುದು.
+Answer: ಕರ್ಪೂರ
+
+Example 2:
+Riddle: ಒಂದೇ ಮನೆಯಲ್ಲಿ ಜೋಡಿಯಾಗಿ ಕೂತು ಹೊರಗಿನ ಜಗತ್ತನ್ನು ನೋಡುತ್ತೆ.
+Answer: ಕಿಟಕಿ
+
+
+Now, solve this riddle:
+Riddle : ಒಂದು ಹಪ್ಪಳ ಊರಿಗೆಲ್ಲ ಊಟ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಎಲೆ ಉದುರುವುದು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಉದ್ದನೆಯ ದಾರಿಯಲ್ಲಿ ಒಬ್ಬ ಹೋಗುತ್ತಾನೆ, ಒಬ್ಬ ಬರುತ್ತಾನೆ.
+Answer: ದಾರಿಹೋಕರು / ವಾಹನಗಳು
+
+Example 2:
+Riddle: ನನಗೆ ನಗರಗಳಿವೆ, ಮನೆಗಳಿಲ್ಲ. ಪರ್ವತಗಳಿವೆ, ಮರಗಳಿಲ್ಲ. ನೀರಿದೆ, ಮೀನುಗಳಿಲ್ಲ. ನಾನು ಯಾರು?
+Answer: ಭೂಪಟ
+
+
+Now, solve this riddle:
+Riddle : ಶತ್ತಗಿಂಡಿ, ಶಾರಾಗಿಂಡಿ, ನೀರಾಗಿ ಹಕ್ಕಿದರೆ ಮುಳುಗದು ಮುತ್ತಿನ ಗಿಂಡಿ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಡಲೆಕಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಗುಹೆಯಲ್ಲಿ ಹುಟ್ಟುವುದು, ನೀರು ಹನಿ ಹನಿಯಾಗಿ ಬೆಳೆಯುವುದು, ಕಲ್ಲಿನಿಂದ ಮೂಡುವುದು.
+Answer: ಸುಣ್ಣದ ಕಲ್ಲಿನ ಮೂರ್ತಿ (ಸ್ಟ್ಯಾಲಕ್ಟೈಟ್/ಸ್ಟ್ಯಾಲಗ್ಮೈಟ್)
+
+Example 2:
+Riddle: ಬಂದರೆ ಹಗಲು, ಹೋದರೆ ರಾತ್ರಿ, ನೋಡಿದರೆ ಕಣ್ಣು ಕುಕ್ಕುವುದು.
+Answer: ಸೂರ್ಯ
+
+
+Now, solve this riddle:
+Riddle : ಹಸಿರು ಕೋಲಿಗೆ ಮುತ್ತಿನ ತುರಾಯಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ವಾಳದಿಂಡಿಗೆ ಹೂವು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನೀನಿಲ್ಲದೆ ಶಿಕ್ಷಣವಿಲ್ಲ
+Answer: ಜ್ಞಾನ
+
+Example 2:
+Riddle: ಹುಟ್ಟುತ್ತಲೇ ಮೈಮೇಲೆ ಮನೆ ಹೊತ್ತುಕೊಂಡು ಓಡಾಡುತ್ತಾನೆ.
+Answer: ಆಮೆ
+
+
+Now, solve this riddle:
+Riddle : ನೀಲಿ ಕೆರೆಯಲಿ ಬಿಳಿ ಮೀನು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಆಕಾಶ ಮತ್ತು ನಕ್ಷತ್ರಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಟಣಟಣ ಮಾತನಾಡುವವಳು, ಆದರೆ ಬಾಯಿಲ್ಲ.
+Answer: ಗಂಟೆ
+
+Example 2:
+Riddle: ಹಿಡಿ ಅಂದರೆ ಸಿಕ್ಕಲ್ಲ, ಬಿಡು ಅಂದರೆ ಹೋಗಲ್ಲ.
+Answer: ನೆರಳು
+
+
+Now, solve this riddle:
+Riddle : ಬಂಗಾರದ ಗುಬ್ಬಿ ಬಾಲದಲ್ಲೇ ನೀರನ್ನು ಕುಡಿಯುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕೀಚಲು ಹಕ್ಕಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಚಿಂತೆಯ ಕೋಟೆಯಲ್ಲಿ ಹನ್ನೆರಡು ಬಾಗಿಲುಗಳು, ಕಾವಲುಗಾರರು ಇಬ್ಬರು. ಒಬ್ಬನು ಒಂದು ಬಾಗಿಲ ಬಳಿ ಚಿಂತಿಸುತ್ತಾ ನಿಂತರೆ, ಇನ್ನೊಬ್ಬನು ಹನ್ನೆರಡು ಬಾಗಿಲುಗಳ ಚಿಂತೆಯನ್ನೂ ಕ್ಷಣದಲ್ಲಿ ಹೊತ್ತು ತರುತ್ತಾನೆ.
+Answer: ಮನಸ್ಸು ಮತ್ತು ಕಲ್ಪನೆ
+
+Example 2:
+Riddle: ನಾನು ಬದುಕಿರುವಾಗ ಸೃಷ್ಟಿಯಾಗುತ್ತೆ, ನಾನು ಹೋದ ಮೇಲೂ ಉಳಿಯುತ್ತೆ.
+Answer: ಕೃತಿ (Work/Composition)
+
+
+Now, solve this riddle:
+Riddle : ಮರನು ಮರನೇರಿ ಮತ್ತೆ ಮರನೇರಿ ಬಸವನಾ ಕತ್ತೇರಿ ತಿರುಗುತ್ತಿದೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಗಿರಮಿಟ್ಟು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಆಕಾಶದ ತಟ್ಟೆಯಲ್ಲಿ, ಒಬ್ಬ ಬಂದು ಹೊಳೆಯುತ್ತಾನೆ, ಇನ್ನೊಬ್ಬ ಬಂದು ತಂಪಾಗಿಸುತ್ತಾನೆ.
+Answer: ಸೂರ್ಯ, ಚಂದ್ರ
+
+Example 2:
+Riddle: ಕಣ್ಣು ಮುಚ್ಚಿದರೆ, ಹೊಸ ಲೋಕವೇ ಕಾಣಿಸುವುದು.
+Answer: ಕನಸು.
+
+
+Now, solve this riddle:
+Riddle : ಹಸಿರು ಹಾವರಾಣಿ, ತುಂಬಿದ ತತ್ರಾಣಿ, ಹೇಳದಿದ್ದರೆ ನಿಮ್ಮ ದೇವರಾಣಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಳ್ಳುಳ್ಳಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಹಸಿರು ಪೆಟ್ಟಿಗೆಯಲ್ಲಿ ಬಿಳಿ ಮುತ್ತುಗಳು
+Answer: ಬಟಾಣಿ
+
+Example 2:
+Riddle: ಕಬ್ಬಿಣದ ಹಲ್ಲು, ಮರವನ್ನೇ ತಿನ್ನುತ್ತೆ.
+Answer: ಗರಗಸ
+
+
+Now, solve this riddle:
+Riddle : ೨೧. ಮೋಟು ಗೋಡೆ ಮೇಲೆ, ದೀಪ ಉರೀತಿದೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೂರ್ಯಕಾಂತಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನೆಲ ಹಾಸಿದೆ, ಕೊಡೆ ಬಿಚ್ಚಿದೆ
+Answer: ಅಣಬೆ
+
+Example 2:
+Riddle: ಒಂದು ಸಣ್ಣ ತಲೆ, ಅದರಲ್ಲಿ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಆಲೋಚನೆಗಳು.
+Answer: ತಲೆ, ಆಲೋಚನೆಗಳು
+
+
+Now, solve this riddle:
+Riddle : ಕರಿ ಗುಡ್ಡ-ಬಿಳಿ ನೀರು ಅದ್ರಾಗೆ ಕುಂತವಳೇ ಚಂಪರಾಣಿ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಪರದೆಗೆ ಬರೆಯುವ ಚಿತ್ರಕಾರಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಎದೆಯ ಗೂಡಲ್ಲಿ ಜೋಡಿ ಪಂಪ್, ನಿಲ್ಲದೆ ಜೀವ ತುಂಬುತ್ತೆ.
+Answer: ಶ್ವಾಸಕೋಶಗಳು
+
+Example 2:
+Riddle: ಕೋಟು ಧರಿಸಿರುತ್ತೆ, ಆದರೆ ಬಟ್ಟೆ ಹಾಕಿಕೊಳ್ಳಲ್ಲ.
+Answer: ತೆಂಗಿನಕಾಯಿ
+
+
+Now, solve this riddle:
+Riddle : ಇದ್ದಲು ನುಂಗುತ್ತ, ಗದ್ದಲ ಮಾಡುತ್ತಾ, ಉದ್ದಕ್ಕೂ ಓಡುತ್ತಾ ಮುಂದಕ್ಕೆ ಸಾಗುವ ನಾನ್ಯಾರು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ರೈಲು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಿತ್ತಣ್ಣ ಪುಟ್ಟಣ್ಣ ಸಿಪ್ಪೆ ಸುಲಿದು ತಿನ್ನಣ್ಣ
+Answer: ಕಿತ್ತಳೆಹಣ್ಣು
+
+Example 2:
+Riddle: ಅಪ್ಪ ಆಕಾಶಕ್ಕೆ ಅವ್ವ ಪಾತಾಳಕ್ಕೆ ಮಗ ವ್ಯಾಪಾರಕ್ಕೆ ಮಗಳು ಪೂಜೆಗೆ
+Answer: ದೀಪ
+
+
+Now, solve this riddle:
+Riddle : ೪೬. ಕೆಂಪು ಕುದುರೆ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಒಬ್ಬ ಇಳಿಯುತ್ತಾನೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಂಕಿಕಡ್ಡಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಶಬ್ದ ಕೊಡಲಾರದು, ಧ್ವನಿ ಕೊಡಲಾರದು, ಅದಿಲ್ಲದೆ ತಿಳಿಯಲು ಸಾಧ್ಯವಿಲ್ಲ.
+Answer: ಭಾಷೆ
+
+Example 2:
+Riddle: ಕಣ್ಣಿನ ಹನಿ, ಮನಸಿನ ಮಾತು.
+Answer: ಕಣ್ಣೀರು
+
+
+Now, solve this riddle:
+Riddle : ಕಾಸಿನ ಕುದುರೆಗೆ ಬಾಲದ ಲಗಾಮು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹಡಗು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಿಳಿ ಹೊಲದಲ್ಲಿ ಕಪ್ಪು ಬೀಜಗಳು
+Answer: ಅಕ್ಷರಗಳು
+
+Example 2:
+Riddle: ಒಬ್ಬ ಕೆಂಪು ಕುಳ್ಳ, ಅವನನ್ನು ತಿಂದರೆ ಬಾಯಿ ಉರಿಯುತ್ತೆ.
+Answer: ಮೆಣಸಿನಕಾಯಿ
+
+
+Now, solve this riddle:
+Riddle : ವನದಲ್ಲಿ ಹುಟ್ಟಿ,ವನದಲ್ಲಿ ಬೆಳೆದು,ವನದಿಂದ ಹೊರಟು ವನಜಲೊನೆ ಶಿರಕ್ಕೆರುವರು.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹೆಣೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನೀನಿಲ್ಲದೆ ಉಸಿರಾಟವಿಲ್ಲ
+Answer: ಗಾಳಿ
+
+Example 2:
+Riddle: ತಿನ್ನಲಿಕ್ಕೆ ಬಾರದಂತಹ ಕಾಯಿ ಯಾವುದು?
+Answer: ತಲೆಕಾಯಿ
+
+
+Now, solve this riddle:
+Riddle : ಅಂಗಳದಲ್ಲಿ ಹುಟ್ಟುವುದು, ಅಂಗಳದಲ್ಲಿ ಬೆಳೆಯುವುದು, ತನ್ನ ಮಕ್ಕಳ ಹಂಗಿಸಿ ಮಾತಾಡುವುದು ಇದು ಏನು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕೋಳಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಮೈಯೊಳಗಿನ ಮನೆ, ಬಾಗಿಲಿಲ್ಲ ಒಳ ಹೊರಗೆ, ಅದು ನಿಂತರೆ ಆಟ ಮುಗಿಯಿತು. ಇದು ಏನು?
+Answer: ಹೃದಯ
+
+Example 2:
+Riddle: ಹುಟ್ಟುತ್ತಲೇ ಗಡ್ಡ ಬಿಟ್ಟಿರುತ್ತೆ, ಬಿಸಿಲಿಗೆ ಕಪ್ಪಾಗುತ್ತೆ.
+Answer: ಜೋಳ
+
+
+Now, solve this riddle:
+Riddle : ಅಕ್ಕ ಪಕ್ಕ ಚದುರಂಗ,ಅದರ ಹೂವು ಪದುರಂಗ ಅದರ ಹೆಸರು ಅಯ್ಯಯ್ಯಪ್ಪ ಇದು ಏನು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಂಡೆಕಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನೆಲದ ಮೇಲೆ ನಿಂತ ರಾಜ, ಕಣ್ಣೀರು ಹಾಕುತ್ತಾ ದಾರಿ ತೋರಿಸುವಳು. ಅವಳ ಹೆಸರು ಪಾರ್ವತಮ್ಮ ಇದು ಏನು?
+Answer: ದೀಪ
+
+Example 2:
+Riddle: ಹಿಡಿ ಅಂದರೆ ಸಿಕ್ಕಲ್ಲ, ಬಿಡು ಅಂದರೆ ಹೋಗಲ್ಲ.
+Answer: ನೆರಳು
+
+
+Now, solve this riddle:
+Riddle : ಕತ್ತಲೆ ಮನೆಯಲಿ ಕಾಳವ್ವ ಕುಂತವೈ ಕುಯ್ಯೋ, ಮರ್ರೋ ಅಂತವಳೇ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸಗಣಿ ಅಡಿಕೆ ಕೊಯ್ಯುವುದು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಅಕ್ಕ ಹೀರಿಕೊಳ್ಳುತ್ತಾಳೆ, ತಂಗಿ ಬೆಳೆಯುತ್ತಾಳೆ
+Answer: ಗಿಡ
+
+Example 2:
+Riddle: ಕುದುರೆ ಓಡುತ್ತದೆ, ರಾಜಕುಮಾರ ಕುಳಿತುಕೊಳ್ಳುತ್ತಾನೆ.
+Answer: ಸೈಕಲ್
+
+
+Now, solve this riddle:
+Riddle : ಅಂಗೈ ಕೊಟ್ಟರೆ ಮುಂಗೈನೂ ನುಂಗುತ್ತದೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಂಕಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಣ್ಣಿಗೆ ಕಾಣಲ್ಲ, ಕೈಗೆ ಸಿಗಲ್ಲ, ಅದಿಲ್ಲದೆ ಊಟ ರುಚಿಸಲ್ಲ.
+Answer: ವಾಸನೆ
+
+Example 2:
+Riddle: ನೀರಿರೋ ತಾವ ನಿಂತಿದೆ ಕೋಣ
+Answer: ಸೇತುವೆ
+
+
+Now, solve this riddle:
+Riddle : ಒಂದು ಮರ, ಮರದಾಗ ಅಲ್ಲ, ಅಲ್ಲಿನಾಗ ಕೊಬ್ರಿ ಗುಂಡ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಉದ್ದಿನಬೇಳೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬೂದಿಯ ಮನೆಯಲ್ಲಿ ಕೆಂಡವ್ವ ಕುಂತವಳೇ, ಮುಟ್ಟಿದರೆ ಸುಡುತ್ತಾಳೆ.
+Answer: ಕೆಂಡ
+
+Example 2:
+Riddle: ನೂರು ಕೋಣೆಗಳ ಮನೆ, ಮನೆಯೊಳಗೆಲ್ಲಾ ಜನ, ಕೂಗುತ್ತಾ ಓಡುತ್ತದೆ ದೇಶ ಪರ್ಯಟನೆ.
+Answer: ರೈಲು
+
+
+Now, solve this riddle:
+Riddle : ತಕ್ಕಡೀಲಿ ಇಟ್ಟು ಮಾರೋ ಹಾಗಿಲ್ಲ, ಅದಿಲ್ಲದೆ ಹಬ್ಬ ಅಗೋ ಹಾಗಿಲ್ಲ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ತುಳಸಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಂದರೆ ಬಲು ಖುಷಿ ತಂತು, ಕಳ್ಳರ ಭಯವನ್ನೂ ಜೊತೆಗೆ ತಂತು.
+Answer: ಹಣ
+
+Example 2:
+Riddle: ಚಿಂತೆಯ ಕೋಟೆಯಲ್ಲಿ ಹನ್ನೆರಡು ಬಾಗಿಲುಗಳು, ಕಾವಲುಗಾರರು ಇಬ್ಬರು. ಒಬ್ಬನು ಒಂದು ಬಾಗಿಲ ಬಳಿ ಚಿಂತಿಸುತ್ತಾ ನಿಂತರೆ, ಇನ್ನೊಬ್ಬನು ಹನ್ನೆರಡು ಬಾಗಿಲುಗಳ ಚಿಂತೆಯನ್ನೂ ಕ್ಷಣದಲ್ಲಿ ಹೊತ್ತು ತರುತ್ತಾನೆ.
+Answer: ಮನಸ್ಸು ಮತ್ತು ಕಲ್ಪನೆ
+
+
+Now, solve this riddle:
+Riddle : ಕಡ್ಲೆ ಕಾಳಷ್ಟು ಹಿಂಡಿ೩೨ ಮನೆ ಸಾರಿಸಿ ಬಚ್ಚಲ ಪಾಲು ಆಗುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಒಲೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕೈಯಲ್ಲಿದ್ದರೆ ಜಗವೇ ಅಂಗೈಲಿ, ಕೆಳಗಿಟ್ಟರೆ ನಿದ್ರೆಯೇ ಕಣ್ತುಂಬಾ.
+Answer: ಮೊಬೈಲ್
+
+Example 2:
+Riddle: ಹಸಿರು ಕೋಟೆ, ಒಳಗೆ ಬಿಳಿ ಸಾಗರ, ಅದರೊಳಗೆ ಅಡಗಿದೆ ಅಮೃತದ ಧಾರೆ.
+Answer: ತೆಂಗಿನಕಾಯಿ
+
+
+Now, solve this riddle:
+Riddle : ಅನ್ನ ಮಾಡಲಿಕ್ಕೆ ಬಾರದಂತಹ ಅಕ್ಕಿ ಯಾವುದು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಅರಮನೆಯ ಅಕ್ಕಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಮನೆಯ ತಲೆಯ ಮೇಲೆ ಟೊಪ್ಪಿಗೆ
+Answer: ಛಾವಣಿ
+
+Example 2:
+Riddle: ಮುಳ್ಳಿನ ಬೇಲಿಯೊಳಗೆ ಸಿಂಗಾರದ ರಾಣಿ.
+Answer: ಗುಲಾಬಿ ಹೂವು
+
+
+Now, solve this riddle:
+Riddle : ಊಟಕ್ಕೆ ಕುಳಿತವರು ಹನ್ನೆರಡು ಜನರು, ಬಡಿಸುವವರು ಇಬ್ಬರು, ಒಬ್ಬನು ಒಬ್ಬರಿಗೆ ಬಡಿಸುವಸ್ಟರಲ್ಲಿ ಇನ್ನೊಬ್ಬನು ಹನ್ನೆರಡು ಜನಕ್ಕೂ ಬಡಿಸಿರುತ್ತಾನೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹಲ್ಲು ಮತ್ತು ನಾಲಿಗೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಒಂದು ಕೋಟೆ, ಕೋಟೆಯೊಳಗೆ ಅರಮನೆ, ಅರಮನೆಯಲ್ಲಿ ಜ್ಞಾನ ಸಾಗರ.
+Answer: ತಲೆ (ಮೆದುಳು)
+
+Example 2:
+Riddle: ಪುಟ್ಟ ಸೈನಿಕರು ಸಾಲಾಗಿ ನಿಂತಿದ್ದಾರೆ, ಕಣ್ಣು ಕಾಯುತ್ತಿದ್ದಾರೆ.
+Answer: ಕಣ್ರೆಪ್ಪೆಗಳು
+
+
+Now, solve this riddle:
+Riddle : ಕಂದ ಬಂದ ಕೊಂದ ತಂದ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಂಕಿಪೊಟ್ಟಣ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಉದ್ದನೆಯ ಕಪ್ಪು ಹಾವಿಗೆ ಬೆನ್ನೇರಿ, ಜನ ಹೋಗುತ್ತಾರೆ, ಮತ್ತೆ ಇಳಿಯುತ್ತಾರೆ.
+Answer: ರಸ್ತೆ, ವಾಹನ, ಪ್ರಯಾಣಿಕ
+
+Example 2:
+Riddle: ಹುಟ್ಟುತ್ತಲೇ ಮನೆ ಅದರ ಬೆನ್ನ ಮೇಲಿರುತ್ತೆ.
+Answer: ಬಸವನ ಹುಳು.
+
+
+Now, solve this riddle:
+Riddle : ದಾಸ್‌ ಬುರುಡೆ ದೌಲಥ ಬುರುಡೆ, ಲೋಕಕ್ಕೆಲ್ಲ ಎರಡೇ ಬುರುಡೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಪಾದ ಇದೆ ಕಾಲುಗಳಿಲ್ಲ, ಶಿಖರ ಇದೆ ತಲೆಯಿಲ್ಲ, ಮುಖ ಇದೆ ಕಣ್ಣುಗಳಿಲ್ಲ.
+Answer: ಪರ್ವತ
+
+Example 2:
+Riddle: ಕಿವಿಗೆ ಚುಚ್ಚಿದೆ, ಮುತ್ತು ನೇತಾಡಿದೆ
+Answer: ಓಲೆ
+
+
+Now, solve this riddle:
+Riddle : ಬೆಳ್ಳಿ ಬಟ್ಟಲಲ್ಲಿ ಮುತ್ತಿನ ಬಿಂದು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದ್ರಾಕ್ಷಿ ಹಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಸೇತುವೆಯ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಇನ್ನೊಬ್ಬ ಇಳಿಯುತ್ತಾನೆ, ಆದರೆ ಇಬ್ಬರೂ ಒಂದೇ.
+Answer: ಹಗ್ಗ, ಬಟ್ಟೆ
+
+Example 2:
+Riddle: ಕಿವಿಗೆ ಬಂದು ಮಾಯವಾದ ಅತಿಥಿ, ಬಂದ ದಾರಿ ಯಾರಿಗೂ ಅರಿವಿಲ್ಲ.
+Answer: ಮಾತು
+
+
+Now, solve this riddle:
+Riddle : ಹಸಿರು ಕೋಲಿಗೆ ಮುತ್ತಿನ ತುರಾಯಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಡಲೆಕಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಾಯವಿಲ್ಲದ ಗಾಯಕ, ಕಂಠವಿಲ್ಲದ ಹಾಡುಗಾರ, ಎಲ್ಲರ ದನಿಗೂ ತನ್ನ ದನಿ ಸೇರಿಸುವ ಜಾಣ.
+Answer: ಪ್ರತಿಧ್ವನಿ
+
+Example 2:
+Riddle: ಮಾತಾಡದ ರಾಜನಿಗೆ ಒಂದೇ ಬಾಯಿ
+Answer: ಪೆನ್
+
+
+Now, solve this riddle:
+Riddle : ಹಾರಿದರೆ ಹನುಮಂತ, ಕೂತರೆ ಮುನಿ, ಕೂಗಿದರೆ ಕಾಡಿನ ಒಡೆಯ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕತ್ತೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನೀರಿನ ಹಡಗಿಗೆ ನೊರೆಯ ಬಾಲ.
+Answer: ಹಡಗು ಮತ್ತು ನೊರೆ
+
+Example 2:
+Riddle: ಉದ್ದನೆಯ ಹಾವಿನ ಮೇಲೆ ಒಬ್ಬ ಹೋಗುತ್ತಾನೆ, ಒಬ್ಬ ಬರುತ್ತಾನೆ.
+Answer: ದಾರಿ
+
+
+Now, solve this riddle:
+Riddle : ಅಂಗಣ್ಣ ಮಂಗಣ್ಣ ಅಂಗಿ ಬಿಚ್ಚಿಕೊಂಡು ನುಂಗಣ್ಣ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬಾಳೆಹಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನೂರು ಮರಿಗಳ ತಾಯಿ ನಾನು, ಮರಿಗಳೆಲ್ಲಾ ಬೆಂಕಿ ತಿಂದು ಸಾಯುತ್ತವೆ.
+Answer: ಬೆಂಕಿಪೊಟ್ಟಣ
+
+Example 2:
+Riddle: ದೊಡ್ಡ ಮುಖ ಅದಕ್ಕೊಂದು ದಂಟು
+Answer: ಸೂರ್ಯಕಾಂತಿ
+
+
+Now, solve this riddle:
+Riddle : ಕಿರೀಟ ಇದೆ ರಾಜ ಅಲ್ಲ, ಕಲ ತಿಳಿಸುತ್ತೆ ಗಡಿಯಾರವಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹೂವು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಅರಮನೆಯಿಲ್ಲದ ಅರಮನೆ, ರಾಜನಿಲ್ಲದ ರಾಜ್ಯ
+Answer: ಕಥೆ
+
+Example 2:
+Riddle: ಕಪ್ಪು ನಾಲಿಗೆ, ಉದ್ದನೆಯ ದೇಹ, ಬಿಳಿ ಮೈ, ನಾಲಿಗೆ ಅಳುತ್ತೆ, ದೇಹ ನಡೆಯುತ್ತೆ.
+Answer: ಇಂಕ್, ಪೆನ್, ಕಾಗದ.
+
+
+Now, solve this riddle:
+Riddle : ಹಲ್ಲಿಲ್ಲದ ಹಕ್ಕಿಗೆ ಗೂಡು ತುಂಬ ಮರಿಗಳು.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದಾಳಿಂಬೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಯಾರೋ ಹೊದ್ದ ಕಂಬಳಿ ಮಡಚೋಕೆ ಆಗಲ್ಲ, ಯಾರೋ ಚೆಲ್ಲಿದ ಮುತ್ತು ಎಣಿಸೋಕೆ ಆಗಲ್ಲ.
+Answer: ಆಕಾಶ, ಮಳೆಹನಿ
+
+Example 2:
+Riddle: ನೂರು ಕೋಣೆಗಳ ಮನೆ, ಮನೆಯೊಳಗೆಲ್ಲಾ ಜನ, ಕೂಗುತ್ತಾ ಓಡುತ್ತದೆ ದೇಶ ಪರ್ಯಟನೆ.
+Answer: ರೈಲು
+
+
+Now, solve this riddle:
+Riddle : ಒಂಟಿಕಾಲಿನ ಕುಂಟ. ನಾನ್ಯಾರು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕುರ್ಚಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಸಿಹಿ ಬಟ್ಟಲೊಳಗೆ ಕಪ್ಪು ಮುತ್ತು.
+Answer: ಹಣ್ಣಿನ ಬೀಜ
+
+Example 2:
+Riddle: ** ಮೂಳೆ ಇಲ್ಲದ ಮೈಯಿಗೆ, ಸಿಪ್ಪೆಯೇ ಬಟ್ಟೆ.
+Answer: ** ಬಾಳೆಹಣ್ಣು
+
+
+Now, solve this riddle:
+Riddle : ೧೩.ಒಂದು ರುಮಾಲು ನಮ್ಮಪ್ಪನೂ ಸುತ್ತಲಾರ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೂರ್ಯನಿಗೆ ಕಿರಣಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಸುತ್ತುವ ಗಾಳಿಗೆ ಒಂದೇ ಕಾಲು.
+Answer: ಫ್ಯಾನ್
+
+Example 2:
+Riddle: ಬಣ್ಣ ಬಣ್ಣದ ಪುಕ್ಕ, ನೋಡಲು ಬಲು ಚಂದ, ಹಿಡಿಯಲು ಹೋದರೆ ಕೈಗೆ ಸಿಗದ ನಂದನ. ಅದು ಏನು?
+Answer: ಚಿಟ್ಟೆ (Butterfly)
+
+
+Now, solve this riddle:
+Riddle : ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯಲ್ಲಿ ಟೋಪಿ ಹಾಕಿರುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮಶ್ರೂಮ್
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಾಯಿ ಇದೆ, ಮಾತಾಡದು. ಹಾಸಿಗೆ ಇದೆ, ಮಲಗದು. ಸದಾ ಓಡುತ್ತದೆ, ಕಾಲುಗಳಿಲ್ಲ.
+Answer: ನದಿ
+
+Example 2:
+Riddle: ಮರದಿಂದ ತರೋದು, ಬಾಯಿಗೆ ಹಾಕಿಕೊಂಡರೆ ಹುಳಿಯೋದು
+Answer: ನಿಂಬೆಹಣ್ಣು
+
+
+Now, solve this riddle:
+Riddle : ನೀರಿರೋತಾವ ನಿಲ್ಲಲೇ ಕೋಣ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದೋಣಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನೀರು ಹಾಕಿದರೆ ಕೆಡೋಲ್ಲ, ನೆಲದ ಮೇಲೆ ಹಾಕಿದರೆ ಕೆಡುತ್ತೇ
+Answer: ಮೀನು
+
+Example 2:
+Riddle: ನೀನಿಲ್ಲದೆ ಶಿಕ್ಷಣವಿಲ್ಲ
+Answer: ಜ್ಞಾನ
+
+
+Now, solve this riddle:
+Riddle : ಹಸಿರು ಗಿಡದ ಮೇಲೆ ಮೊಸರು ಚೆಲ್ಲಿದೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹೆಸರುಬೇಳೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಸೇತುವೆಯ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಇನ್ನೊಬ್ಬ ಇಳಿಯುತ್ತಾನೆ, ಆದರೆ ಇಬ್ಬರೂ ಒಂದೇ.
+Answer: ಹಗ್ಗ, ಬಟ್ಟೆ
+
+Example 2:
+Riddle: ಬೀಸಿದರೆ ಹಾಡು, ನಿಂತರೆ ಮೌನ, ಕೋಪಗೊಂಡರೆ ರಾಕ್ಷಸ.
+Answer: ಗಾಳಿ
+
+
+Now, solve this riddle:
+Riddle : ಅಂಗೈ ಅಗಲದ ರೊಟ್ಟಿಗೆ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಉಪ್ಪಿನಕಾಯಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆವರು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಿವಿಗೆ ಬಂದು ಮಾಯವಾದ ಅತಿಥಿ, ಬಂದ ದಾರಿ ಯಾರಿಗೂ ಅರಿವಿಲ್ಲ.
+Answer: ಮಾತು
+
+Example 2:
+Riddle: ಒಂದೇ ಕತ್ತಿಗೆ ಸಾವಿರ ಮುತ್ತುಗಳು, ಆದರೆ ಯಾರೂ ಧರಿಸರು.
+Answer: ಜೋಳದ ತೆನೆ
+
+
+Now, solve this riddle:
+Riddle : ಮನೆ, ಮನೆಗೆರಡು ಬಾಗಿಲು, ಬಾಗಿಲ ಮುಂದೆ, ಮುಚ್ಚಿದರೆ ಹಾನಿ ಇದೇನು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕೊಡಲಿ ಕತ್ತರಿಸಲಾರದು, ಸುತ್ತಿಗೆ ಬಡಿಯಲಾರದು ಅದಿಲ್ಲದೆ ಕೆಲಸ ಆಗಲಾರದು
+Answer: ಯೋಜನೆ
+
+Example 2:
+Riddle: ಕಪ್ಪಾದ ಸರೋವರದಲ್ಲಿ, ಬೆಳ್ಳಿಯ ದೋಣಿ ಪಯಣಿಸುವುದು. ನಾನಾರು?
+Answer: ಚಂದ್ರ
+
+
+Now, solve this riddle:
+Riddle : ಸಾವಿರಾರು ಹಕ್ಕಿಗಳು, ಒಂದೇ ಬಾರಿಗೆ ನೀರಿಗಿಳಿತವೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮಳೆಹನಿಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಾಗದದ ಕುದುರೆಗೆ ಲೇಖನಿ ಲಗಾಮು, ಮಸಿ ಹತ್ತುತ್ತಾನೆ, ಅಕ್ಷರ ಇಳಿಯುತ್ತಾನೆ.
+Answer: ಕಾಗದ, ಲೇಖನಿ, ಅಕ್ಷರ (ಬರಹ)
+
+Example 2:
+Riddle: ಒಂಟಿ ಕಾಲಿನ ಕುಂಟ. ನಾನ್ಯಾರು?
+Answer: ಒನಕೆ
+
+
+Now, solve this riddle:
+Riddle : ಸುತ್ತ ಮುತ್ತ ಸುಣ್ಣದ ಗೋಡೆ, ಎತ್ತ ನೋಡಿದರೂ ಬಾಗಿಲಿಲ್ಲ ಇದು ಏನು ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೊಟ್ಟೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಜ್ಞಾನದ ಬುರುಡೆ ಅಜ್ಞಾನದ ಬುರುಡೆ, ಜಗತ್ತಿಗೆಲ್ಲ ಎರಡೇ ಬುರುಡೆ
+Answer: ಜ್ಞಾನ ಮತ್ತು ಅಜ್ಞಾನ
+
+Example 2:
+Riddle: ಒಂದು ಕೋಟೆ, ಕೋಟೆಯೊಳಗೆ ಅರಮನೆ, ಅರಮನೆಯಲ್ಲಿ ಜ್ಞಾನ ಸಾಗರ.
+Answer: ತಲೆ (ಮೆದುಳು)
+
+
+Now, solve this riddle:
+Riddle : ಅಗಲವಾದ ಮಾಳಿಗೆಗೆ ಒಂದೇ ಕಂಬ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಛತ್ರಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಾಯಿಲ್ಲದವಳಿಗೆ ಉದ್ದನೆಯ ಬಾಲ
+Answer: ಪೆನ್ಸಿಲ್
+
+Example 2:
+Riddle: ನಿನ್ನೆಯಿಂದ ಹುಟ್ಟಿ, ಇಂದಿನಿಂದ ಬೆಳೆದು, ನಾಳೆಯಲಿ ಸಾಯುವೆ, ಆದರೂ ನಾನು ಸದಾ ಜೀವಂತ.
+Answer: ಕ್ಷಣ
+
+
+Now, solve this riddle:
+Riddle : ಸುಟ್ಟ ಹೆಣ ಮತ್ತೆ ಸುಡ್ತಾರೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಅಡಿಕೆ ಮರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಚಿಕ್ಕಣ್ಣ ಚೋರಣ್ಣ ಕವಚ ಕಳಚಿ ತಿನ್ನಣ್ಣ
+Answer: ಕಡಲೆಕಾಯಿ
+
+Example 2:
+Riddle: ಗುಡುಗುಟ್ಟುವ ಮುದುಕನಿಗೆ ಒಂದೇ ಬಾಯಿ.
+Answer: ಬಂದೂಕು
+
+
+Now, solve this riddle:
+Riddle : ಚಿಕ್ಕ ಮನೆಗೆ ಚಿನ್ನದ ಬೀಗ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೊಟ್ಟೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕೈ ಕಾಲು ಇಲ್ಲದ ಜೀವ, ಮನೆ ಮನೆಗೆ ಹೋಗುತ್ತೆ.
+Answer: ಸುದ್ದಿ
+
+Example 2:
+Riddle: ಮೈ ಒರೆಸಿದಷ್ಟು ತಾನು ಒದ್ದೆಯಾಗುತ್ತಾನೆ, ಬೇರೆಯವರನ್ನು ಒಣಗಿಸುತ್ತಾನೆ. ಅವನು ಯಾರು?
+Answer: ಟವೆಲ್
+
+
+Now, solve this riddle:
+Riddle : ಗಿಡ ಕೊಡಲಾರದು, ಮರ ಬೆಳೆಸಲಾರದು ಅದಿಲ್ಲದೆ ಊಟ ಸೇರಲಾರದು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಉಪ್ಪು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಉದ್ದನೆಯ ದಾರಿಯಲ್ಲಿ ಒಬ್ಬ ಹೋಗುತ್ತಾನೆ, ಒಬ್ಬ ಬರುತ್ತಾನೆ.
+Answer: ದಾರಿಹೋಕರು / ವಾಹನಗಳು
+
+Example 2:
+Riddle: ಕಾಗದದ ಕುದುರೆಗೆ ಲೇಖನಿ ಲಗಾಮು, ಮಸಿ ಹತ್ತುತ್ತಾನೆ, ಅಕ್ಷರ ಇಳಿಯುತ್ತಾನೆ.
+Answer: ಕಾಗದ, ಲೇಖನಿ, ಅಕ್ಷರ (ಬರಹ)
+
+
+Now, solve this riddle:
+Riddle : ಲಟಪಟ ಲೇಡಿಗೆ ಒಂದೇ ಕಣ್ಣು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕರಂಡ/ಡಬ್ಬಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಿರೀಟವಿದೆ, ಅರಸನಲ್ಲ. ಕಣ್ಣುಗಳಿವೆ, ಪ್ರಾಣಿಯಲ್ಲ.
+Answer: ಅನಾನಸ್
+
+Example 2:
+Riddle: ಅಮ್ಮನ ಮೇಲೆ ಟೋಪಿ
+Answer: ಸೂಡು
+
+
+Now, solve this riddle:
+Riddle : ಮುಳ್ಳುಗಳಿವೆ ಅಪಾಯವಿಲ್ಲ, ಸಂಖ್ಯೆಗಳಿವೆ ಲೆಕ್ಕದ ಪುಸ್ತಕವಲ್ಲ, ಗಂಟೆ ಹೊಡೆಯುತ್ತದೆ, ದೇವಾಲಯವಲ್ಲ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಗಡಿಯಾರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ರೆಕ್ಕೆಯಿಲ್ಲ, ಪುಕ್ಕಗಳಿಲ್ಲ, ಆದರೂ ದಾರದಾಸರೆ ಹಿಡಿದು ಬಾನಲಿ ತೇಲುತ್ತೆ. ಅದೇನು?
+Answer: ಗಾಳಿಪಟ
+
+Example 2:
+Riddle: ಕಪ್ಪು ನಾಲಿಗೆ, ಉದ್ದನೆಯ ದೇಹ, ಬಿಳಿ ಮೈ, ನಾಲಿಗೆ ಅಳುತ್ತೆ, ದೇಹ ನಡೆಯುತ್ತೆ.
+Answer: ಇಂಕ್, ಪೆನ್, ಕಾಗದ.
+
+
+Now, solve this riddle:
+Riddle : ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯಲ್ಲಿ ಟೋಪಿ ಹಾಕಿರುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೊಟ್ಟೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯ ಮೇಲೆ ಟೋಪಿ ಹಾಕಿಕೊಂಡು ನಿಂತಿರುತ್ತಾನೆ.
+Answer: ಅಣಬೆ
+
+Example 2:
+Riddle: ಎರಡು ಕೈಗಳು, ಒಂದೇ ದೇಹ, ಸಮಾನತೆ ಸಾರುವುದು.
+Answer: ತಕ್ಕಡಿ
+
+
+Now, solve this riddle:
+Riddle : ಸಾಗರ ಪುತ್ರ, ಸಾರಿನ ಮಿತ್ರ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೀನು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಚಕ್ರದ ಮನೆಯಲ್ಲಿ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಊರು ತಲುಪಿ ಇಳಿಯುತ್ತಾನೆ.
+Answer: ಬಸ್ಸು
+
+Example 2:
+Riddle: ಅಡಿಗಣ್ಣ ಪುಟ್ಟಣ್ಣ ಸಿಪ್ಪೆ ಸುಲಿದು ಜಗಿಯಣ್ಣ
+Answer: ಅಡಿಕೆ
+
+
+Now, solve this riddle:
+Riddle : ಎರಡು ಗವಿಗಳಿಗೆ ಒಂದೇ ಗೋಡೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೂಗು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಗಾಳಿಯೊಳಗೆ ನಾದ ಹುಟ್ಟಿ, ಸ್ವರಗಳ ಚಕ್ರವಾಗಿ, ಕಿವಿಗೆ ಇಂಪು ಆದರೆ ಹೊಟ್ಟೆಗೆ ಸೇರದು, ಮನಸ್ಸಿಗೆ ಆನಂದ ತರುವುದು.
+Answer: ಸಂಗೀತ
+
+Example 2:
+Riddle: ಕೆಂಪು ಕಾಡಿನಿಂದ ಕಪ್ಪು ಹಕ್ಕಿಗಳು ಹಾರುತ್ತವೆ. ನಾನ್ಯಾರು?
+Answer: ಹೊಗೆ
+
+
+Now, solve this riddle:
+Riddle : ಕಣ್ಣಿಲ್ಲ, ಕಾಲಿಲ್ಲ,ಆದರು ಚಲಿಸುತಿದೆ ಯಾವುದು ಎಲ್ಲಿದೆ ಬಲ್ಲಿದನ ಹೇಳಿರಲ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ನದಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಚಿಕ್ಕ ತೂತಿಗೆ ಚಿನ್ನದ ಹೂವು
+Answer: ಕಿವಿಯೋಲೆ
+
+Example 2:
+Riddle: ಕಿವಿಗೆ ಬಂದು ಮಾಯವಾದ ಅತಿಥಿ, ಬಂದ ದಾರಿ ಯಾರಿಗೂ ಅರಿವಿಲ್ಲ.
+Answer: ಮಾತು
+
+
+Now, solve this riddle:
+Riddle : ಚಿಕ್ಕಕ್ಕನಿಗೆ ಪುಕ್ಕುದ್ದ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಂಕಿಕಡ್ಡಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಂತು ಬದುಕು, ತಂತು ಸಂತೋಷ ಕಷ್ಟ ಎರಡೂ.
+Answer: ಜೀವನ
+
+Example 2:
+Riddle: ಅಂಗಡಿಯಿಂದ ತರೋದು ಬಾಯಿಗೆ ಹಾಕೊಂಡ್ರೆ ಕಣ್ಣಲ್ಲಿ ನೀರು ಬರುತ್ತೆ
+Answer: ಮೆಣಸಿನಕಾಯಿ
+
+
+Now, solve this riddle:
+Riddle : ಎಲ್ಲರ ಮನೆ ಅಜ್ಜಿಗೆ ಮೈಯೆಲ್ಲಾ ಕಜ್ಜಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಉರುವಲು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಗಿಡ್ಡನೆಯ ಮರಕ್ಕೆ ನೂರಾರು ಬಟ್ಟೆಗಳು
+Answer: ಎಲೆಕೋಸು
+
+Example 2:
+Riddle: ನೆಲ ಹಾಸಿದೆ, ಕೊಡೆ ಬಿಚ್ಚಿದೆ
+Answer: ಅಣಬೆ
+
+
+Now, solve this riddle:
+Riddle : ಹಲ್ಲು ಹಾಕಿದರೆ ಹಾಲು ಕೆಡೋಲ್ಲ ಕಲ್ಲು ಹಾಕಿದರೆ ಕೆಡುತ್ತೇ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹಾಲು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಂಠದೊಳಗೆ ರಾಗ ಹುಟ್ಟಿ, ನಾದ ಚಕ್ರ ಸ್ವರವಾಗಿ, ಕಿವಿಗೆ ಹಣ್ಣು, ಬಾಯಿಗೆ ದಕ್ಕದು, ಕೇಳಲು ಬಲು ಇಂಪು.
+Answer: ಹಾಡು
+
+Example 2:
+Riddle: ಒಂದು ಛತ್ರಿಗೆ ಒಂದೇ ಕಾಂಡ
+Answer: ಮಶ್ರೂಮ್
+
+
+Now, solve this riddle:
+Riddle : ಕಲ್ಲಿಲ್ಲದ ಬೆಟ್ಟ ಮರಳಿಲ್ಲದ ಮರುಭೂಮಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೋಡ, ಮಬ್ಬು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನನ್ನ ಬಳಿ ಹನ್ನೆರಡು ಮನೆಗಳಿವೆ. ಅದರ ಮೇಲೆ ಓಡಾಡುವವರು ಇಬ್ಬರು. ಒಬ್ಬನು ಒಂದು ಮನೆ ದಾಟುವಷ್ಟರಲ್ಲಿ, ಇನ್ನೊಬ್ಬನು ಹನ್ನೆರಡು ಮನೆಗಳನ್ನೂ ದಾಟಿರುತ್ತಾನೆ.
+Answer: ಹಬ್ಬುವ ಬಳ್ಳಿ
+
+Example 2:
+Riddle: ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯ ಮೇಲೆ ಟೋಪಿ ಹಾಕಿಕೊಂಡು ನಿಂತಿರುತ್ತಾನೆ.
+Answer: ಅಣಬೆ
+
+
+Now, solve this riddle:
+Riddle : ಒಂದು ಹಣ್ಣಿಗೆ ಹನ್ನೆರಡು ತೊಳೆ ಮತ್ತೂ ಮೂವತ್ತು ಬೀಜ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ವರ್ಷ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಿರೀಟ ಹೊತ್ತ ರಾಜನಿಗೆ ಒಂದೇ ಕಾಲು
+Answer: ಅಣಬೆ
+
+Example 2:
+Riddle: ಮೂಡಿದ, ಬೆಳಗಿದ, ಮುಳುಗಿದ, ಪೊರೆದ.
+Answer: ಸೂರ್ಯ
+
+
+Now, solve this riddle:
+Riddle : ಅಕ್ಕನ ಮೇಲೆ ಛತ್ರಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಎಲೆ ಮಂಜರಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಮಳೆನೀರಿನಿಂದ ಹುಟ್ಟುವುದು, ದಾರಿಯುದ್ದಕ್ಕೂ ಮಕ್ಕಳನ್ನು ಸೇರಿಸಿಕೊಂಡು ಸಮುದ್ರ ಸೇರುವುದು ಇದು ಏನು?
+Answer: ನದಿ
+
+Example 2:
+Riddle: ಒಬ್ಬನೇ ದೀಪ, ಸಾವಿರಾರು ಹೃದಯಗಳಿಗೆ ಜ್ಞಾನದ ಪ್ರದೀಪ.
+Answer: ಗುರು
+
+
+Now, solve this riddle:
+Riddle : ಅಬ್ಬಬ್ಬ ಹಬ್ಬ ಬಂತು, ಸಿಹಿಕಹಿ ಎರಡೂ ತಂತು.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಬ್ಬು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕಪ್ಪು ಹೊಲದಲ್ಲಿ ಬೆಳೆಯುವ ಬೆಳೆ, ಕೊಯಿದಷ್ಟೂ ಮತ್ತೆ ಹುಲುಸಾಗಿ ಬೆಳೆಯುತ್ತದೆ.
+Answer: ಕೂದಲು
+
+Example 2:
+Riddle: ತೇಲಿದರೆ ಹಂಸ, ಕಪ್ಪಾದರೆ ಕಾಡಾನೆ, ಅತ್ತರೆ ಜಲಪಾತ.
+Answer: ಮೋಡ
+
+
+Now, solve this riddle:
+Riddle : ಹೋದ ನೆಂಟ, ಬಂದ ದಾರಿ ಗೊತ್ತಿಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕೆಂಡದ ಕಿಡಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಿಳಿ ಹೊಲದಲ್ಲಿ ಕಪ್ಪು ಎಳ್ಳು ಚೆಲ್ಲಿದೆ.
+Answer: ಅಕ್ಷರಗಳು
+
+Example 2:
+Riddle: ಸಮುದ್ರದಲ್ಲಿ ಹುಟ್ಟಿ ಸಮುದ್ರದಲ್ಲಿ ಬೆಳೆದು, ಸಮುದ್ರದಿಂದ ಹೊರಟು ಅಡಿಗೆ ಸೇರುವುದು.
+Answer: ಉಪ್ಪು
+
+
+Now, solve this riddle:
+Riddle : ಗುಂಡಾಕಾರ ಮೈಯೆಲ್ಲಾ ತೂತು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕೊಂಬು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಒಂಟಿ ಕಾಲಿನ ಕುಂಟ. ನಾನ್ಯಾರು?
+Answer: ಒನಕೆ
+
+Example 2:
+Riddle: ಆಕಾಶದಿಂದ ಬಂದ, ಬಾಯಾರಿಕೆ ಕೊಂದ, ಜೀವ ತಂದ
+Answer: ಮಳೆ
+
+
+Now, solve this riddle:
+Riddle : ಅಜ್ಜಿಯ ಸೀರೆ ಮಡಚೋಕೆ ಆಗಲ್ಲ, ಅಜ್ಜನ ರೊಕ್ಕ ಎಣಿಸೋಕೆ ಆಗಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ನಕ್ಷತ್ರ, ಆಕಾಶದಲ್ಲಿನ ನಕ್ಷತ್ರಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಹೇಳಿದರೆ ಅಪಾಯ, ಮುಚ್ಚಿಟ್ಟರೆ ಭಾರ; ಬಾಯಿಂದ ಹೊರಬಂದರೆ ನಾಶ.
+Answer: ರಹಸ್ಯ
+
+Example 2:
+Riddle: ಕಿರೀಟ ಹೊತ್ತ ರಾಜನಿಗೆ ಒಂದೇ ಕಾಲು
+Answer: ಅಣಬೆ
+
+
+Now, solve this riddle:
+Riddle : ನೀಲಿ ಸಾಗರದಲ್ಲಿ ಬೆಳ್ಳನೆ ಮೀನುಗಳು ನಾನ್ಯಾರು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ನಕ್ಷತ್ರಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ರಾತ್ರಿ ಹೊತ್ತು ಓಡಾಡುವೆ, ಬಿಳಿ ಬಟ್ಟೆ ಧರಿಸುವೆ, ನನ್ನ ಹೆಸರು "ಅಮ್ಮೋ!", ನಾನು ಯಾರು?
+Answer: ದೆವ್ವ
+
+Example 2:
+Riddle: ಪಾದ ಇದೆ ಕಾಲುಗಳಿಲ್ಲ, ಶಿಖರ ಇದೆ ತಲೆಯಿಲ್ಲ, ಮುಖ ಇದೆ ಕಣ್ಣುಗಳಿಲ್ಲ.
+Answer: ಪರ್ವತ
+
+
+Now, solve this riddle:
+Riddle : ಮರದೊಳಗೆ ಮರ ಹುಟ್ಟಿ ಮರ ಚಕ್ರ ಕಾಯಾಗಿ ತಿನ್ನಬಾರದ ಹಣ್ಣು ಬಲು ರುಚಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಲ್ಲಂಗಡಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನೂರು ಕೋಣೆಗಳ ಮನೆ, ಮನೆಯೊಳಗೆಲ್ಲಾ ಜನ, ಕೂಗುತ್ತಾ ಓಡುತ್ತದೆ ದೇಶ ಪರ್ಯಟನೆ.
+Answer: ರೈಲು
+
+Example 2:
+Riddle: ಹುಟ್ಟಿ ಹರಿದು ಕೂಡಿ ಸೇರಿತು
+Answer: ನದಿ
+
+
+Now, solve this riddle:
+Riddle : ಕೈಲಿದ್ದಾಗ ಗುದಿಸಾಡುತ್ತೇನೆ, ಕೈ ಬಿಟ್ಟಾಗ ಗೊರಕೆ ಒಡೆಯುತ್ತೇನೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಚಪ್ಪಲಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ನೀರು ಹಾಕಿದರೆ ಕೆಡೋಲ್ಲ, ವಿಷ ಹಾಕಿದರೆ ಕೆಡುತ್ತೇ
+Answer: ಸಸಿ
+
+Example 2:
+Riddle: ಒಂದು ಸಾಗರ, ನಮ್ಮಪ್ಪನೂ ಕುಡಿಯಲಾರ.
+Answer: ಸಮುದ್ರ
+
+
+Now, solve this riddle:
+Riddle : ಅಪ್ಪ ಆಕಾಶಕ್ಕೆ ಅವ್ವ ಪಾತಾಳಕ್ಕೆ ಮಗ ವ್ಯಾಪಾರಕ್ಕೆ ಮಗಳು ಮದುವೆಗೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಗಂಜಿ, ಉಪ್ಪು, ಉರುವಲು, ಕುಪ್ಪಸ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಒಂದು ಸಣ್ಣ ತುಂಡು, ಸಾವಿರಾರು ಪದಗಳಿಗೆ ರೂಪ ಕೊಟ್ಟು ತಾನೇ ಸವೆದು ಹೋಗುತ್ತೆ.
+Answer: ಪೆನ್ಸಿಲ್ ಸೀಸ
+
+Example 2:
+Riddle: ಸಮುದ್ರದಲ್ಲಿ ಹುಟ್ಟಿ ಸಮುದ್ರದಲ್ಲಿ ಬೆಳೆದು, ಸಮುದ್ರದಿಂದ ಹೊರಟು ಅಡಿಗೆ ಸೇರುವುದು.
+Answer: ಉಪ್ಪು
+
+
+Now, solve this riddle:
+Riddle : ಹೊಕ್ಕಿದ್ದು ಒಂದಾಗಿ ಹೊರಟಿದ್ದು ಅದು ನೂರಾಗಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹತ್ತಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಚಿಕ್ಕ ತೋಟಕ್ಕೆ ಕಪ್ಪು ಗಿಡಗಳು
+Answer: ಕೂದಲು
+
+Example 2:
+Riddle: ದೊಡ್ಡ ತಲೆಗೆ ಬಾಗಿದ ನಳಿಕೆಯ ಕೈ.
+Answer: ಆನೆ ಸೊಂಡಿಲು
+
+
+Now, solve this riddle:
+Riddle : ಚಿಣಿಮಿನಿ ಎನ್ನುವ ಕೆರೆ, ಚಿಂತಾಮಣಿ ಎನ್ನುವ ಹಕ್ಕಿ, ಕೆರೆ ಬತ್ತಿದರೆ ಹಕ್ಕಿಗೆ ಮರಣ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಂಕಿ ಮತ್ತು ಕಿಡಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ** ಹಲ್ಲುಗಳಿವೆ ತಿನ್ನುವುದಿಲ್ಲ, ಬೆನ್ನಿದೆ ಮನುಷ್ಯನಲ್ಲ
+Answer: ** ಬಾಚಣಿಗೆ
+
+Example 2:
+Riddle: ಕಣ್ಣಿಲ್ಲದ ಸುಂದರಿ, ಎಲ್ಲರ ರೂಪ ತೋರಿಸುತ್ತಾಳೆ
+Answer: ಕನ್ನಡಿ
+
+
+Now, solve this riddle:
+Riddle : ಅಂಗಡಿಯಿಂದ ತರೋದು ಮುಂದಿಟ್ಟುಕೊಂಡು ಅಳೋದು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಈರುಳ್ಳಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಕೆಂಪು ಗುಹೆಯಲ್ಲಿ ಬಿಳಿ ಕಲ್ಲುಗಳು.
+Answer: ಹಲ್ಲುಗಳು
+
+Example 2:
+Riddle: ಹಸಿರು ಗಿಡದ ತುಂಬೆಲ್ಲಾ ಕೆಂಪು ಮುತ್ತುಗಳು, ನಾನ್ಯಾರು?
+Answer: ಟೊಮ್ಯಾಟೊ ಹಣ್ಣು
+
+
+Now, solve this riddle:
+Riddle : ನಾ ಇರುವಾಗ ಬರುತ್ತೆ, ನಾ ಹೋದ ಮೇಲೂ ಇರುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ನೆರಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಮಾತಿರೋತಾವ ನಿಲ್ಲಲೇ ಕೋಣ?
+Answer: ಮಾತು
+
+Example 2:
+Riddle: ಕಾಲು ಹಿಡಿದ ಕರಾಮತ್ತು, ಬೇಡ ಬೇಡ ಎಂದರೂ ಜೂತೆಯೇ ಬರುತ್ತೆ.
+Answer: ಮಾಡಿದ ತಪ್ಪು
+
+
+Now, solve this riddle:
+Riddle : ಗೂಡ್ನಲ್ಲಿರೋ ಜೋಡಿ ಪಕ್ಷಿ ಊರೆಲ್ಲ ನೋಡುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಿಟಕಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಬಾ ಅಂದರೆ ಬರೋಲ್ಲ, ಹೋಗು ಅಂದರೆ ಹೋಗೋಲ್ಲ.
+Answer: ನಿದ್ರೆ
+
+Example 2:
+Riddle: ಬೂದಿಯ ಮನೆಯಲ್ಲಿ ಕೆಂಡವ್ವ ಕುಂತವಳೇ, ಮುಟ್ಟಿದರೆ ಸುಡುತ್ತಾಳೆ.
+Answer: ಕೆಂಡ
+
+
+Now, solve this riddle:
+Riddle : ಲಟಪಟ ಲೇಡಿಗೆ ಒಂದೇ ಕಣ್ಣು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಿರುಬಿಲ್ಲೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples of Kannada riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ಅಜ್ಜನ ಮನೆ, ಅಮ್ಮನ ಮನೆ, ತೆಗೆದರೆ ದೊಡ್ಡದಾಗುವ ಮನೆ.
+Answer: ಗುಂಡಿ
+
+Example 2:
+Riddle: ಒಂದು ಸಣ್ಣ ಮನೆ, ಮನೆಯೊಳಗೆ ಜೀವ, ಜೀವದೊಳಗೆ ದೊಡ್ಡ ಕಾಡು.
+Answer: ಬೀಜ
+
+
+Now, solve this riddle:
+Riddle : ಕುತ್ತಿಗೆ ಇದೆ ತಲೆ ಇಲ್ಲ, ತೋಳಿದೆ ಬೆರಳಿಲ್ಲ, ದಡಾ ಇದೆ, ಕಾಲಿಲ್ಲ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ನದಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Mon May 26 16:02:54 2025 ---

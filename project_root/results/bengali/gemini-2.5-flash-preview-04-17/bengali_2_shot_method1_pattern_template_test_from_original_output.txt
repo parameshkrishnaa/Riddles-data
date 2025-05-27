@@ -1,0 +1,2812 @@
+
+--- Starting New Generation Run at Mon May 26 22:00:58 2025 ---
+Model: gemini-2.5-flash-preview-04-17, Language: Bengali, Prompt: 2_shot_method1_pattern_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Bengali riddles.
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শৈশবে প্রাণভরে খায় পাতা সবুজ, বড় হলে সুতোয় বাঁধে নিজেরই অবুঝ।
+Answer: রেশম পোকা
+
+Example 2:
+Riddle: শক্ত হলে তার উপর হাঁটা যায়, নরম হলে ডুবে মরে যায়।
+Answer: জল/বরফ
+
+Now, solve this riddle:
+Riddle : কাঁচাতে যেই ফল সর্বজনে খায়, পাঁকলে সেই ফল গড়াগড়ি যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বেল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: স্বাদহীন খাবার, রস ছাড়া ফল কোথায় লেখা থাকে?
+Answer: রান্নার বইয়ে বা মেনুতে
+
+Example 2:
+Riddle: কোথায় রাজা রাজ্য ছাড়া, সৈনিক অস্ত্র ছাড়া এবং যুদ্ধ রক্তপাত ছাড়া পাওয়া যায়?
+Answer: বইয়ের পাতায়
+
+Now, solve this riddle:
+Riddle : জল ছাড়া নদী, পাথর ছাড়া পাহাড় এবং মানুষ ছাড়া শহর কোথায় পাওয়া যায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানচিত্রে
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: বুদ্ধি খাটিয়ে বলো দেখি, কোন ফলে ফল ধরে না?
+Answer: বিফল
+
+Example 2:
+Riddle: কোন বিচারে বিচার হয় না?
+Answer: অবিচার
+
+Now, solve this riddle:
+Riddle : যদি থাকে বুদ্ধি বলো দেখি কোন সুখে সুখ নেই?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+অসুখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এক ডজন কলা থেকে বারোটা কলা খেলে, আর ক'টা থাকে?
+Answer: শূন্য
+
+Example 2:
+Riddle: এক ঝুড়ি ডিমের মজা ভারি, দুই ডজন ডিম ছিল, তা থেকে ছয় হালি নিলে পরে, আর কটা থাকে বলো তো ঝুড়ির ভিতরে?
+Answer: শূন্য
+
+Now, solve this riddle:
+Riddle : কালিদাস পন্ডিতের ফাঁকি, আড়াইশো থেকে পাঁচ পঞ্চাশ গেলে আর কত থাকে বাকী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+শূন্য
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কালো পাহাড়ের মত জমে, ঘোড়ার মত ছুটে যায়, চোখ দিয়ে জল ফেলে।
+Answer: মেঘ
+
+Example 2:
+Riddle: চোখ আছে কিন্তু দেখে না, ধারালো মুখ তবু খায় না, অন্যের সাহায্য ছাড়া চলে না।
+Answer: সুঁচ
+
+Now, solve this riddle:
+Riddle : বাঘের মত লাফ দেয়, কুকুর হয়ে বসে, পানির মধ্যে ছেড়ে দিলে, ছোলা হয়ে ভাসে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছোট্ট এক সাহেব, মাথায় তার টুপি লাল। দেওয়ালে মাথা ঠুকলেই, জ্বলে ওঠে তার চাল।
+Answer: দেশলাই কাঠি
+
+Example 2:
+Riddle: দূর দেশ থেকে আসে, জামা পরা গায়ে, জামা খুললেই খবর জানা যায়।
+Answer: চিঠি
+
+Now, solve this riddle:
+Riddle : শহর থেকে এল সাহেব কোর্ট প্যান্ট পরে, কোর্ট প্যান্ট খোলার পরে চোখ জ্বালা করে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পেঁয়াজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরের নাম তার, সে অনেক উঁচু আর স্থির, মাঝের অক্ষর বাদ দিলে হয় নদীর তীর।
+Answer: পাহাড়
+
+Example 2:
+Riddle: তিন অক্ষরের নাম, মাথায় সবার থাকে, মাঝের অক্ষর বাদ দিলে, জল পড়ে অবিরাম ডাকে।
+Answer: কপাল
+
+Now, solve this riddle:
+Riddle : ৩ অক্ষরের নাম তার পেট ভরে পানি খায় মাঝের অক্ষর বাদ দিলে আলোয় ভরে যায়,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বালতি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাথা আছে, মুন্ডু নাই, হাত পা কিছু নাই, ধাক্কা খেয়ে দেওয়ালে সেঁধিয়ে যায়।
+Answer: পেরেক।
+
+Example 2:
+Riddle: মুখ আছে কথা বলেনা, খাবার না খেয়ে মোটা হয়, রোগা হয় সব হারালে।
+Answer: মানিব্যাগ।
+
+Now, solve this riddle:
+Riddle : কান নাই মাথা নাই, পেট ভরে খায়, কাম নাই কাজ নাই, মাথা নিয়ে ঘুমায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলসি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমি চলি, কিন্তু পা নেই আমার। আমি কথা কই, কিন্তু জিভ নেই আমার। নই আমি জীব, তবু জীবনের অপরিহার্য অঙ্গ। কখনও আনি সুখের মুহূর্ত, কখনও দুঃখের সঙ্গ।
+Answer: ঘড়ি।
+
+Example 2:
+Riddle: আমি শান্তি আনি, আমি অশান্তিও আনি, নই আমি দেবতা, তবু আমার জন্যেই কত হানাহানি।
+Answer: টাকা
+
+Now, solve this riddle:
+Riddle : আমি কাদাঁই, আমি হাসাই, নই আমি প্রাণি, আমায় দেখে সবাই ক্ষনিক ভোলে ব্যাথার বানী।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+সিনেমা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সবার হাতে ঘুরি ফিরি, নিজের কোনো হাত নাই। কত কিছু কিনে দিই, নিজে কিছুই খাই না ভাই।
+Answer: টাকা
+
+Example 2:
+Riddle: বুকের ভিতর চুপটি করে থাকি, কাউকেই না বলি। যদি বলি ফেটে যায়, নইলে মনে জ্বলি।
+Answer: গোপন কথা
+
+Now, solve this riddle:
+Riddle : আন্ধার ঘরে থাকি আমি নড়াচড়া করি, একটুখানি খাবার পেলে খাবলে তাকে ধরি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জিহ্বা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দাঁত আছে অনেক তার, কামড়াতে জানে না। পরের ঘরের তালা খোলে, নিজে কভু ঢোকে না।
+Answer: চাবি।
+
+Example 2:
+Riddle: বস্তা ভরে আসে ঘরে, সাদা গুঁড়ো শরীর। জল মেখে তাপে সেঁকলে, পেট ভরায় হাজির।
+Answer: রুটি
+
+Now, solve this riddle:
+Riddle : হাঁড়ির ভিতর, বালির ভিতর হাজার ছেলে নাচে, একটু পরই হয় সে খাবার তপ্ত চুলার আঁচে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+খই
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছোট্ট এক মাঠ, তাতে কতো ফসল ফলে। গুনতে গেলে দিনের আলো নিভে যায়।
+Answer: মাথা ও চুল।
+
+Example 2:
+Riddle: এমন এক রাজা, যার নেই কোনো রাজ্যপাট। হাজার সিপাই তার, দাঁড়িয়ে থাকে ঠাঁট।
+Answer: মৌচাক ও মৌমাছি।
+
+Now, solve this riddle:
+Riddle : এতো বড় আঙিনা ঝাড় দিয়েও কুলোয় না। কতো ফুল ফুটে আছে নাই তার তুলনা!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ ও তারা।
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দু চাকার উপর বসি, চার পায়ে চলি। নিজে জীব নই, বোঝা বয়ে বেড়াই।
+Answer: গরুর গাড়ি।
+
+Example 2:
+Riddle: দু চাকার উপর বসি, দু পায়ে ঘুরি। নিজে পা নেই, তবু পথ চিনি।
+Answer: সাইকেল।
+
+Now, solve this riddle:
+Riddle : চার পায়ে বসি মোরা, আট পায়ে চলি। বাঘও নই ভাল্লুকও নই আস্ত কাঁধে ঝুলি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পালকি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম তার, বিশ্রাম নাও যবে, মাঝের অক্ষর বাদ দিলে সুর ওঠে তবে।
+Answer: বিছানা
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার লেখা যায় তাতে, মাঝের অক্ষর বাদ দিলে করতে হয় হাতে।
+Answer: কাগজ
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম তার সর্ব অঙ্গে কালো, মাঝের অক্ষর বাদ দিলে খেতে লাগে ভাল
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কয়লা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: নিজে যায় না কোথাও, কিন্তু মানুষকে পৌঁছে দেয় নানান ঠাঁই।
+Answer: রাস্তা
+
+Example 2:
+Riddle: নদীর বুকে শুয়ে থাকি, পার করে দিই হাজার জনকে, নিজে কিন্তু এক চুলও নড়ি না, বলতে পারো আমি কে?
+Answer: সেতু
+
+Now, solve this riddle:
+Riddle : আশ্চর্য এক কথা শুনলে হাসি পায় নিজে দেখতে পায় না কিন্তু অপরকে দেখায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আয়না
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরের নাম তার, সবার মাথায় থাকে। প্রথম অক্ষর ছেড়ে দিলে পশুরা জোট বাঁধে।
+Answer: কপাল
+
+Example 2:
+Riddle: তিন অক্ষরের নাম তার, পেলে শান্তি লাগে। প্রথম অক্ষর ছেড়ে দিলে পূজনীয় দেব হয় যে।
+Answer: আরাম
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরের নাম তার সবাই খায়, প্রথম অক্ষর ছেড়ে দিলে মেয়েদের হাতে যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আদা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: গলা আছে, মাথা নাই, পেট আছে, প্রাণ নাই।
+Answer: বোতল
+
+Example 2:
+Riddle: মাথা আছে, মগজ নাই। শরীর আছে, জীবন নাই।
+Answer: পেরেক
+
+Now, solve this riddle:
+Riddle : চোখ আছে, কান নাই, হাত আছে, প্রাণ নাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পুতুল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: গোল গোল ভাই অনেকগুলো, সবার গায়ে একই চিহ্নগুলো, মুখেতে নেইকো লোমের ছিটে, জমলে পরে ধন বাড়ায় বটে।
+Answer: মুদ্রা
+
+Example 2:
+Riddle: বত্রিশ ভাই এক উঠানে নাচে, সবার সাদা ধুতি। কারো মুখে কথা নাই, কাজ করে দিবারাতি।
+Answer: দাঁত
+
+Now, solve this riddle:
+Riddle : এক বাড়িতে চার ভাই, তাদের গায়ে একই সাজ, কারো মুখে কেশ নাই, দিন শেষে বাড়ায় রাজ।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+টেক্কা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শব্দ শুনে জেগে ওঠে, আলো দেখলে ছবি ধরে, কথা বলা শেষ হলে আবার চুপ করে যায়।
+Answer: মোবাইল ফোন
+
+Example 2:
+Riddle: আঙুলের ডগায় বসে থাকে, এক বোতাম চাপলে, দেশ-বিদেশ ঘুরে আসে।
+Answer: বার্তা
+
+Now, solve this riddle:
+Riddle : এক পায়ে দাঁড়িয়ে আছে, হাত দিয়ে ঠেলে দিলে, দৌড়ে পালিয়ে যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লাটিম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: নিজে খায় না, কিন্তু অন্যদের খাওয়ায়।
+Answer: চামচ
+
+Example 2:
+Riddle: রঙিন পোশাক পরা এক সাদা সমুদ্র, তার উপর কালো পোকারা হেঁটে বেড়ায়।
+Answer: বই
+
+Now, solve this riddle:
+Riddle : সাদা দুটি পুকুরে কালো হিরে চকচক করে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মুখ নেই তবু খায়, পা নেই তবু নাচে, ঘরবাড়ি নেই তবু আলো ছড়ায়।
+Answer: আগুন
+
+Example 2:
+Riddle: দিনের বেলায় আসে না কাছে, রাতের বেলায় মন জুড়ে থাকে। ঘরবাড়ি নেই, ঘুমের ঘোরে ভাসে।
+Answer: স্বপ্ন
+
+Now, solve this riddle:
+Riddle : দিনের বেলায় ঘুমিয়ে থাকে রাতের বেলায় জাগে ঘর-বাড়ি নেই আকাশেতে থাকে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাঁদ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শিক্ষক নয়, তবু জ্ঞান দেয়। মুখ নেই, তবু কথা কয়।
+Answer: বই
+
+Example 2:
+Riddle: শরীর নেই তবু রোগা হয়, জল পেলে মোটা হয়।
+Answer: ছাতা
+
+Now, solve this riddle:
+Riddle : চাঁদ নয় সূর্য নয় আলো দেয় রাতে গাছে গাছে উড়ে বেড়ায় টিমটিম আলোতে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জোনাকি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মুখ আছে কথা বলেনা, দাঁত আছে খায়না, বাড়ি পাহারা দেয় কিন্তু নড়াচড়া করেনা। এটি কি?
+Answer: তালা
+
+Example 2:
+Riddle: মেরুদণ্ড আছে কিন্তু দাঁড়াতে পারে না, পাতাও আছে কিন্তু গাছ নয়। বলো তো কী?
+Answer: বই
+
+Now, solve this riddle:
+Riddle : গলা আছে মাথা নেই হাত আছে পা নেই এটি কি বলবে আমায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জামা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মানুষ নয়, তবু কাঁদে। পাখি নয়, তবু উড়ে যায়। সিংহ নয়, তবু গর্জন করে। পাহাড় নয়, তবু আকাশ ঢেকে রাখে।
+Answer: মেঘ
+
+Example 2:
+Riddle: টিয়া পাখি নয়, কিন্তু নকল করে। জল নয়, কিন্তু রূপ দেখায়। সাক্ষী নয়, কিন্তু সবই দেখে। বিচারক নয়, কিন্তু সত্যিটা বলে দেয়।
+Answer: আয়না
+
+Now, solve this riddle:
+Riddle : বাঘ নয় তবে মানুষ খায় পাখি নয় তবে উড়ে যায় বোলতা নয় তবে শুং আছে জন্তু নয় তবে পা আছে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কম্পিউটার ভাইরাস
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শীতের রাতে শরীর ঢাকে যত্নে, গরম এলে বাক্সবন্দী থাকে চুপে চুপে।
+Answer: লেপ
+
+Example 2:
+Riddle: উৎসব অনুষ্ঠানে পরিধান করি সবে, অন্য সময় থাকি বন্দি সিন্দুকেতে নীরবে।
+Answer: গয়না
+
+Now, solve this riddle:
+Riddle : মাথার উপর রাখে আমায় রোদ-বর্ষার দিনে বাকি সময় পড়ে থাকি শুধু ঘরের কোনে৷
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছাতা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সবাই জেগে আছে, আমি ঘুমিয়ে। আমার ঘুমটা কেমন? একটু শব্দে ভেঙে যায় যেটা, বলবে সেটা কী?
+Answer: কাঁচা ঘুম
+
+Example 2:
+Riddle: উৎসব নয়, পরব নয়, আমাতে শুভ কী? দিনের শুরুতে আসে, বলবে সেটি কী?
+Answer: শুভ সকাল
+
+Now, solve this riddle:
+Riddle : দাদু বুড়ো, ঠাকুমা বুড়ি আমাতে বুড়ো কী? পাঁচ আঙুলে রয়েছে সেটি বলবে সেটি কী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বুড়ো আঙুল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কালো মেঘের পেটটি চিরে, ঝরে পড়ে লক্ষ হীরে।
+Answer: বৃষ্টি
+
+Example 2:
+Riddle: গাছে থাকে শস্যের বাড়ি, বাড়ির ভেতর দাঁতের সারি।
+Answer: ভুট্টা
+
+Now, solve this riddle:
+Riddle : উপরে থেকে পড়ল হাঁড়ি হাঁড়ির ভেতরে একশো কড়ি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ডালিম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: খামের ভেতরে বন্দী, দেশ-বিদেশে ঘোরে সে নিরবধি।
+Answer: চিঠি
+
+Example 2:
+Riddle: একটা বড় বাক্সের ভেতর ছোট ছোট ঘর, তাতে নিয়ে যাই খাবার দুপুর ভর।
+Answer: টিফিন বক্স
+
+Now, solve this riddle:
+Riddle : ঘরের ভেতরে ঘর সেখানে গিয়ে শুয়ে পড়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মশারি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাটির নিচে হাজার সেনা, চোখে দেখা যায় না কণা।
+Answer: পিঁপড়ের বাসা
+
+Example 2:
+Riddle: রাতের আকাশে মুক্তো ছড়ানো, গুণতে গেলে মাথা যায় বিগড়ানো।
+Answer: তারা
+
+Now, solve this riddle:
+Riddle : এক থালা সুপারি গুণতে না পারি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাথায় সোনালী কেশ, গায়ে সারি সারি চোখ।
+Answer: ভুট্টা
+
+Example 2:
+Riddle: জলে জন্ম, জলেই নাশ, তবু জল পেলে হয় সর্বনাশ।
+Answer: নুন
+
+Now, solve this riddle:
+Riddle : জটা ভরা মাথায় হাজার চোখে তাকায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আলু
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমি ঘরের দ্বার বন্ধ করি, মাঝের বর্ণ ছেড়ে দিলে তীক্ষ্ণ স্বাদ বোঝাই।
+Answer: কপাট
+
+Example 2:
+Riddle: আমার ছোঁয়া গরম লাগে, মাঝের বর্ণ গেলে খাবার হয়ে যাই।
+Answer: গরম
+
+Now, solve this riddle:
+Riddle : থাকি গভীর জলে মাঝের বর্ণ ছেড়ে দিলে আকাশে যাই উড়ে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+) - 2 letters. বক (Bok - Crane) - 2 letters.
+Water plantsকামট
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সারা গায়ে চোখ, একটিও দেখে না। রসে ভরা পেট, তবু কথাটি কয় না। কে সে?
+Answer: আনারস
+
+Example 2:
+Riddle: দুটো মাথা, ছ'টা পা, পিঠে চড়ে যায় চলে। বলো তো দেখি, কে তারা, এমন আজব কলে?
+Answer: ঘোড়সওয়ার ও ঘোড়া
+
+Now, solve this riddle:
+Riddle : প্রজাপতি, প্রজাপতি বলছি শোন কী তিনটি মাথা, দশটি ঠ্যাং দেখেছ তুমি কি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+একজন মানুষ ও দুটি বিড়াল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সোনা ঝকঝক, রূপো ঝকঝক, আর ঝকঝকে কে রাতে আকাশে মিটমিট করে জ্বলে আমায় চেন কি?
+Answer: তারা
+
+Example 2:
+Riddle: সূর্য আলো দেয়, জোনাকিও আলো দেয়, আর আলো দেয় কে, যে নিজে জ্বলে শেষ হয়ে যায়? বলো দেখি আমি কে?
+Answer: মোমবাতি
+
+Now, solve this riddle:
+Riddle : লেবু টক, জলপাই টক আর টক কী পাতার আড়ালে ঝুলে থাকি আমায় চেন কি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: রাতে আকাশে আলো ছড়াই, কখনো গোল কখনো বাঁকা; আমার মায়ায় জোয়ার আসে, কবিরা লেখে কত কাব্য। শিশুরা আমায় মামা ডাকে, আকাশের রানী যেন আমি; স্নিগ্ধ আলোয় ভুবন ভরি, তাই তো নাম মোর শশী।
+Answer: চাঁদ
+
+Example 2:
+Riddle: রূপ নেই, আকার নেই, পাত্রে নিই যে রূপ; পিপাসা মেটাই সবার, জীবন রক্ষার ঝর্ণারূপ?
+Answer: জল
+
+Now, solve this riddle:
+Riddle : লম্বা কেশর ফুলিয়ে তোলা গম্ভীর মেজাজ; রাজার মতো চেহারা তাই নামটি পশুরাজ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+সিংহ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ঘুর ঘুর বলে ডাকলে, / শুরু হয় তোর খেলা। / ঘুরতে ঘুরতে নাচিস সুখে, / তোকে দেখে হাসে আমার খুকু!
+Answer: লাট্টু
+
+Example 2:
+Riddle: মুখ নেই, তবু বলে নানা কথা,
+Answer: বই
+
+Now, solve this riddle:
+Riddle : আয় আয় তু তু খেতে দেব দু দু! ল্যজটি তুলে নাচবি সুখে, হাসবে সোনার খুকু!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বিড়াল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কারখানায় তৈরি হয়, ঘরে আনি, গরম জলে ডুবিয়ে চা বানাই, তারপর তুলে ফেলে দিই।
+Answer: টি ব্যাগ
+
+Example 2:
+Riddle: গাছের আমি বংশধর, ছোট্ট বাক্সে আমার ঘর। জ্বলে উঠি ক্ষণেক তরে, ফেলে দাও যে তার পরে।
+Answer: দেশলাই কাঠি
+
+Now, solve this riddle:
+Riddle : গাছে হয় ঘরে আনি রান্না হয় খাওয়ার সময় ফেলা হয় ।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আঁটি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: গলা আছে যার, মাথা নেই। হাতা আছে যার, হাত নেই। শরীর আছে যার, প্রাণ নেই। মানুষ আমায় গায়ে পরে, আমি কে সেই?
+Answer: জামা
+
+Example 2:
+Riddle: হাত আছে দুটো, তালি দিই না। মুখ আছে একটা, কথা কই না। পা নেইকো তবু চলি অবিরাম। কী আমার নাম, বলতে পারবে না?
+Answer: ঘড়ি
+
+Now, solve this riddle:
+Riddle : পাখা আছে মোর না পারি উড়তে, আঁখি আছে মোর না পারি মুদতে। পা নাই মোর তবুও ঘুরি। জীবন কাটাই জলে চরি। যদি তুমি আমায় চিনতে পারো তবে মোর নামটি মনে করো।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন বর্ণের নামটি আমার, দিনের শুরুতে আমি
+Answer: সকাল
+
+Example 2:
+Riddle: তিন অক্ষরের নাম আমার, জ্ঞানের আলো ছড়াই,
+Answer: কলম
+
+Now, solve this riddle:
+Riddle : তিন বর্ণের নামটি আমার আরাম করে শুই প্রথম বর্ণ কেটে দিলে দুধের থেকে হই মাঝের বর্ণ কেটে দিলে ছাড়া পেয়ে যাই শেষের বর্ণ কেটে দিলে ভীষণ ভয় পাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+(assuming 2 characters extracted, e.g., ছ+ড়)
+    C1 C2 = ডর or ভয়মাদুর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দুই অক্ষরের নাম মোর, চোখ দিয়ে গড়িয়ে পড়ি। শেষের অক্ষর ছেড়ে দিলে, শুনি যে কত স্বর।
+Answer: কান্না
+
+Example 2:
+Riddle: দুই বর্ণের শব্দ আমি, মনের মাঝে রই। দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Answer: মান
+
+Now, solve this riddle:
+Riddle : দুই বর্ণের শব্দ আমি জলের মাঝে রই দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাঝ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তার শরীরটা লম্বা, গায়ে অনেক চোখ। মুখে ফুঁ দিলে সে গান ধরে।
+Answer: বাঁশি
+
+Example 2:
+Riddle: অনেক চোখ আছে তার, তবুও সে দেখতে পায় না।
+Answer: আলু
+
+Now, solve this riddle:
+Riddle : ফরসা সাহেবেরা কালো টুপি পরে, একবার ঘসে দিলে উঠে যে জ্বলে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দেশলাই
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: একটি জগতের দুটি দরজা, অসংখ্য জ্ঞানের পাতা, একটি চিহ্ন তাতে রাখা।
+Answer: বই
+
+Example 2:
+Riddle: একটি ফলের তিনটি চোখ, ভেতরে মিষ্টি জল, বাইরে কঠিন বর্ম।
+Answer: নারকেল
+
+Now, solve this riddle:
+Riddle : বড়ো একটি পুকুরের ছোটো দুটি ঘাট, বত্রিশটি কলাগাছ, একটি পাতা তাতে ৷
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মুখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: হাত নেই পা নেই, শুধু ধারালো মুখ, কাটাকুটি করে করাই তার সুখ।
+Answer: কাঁচি
+
+Example 2:
+Riddle: পেট তার অক্ষর ভরা, মুখ নেই তবু বলে কথা। জগৎটাকে চিনিয়ে দেয়, মেটায় মনের আকুলতা।
+Answer: বই
+
+Now, solve this riddle:
+Riddle : ওপার থেকে এলো বুড়ি সাদা কাপড় পরে মহানন্দে বসল খেতে ঘাড় নেড়ে নেড়ে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ঢেঁকি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কার শরীর নেই তবু কাপড় পরে, কার গাছ নেই তবু শিকড় ধরে?
+Answer: পুতুলডাঙা, শিকড়পুর
+
+Example 2:
+Riddle: কোন জায়গা নিজে গরম, কোন জায়গা নিজে শীতল?
+Answer: গরমপুর, শীতলকুচি
+
+Now, solve this riddle:
+Riddle : কোন দেশ বাজে কোন দেশ বলো দেখি তেল ঘিতে ভাজে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাজিতপুর, ভাজিপুর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জীব নয় তবু আকাশ থেকে ঝরে, চোখ নেই তবু কাঁদে।
+Answer: বৃষ্টি
+
+Example 2:
+Riddle: জীব নয় তবু জগৎ দেখায়। চোখ নেই তবু সব দেখে।
+Answer: আলো
+
+Now, solve this riddle:
+Riddle : জলের জন্তু নয় তবুও জলেই  বাস করে হাত নেই পা নেই তবু সাঁতার কাটে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+নৌকা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম তার, শরীরের এক অঙ্গ।
+Answer: চরণ
+
+Example 2:
+Riddle: তিন অক্ষরে নাম আমার, আঁধার করি দূর,
+Answer: মশাল
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম যার সবার ঘরে রয় প্রথম অক্ষর বাদ দিলে সর্ব লোকে খায়। পেট তার কেটে দিলে মধুর গান গায় শেষ অক্ষর বাদ দিলে খুব কামরায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+houses.
+    - Remove 1st (কাঁ): থা (Tha)ঢোল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দু'অক্ষরে নাম তার, লোকে খায়। শেষের অক্ষর বাদ দিলে সেটা ভালো না।
+Answer: কুল
+
+Example 2:
+Riddle: দু’অক্ষরের নাম তার, সেখানে লোকে মেশে।
+Answer: হাট
+
+Now, solve this riddle:
+Riddle : দু’অক্ষরে নাম তার বহু লোকে খায় শেষের অক্ষর বাদ দিলে হেঁটে চলে যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম, বিশাল জলরাশি। প্রথম অক্ষর বাদ দিলে হয় বিষের বাটি, শেষের অক্ষর বাদ দিলে হয় সবুজ পাতা।
+Answer: সাগর
+
+Example 2:
+Riddle: দুই অক্ষরে নাম, জলে ভেসে চলি। প্রথম অক্ষর বাদ দিলে সঙ্গীতের স্বরলিপি। শেষের অক্ষর বাদ দিলে হয় একটি অব্যয়।
+Answer: তরী
+
+Now, solve this riddle:
+Riddle : দু’অক্ষরে নাম লজ্জা নিবারণী প্রথম অক্ষর বাদ দিলে হয় আমার জননী শেষের অক্ষর বাদ দিলে ভাশুর ঘরণী
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জামা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: প্রাণ নেই সঙ্গী আমি, তুমি যা বলো তাই বলি। ফাঁকা জায়গায় আমার দেখা মেলে।
+Answer: প্রতিধ্বনি
+
+Example 2:
+Riddle: আমি প্রাণহীন, তবু কানে কানে যাই। তুমি মুখ খুললেই আমি ভেসে বেড়াই।
+Answer: শব্দ
+
+Now, solve this riddle:
+Riddle : প্রাণ নেই বন্ধু নয়, চলে সাথে সাথে আলো পেলে তবে চলে দিনে কিংবা রাতে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম তার, অন্ধকারে পথ দেখাই। ভয় তাড়াতে আর আলো জ্বালাতে সবাই আমায় চায়। প্রথম অক্ষর গেলে বছর বোঝায়, মাঝের অক্ষর গেলে জিনিসপত্র বোঝায়, শেষের অক্ষর গেলে মশা বোঝায়। আমি কে?
+Answer: মশাল
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার, আকাশ জুড়ে খেলা। অধ্যক্ষর গেলে একসাথে চলে, মধ্য গেলে শক্তির মেলা, শেষেরটা গেলে বিবাদ আনে অবহেলা।
+Answer: বাদল
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম তার প্রতি ঘরে পাবে অধ্যক্ষর বাদ দিলে বৎসর বুঝাবে মধ্য অক্ষর গেলে সবার ক্ষতি করে শেষের অক্ষর গেলে সবাই অবস্থান করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বসল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দুই অক্ষরের নাম, লেখায় ছেদ টানে। প্রথম অক্ষর বাদ দিলে প্রিয়জন পাবে, শেষের অক্ষর বাদ দিলে পাবে বর্ণমালার প্রথম ব্যঞ্জনে।
+Answer: কমা
+
+Example 2:
+Riddle: দুই অক্ষরের নাম, মনেতে আমার বাস। প্রথমটি ছেড়ে দিলে শান্তি আনে পাশ, শেষেরটি ছেড়ে দিলে জ্বলে সর্বনাশ।
+Answer: আশা
+
+Now, solve this riddle:
+Riddle : দুই অক্ষরের নাম যার সব যায়গায় রায় প্রথম অক্ষর বাদ দিলে খাবার জিনিস হয়, শেষের অক্ষর বাদ দিলে আপনজন হয়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাগুড়
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জ্বালানি পেলে জীবন পায়, জল পেলে সে মরে যায়। আলো দেয় সে আঁধারে, তবু স্পর্শে জ্বালা ধরে।
+Answer: আগুন।
+
+Example 2:
+Riddle: তার নেই কোনো শব্দ, তবু সে সবখানে যায়। কোলাহল তাকে তাড়িয়ে দেয়, নিস্তব্ধতায় সে ফিরে আসে।
+Answer: নীরবতা।
+
+Now, solve this riddle:
+Riddle : একলা তারে যায় না দেখা, সঙ্গী গেলে বাঁচে। আধার দেখে ভয়ে পালায়, আলোয় ফিরে আসে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: পুরোনো এক ঘর, আছে কত ছবি। ঢুকতে পারো তুমি, কিন্তু নেই চাবি।
+Answer: স্মৃতি
+
+Example 2:
+Riddle: ঘাসের ওপর ছড়িয়ে আছে হাজারো মুক্তা, কিন্তু কোনো জহুরি তাকে গাঁথতে পারে না।
+Answer: শিশির।
+
+Now, solve this riddle:
+Riddle : একটুখানি পুস্কনি, পানি টলমল করে। রাজার ছেলের সাধ্য নেই, জাল ফেলতে পারে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: পা নেই, তবু চলে যায় বহুদূর। মুখ নেই, তবু কত কথা কয় বন্ধুর।
+Answer: চিঠি
+
+Example 2:
+Riddle: আমার শরীর আছে, পরনে নেই বস্ত্র। পোশাক খুলে নিলেই লোকে, আমাকে খায় সত্র।
+Answer: কলা
+
+Now, solve this riddle:
+Riddle : একটি গাছের বাঁট নাই, তবু দুগ্ধ হয় প্রচুর। দোহনকালে থাকে নাকো, তার নিকটে বাছুর।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+রাবার
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাটিতে শুয়ে থাকি একটি, তাতে ট্রেন চলতে পারে না। কিন্তু যখন দুটি ভাই পাশাপাশি শুয়ে থাকি, তখন ট্রেন চলে ছুটে। আমি কে?
+Answer: রেল লাইন
+
+Example 2:
+Riddle: একটি হলে কাটে না, দুটি হলে সব কেটে যায়।
+Answer: কাঁচি
+
+Now, solve this riddle:
+Riddle : একটি হলে কাজ হবে না, দুটি কিন্তু চাই। দুটি পেলে, হবে চাষী ভাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+গরু
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এপার কপাট, ওপার কপাট। কপাটে কপাটে ধাক্কাধাক্কি।
+Answer: দরজা।
+
+Example 2:
+Riddle: নিচে এক প্রস্তর, উপরে আর। ঘর্ষণে তাদের মশলা হয় ছারখার।
+Answer: শিলনোড়া।
+
+Now, solve this riddle:
+Riddle : এপার ঝাটি, ওপার ঝাটি। ঝাটিতে করে, পিটা পিটি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চিঁড়ে
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম আমার, যা আমার থেকে আসে, শেষ অক্ষর বাদ দিলে তার নামটাই পাবে।
+Answer: ফলন
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার, দুধে জীবন পায়। শেষের অক্ষর বাদ দিলে, গায়েতে সবাই লাগায়।
+Answer: মাখন
+
+Now, solve this riddle:
+Riddle : "তিন অক্ষরে নাম যার, যাতে তৈরি তাতেই ভেসে, শেষের অক্ষর বাদ দিলে সোজা বিয়ের পিঁড়িতে বসে" বল কি সেই মাল??
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বরফ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরের নাম তার, দিনের শুরু জানায়। প্রথম অক্ষর বাদ দিলে, সে যে সময় বোঝায়। বল কি তার নাম?
+Answer: সকাল
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার এক মনমরা ভাব, প্রথম অক্ষর বাদ দিলে হয় সে কারো সেবক। বল কি?
+Answer: উদাস
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম তার পানিতে বাস করে, প্রথম অক্ষর বাদ দিলে স্বাদে মিষ্টি করে। বল কি তার নাম?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+সরস
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমার নেই হাত পা, নেই মুখ বা শরীর, তবু কত কথা বলতে পারি, ভাঙতে পারি নীর।
+Answer: গোপন কথা
+
+Example 2:
+Riddle: কী সেই দেওয়াল যার ইট নেই, বালি নেই, গাঁথনি নেই, তবু এক শব্দেই ভেঙে যায়?
+Answer: নীরবতা
+
+Now, solve this riddle:
+Riddle : বল কি সেই জালের নাম, যার না আছে কোনো সুতা, ফিতা, তার ; কিন্তু নিমিষেই তোমায় দেবে শেরা সম্পদের সন্ধান।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ইন্টারনেট
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এমন জিনিস যেটা সবাই করে। ছোটরা করলে ছটফট করে, যুবকরা করলে ঘড়ি দেখে বা ফোন ঘাঁটে, বুড়োরা করলে চুপচাপ বসে থাকে।
+Answer: অপেক্ষা
+
+Example 2:
+Riddle: এমন একটি জিনিস যা দেখে ছোটরা ভয় পায়, চোর পালায়, আর ভালো লোক নিশ্চিন্ত হয়।
+Answer: পুলিশ
+
+Now, solve this riddle:
+Riddle : এমন একটি জিনিস যেটা সব লোকই খায় ছোট ছেলেরা খেলেপরে মায়ের কাছে যায় বৃদ্ধ লোকে খেলেপরে মাথায় দেয় হাত যুবক যুবতীরা খেলে এদিক ওদিক তাকায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বকা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম বলো, মাথা দিয়ে সুতো গেলে চলে, না গেলে চলে না।
+Answer: সেলাই
+
+Example 2:
+Riddle: দুই অক্ষরে নাম আমার, থাকি আমি গাছে। মাথাটা কাটলে আমি ঘরে ঘরে নাচে।
+Answer: ধান
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে জিনিসটা কি নাম তার বলনা মাথা কাটলে চলে আর মাথা না কাটলে চলে না।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+অচল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: রাত হলে আকাশে ফোটে দলে দলে, মানুষ তার দিকে তাকিয়ে গল্প বলে।
+Answer: তারা
+
+Example 2:
+Riddle: আলো জ্বললে ছুটে আসে অন্ধকার ছেড়ে, দেওয়ালে বা আলোয় বসে থাকে ঘুরে ফিরে। মানুষ তাকে দেখলে হাতে ধরে।
+Answer: পতঙ্গ
+
+Now, solve this riddle:
+Riddle : মেঘের ডাকে জল ছেড়ে ডাঙায় উঠে পড়ে মানুষ তার মাঠে পেলে নিয়ে যায় ঘরে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+শামুক
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মুখ নেই তবু কথা বলে, চোখ নেই তবু সব দেখে।
+Answer: আয়না
+
+Example 2:
+Riddle: গলা আছে, মাথা নেই তার। পেটভর্তি জল ধরে, তবু খায় না আহার। ছিপি আঁটা থাকলে চুপ, খুললেই বকবক করে।
+Answer: বোতল
+
+Now, solve this riddle:
+Riddle : হাত আছে পা নেয় মাথা তার কাটা আস্ত মানুষ গিলে খায় বুক তার ফাটা।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লিফট
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দুই অক্ষরে নাম তার, অনেক মানুষ থাকে। প্রথম অক্ষর বদলে দিলে, অন্য রূপ ডাকে।
+Answer: দেশ
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার, সব লোকে খায়। প্রথম অক্ষর বদ দিলে, আসবাব গড়ে দেয়।
+Answer: বেগুন
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম তার সব লোকে খায় প্রথম অক্ষর বদ দিলে ঘর ছাওয়া যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাউনি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এমন কোন প্রশ্ন, যার উত্তরে প্রত্যেকের নিজস্ব পছন্দের প্রতিফলন ঘটে, তাই উত্তর ভিন্ন হলেও কারোরটাই ভুল বলা যায় না?
+Answer: তোমার প্রিয় রং কোনটি?
+
+Example 2:
+Riddle: সবার জন্য পথটা একটাই, কিন্তু কেউ একই ভাবে চলে না, আর কেউ নিশ্চিত জানে না সেখানে কী আছে। এটা কী?
+Answer: ভবিষ্যৎ
+
+Now, solve this riddle:
+Riddle : একই প্রশ্ন কিন্তু সবাই আলাদা আলাদা উত্তর দেয় অথচ সবার উত্তরই ঠিক প্রশ্নটি কি ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তোমার নাম কি ?
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমি দেখতে ঠিক তোমার মতো, কিন্তু তুমি ছাড়া আমার অস্তিত্ব নেই। আমি কে?
+Answer: প্রতিবিম্ব
+
+Example 2:
+Riddle: আমি সবকিছু দেখাতে পারি, কিন্তু আমার নিজের কোনো রূপ নেই। সামনে কিছু না থাকলে, আমি শূন্য। আমি কে?
+Answer: আয়না
+
+Now, solve this riddle:
+Riddle : আমি অন্ধকার কিন্তু আলো ছাড়া আমার অস্তিত্ব নেই আমি কে ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এতে দিন আছে কিন্তুু সময় বয়ে যায়না, বছর আছে কিন্তুু বয়স বাড়েনা, ছুটির তালিকা আছে কিন্তুু ছুটি পায়না।
+Answer: পঞ্জিকা বা ক্যালেন্ডার
+
+Example 2:
+Riddle: কোথায় তোমার ঘর আছে কিন্তু তুমি থাকতে পারো না, তোমার চেহারা আছে কিন্তু কথা বলতে পারো না, আলো আছে কিন্তু অন্ধকার দূর হয় না?
+Answer: আয়না
+
+Now, solve this riddle:
+Riddle : কোথায় নদী আছে কিন্তুু জল নেই পাহাড় আছে কিন্তু পাথর নেই দেশ আছে কিন্তু লোক নেই ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানচিত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শূন্যে আমার বাড়ি, সুতো ছিঁড়লে আমি পড়ি।
+Answer: ঘুড়ি
+
+Example 2:
+Riddle: জঙ্গলে জন্ম আমার থাকি আমি সবার ঘরে একটু জলের ছোঁয়ায় যাই আমি মরে
+Answer: দেশলাই কাঠি
+
+Now, solve this riddle:
+Riddle : সমুদ্রে জন্য আমার থাকি সবার ঘরে একটু জলের স্পশ্র পেলে যায় আমি মরে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লবণ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছেলেবেলার মধ্যে বেলা বাদ দিলে কি থাকবে?
+Answer: ছেলে
+
+Example 2:
+Riddle: ফলের থেকে ফল কেটে নিলে কী পাওয়া যায়?
+Answer: এর
+
+Now, solve this riddle:
+Riddle : কত,র মধ্যে কত বাদ দিলে কত থাকবে ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+,র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: বুড়োর মাথায় পাকা চুল, ভেতরে জল টলমল।
+Answer: নারিকেল
+
+Example 2:
+Riddle: জলেতে বসে থাকে ভাই, লাল চেলিটা গায়ে তাই।
+Answer: লাল পদ্ম
+
+Now, solve this riddle:
+Riddle : বন থেকে বেরোলো টিয়ে, সোনার টোপর মাথায় দিয়া
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ভুট্টা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জোড়ায় আসি জোড়ায় যাই, পথে পথে ধুলো মেখে বেড়াই।
+Answer: জুতো
+
+Example 2:
+Riddle: এখান থেকে ওখানে যাই, জলে ভিজে আছাড় খাই।
+Answer: কাপড়
+
+Now, solve this riddle:
+Riddle : এই ঘরে যাই, ওই ঘরে যাই, দুমদুমি এ আছাড় খাই
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চটি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কাঁচের ঘরে বাস করি, এক ফোঁটা জল দেখলে মরি।
+Answer: নুন
+
+Example 2:
+Riddle: গাছ নয় পাতা নয়, ধরে সে লাল ফল। ফলের ভেতর মানিক জ্বলে করে টলমল।
+Answer: ডালিম
+
+Now, solve this riddle:
+Riddle : লাল টুকটুক ছোটমামা, গায়ে পড়ে অনেক জামা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পেঁয়াজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন বর্ণে মোর নাম, থাকি অনেক উঁচুতে। শেষ বর্ণ ফেলে দিলে, ছবি আঁকা বোঝায় তাতে। প্রথম বর্ণ ছেড়ে দিলে, সাদা এক ফুল হয়, শরৎকালে মাঠে ঘাটে শোভা সে বাড়ায়।
+Answer: আকাশ
+
+Example 2:
+Riddle: তিন বর্ণে নাম আমার, আসলে ভেজে চরাচর। শেষের বর্ণ ফেলে দিলে, বিয়োগ করা হয় তার পর। প্রথম বর্ণ ছেড়ে দিলে, অনেকে থাকে একসাথে, ফুলেরও অংশ আমি, শোভা পায় তার সাথে।
+Answer: বাদল
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম চোরের বুক কাঁপে, শেষ দুটি ছেড়ে দিলে কাটে এক কোপে। কিন্তু যদি প্রথম ছাড়ো দেখে লাগে দুঃখ, মাংস কম, শীর্ণকায়, চেহারাটি সূক্ষ্ম
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+/wound. 2 letters.
+
+Consider the possibility that the word is "ফাঁসিকাঠ" (FaaN-shi-হাড়কাঁপ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মুখে মুখে ফেরে, কিন্তু কেউ তা ধরে না। দেখা যায় না, ছোঁয়া যায় না, কিন্তু ভাঙা যায়।
+Answer: কথা ( প্রতিশ্রুতি)
+
+Example 2:
+Riddle: হেথা দিলাম শব্দ, হয়ে গেল ভাষা। নেই তার দেহ, নেই তার সুর, সবই তার অক্ষর।
+Answer: লেখা
+
+Now, solve this riddle:
+Riddle : হেতা দিলাম থান হয়ে গেল লতা, ফুল নাই ফল নাই সবই তার পাতা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লিপি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কণ্ঠে তার নীল আভা, মাথায় শোভে ঝুঁটি। মেঘের ডাকে পেখম তোলে, মন কাড়ে সব্বার ছুটি।
+Answer: ময়ূর
+
+Example 2:
+Riddle: শুঁড় দিয়ে জল ছিটিয়ে, করে সে স্নান। কান দুটো কুলোর মতো, মারে মাছি তাড়ান। দাঁত দুটো সাদা ধবধবে, ভারী মূল্যবান। পাগুলো থামের মতো, চলে সে দুলান।
+Answer: হাতি
+
+Now, solve this riddle:
+Riddle : গা করে তার খসর-মসর, পাত করে তার ফেনী; ফুল করে তার লাল-তামাসা, ফল করে কুস্তনি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পাট
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: চোখে জন্ম আমার, গালে গড়িয়ে পড়ি, বাতাসে শুকিয়ে যাই, অথবা মাটিতে মিশে যাই, চিহ্ন রাখি ভারি।
+Answer: চোখের জল
+
+Example 2:
+Riddle: জল থেকে জন্ম নিয়ে আকাশেতে ভাসে, কঠিন হয়ে নিচে পড়ে, গলে গিয়ে কাঁদে।
+Answer: শিলাবৃষ্টি
+
+Now, solve this riddle:
+Riddle : সাগরে জন্ম তার আকাশে উড়ে, পর্বতের কাছে মার খেয়ে কেঁদে কেঁদে মড়ে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মেঘ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: বাইরে মলাট আঁটা, ভেতরে জ্ঞানের মেলা।
+Answer: বই
+
+Example 2:
+Riddle: স্তর কাটিলে স্তর আসে, কাটলে পরে চোখে জল ভাসে, তবু সে রান্নার প্রিয় পাশে।
+Answer: পেঁয়াজ
+
+Now, solve this riddle:
+Riddle : তলে মাটি উপরে মাটি, তার মধ্যে সুন্দর বেটি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মরিচ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: পা নেই, তবু পথ চলে, মুখে কথা নেই, তবুও কথা বলে।
+Answer: বাতাস
+
+Example 2:
+Riddle: কোনো আওয়াজ নেই, কোনো শব্দ নেই, তবু তাকে অনুভব করা যায়। সব কোলাহলকে সে গ্রাস করে নেয়।
+Answer: নীরবতা
+
+Now, solve this riddle:
+Riddle : জল নয়, বৃষ্টিও নয় কিন্তু ভিজে সারা, বাড়িঘর ডুবল, ডুবল পাহাড়েরও চূড়া
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কুয়াশা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: গলা আছে, মাথা নেই, পেট ভরে জল খায়, কিন্তু নিজে তৃষ্ণার্ত রয়।
+Answer: বোতল
+
+Example 2:
+Riddle: হাত আছে, কিছু ধরে না। পা আছে, চলতে পারে না। মানুষকে বসতে দেয়।
+Answer: চেয়ার
+
+Now, solve this riddle:
+Riddle : হাত আছে পা নেই বুক তার ফাটা, জ্যান্ত মানুষ গিলে খায় নেই তার মাথা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ট্রেন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: লেখার কাজে আমি কাজে আসি, আমার শেষ অক্ষর বাদ দিলে হয় জলের কল।
+Answer: কলম
+
+Example 2:
+Riddle: জলের ধারে তার বাস, দুই অক্ষরের নাম। শেষ অক্ষর বাদ দিলে, হয় এক ক্ষত।
+Answer: ঘাট
+
+Now, solve this riddle:
+Riddle : জলের মাঝে জন্ম হলো দুই অক্ষরের প্রাণী, শেষের অক্ষর বাদ দিলে হয় মহারাণী
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরের নাম আমার, ডাক দেয় কেউ আমায়। প্রথম অক্ষর বাদ দিলে, আমি তোমার ভেতর রয়। মাঝের অক্ষর বাদ দিলে, চলে যায় সময়। শেষের অক্ষর বাদ দিলে, দুজনে সমান হয়।
+Answer: সমন
+
+Example 2:
+Riddle: তিন অক্ষরের নাম তার, মানুষে মানুষে গড়া। প্রথম অক্ষর বাদ দিলে, থাকে সে মাঝামাঝি ভরা। মাঝের অক্ষর বাদ দিলে, সাজসজ্জার রূপ ধরে। শেষের অক্ষর বাদ দিলে, সমান সমান অর্থ করে।
+Answer: সমাজ
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরের নাম তার সবার ঘরে রয়, প্রথম অক্ষর বাদ দিলে খাদ্যবস্তু হয়। মাঝের অক্ষর বাদ দিলে হয় গানের শোভা, শেষের অক্ষর বাদ দিলে ভয় তুমি পাবা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+about 'ঘর' (ghor - room)? 2 letters.
+    How about 'ছাদ' (chhad - roof)? 2 letters.
+
+    Maybe the "three letters" refers to the number of akজল
+
+(Explanation of the reasoning, for self-correction or potential future analysis, not for the user output:
+The riddle follows the pattern A-B-C -> B-C (food), A-C (song), A-B (fear).
+Let's test the word 'সকাল' (shokal - morning). This is a 3-letter word (স ক ল). Is it "in everyone's home"? Yes, morning happens in everyone's home.
+A=স, B=ক, C=ল.
+1.  Remove A (স) -> ক ল (kol). 'কল' can mean 'tap' (found in home) or 'machine', but it also means 'কলের গান' (koler gan - recorded music/song, often associated with older gramophones or radios). This fits the "song beauty" clue (as AC).
+2.  Remove C (ল) -> স ক (shok). 'শোক' (shok) means 'grief' or 'sorrow', which is related to fear or something you "will fear" (ভয় তুমি পাবা). This fits the "fear" clue (as AB).
+3.  This means the word is A-B-C, and the resulting words are formed by A-B, A-C, B-C.
+    So, if word is স ক ল:
+    A=স, B=ক, C=ল.
+    AB = স ক (শোক - shok - fear). Matches clue 3
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: বুক চিরে দিই জল, তবু নিজে থাকি তৃষ্ণার্ত। গরমে শীতল করি প্রাণ, ফেটে গেলে যাই অকেজো।
+Answer: মাটির কলসি
+
+Example 2:
+Riddle: নিজের শরীর ক্ষয় করে পরের ময়লা দূর করি।
+Answer: সাবান
+
+Now, solve this riddle:
+Riddle : জনম গেল দুখে, বুকে আমার আগুন দিয়ে থাকো অনেক সুখে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+সিগারেট
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সাদা যখন থাকি বুকেতে, কত কথাই না ধরে। কালি কলমে ভরে গেলে, ছিঁড়তে পারো দেখি কেমন করে।
+Answer: কাগজ
+
+Example 2:
+Riddle: যখন নরম ছিলাম, আঘাত সয়েছি নীরবে। আজ হলাম শক্ত কঠিন, মারো দেখি ভাঙবে কে আগে?
+Answer: পোড়া ইট
+
+Now, solve this riddle:
+Riddle : কাল আমাকে মেরে ছিলে সয়ে ছিলাম আমি, আজ আমায় মারো দেখি কেমন বেটা তুমি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+প্রতিধ্বনি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাথায় ঝুঁটি, চোখে জল, কিন্তু সে তো নয় পাগল। পেটে মিষ্টি অমৃত তার, বাইরে কঠিন আবরণ। আছাড় খেলে ভাঙে নাকো, মারে যে জন, সেই খায় আরও।
+Answer: নারকেল
+
+Example 2:
+Riddle: মাথায় ঝুঁটি, পেটে জল ভরা, বাইরে কঠিন, ভেতরে মিষ্টি স্বাদের ঝোরা। কে সে?
+Answer: নারকেল
+
+Now, solve this riddle:
+Riddle : কুল কুল কুলেরি, ভাদ্র মাসে ধুলোরি, কাঁচায়-পাকায় সবাই খায়, নেংটো হয়ে হাটে যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তেঁতুল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমার হাতে অনেক কাজ, অন্যকে করি শুকনো সাজ। নিজে কিন্তু হই ভিজে, বলো দেখি কি সে?
+Answer: তোয়ালে
+
+Example 2:
+Riddle: ছিদ্র ভরা শরীর তার, জল টানে সে বারংবার।
+Answer: স্পঞ্জ
+
+Now, solve this riddle:
+Riddle : রাজার বেটা রাম দাস, খায় খোলা তার ফেলায় শাঁস
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মুখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তার শরীর নেই, আছে আওয়াজ, বহু দূরে থেকেও সে তোমার পাশ।
+Answer: শব্দ
+
+Example 2:
+Riddle: কাঁচের ঘরে বন্দী আলো, ঝুলে আছে সে উঁচুতে। আঁধার রাতে পথ দেখায়, কে সে জিনিষ বলতে পারো?
+Answer: লণ্ঠন
+
+Now, solve this riddle:
+Riddle : ইকরের তলে তলে ভিকমতির ছানি, কোন দেশে দেখিয়াছ গাছের আগায় পানি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+শিশির
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আকাশ ভরা হাজার লিপি, পড়তে পারে কোন গুণী?
+Answer: ভাগ্য
+
+Example 2:
+Riddle: হাজার হাজার কালো সুতো, কে গুণবে কত?
+Answer: মাথার চুল
+
+Now, solve this riddle:
+Riddle : এক থালা সুপারী গুণতে পারে কোন ব্যাপারী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মুখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: চ্যাপ্টা শরীর, নেইকো জিভ, তবু কত কথা বলে। বুকের ভিতর থেকে ভাবনাগুলো দূর দূরান্তে চলে।
+Answer: চিঠি
+
+Example 2:
+Riddle: শরীরের সাথে থাকে সে, দিন হলে দেখা যায়, রাত হলে পালায়। হাত পা নাই তবুও ছায়া বানায়।
+Answer: ছায়া
+
+Now, solve this riddle:
+Riddle : সফেদ শয্যা পড়ে আছে কেউ তাতে না শোয়, ভিতর থেকে খোলাম কুচি আঙিনাতে থোয়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ডানা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শিশুকালে থাকে খালি, যৌবনে সবুজ পোশাক পরে। বৃদ্ধকালে সব ঝরিয়ে ফেলে দাঁড়ায়।
+Answer: গাছ
+
+Example 2:
+Riddle: সকালে জন্ম নেয়, দুপুরে তেজ দেখায়, সন্ধ্যায় মরে যায়। বলো তো সে কে?
+Answer: সূর্য
+
+Now, solve this riddle:
+Riddle : সকালে চার পায়ে হাঁটে, দুপুরে দুই পায়ে। সন্ধায় তিন পায়ে হাঁটে বলো তো কে যায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানুষ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাথা আছে তার, নেই কোন বুদ্ধি বা কথা। দেওয়ালে গেঁথে থাকে, জিনিস ধরে শুধু একা।
+Answer: পেরেক
+
+Example 2:
+Riddle: ডানা আছে যার, আকাশে ওড়ে বিনা যন্ত্রে।
+Answer: পাখি
+
+Now, solve this riddle:
+Riddle : ইটে গুরুগুরু বৈঠা নাগর, বিনা বৈঠায় বায় সে সাগর
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ঢেউ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সারা গায়ে ছিদ্র, তবু জল ধরে। বলো তো কী?
+Answer: স্পঞ্জ
+
+Example 2:
+Riddle: ছোট্ট দেহে আলো জ্বেলে, নিজে যায় ক্ষয়ে, অন্ধকারে পথ দেখায় সে নির্ভয়ে।
+Answer: মোমবাতি
+
+Now, solve this riddle:
+Riddle : জ্বলছে তবু পুড়ছে না, কোন সে প্রাণী বলো তা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আগুনের পোকা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: একবার যদি যাই ভেঙে, জোড়া লাগা কঠিন ভার। ছোট্ট এক মিথ্যেতেই, সম্পর্ক হয় ছারখার।
+Answer: বিশ্বাস
+
+Example 2:
+Riddle: হাওয়াতে ভাসা ছোট্ট বাড়ি, একটু ছুঁলে সব যায় ছাড়ি।
+Answer: বুদ্বুদ
+
+Now, solve this riddle:
+Riddle : একটুখানি পুষ্পরিণী টলমল করে, একটুখানি কুটা পাড়লে সর্বনাশ করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: গায়ে কাঁটা, কিন্তু মাছ নয়। ডিম পাড়ে, কিন্তু পাখি নয়।
+Answer: সজারু
+
+Example 2:
+Riddle: দাঁত আছে অনেক, কিন্তু কামড়াতে জানে না। চুল আঁচড়ায় পরিপাটি, কিন্তু নিজের চুল নেই তার মাথায়।
+Answer: চিরুনি
+
+Now, solve this riddle:
+Riddle : আাঁধার পুকুর, গড়ান মাঠ, বত্রিশ কলাগাছ, একখানি পাট
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মুখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: লেখার তরে জন্ম আমার, সাদা কাগজে চলি, ভুল হলে নিজেই মুছি, যখন দরকার বলি।
+Answer: পেনসিল
+
+Example 2:
+Riddle: ছোট্ট সে এক কোঠা, ভরা থাকে সৈনিকে, একটি যদি তেড়ে আসে, ব্যথা দেয় সে কিযে!
+Answer: মৌমাছি
+
+Now, solve this riddle:
+Riddle : ছোট ছোট গাছখানি তার কত ফল ধরে, একটা যদি খায় তবে আহা-উহু করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লঙ্কা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছোটকালে লম্বা হয়, বড়কালে ছোট হয়। লেখার সময় তীরের মত ছোটে, বসে থাকে চুপ করে, যেন কোন পাহারাদার।
+Answer: পেন্সিল
+
+Example 2:
+Riddle: তরল দেহে জন্ম আমার, কঠিনও হতে পারি। গরমে উড়ে যাই আকাশে, রূপেতে আমি ভারি।
+Answer: জল
+
+Now, solve this riddle:
+Riddle : ছোট কালে লেজ হয়, বড় কালে খসে, বাঘের মত লাফ দেয়, কুকেুরের মত বসে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ব্যাং
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছোট্ট একটি ঘরে কিলবিল করে থাকে, ধরতে গেলে মুঠোর ফাঁক দিয়ে পালায়।
+Answer: সর্ষের দানা
+
+Example 2:
+Riddle: সারা জীবন সঙ্গে ফেরে, ধরতে গেলে পায় না কেউ।
+Answer: ছায়া
+
+Now, solve this riddle:
+Riddle : একটুখানি জলে মাছ কিলবিল করে, কারো বাবার সাধ্য নাই হাত দিয়ে তা ধরে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জিভ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Bengali riddle with its answer, followed by one or more 'context-reconstructed' Bengali riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: চুলার গোয়াল, শিখার গাই, বিনা মুখে খায়, আলো দেয় তাই।
+Answer: আগুন
+
+Example 2:
+Riddle: শরীর আছে কিন্তু প্রাণ নাই, ডানা আছে কিন্তু ওড়ে না।
+Answer: টেবিল
+
+Now, solve this riddle:
+Riddle : মেটো গোয়াল, কাঠের গাই বাঁছুর ছাড়াই দুধ পাই
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কুয়ো
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Mon May 26 22:25:42 2025 ---

@@ -1,0 +1,3657 @@
+
+--- Starting New Generation Run at Mon May 26 20:14:06 2025 ---
+Model: meta-llama/llama-4-maverick, Language: Tamil, Prompt: 4_shot_context_recon_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Tamil riddles.
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உயிர் இல்லாத காவலன், இரவு பகல் பாராமல் காவல் காப்பான் - அது என்ன?
+Answer: கதவு / வாசல்
+
+Example 2:
+Riddle: நீரிலே ஊறி, உரலிலே அரைபட்டு, தட்டினிலே மலரும் பூ எது?
+Answer: இட்லி
+
+Example 3:
+Riddle: மேலிலும் துவாரம், கீழேயும் துவாரம், எங்கும் துளைகள், இருந்தும் மழையை என்னுள் அடக்கி வைப்பேன். நான் யார்?
+Answer: மேகம்
+
+Example 4:
+Riddle: ஒரே ஒரு தூண் தான் வீடு முழுக்க தாங்கும் அது என்ன?
+Answer: காளான்
+
+
+Now, solve this riddle:
+Riddle : பச்சை பொட்டிக்குள் வெள்ளை முத்துகள்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வெள்ளரி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கையில் அடங்கும், கருப்பாய் சுரக்கும், தாளினில் ஆடினால் தடம் பதிக்கும். அது என்ன?
+Answer: பேனா
+
+Example 2:
+Riddle: தம்பிக்கு எட்டாதது, அண்ணனுக்கு எட்டும். அது என்ன?
+Answer: உதடு (மேல் உதடு, கீழ் உதடு)
+
+Example 3:
+Riddle: குப்பை மேட்டில் விரித்த குடை, அது என்ன?
+Answer: காளான்
+
+Example 4:
+Riddle: கீழேயும் மேலேயும் தரை; நடுவிலே குளிர்ச்சியான நீர். அது என்ன?
+Answer: கிணறு.
+
+
+Now, solve this riddle:
+Riddle : மேலிலும் துவாரம், கீழிழும் துவாரம், வலதிலும் துவாரம், இடதிலும் துவாரம், உள்ளிலும் துவாரம் வெளியிலும் துவாரம் இருந்தும் நீரை என்னுள் சேமித்து வைப்பேன், நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நீர்க்குடம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடல் உருண்டது, வாய் சிறியது, உணவு பணம் - நான் யார்?
+Answer: உண்டியல்.
+
+Example 2:
+Riddle: எடுக்க எடுக்க வளரும், போட போட குறையும் அது என்ன?
+Answer: குழி
+
+Example 3:
+Riddle: ஒரே ஒரு தூண் தான் வீடு முழுக்க தாங்கும் அது என்ன?
+Answer: காளான்
+
+Example 4:
+Riddle: கூரிய முனை கொண்டவன், நீண்ட உடல் பெற்றவன், காகிதத்தில் நடனமாடுவான், எண்ணங்களை எழுதி வைப்பான். அவன் யார்?
+Answer: பேனா
+
+
+Now, solve this riddle:
+Riddle : காலில் தண்ணீர் குடிப்பான், தலையில் முட்டையிடுவான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அடுப்புச் சட்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பகல் முழுவதும் எழுதுவான், ஆனால் கை வலிக்காது. இரவில் ஓய்வெடுப்பான், ஆனால் தூங்க மாட்டான். அவன் யார்?
+Answer: பேனா
+
+Example 2:
+Riddle: தலை இருக்கும் சிந்திக்காது. அது என்ன?
+Answer: ஆணி
+
+Example 3:
+Riddle: கண்ணுக்குத் தெரியாத போர்வை, அதைக் கடந்தால் வண்ணமயமான தரை. தரைக்குக் கீழே நெருப்புக் கடல், கடலின் நடுவே இரும்புக் கோளம். அது என்ன?
+Answer: பூமி
+
+Example 4:
+Riddle: அம்மா மேடையில் நிற்க பிள்ளை ஆடி வருவான் அது என்ன?
+Answer: மேடை நடனக் கலைஞர்
+
+
+Now, solve this riddle:
+Riddle : ஊரெல்லாமல் ஒரே விளக்கு. அதற்கு ஒரு நாள் ஒய்வு அது?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சந்திரன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வாயுண்டு பேசாது. பல்லுண்டு கடிக்காது. கதவைத் திறக்கும். யார் நான்?
+Answer: சாவி
+
+Example 2:
+Riddle: நடுவில் 'நீ' என்பாய், முதலும் கடையும் தனியே நின்றால் பயனில்லை, மூன்றெழுத்தில் பருகலாம், மொத்தத்தில் காலை நேர உற்சாகம். அது என்ன?
+Answer: தேநீர்
+
+Example 3:
+Riddle: செடியிலே பிறந்து, சட்டியிலே வெந்து, தட்டிலே பரவும் மணி எது?
+Answer: சோறு
+
+Example 4:
+Riddle: மண்ணில் போடும்போது ஒன்று, எடுக்கும்போது நிறைய பற்கள் அது என்ன?
+Answer: பூண்டு
+
+
+Now, solve this riddle:
+Riddle : பட்டுப்பை நிறைய பவுண் காசு. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அன்னாசிப்பழம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கடினமான ஓடு கொண்டிருப்பான், உள்ளே மூளையை வைத்திருப்பான். அது என்ன?
+Answer: அக்ரூட் பழம் (வால்நட்)
+
+Example 2:
+Riddle: ஓயாமல் கைகளை அசைக்கும், ஆனால் அதற்கு கை வலிக்காது. அது என்ன?
+Answer: கடிகாரம்
+
+Example 3:
+Riddle: பா‌ர்‌க்க‌த்தா‌ன் அசைவற்று கிடப்பேன்; ஆனா‌ல் உள்ளே பல உலகங்கள் சுற்றுவேன். காலையில் உனக்கு‌த் தருவதோ புத்துணர்ச்சி. அது என்ன?
+Answer: உறக்கம்
+
+Example 4:
+Riddle: அடித்தால் அழுவான், பிடிக்காவிட்டால் ஓடுவான். அவன் யார்?
+Answer: பந்து
+
+
+Now, solve this riddle:
+Riddle : இவனும் ஒரு பேப்பர் தான்; ஆனால், மதிப்போடு இருப்பான். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கரன்சி நோட் (அல்லது) நோட்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஆட்களைச் சுமந்து செல்லும் ஆனால் பயணம் செய்யாது அது என்ன?
+Answer: லிப்ட்
+
+Example 2:
+Riddle: உடம்பெல்லாம் ஆரஞ்சு, அதன் தலை பச்சை அது என்ன?
+Answer: கேரட்
+
+Example 3:
+Riddle: யாரும் இயக்காத இயந்திரம், உடலுக்குள் ஓயாது துடிக்கும். அது என்ன?
+Answer: இதயம்
+
+Example 4:
+Riddle: கொதிக்கும் போது சத்தம் போடும், கருப்பாக இருக்கும், தூக்கத்தை விரட்டி புத்துணர்ச்சி தரும். அது என்ன?
+Answer: காபி
+
+
+Now, solve this riddle:
+Riddle : இருந்த இடத்தில் நகர்ந்தபடி இரவும் பகலும் செல்வான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கடிகாரம் சுட்டிக்காட்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கைகள் இல்லாமல் நீந்துவான், கால்கள் இல்லாமல் ஓடுவான். அவன் யார்?
+Answer: பாம்பு
+
+Example 2:
+Riddle: ஒரே இடத்தில் நின்று ஊரெல்லாம் அழைக்கும். அது என்ன?
+Answer: கோவில் மணி (அல்லது தொலைபேசி) - (கோவில் மணி என்பது ஒரு பொதுவான விடை)
+
+Example 3:
+Riddle: உடைந்தாலும் ஓசை வராத கண்ணாடி, கடையில் கிடைக்காத கண்ணாடி, அது என்ன?
+Answer: மனம்
+
+Example 4:
+Riddle: மண்ணில் பிறந்து, கையால் பறித்து, உணவாவான், ஆரோக்கியம் தருவான். அவன் யார்?
+Answer: கீரை
+
+
+Now, solve this riddle:
+Riddle : மழையில் பிறந்து வெயிலில் காயுது?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+உப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடல் முழுவதும் துளைகள், ஆனாலும் தண்ணீரைத் தாங்குவான். அவன் யார்?
+Answer: பஞ்சு (ஸ்பாஞ்ச்)
+
+Example 2:
+Riddle: முள்ளுடம்புக்காரி, மஞ்சள் நிறத்தில் மணக்கும் பிள்ளைகள் பெற்றாள். அவள் யார்?
+Answer: பலாப்பழம்
+
+Example 3:
+Riddle: கீழே ஒரு விதை விதைத்து, மேலே பார்த்தால் ஆயிரம் வைரங்கள். அது என்ன?
+Answer: வானவேடிக்கை
+
+Example 4:
+Riddle: ஓட சக்கரம், நிற்க தாங்கி அது என்ன?
+Answer: மிதிவண்டி
+
+
+Now, solve this riddle:
+Riddle : சலசலவென சத்தம் போடுவான், சமயத்தில் தாகம் தீர்ப்பான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கிணறு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கூரிய முனை கொண்டவன், நீண்ட உடல் பெற்றவன், காகிதத்தில் நடனமாடுவான், எண்ணங்களை எழுதி வைப்பான். அவன் யார்?
+Answer: பேனா
+
+Example 2:
+Riddle: ஆட்களைச் சுமந்து செல்லும் ஆனால் பயணம் செய்யாது அது என்ன?
+Answer: லிப்ட்
+
+Example 3:
+Riddle: வேலைக்கு துதிக்கை, சண்டைக்கு தந்தம் அது என்ன?
+Answer: யானை
+
+Example 4:
+Riddle: வெள்ளைக் கூட்டுக்குள் மஞ்சள் திரவம்?
+Answer: முட்டை
+
+
+Now, solve this riddle:
+Riddle : பச்சை நிற அழகிக்கு உதட்டுச் சாயம் பூசாமலே சிவந்தவாய் அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மிளகாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பேசாத நண்பன், உண்மையான திசையைக் காட்டும் - அது என்ன?
+Answer: திசைக்காட்டி
+
+Example 2:
+Riddle: வயதான பலருக்கு புதிதாக இரண்டு கண்கள், அது என்ன?
+Answer: மூக்குக்கண்ணாடி
+
+Example 3:
+Riddle: மண்ணில் வாழ்ந்து மண்ணையே உண்ணும், அது என்ன?
+Answer: மண்புழு
+
+Example 4:
+Riddle: வாய் அகன்ற மலைக்கு வயிறில்லை. அது என்ன?
+Answer: புனல் (Funnel)
+
+
+Now, solve this riddle:
+Riddle : செய்தி வரும் பின்னே, மணியோசை வரும் முன்னே. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தந்தி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நான் ஒளி தருவது கண்ணுக்குத் தெரியும். நான் ஓடுவது கண்ணுக்குத் தெரியாது. நான் யார்?
+Answer: மின்சாரம்
+
+Example 2:
+Riddle: கர்ஜிக்கும், கோடுகள் இருக்கும், காட்ட வேண்டும் என்றால் கூண்டில் அடைப்பார்கள். அது என்ன?
+Answer: புலி
+
+Example 3:
+Riddle: உயரே பறப்பான், இறக்கை இல்லை. வால் உண்டு, ஆனால் மிருகம் இல்லை. – அது என்ன?
+Answer: பட்டம்
+
+Example 4:
+Riddle: முகத்திலே முத்துக்கள் மலருது. அது என்ன?
+Answer: வியர்வைத் துளிகள்
+
+
+Now, solve this riddle:
+Riddle : எவர் கையிலும் சிக்காத கல் எங்கும் விற்காத கல், அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பெரிய பாறைக் கல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு சிறு பொய் சொன்னதும், மொத்த நம்பிக்கையும் சிதறியது. அது என்ன?
+Answer: துரோகம்
+
+Example 2:
+Riddle: தான் எரிந்து பிறருக்கு வெளிச்சம் தருவாள் அவள் யார்?
+Answer: விளக்கு
+
+Example 3:
+Riddle: கண்ணீர் விடுவான், மனிதன் அல்ல. இருளை நீக்குவான், பகலவன் அல்ல. அவன் யார்?
+Answer: மெழுகுவர்த்தி
+
+Example 4:
+Riddle: எலும்பில்லாத இவள், வளைந்து நெளிந்து சுவை அறிவாள், நல்லதைச் சொன்னால் தேன், தீயதைச் சொன்னால் விஷம், அவள் யார்?
+Answer: நாக்கு
+
+
+Now, solve this riddle:
+Riddle : அடித்தாலும், உதைத்தாலும் அவன் அழ மாட்டான், அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+துணி உலக்கை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: காற்றில் கட்டிய கோட்டை, கையில் எடுத்தால் கண்ணீராம் அது என்ன?
+Answer: நீர்க்குமிழி
+
+Example 2:
+Riddle: நடுவே தனித்திருக்கும், கடைசியில் 'இல்லை' என்று வரும், மூன்றெழுத்தில் ஏறலாம், மொத்தத்தில் எல்லோரும் வியக்கும், அது என்ன?
+Answer: புகைப்படம் 
+
+Example 3:
+Riddle: ஒரு சின்ன கீறல் பட்டதும், உடல் முழுவதும் வலித்தது அது என்ன?
+Answer: புண்
+
+Example 4:
+Riddle: பல் துலக்க வந்த குழாய்ப் பையன், அழுத்த அழுத்தக் கரைகிறான். அவன் யார்?
+Answer: பற்பசை
+
+
+Now, solve this riddle:
+Riddle : எப்போதும் மழையில் நனைவான் ஆனால் ஜுரம் வராது. எப்போதும் வெயிலில் காய்வான் ஆனால் ஏதும் ஆகாது. அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நிழல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறு சிறு மணிகளாய் கொட்டிக்கிடந்தாலும், ஒன்றை மட்டும் தனியாக எடுக்க முடியாது?
+Answer: கடுகு
+
+Example 2:
+Riddle: இவனும் ஒரு காகிதம் தான்; ஆனால், உலகம் முழுவதும் சுற்றி வந்திருப்பான். அது என்ன?
+Answer: செய்தித்தாள்
+
+Example 3:
+Riddle: தண்ணீரில் பிறப்பான், வெயிலில் இறப்பான். அது என்ன?
+Answer: பனிக்கட்டி
+
+Example 4:
+Riddle: உடல் சிறியது, வாய் சாவிக்குழி, உணவு சாவி, காப்பது என் வேலை - நான் யார்?
+Answer: பூட்டு
+
+
+Now, solve this riddle:
+Riddle : வாயிலே தோன்றி வாயிலே மறையும் பூ. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மண்ணில் வாழ்ந்து மண்ணையே உண்ணும், அது என்ன?
+Answer: மண்புழு
+
+Example 2:
+Riddle: அடியை அமைத்து, ஒற்றைக்கால் ஊன்றி, அண்ணாந்து பார்த்தால் ஆயிரம் கண்கள். அது என்ன?
+Answer: கட்டிடம்
+
+Example 3:
+Riddle: கர்ஜிக்கும், கோடுகள் இருக்கும், காட்ட வேண்டும் என்றால் கூண்டில் அடைப்பார்கள். அது என்ன?
+Answer: புலி
+
+Example 4:
+Riddle: பாசத்துக்குச் சத்தம், பயத்துக்கு நகம் அது என்ன?
+Answer: பூனை
+
+
+Now, solve this riddle:
+Riddle : நீரிலும் வாழ்வேன், நிலத்திலும் வாழ்வேன். நீண்ட ஆயுள் உடைய எனக்கு இறைவன் கொடுத்த கவசமும் இருக்கு. நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முத்தை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கால்கள் இல்லாமல் உலகம் சுற்றுவான், பல செய்திகளை சுமந்து செல்வான். அவன் யார்?
+Answer: கடிதம்
+
+Example 2:
+Riddle: காகிதப் பைக்குள் சர்க்கரை மணிகள். அது என்ன?
+Answer: மாத்திரை
+
+Example 3:
+Riddle: வெள்ளைக் கூட்டுக்குள் மஞ்சள் திரவம்?
+Answer: முட்டை
+
+Example 4:
+Riddle: கரிய ராஜாவுக்கு வண்ண ஆடை. அது என்ன?
+Answer: எழுதுகோல்
+
+
+Now, solve this riddle:
+Riddle : பாலிலே புழு நெளியுது. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பால் கட்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வெள்ளை நிற அழகிக்கு, சாயம் பூசாமலே சிவந்த நுனி உண்டு. அவள் யார்?
+Answer: முள்ளங்கி
+
+Example 2:
+Riddle: பற்கள் ஆயிரம் உண்டு, ஆனால் எதையும் கடிக்க முடியாது. அது என்ன?
+Answer: சீப்பு
+
+Example 3:
+Riddle: பேசத் தெரியாது, ஆனால் அடித்தால் அழுது தீர்க்கும். அது என்ன?
+Answer: பறை (மேளம்)
+
+Example 4:
+Riddle: உறக்கத்தில் வருவேன், கற்பனையில் மிதக்க வைப்பேன், விழித்தவுடன் மறைந்து போவேன். நான் யார்?
+Answer: கனவு
+
+
+Now, solve this riddle:
+Riddle : கல்லில் காய்க்கும்பூ தண்ணீரில் மலரும்பூ, அது என்ன பூ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கற்பூ, நீர்பூ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பல்லுண்டு, பசி இராது. அது என்ன?
+Answer: சீப்பு
+
+Example 2:
+Riddle: பா‌ர்‌க்க‌த்தா‌ன் அசைவற்று கிடப்பேன்; ஆனா‌ல் உள்ளே பல உலகங்கள் சுற்றுவேன். காலையில் உனக்கு‌த் தருவதோ புத்துணர்ச்சி. அது என்ன?
+Answer: உறக்கம்
+
+Example 3:
+Riddle: வாய் இருக்கும் உண்ணாது. அது என்ன?
+Answer: குடம்
+
+Example 4:
+Riddle: கைகள் உண்டு ஆனால் எதையும் பிடிக்காது?
+Answer: கடிகாரம்
+
+
+Now, solve this riddle:
+Riddle : கடலிலே கலந்து, கரையிலே பிரிந்து, தெருவிலே திரியும் பூ எது?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+உப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு பெரிய வளையம், அதில் நிறைய நண்பர்கள், கூடவே ஒரு சின்னக் குழந்தை - அது என்ன?
+Answer: சாவிக்கொத்து
+
+Example 2:
+Riddle: குளத்திலே குடை பிடிக்குது. அது என்ன?
+Answer: தாமரை இலை
+
+Example 3:
+Riddle: பிறந்ததும் சிறகு முளைக்கும், வாழ்நாளெல்லாம் பறக்காது. அது என்ன?
+Answer: அம்பு
+
+Example 4:
+Riddle: உறக்கத்தில் வருவேன், கற்பனையில் மிதக்க வைப்பேன், விழித்தவுடன் மறைந்து போவேன். நான் யார்?
+Answer: கனவு
+
+
+Now, solve this riddle:
+Riddle : எவ்வளவு முயன்றாலும் அவனை கடிக்க முடியாது. அவன் இல்லாமல் உணவே இல்லை. அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+உப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: எனக்கு பற்கள் உண்டு, ஆனால் கடிக்க மாட்டேன். நான் யார்?
+Answer: சீப்பு
+
+Example 2:
+Riddle: என்னுடன் எப்போதும் இருப்பான், ஆனால் அவனைப் பிடிக்க முடியாது. அவன் யார்?
+Answer: நிழல்
+
+Example 3:
+Riddle: வீட்டில் இருக்கும், ஆனால் நடக்காது, நிற்காது. அது என்ன?
+Answer: தரை
+
+Example 4:
+Riddle: சுருண்ட பாம்பு ஓட ஓட, அதன் வால் சுருங்கும். அது என்ன?
+Answer: டேப் ரோல் / பேப்பர் ரோல்
+
+
+Now, solve this riddle:
+Riddle : கருப்பு நிறமுடையவன், கபடம் அதிகம் கொண்டவன், கூவி அழைத்தால் வந்திடுவான், கூட்டம் சேர்த்தும் வந்திடுவான் – அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காகம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தலையில் புகை வர, உடல் வேகமாகக் குறையும் அது என்ன?
+Answer: ஊதுபத்தி
+
+Example 2:
+Riddle: வீட்டைத் தாங்கும் ஆனால் உள்ளே வசிக்காது அது என்ன?
+Answer: தூண்
+
+Example 3:
+Riddle: எலும்பில்லாத இவள், வளைந்து நெளிந்து சுவை அறிவாள், நல்லதைச் சொன்னால் தேன், தீயதைச் சொன்னால் விஷம், அவள் யார்?
+Answer: நாக்கு
+
+Example 4:
+Riddle: அடியை அமைத்து, ஒற்றைக்கால் ஊன்றி, அண்ணாந்து பார்த்தால் ஆயிரம் கண்கள். அது என்ன?
+Answer: கட்டிடம்
+
+
+Now, solve this riddle:
+Riddle : மரத்துக்கு மரம் தாவுவான் குரங்கல்ல, பட்டை போட்டிருப்பான் சாமி அல்ல, அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வண்ணாத்தி பூச்சி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: காகிதக் கூட்டுக்காரி, நெருப்புத் தலைக் குஞ்சுகள் ஈன்றாள். அவள் யார்?
+Answer: தீப்பெட்டி
+
+Example 2:
+Riddle: வானத்தில் பஞ்சுப் பொதி போல் மிதப்பேன், கறுத்தால் கண்ணீர் வடிப்பேன். உயிர்களுக்கு நீர் ஊற்றுவேன். அது என்ன?
+Answer: மேகம்
+
+Example 3:
+Riddle: இளமையில் பச்சை, முதுமையில் பொன்னிறம், பசி போக்கும் குணம். விடை என்ன?
+Answer: நெல்
+
+Example 4:
+Riddle: ஓட சக்கரம், நிற்க தாங்கி அது என்ன?
+Answer: மிதிவண்டி
+
+
+Now, solve this riddle:
+Riddle : காற்றைக் குடித்து காற்றில் பறப்பான், அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பள்ளிக்கூடம் முழுவதும் ஒலிப்பான், ஒரு நாள் மட்டும் ஓய்வெடுப்பான். அவன் யார்?
+Answer: பள்ளி மணி
+
+Example 2:
+Riddle: முள்ளுடம்புக்காரி, மஞ்சள் நிறத்தில் மணக்கும் பிள்ளைகள் பெற்றாள். அவள் யார்?
+Answer: பலாப்பழம்
+
+Example 3:
+Riddle: அரிசி போல கொட்டும், ஆனால் ஒன்றை மட்டும் பொறுக்க முடியாது?
+Answer: மணல்
+
+Example 4:
+Riddle: தொட்டால் இனிக்கும், மிட்டாய் அல்ல. தோலுண்டு, பழம் அல்ல. அது என்ன?
+Answer: கரும்பு
+
+
+Now, solve this riddle:
+Riddle : இது ஒரு பூ. முதற்பகுதி ஆதவனின் மறுபெயர்; பிற்பகுதி தேசத் தந்தையை குறிக்கும். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சூரியகாந்தி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தரையில் ஊர்ந்தாலும் வேகம் கொள்ளாது, உடலோ எஃகுக் கவசம் தாங்கும். அது என்ன?
+Answer: டாங்கி (போர்த் தாங்கி)
+
+Example 2:
+Riddle: நான் சாப்பிடும்போது உடன் இருப்பேன், ஆனால் நான் சாப்பிட மாட்டேன். அது என்ன?
+Answer: தட்டு 
+
+Example 3:
+Riddle: உயிரில்லாத உடம்புக்கு ஒரே ஒரு தோல், அது என்ன?
+Answer: பறவை
+
+Example 4:
+Riddle: மழை முடிந்த ஓவியம், தூரிகை தொடாமலே பல வண்ணம். அது என்ன?
+Answer: வானவில்
+
+
+Now, solve this riddle:
+Riddle : கொதிக்கும் கிணற்றில் குதித்துக் குண்டாகி வருவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காபி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பேசும்போது கம்பி, அமைதியாக இருக்கும்போது பெட்டி அது என்ன?
+Answer: வீணை
+
+Example 2:
+Riddle: தம்பிக்கு எட்டாதது, அண்ணனுக்கு எட்டும். அது என்ன?
+Answer: உதடு (மேல் உதடு, கீழ் உதடு)
+
+Example 3:
+Riddle: புகை கண்டால் அலறுவான், அணைத்தால் அடங்குவான். அவன் யார்?
+Answer: தீ எச்சரிக்கை கருவி
+
+Example 4:
+Riddle: மலையில் தோன்றும் அருவி, கடலில் கலந்த பின் காணவில்லை. அது என்ன?
+Answer: நதி
+
+
+Now, solve this riddle:
+Riddle : பிடுங்கலாம் நடமுடியாது அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முடி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உதயத்தில் பொன்வண்ணம், அஸ்தமனத்தில் செவ்வண்ணம், உலகுக்கு உயிர்ச்சக்தி. அது என்ன?
+Answer: சூரியன்
+
+Example 2:
+Riddle: மண்ணில் போடும்போது ஒன்று, எடுக்கும்போது நிறைய பற்கள் அது என்ன?
+Answer: பூண்டு
+
+Example 3:
+Riddle: அழகான ராணிக்குக் கடினமான ஓட்டு வீடு, அவள் யார்?
+Answer: முத்து
+
+Example 4:
+Riddle: கவனக் குறைவாகப் பிடித்தால், ஒட்டிக் கொண்டு காயப்படுத்துவேன். நான் யார்?
+Answer: கத்தி
+
+
+Now, solve this riddle:
+Riddle : ஆயிரம் பேர் அணி வகுத்தாலும் ஆரவாரம் இராது- அவர்கள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மீன்கள்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பயணம் தொடங்கியதுமே உரக்கக் கத்தும். அது என்ன?
+Answer: ரயில் விசில்
+
+Example 2:
+Riddle: கரிய ராஜாவுக்கு வண்ண ஆடை. அது என்ன?
+Answer: எழுதுகோல்
+
+Example 3:
+Riddle: உடல் மரம், துளைகள் பல, உணவு காற்று, பரிசு இசை - நான் யார்?
+Answer: புல்லாங்குழல்
+
+Example 4:
+Riddle: ** தலையும் உண்டு, வாலும் உண்டு, ஆனால் உடம்பு இல்லை. அது என்ன?
+Answer: ** நாணயம்
+
+
+Now, solve this riddle:
+Riddle : நான்கு கால்கள் உள்ளவன், இரண்டு கைகள் உள்ளவன், உட்கார்ந்து கொண்டிருப்பான், உட்கார இடம் கொடுப்பான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நாற்காலி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடம்பெல்லாம் தங்கம், அதன் குடுமி பச்சை. அது என்ன?
+Answer: அன்னாசிப்பழம்
+
+Example 2:
+Riddle: காற்றில் கட்டிய கோட்டை, கையில் எடுத்தால் கண்ணீராம் அது என்ன?
+Answer: நீர்க்குமிழி
+
+Example 3:
+Riddle: ஒலி எழுப்புவது தெரியும். அது திரும்பி வருவது தெரியாது. அது என்ன?
+Answer: எதிரொலி
+
+Example 4:
+Riddle: நான் உள்ளேயும் இருப்பேன், வெளியேயும் இருப்பேன். ஒரு உலகிலிருந்து இன்னொரு உலகுக்கு என்னை கடந்துதான் செல்ல வேண்டும். நான் யார்?
+Answer: கதவு
+
+
+Now, solve this riddle:
+Riddle : கடல் நீரில் வளர்ந்து , மழை நீரில் மடிவது என்ன ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+உப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஓடும், சக்கரமோ பட்டையோ இருக்கும், ஆனால் எங்கேயும் செல்லாது - அது என்ன?
+Answer: ஓடுப்பாதை
+
+Example 2:
+Riddle: எப்போதும் மழையில் நனையும் ஆனால் ஜுரம் வராது. எப்போதும் வெயிலில் நிற்கும் ஆனால் களைப்படையாது. அது யார்?
+Answer: சிலை
+
+Example 3:
+Riddle: சூடான படுக்கையில் படுத்து, திரவமாய் ஓடி வருவாள். அவள் யார்?
+Answer: வெண்ணெய்
+
+Example 4:
+Riddle: வட்டமான குளத்துக்குள்ளே ஒற்றைக் குதிரை ஓடுது, அது என்ன?
+Answer: மத்து
+
+
+Now, solve this riddle:
+Riddle : குண்டுச்சட்டியில குதிரை ஓட்டறான்.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ஆட்டுக் கல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: காதுகிட்ட வச்சா கடல் சத்தம் கேட்கும்; ரேடியோ இல்லை, கடலுக்குள்ளே இருக்கும்; மீனும் இல்லை, ஊதினால் சத்தம் வரும்; விசிலும் இல்லை – அது யார்?
+Answer: சங்கு
+
+Example 2:
+Riddle: ஆபத்து வந்ததும் உரத்த குரலில் அலறும். அது யார்?
+Answer: சைரன்
+
+Example 3:
+Riddle: யாரும் தட்டாத மேளம், வானில் கேட்கும் ஓசை. அது என்ன?
+Answer: இடி
+
+Example 4:
+Riddle: உடம்பெல்லாம் தங்கம், அதன் குடுமி பச்சை. அது என்ன?
+Answer: அன்னாசிப்பழம்
+
+
+Now, solve this riddle:
+Riddle : படபடக்கும், பளபளக்கும், பண்டிகை வந்தால் வானில் பறக்கும். அது என்ன ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டாசு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தலையில் புகை வர, உடல் வேகமாகக் குறையும் அது என்ன?
+Answer: ஊதுபத்தி
+
+Example 2:
+Riddle: அம்மா பள்ளத்தில் இருக்க மகள் குத்தி வருவாள் அது என்ன?
+Answer: உரல் உலக்கை
+
+Example 3:
+Riddle: திறந்தால் மீண்டும் மூடி பூட்ட முடியாது. அது என்ன?
+Answer: குளிர்பான டின்
+
+Example 4:
+Riddle: பயணம் தொடங்கியதுமே உரக்கக் கத்தும். அது என்ன?
+Answer: ரயில் விசில்
+
+
+Now, solve this riddle:
+Riddle : . பற்கள் இருக்கும் கடிக்கமாட்டான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சீப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடலெல்லாம் வண்ணப் போர்வை, தலையில் சிகப்புக் கொண்டை, அது என்ன?
+Answer: சேவல்
+
+Example 2:
+Riddle: வயிறு ஆழம், வாய் அகலம், உணவு நீர் - நான் யார்?
+Answer: கிணறு
+
+Example 3:
+Riddle: இது ஒரு செடியின் பகுதி. இதன் முதற்பகுதி சமையலுக்கு உதவும் ஒரு சொல். பிற்பகுதி இலை வகையைக் குறிக்கும். அது என்ன?
+Answer: கறிவேப்பிலை
+
+Example 4:
+Riddle: பேசும், பதில் சொல்லும், மனிதன் இல்லை - அது என்ன?
+Answer: கிளி
+
+
+Now, solve this riddle:
+Riddle : உயிர் இல்லாத நீதிபதியிடம் ஒழுங்கான நியாயம்- அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தராசு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒன்றுமில்லாத இடத்தில் புதிதாக ஒரு கண் தோன்றுமே அது என்ன?
+Answer: துளை / ஓட்டை
+
+Example 2:
+Riddle: வெள்ளை உள்ளத்திற்கு பழுப்பு ஓடு, அது என்ன?
+Answer: தேங்காய்
+
+Example 3:
+Riddle: பச்சையாய் இருக்கும்போது பார்க்கப் பிரியம், கடித்தாலோ கண்ணில் நீர்வரும் காரம். உணவுக்குச் சுவை ஊட்டும் உத்தமன். அது என்ன?
+Answer: மிளகாய்
+
+Example 4:
+Riddle: குப்பை மேட்டில் விரித்த குடை, அது என்ன?
+Answer: காளான்
+
+
+Now, solve this riddle:
+Riddle : பல் துவக்ககாதவனுக்கு உடம்பு எல்லாம் பற்கள்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சீப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடல் முழுவதும் துளைகள், ஆனாலும் தண்ணீரைத் தாங்குவான். அவன் யார்?
+Answer: பஞ்சு (ஸ்பாஞ்ச்)
+
+Example 2:
+Riddle: நான் உள்ளேயும் இருப்பேன், வெளியேயும் இருப்பேன். ஒரு உலகிலிருந்து இன்னொரு உலகுக்கு என்னை கடந்துதான் செல்ல வேண்டும். நான் யார்?
+Answer: கதவு
+
+Example 3:
+Riddle: சிவப்பு கோட்டைக்குள் சிதறிக் கிடக்கும் வைரக் கற்கள். அது என்ன?
+Answer: மாதுளம்பழம்
+
+Example 4:
+Riddle: சத்தம் எழுப்பும், கண்ணீர் வரும், வருத்தம் வந்தால் அது வரும். அது என்ன?
+Answer: அழுகை
+
+
+Now, solve this riddle:
+Riddle : வயதான பலருக்கு புதிதாக ஒரு கை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பாக்கெட் பேனா
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடலெங்கும் துளைகள், ஆனாலும் நீரை ஏந்தும். அழுக்கைப் போக்கும் அதிசயப் பொருள். அது என்ன?
+Answer: கடற்பஞ்சு
+
+Example 2:
+Riddle: என் இறுதிப் பெயர் ஒரு பெரிய நிலத்து விலங்கைக் குறிக்கும், ஆனால் நான் பெரும்பாலும் அங்கு வாழ்வதில்லை. என் முதல் பெயரே என் வாழிடம், அதில் மூழ்கிக் கிடப்பதே என் விருப்பம். ஆப்பிரிக்காவில் என்னைக் காணலாம், கோபம் வந்தால் ஜாக்கிரதை. நான் யார்?
+Answer: நீர்யானை
+
+Example 3:
+Riddle: தோலில் தோன்றி, தோலிலேயே மறையும் வண்ணம். அது என்ன?
+Answer: வெட்கம்
+
+Example 4:
+Riddle: ** கண் உண்டு பார்க்காது, கால் உண்டு நடக்காது, அது என்ன?
+Answer: ** நாற்காலி
+
+
+Now, solve this riddle:
+Riddle : கீழேயும் மேலேயும் மண்; நடுவிலே அழகான பெண். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மாங்காய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: என்னுடன் எப்போதும் இருப்பான், ஆனால் அவனைப் பிடிக்க முடியாது. அவன் யார்?
+Answer: நிழல்
+
+Example 2:
+Riddle: கறந்தால் நீரோட்டம், உறைந்தால் பாறைக்கட்டி. அது என்ன?
+Answer: பால்
+
+Example 3:
+Riddle: வெளிச்சத்தில் பிறந்து இருட்டில் மறையுது?
+Answer: நிழல்
+
+Example 4:
+Riddle: இவனும் ஒரு காகிதம் தான்; ஆனால், உலகம் முழுவதும் சுற்றி வந்திருப்பான். அது என்ன?
+Answer: செய்தித்தாள்
+
+
+Now, solve this riddle:
+Riddle : இளமையில் பச்சை, முதுமையில் சிகப்பு, குணத்திலே எரிப்பு. விடை தெரியுமா?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மிளகாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: எண்ணிலடங்காமல் தினமும் உதிர்ந்தாலும், யாருக்கும் வலிப்பதில்லை, ஓசையும் கேட்பதில்லை. அது என்ன?
+Answer: தலைமுடி
+
+Example 2:
+Riddle: வானில் மிதந்து செல்வேன் பூமிக்கு உயிர் கொடுப்பேன் நான் யார்?
+Answer: மேகம்
+
+Example 3:
+Riddle: யாரும் தட்டாத மேளம், வானில் கேட்கும் ஓசை. அது என்ன?
+Answer: இடி
+
+Example 4:
+Riddle: பேசும் ஆனால் மனிதன் அல்ல, படம் காட்டும் ஆனால் திரையரங்கம் அல்ல. அது என்ன?
+Answer: தொலைக்காட்சி
+
+
+Now, solve this riddle:
+Riddle : பெட்டியைத் திறந்தால் பூட்ட முடியாது. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பச்சைப் போர்வைக்குள் உறங்கும் வெள்ளை முத்துக்கள். அவை யாவை?
+Answer: பட்டாணி
+
+Example 2:
+Riddle: தாய் பஞ்சிலே, மகள் உடலிலே அவை என்ன?
+Answer: துணி
+
+Example 3:
+Riddle: ஒரு பெரிய வளையம், அதில் நிறைய நண்பர்கள், கூடவே ஒரு சின்னக் குழந்தை - அது என்ன?
+Answer: சாவிக்கொத்து
+
+Example 4:
+Riddle: உடைந்தாலும் ஓசை வராத கண்ணாடி, கடையில் கிடைக்காத கண்ணாடி, அது என்ன?
+Answer: மனம்
+
+
+Now, solve this riddle:
+Riddle : வீட்டுக்கு வந்த விருந்தாளியை வரவேற்க ஆளில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கதவு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கடையில் பிறந்து குப்பையில் முடியும், அது என்ன?
+Answer: நெகிழிப் பை
+
+Example 2:
+Riddle: பசியோடு இருக்கும்போது முன்னே நிற்பான், பசியாறியதும் மறைந்து போவான். அவன் யார்?
+Answer: உணவு
+
+Example 3:
+Riddle: நெருப்பெனும் கிணற்றில் விழுந்து, சம்மட்டி அடிபட்டு, உருமாறி எழுவான். அவன் யார்?
+Answer: இரும்பு
+
+Example 4:
+Riddle: விறகில் பூக்கும் பூ, நீரில் மாயும் பூ, அது என்ன பூ?
+Answer: நெருப்பு
+
+
+Now, solve this riddle:
+Riddle : மாமா போட்ட பந்தல் மறுபடி பிரிச்சா கந்தல் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வாழைப்பழம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: காதுக்குக் காது செய்தி பரவும், ஆனால் அதை முதலில் சொன்னவர் யார் என்று தெரியாது. அது என்ன?
+Answer: வதந்தி
+
+Example 2:
+Riddle: வெளியே பச்சைப் போர்வை, உள்ளே முத்துக்கள் வெள்ளை நிறத்தில். முள் செடியின் மேல் பிறப்பேன், ஆனால் இனிப்பாய் மகிழ்விப்பேன். அது என்ன?
+Answer: பலாப்பழம்
+
+Example 3:
+Riddle: கர்ஜிக்கும், கோடுகள் இருக்கும், காட்ட வேண்டும் என்றால் கூண்டில் அடைப்பார்கள். அது என்ன?
+Answer: புலி
+
+Example 4:
+Riddle: மேலிலும் துவாரம், கீழேயும் துவாரம், எங்கும் துளைகள், இருந்தும் மழையை என்னுள் அடக்கி வைப்பேன். நான் யார்?
+Answer: மேகம்
+
+
+Now, solve this riddle:
+Riddle : முறையின்றித் தொட்டால்,ஒட்டிக் கொண்டு உயிரை எடுப்பான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மின்சாரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறு துளி விழுந்ததும் தாளைக் கெடுத்தது அது என்ன?
+Answer: மை
+
+Example 2:
+Riddle: மேலே ஒரு ஓடு, கீழே ஒரு ஓடு; நடுவிலே ஒரு விலை உயர்ந்த ஒளி. அது என்ன?
+Answer: முத்து.
+
+Example 3:
+Riddle: ஓடியவன் நின்றான். வயிறு நிரப்பப்பட்டது மறுபடியும் ஓடினான். அவன் யார்?
+Answer: வாகனம்
+
+Example 4:
+Riddle: குழந்தைகள் கூட்டும் வீடு, அலை அடித்தால் வெறும் மணல் கூடு. அது என்ன?
+Answer: மணல் வீடு
+
+
+Now, solve this riddle:
+Riddle : நடுவழிய ஓய்வுக்காம், கடையிரண்டில் ஏதுமில்லை சொல், மூன்றெழுத்தில் உடுத்தலாம், மொத்தத்தில் பெண்கள் விருப்பம், அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சேலை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நான் பலவற்றைத் தருகிறேன், ஆனால் நீங்கள் ஒன்றையும் கையில் வைத்திருக்க முடியாது. நான் யார்?
+Answer: அறிவுரை
+
+Example 2:
+Riddle: புத்தகத்தின் திண்ணையில் பட்டுத் துணி. அது என்ன?
+Answer: நூல் குறிப்பான்
+
+Example 3:
+Riddle: தேயத் தேயக் குறைந்தாலும், ஒருபோதும் அலுத்துக் கொள்ளாது. அது என்ன?
+Answer: சோப்பு
+
+Example 4:
+Riddle: வானத்தில் பஞ்சுப் பொதி போல் மிதப்பேன், கறுத்தால் கண்ணீர் வடிப்பேன். உயிர்களுக்கு நீர் ஊற்றுவேன். அது என்ன?
+Answer: மேகம்
+
+
+Now, solve this riddle:
+Riddle : பார்க்க அழகு பாம்புக்கு எதிரி அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மயில்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சுருண்ட பாம்பு ஓட ஓட, அதன் வால் சுருங்கும். அது என்ன?
+Answer: டேப் ரோல் / பேப்பர் ரோல்
+
+Example 2:
+Riddle: சிறு சிறு மணிகளாய் கொட்டிக்கிடந்தாலும், ஒன்றை மட்டும் தனியாக எடுக்க முடியாது?
+Answer: கடுகு
+
+Example 3:
+Riddle: கிணற்றுக்குள் போகும், வரும், ஆனால் உயிர் இல்லை. தாகம் தீர்க்கும். அது என்ன?
+Answer: வாளி
+
+Example 4:
+Riddle: சிப்பியைத் திறந்தால் விலைமதிப்புள்ள கல், அது என்ன?
+Answer: முத்து
+
+
+Now, solve this riddle:
+Riddle : ஓர் அரண்மனையில் முப்பத்திரெண்டு காவலர்கள் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நான் சாப்பிடும்போது உடன் இருப்பேன், ஆனால் நான் சாப்பிட மாட்டேன். அது என்ன?
+Answer: தட்டு 
+
+Example 2:
+Riddle: ஓட சக்கரம், நிற்க தாங்கி அது என்ன?
+Answer: மிதிவண்டி
+
+Example 3:
+Riddle: கர்ஜிக்கும், கோடுகள் இருக்கும், காட்ட வேண்டும் என்றால் கூண்டில் அடைப்பார்கள். அது என்ன?
+Answer: புலி
+
+Example 4:
+Riddle: இரும்பை அடிப்பார், தீயில் சுடுவார். ஆனாலும் நமக்கு பயனுள்ள கருவிகள் செய்வார். யார் அவர்?
+Answer: கொல்லர்
+
+
+Now, solve this riddle:
+Riddle : தாய் குப்பையிலே, மகள் சந்தையிலே அவை என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வாழைக்காய், வாழைப்பழம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு பெரிய வளையம், அதில் நிறைய நண்பர்கள், கூடவே ஒரு சின்னக் குழந்தை - அது என்ன?
+Answer: சாவிக்கொத்து
+
+Example 2:
+Riddle: வானத்தில் பஞ்சுப் பொதி போல் மிதப்பேன், கறுத்தால் கண்ணீர் வடிப்பேன். உயிர்களுக்கு நீர் ஊற்றுவேன். அது என்ன?
+Answer: மேகம்
+
+Example 3:
+Riddle: சின்ன வட்டக் கல் போல இருக்கும்; அதில் துளைகளும் வடிவங்களும் இருக்கும். அது என்ன?
+Answer: பொத்தான்
+
+Example 4:
+Riddle: ஒரு சின்ன கீறல் பட்டதும், உடல் முழுவதும் வலித்தது அது என்ன?
+Answer: புண்
+
+
+Now, solve this riddle:
+Riddle : கையை வெட்டுவார்; கழுத்தை வெட்டுவார். ஆனாலும் நல்லவர். யார் அவர்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நாவிதர்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கண்ணுக்குத் தெரியாதவன், ஆனால் உயிரைப் பறிப்பான். அவன் யார்?
+Answer: கிருமி
+
+Example 2:
+Riddle: கீழேயும் மேலேயும் தரை; நடுவிலே குளிர்ச்சியான நீர். அது என்ன?
+Answer: கிணறு.
+
+Example 3:
+Riddle: உதைத்தால் ஓசை எழுப்புவான், ஆனால் உயிருள்ளவன் அல்ல; குழந்தைகள் முதல் பெரியவர் வரை விளையாடுவர். அது என்ன?
+Answer: பந்து
+
+Example 4:
+Riddle: வீட்டில் இருக்கும், ஆனால் நடக்காது, நிற்காது. அது என்ன?
+Answer: தரை
+
+
+Now, solve this riddle:
+Riddle : உணவை எடுப்பான் ஆனால் உண்ணமாட்டான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கரண்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பாட்டு கேட்கும், இசை வரும், பாடுபவர் யாரும் இல்லை - அது என்ன?
+Answer: வானொலி / ஒலிப்பான்
+
+Example 2:
+Riddle: சட்டையை உரித்தால் சத்தான முத்துக்கள் அது என்ன?
+Answer: மக்காச்சோளம்
+
+Example 3:
+Riddle: அம்மா பள்ளத்தில் இருக்க மகள் குத்தி வருவாள் அது என்ன?
+Answer: உரல் உலக்கை
+
+Example 4:
+Riddle: வாய் உண்டு, ஆனால் பேசாது, வீட்டை காக்கும், காவலன் அல்ல, திறவுகோல் வந்தால் வழி விடுவான், திருடனை தடுப்பான் – அது என்ன?
+Answer: பூட்டு
+
+
+Now, solve this riddle:
+Riddle : சொன்ன நேரத்துக்கு தொண்டை கிழிய கத்துவான். அவன் யார் ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முறையீட்டு கடிகாரம் / அலாரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சூடான கல்லில் விழுந்து, மெலிந்து பரவுவான். அவன் யார்?
+Answer: தோசை
+
+Example 2:
+Riddle: கடினமான ஓடு கொண்டிருப்பான், உள்ளே மூளையை வைத்திருப்பான். அது என்ன?
+Answer: அக்ரூட் பழம் (வால்நட்)
+
+Example 3:
+Riddle: தோலில் தோன்றி, தோலிலேயே மறையும் வண்ணம். அது என்ன?
+Answer: வெட்கம்
+
+Example 4:
+Riddle: கால்கள் இல்லாமல் உலகம் சுற்றுவான், பல செய்திகளை சுமந்து செல்வான். அவன் யார்?
+Answer: கடிதம்
+
+
+Now, solve this riddle:
+Riddle : நடந்தவன் நின்றான் கத்தியை எடுத்து தலையைச் சீவினேன் மறுபடியும் நடந்தான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பேனா
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நாக்கு உண்டு, பேசத் தெரியாது. காலில் இருக்கும், நடக்கத் தெரியாது. குதிகால் உண்டு, உதைக்கத் தெரியாது. – அது என்ன?
+Answer: செருப்பு (காலணி)
+
+Example 2:
+Riddle: அடியை அமைத்து, ஒற்றைக்கால் ஊன்றி, அண்ணாந்து பார்த்தால் ஆயிரம் கண்கள். அது என்ன?
+Answer: கட்டிடம்
+
+Example 3:
+Riddle: முள்ளுடம்புக்காரி, மஞ்சள் நிறத்தில் மணக்கும் பிள்ளைகள் பெற்றாள். அவள் யார்?
+Answer: பலாப்பழம்
+
+Example 4:
+Riddle: வயலோடு பிறந்து; நீரோடு கலந்து; விருந்தாவான் மருந்தாவான். அவன் யார்?
+Answer: அரிசி
+
+
+Now, solve this riddle:
+Riddle : அம்மா படுத்திருக்க மகள் ஓடித்திரிவாள் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அரவம் (பாம்பு)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒன்றுமில்லாத இடத்தில் புதிதாக ஒரு கண் தோன்றுமே அது என்ன?
+Answer: துளை / ஓட்டை
+
+Example 2:
+Riddle: முறையின்றி உட்கொண்டால், உடலினுள்ளே சென்று உயிரைப் பறிக்கும். நான் யார்?
+Answer: விஷம்
+
+Example 3:
+Riddle: தண்டு கருப்பு, இலைகள் பச்சை, பூவோ சிவப்பு. அது என்ன?
+Answer: செம்பருத்திச் செடி
+
+Example 4:
+Riddle: காகிதக் கடல், ஆனால் தண்ணீர் இல்லை. அதில் கோடுகள் உண்டு, ஊர்ப் பெயர்கள் உண்டு. அது என்ன?
+Answer: வரைபடம்
+
+
+Now, solve this riddle:
+Riddle : காலையில் வந்த விருந்தாளியை மாலையில் காணவில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நிழல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறு துளி விழுந்ததும் தாளைக் கெடுத்தது அது என்ன?
+Answer: மை
+
+Example 2:
+Riddle: காதுகிட்ட வச்சா கடல் சத்தம் கேட்கும்; ரேடியோ இல்லை, கடலுக்குள்ளே இருக்கும்; மீனும் இல்லை, ஊதினால் சத்தம் வரும்; விசிலும் இல்லை – அது யார்?
+Answer: சங்கு
+
+Example 3:
+Riddle: சுட்டவன் ஓய்ந்தான், வெங்காயத்தை எடுத்து முகத்தைத் தேய்த்தேன், மறுபடியும் சுட்டான். அவன் யார்?
+Answer: தோசைக்கல்
+
+Example 4:
+Riddle: கண்ணிலே தோன்றி கண்ணிலே மறையும் நீர்வீழ்ச்சி. அது என்ன?
+Answer: கண்ணீர்
+
+
+Now, solve this riddle:
+Riddle : ஆலமரம் தூங்க அவனியெல்லாம் தூங்க, சீரங்கம் தூங்க திருப்பாற்கடல் தூங்க, ஒருவன் மட்டும் தூங்கவில்லை அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காவல்காரன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வயதான பலருக்கு புதிதாக இரண்டு கண்கள், அது என்ன?
+Answer: மூக்குக்கண்ணாடி
+
+Example 2:
+Riddle: இது ஒரு பூச்சி. முதற்பகுதி அழகைக் குறிக்கும் சொல்; பிற்பகுதி பறக்கும் ஒரு சிறிய உயிரி. அது என்ன?
+Answer: வண்ணத்துப்பூச்சி
+
+Example 3:
+Riddle: திறந்தால் மீண்டும் மூடி பூட்ட முடியாது. அது என்ன?
+Answer: குளிர்பான டின்
+
+Example 4:
+Riddle: அடியை அமைத்து, ஒற்றைக்கால் ஊன்றி, அண்ணாந்து பார்த்தால் ஆயிரம் கண்கள். அது என்ன?
+Answer: கட்டிடம்
+
+
+Now, solve this riddle:
+Riddle : நாளெல்லாம் நடந்தாலும் நாற்பதடி செல்லாது அந்த நாயகனுக்கோ உடல் மேல் கவசம் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+படகு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: குரல் இல்லாத தூதுவனிடம் ஊர் உலகச் செய்தி - அது என்ன?
+Answer: செய்தித்தாள்
+
+Example 2:
+Riddle: உதயத்தில் பொன்வண்ணம், அஸ்தமனத்தில் செவ்வண்ணம், உலகுக்கு உயிர்ச்சக்தி. அது என்ன?
+Answer: சூரியன்
+
+Example 3:
+Riddle: சுட்டவன் ஓய்ந்தான், வெங்காயத்தை எடுத்து முகத்தைத் தேய்த்தேன், மறுபடியும் சுட்டான். அவன் யார்?
+Answer: தோசைக்கல்
+
+Example 4:
+Riddle: உயிரற்ற உடம்பில் ஆயிரமாயிரம் நரம்புகள் ஓடும். அது என்ன?
+Answer: மின்சுற்றுப் பலகை (Circuit Board)
+
+
+Now, solve this riddle:
+Riddle : ஓடையில கருப்பு மீனு துள்ளி விளையாடுது அது என்ன ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நெல்லும் உமியும்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உயிர் இல்லாத இலை, மரத்தோடு பிறந்து, நீரிலே குளித்து, ஊரெல்லாம் உலவும். அது என்ன?
+Answer: காகிதம்
+
+Example 2:
+Riddle: இருட்டு அறையில் எட்ட முடியாத ராஜா, அது என்ன?
+Answer: நிலா 
+
+Example 3:
+Riddle: தலைக்கு மேலே போவான்; தரைக்கு மேலே வரமாட்டான். அவன் யார்?
+Answer: புகைக்குழாய் வழி செல்லும் புகை
+
+Example 4:
+Riddle: தொடாமல் செயலற்று இருக்கும், தொட்டால் மாற்றங்களைக் காட்டும். அது என்ன?
+Answer: ரிமோட் கண்ட்ரோல் (Remote Control)
+
+
+Now, solve this riddle:
+Riddle : இலையுண்டு கிளையில்லை,பூ உண்டு மணமில்லை,காய் உண்டு விதையில்லை,பட்டை உண்டு கட்டை இல்லை,கன்று உண்டு பசு இல்லை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வாழை மரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தண்ணீரைக் குடித்து வானத்தை நோக்கி வளருவான், அவன் யார்?
+Answer: மரம்
+
+Example 2:
+Riddle: தம்பிக்கு எட்டாதது, அண்ணனுக்கு எட்டும். அது என்ன?
+Answer: உதடு (மேல் உதடு, கீழ் உதடு)
+
+Example 3:
+Riddle: ஒன்றுமில்லாத இடத்தில் புதிதாக ஒரு கண் தோன்றுமே அது என்ன?
+Answer: துளை / ஓட்டை
+
+Example 4:
+Riddle: கிள்ளினால் மீண்டும் ஒட்ட முடியாது. அது என்ன?
+Answer: நீர்க்குமிழி
+
+
+Now, solve this riddle:
+Riddle : பா‌ர்‌க்க‌த்தா‌ன் கறுப்பு; ஆனா‌ல் உள்ளமோ சிவப்பு. நம‌க்கு‌த் தருவதோ சுறுசுறு‌ப்பு அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கரும்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு வீட்டுக்கு ஒரே ஒரு கம்பம். அது என்ன?
+Answer: காளான்
+
+Example 2:
+Riddle: ஒரு பெட்டிக்குள் ஆயிரம் தம்பிகள் அது என்ன?
+Answer: தீப்பெட்டி
+
+Example 3:
+Riddle: நடந்தவன் நின்றான். என் தலையைத் தேய்த்துச் சீவினார்கள். மறுபடியும் நடக்க ஆரம்பித்தேன். நான் யார்?
+Answer: அழிப்பான்
+
+Example 4:
+Riddle: நேரம் வந்தால் கத்து கத்தென்று கத்துவான், தட்டிவிட்டால் அமைதியாகி விடுவான். அவன் யார்?
+Answer: அலாரம் கடிகாரம்
+
+
+Now, solve this riddle:
+Riddle : நன்றிக்கு வால் கோபத்துக்கு வாய் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உயரமாய் இருப்பான், உள்ளே கருப்பாய் இருப்பான், எழுத எழுதக் கரைந்து போவான். அவன் யார்?
+Answer: எழுதுகோல் (பென்சில்)
+
+Example 2:
+Riddle: தொடாமல் அமைதியாய் கிடப்பான், தொட்டால் ஐயோ என்பான். அவன் யார்?
+Answer: புண்
+
+Example 3:
+Riddle: கால்களுண்டு ஆனால் நடப்பதில்லை, அது என்ன?
+Answer: நாற்காலி / மேஜை (Chair / Table)
+
+Example 4:
+Riddle: உலகமெங்கும் சுற்றும் ஆனால் இருக்கும் இடம் ஒரு அங்குலம். அது என்ன?
+Answer: அஞ்சல் தலை
+
+
+Now, solve this riddle:
+Riddle : பூவோடு பிறந்து; நாவோடு கலந்து விருந்தாவான் மருந்தாவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தேன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பல முகங்களைக் காட்டும், ஆனால் அதற்குக் கண்கள் இல்லை. அது என்ன?
+Answer: கண்ணாடி
+
+Example 2:
+Riddle: சிறு சிறு மணிகளாய் கொட்டிக்கிடந்தாலும், ஒன்றை மட்டும் தனியாக எடுக்க முடியாது?
+Answer: கடுகு
+
+Example 3:
+Riddle: மண்ணிலே பிறந்து, தீயிலே வெந்து, சுவரிலே வசிக்கும் பறவை எது?
+Answer: செங்கல்
+
+Example 4:
+Riddle: குழந்தைகள் கூட்டும் வீடு, அலை அடித்தால் வெறும் மணல் கூடு. அது என்ன?
+Answer: மணல் வீடு
+
+
+Now, solve this riddle:
+Riddle : உடம்பில்லா ஒருவன் பத்து சட்டை அணீந்திருப்பான்? அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வெங்காயம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: குச்சியால் தட்டுவார்; வார்த்தையால் சுடுவார். ஆனாலும் அறிவைக் கொடுப்பார். யார் அவர்?
+Answer: ஆசிரியர்
+
+Example 2:
+Riddle: புத்தகத்தின் திண்ணையில் பட்டுத் துணி. அது என்ன?
+Answer: நூல் குறிப்பான்
+
+Example 3:
+Riddle: பலர் வாய்க்குள் அணிவகுத்து நின்றாலும், வாய் திறந்து பேச மாட்டார்கள் - அவர்கள் யார்?
+Answer: பற்கள்
+
+Example 4:
+Riddle: குப்பை மேட்டில் விரித்த குடை, அது என்ன?
+Answer: காளான்
+
+
+Now, solve this riddle:
+Riddle : கூரை வீட்டைப் பிரிச்சா ஓட்டுவீடு! ஓட்டு வீட்டுக்குள்ள வெள்ளை மாளிகை!வெள்ளை மாளிகைக்கு நடுவில் குளம்!அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: புகை கண்டால் அலறுவான், அணைத்தால் அடங்குவான். அவன் யார்?
+Answer: தீ எச்சரிக்கை கருவி
+
+Example 2:
+Riddle: சின்ன வட்டக் கல் போல இருக்கும்; அதில் துளைகளும் வடிவங்களும் இருக்கும். அது என்ன?
+Answer: பொத்தான்
+
+Example 3:
+Riddle: வீட்டில் இருக்கும், ஆனால் நடக்காது, நிற்காது. அது என்ன?
+Answer: தரை
+
+Example 4:
+Riddle: இனிக்கும் தேன் தரும், குத்தும் அது என்ன?
+Answer: தேனீ
+
+
+Now, solve this riddle:
+Riddle : ஒரு குகை, 32 வீரர்கள் , ஒரு நாகம் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வாய், பற்கள், நாக்கு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கண்ணுண்டு, பார்வை இருக்காது. அது என்ன?
+Answer: ஊசி
+
+Example 2:
+Riddle: விரல் காட்டும் திசையில் வெள்ளம் வரும்.
+Answer: குழாய்
+
+Example 3:
+Riddle: உடைந்தாலும் ஓசை வராத கண்ணாடி, கடையில் கிடைக்காத கண்ணாடி, அது என்ன?
+Answer: மனம்
+
+Example 4:
+Riddle: இது ஒரு செடியின் பகுதி. இதன் முதற்பகுதி சமையலுக்கு உதவும் ஒரு சொல். பிற்பகுதி இலை வகையைக் குறிக்கும். அது என்ன?
+Answer: கறிவேப்பிலை
+
+
+Now, solve this riddle:
+Riddle : கையில்லாமல் நீந்துவான்; கால் இல்லாமல் ஓடுவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மீன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சோறு போடுவான், ஆனால் சாப்பிட மாட்டான். அவன் யார்?
+Answer: அகப்பை
+
+Example 2:
+Riddle: ஓட்டம் இருக்கும், நிற்கமாட்டான். அவன் யார்?
+Answer: நதி
+
+Example 3:
+Riddle: செடியிலே பிறந்து, சட்டியிலே வெந்து, தட்டிலே பரவும் மணி எது?
+Answer: சோறு
+
+Example 4:
+Riddle: வண்ண மேலாடையைக் களைந்தால் பஞ்சுப் போர்வை! பஞ்சுப் போர்வைக்குள் வரிசை வரிசையாய் அறைகள்! அறைகளுக்குள் அமுதசுரபியாய் குளம்! அது என்ன?
+Answer: ஆரஞ்சுப் பழம்
+
+
+Now, solve this riddle:
+Riddle : வலை படபடக்கும்,பளபளக்கும் மனதுக்குள் இடம் பிடிக்கும் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+திரைப்படம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடம்பெல்லாம் தங்கம், அதன் குடுமி பச்சை. அது என்ன?
+Answer: அன்னாசிப்பழம்
+
+Example 2:
+Riddle: நடுவில் அது ஒலிக்கும், கேட்க உதவும் உறுப்பு, கடைசியில் சொல் இல்லை, அது என்ன?
+Answer: காது
+
+Example 3:
+Riddle: முகம் உண்டு கண் இல்லை, கைகள் உண்டு தட்ட முடியாது, ஓடிக்கொண்டே இருப்பான், ஆனால் ஓரிடத்தை விட்டு நகரமாட்டான். அவன் யார்?
+Answer: கடிகாரம்
+
+Example 4:
+Riddle: தொடக்கத்தில் நீர், கொதித்தால் ஆவி, குளிர்ந்தால் மீண்டும் நீர். இது என்ன?
+Answer: தண்ணீர்
+
+
+Now, solve this riddle:
+Riddle : தலைக்குள் கண் வைத்திருப்பவன் இவன் மட்டும்தான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தையல்காரன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கால்கள் உண்டு, ஆனால் நடக்காது. தலை உண்டு, ஆனால் பேசாது. நான் யார்?
+Answer: கட்டில்
+
+Example 2:
+Riddle: குழந்தையாய் ஊர்வான், கூட்டிற்குள் உறங்குவான், பெரியவனாய் பறப்பான்.
+Answer: பட்டாம்பூச்சி
+
+Example 3:
+Riddle: கண்கள் பல உண்டு, ஆனால் பார்க்க முடியாது. அது என்ன?
+Answer: அன்னாசிப்பழம்
+
+Example 4:
+Riddle: ஒரு துணிக்கு இரண்டு கால்கள். அது என்ன?
+Answer: கால்சட்டை
+
+
+Now, solve this riddle:
+Riddle : உயிரில்லாதவனுக்கு உடம்பெல்லாம் நரம்பு, அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வீணை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: குப்பை மேட்டில் விரித்த குடை, அது என்ன?
+Answer: காளான்
+
+Example 2:
+Riddle: உடம்பில்லா ஒருவன், பல சட்டைகளை அணிந்து வருவான். அவனது சட்டைகளை உரித்தால், உள்ளே ஒரு செய்தி இருக்கும். அவன் யார்?
+Answer: கடிதம்
+
+Example 3:
+Riddle: கால்களுண்டு ஆனால் நடப்பதில்லை, அது என்ன?
+Answer: நாற்காலி / மேஜை (Chair / Table)
+
+Example 4:
+Riddle: பள்ளிக்கூடம் முழுவதும் ஒலிப்பான், ஒரு நாள் மட்டும் ஓய்வெடுப்பான். அவன் யார்?
+Answer: பள்ளி மணி
+
+
+Now, solve this riddle:
+Riddle : சிறு தூசி விழுந்ததும் குளமே கலங்கியது அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கண்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மரத்தை அறுப்பான்; தூளாய்ப் பறக்கடிப்பான். ஆனாலும் வீட்டுக்கு உதவுவான். யார் அவன்?
+Answer: ரம்பம்
+
+Example 2:
+Riddle: இது ஒரு மொழி. முதற்பகுதி தூய்மையைக் குறிக்கும்; பிற்பகுதி நமது மொழி. அது என்ன?
+Answer: செந்தமிழ்
+
+Example 3:
+Riddle: உடலெங்கும் துளைகள், ஆனாலும் நீரை ஏந்தும். அழுக்கைப் போக்கும் அதிசயப் பொருள். அது என்ன?
+Answer: கடற்பஞ்சு
+
+Example 4:
+Riddle: ஒளி உண்டு, சூரியன் இல்லை. இரவில் தோன்றும், நட்சத்திரம் இல்லை. உருவம் மாறும், உயிர் இல்லை. அது என்ன?
+Answer: சந்திரன்
+
+
+Now, solve this riddle:
+Riddle : முட்டையிடும், குஞ்சு பொரிக்காது. கூட்டில் குடியிருக்கும், கூடு கட்டத் தெரியாது. குரலில் இனிமையுண்டு, சங்கீதம் தெரியாது! – அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+குயில்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அரசன் இறந்தாலும், ஆட்சி மாறினாலும், கோட்டை இடிந்தாலும், கொடியும் வீழ்ந்தாலும், அது மட்டும் நிலைத்திருக்கும். அது என்ன?
+Answer: வரலாறு
+
+Example 2:
+Riddle: கண்ணாடிச் சுவருக்குள்ளே கதை சொல்லுவான்.
+Answer: தொலைக்காட்சி
+
+Example 3:
+Riddle: பணத்தைப் பாதுகாக்கும் ஆனால் செலவு செய்யாது அது என்ன?
+Answer: உண்டியல்
+
+Example 4:
+Riddle: கால்கள் இல்லை ஆனால் ஓரிடத்திலேயே நின்று உலகைக் காட்டுவான். அவன் யார்?
+Answer: ஜன்னல்
+
+
+Now, solve this riddle:
+Riddle : யாரும் செய்யாத கதவு தானே திறக்கும் தானே மூடும். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கண் இமை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: முகத்தில் எண்களைச் சுமப்பான், கைகளால் நேரத்தைக் காட்டுவான். அவன் யார்?
+Answer: கடிகாரம்
+
+Example 2:
+Riddle: பாசத்துக்குச் சத்தம், பயத்துக்கு நகம் அது என்ன?
+Answer: பூனை
+
+Example 3:
+Riddle: நெற்றியில் ஒட்டிக்கொண்ட திண்ணையில் பட்டுப் பொட்டு. அது என்ன?
+Answer: பொட்டு
+
+Example 4:
+Riddle: தொட்டால் இனிக்கும், மிட்டாய் அல்ல. தோலுண்டு, பழம் அல்ல. அது என்ன?
+Answer: கரும்பு
+
+
+Now, solve this riddle:
+Riddle : வீட்டுக்கு வந்த தொந்தியப்பன் தினமும் கரைகிறான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சோப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நுரை தரும், வாய் இல்லை. உடலைத் தேய்க்கும், கை இல்லை. மணம் தரும், பூ இல்லை. கரையும், பனிக்கட்டி இல்லை. அது என்ன?
+Answer: சோப்பு
+
+Example 2:
+Riddle: புகை இல்லாமல் எரியும் தீ, நீரால் அவிக்க முடியாத தீ, அது என்ன?
+Answer: பசி
+
+Example 3:
+Riddle: மண்ணில் போடும்போது ஒன்று, எடுக்கும்போது நிறைய பற்கள் அது என்ன?
+Answer: பூண்டு
+
+Example 4:
+Riddle: ஒரு சின்னப் பொய் சொன்னால், மனமே அல்லாடும். அது என்ன?
+Answer: மனசாட்சி
+
+
+Now, solve this riddle:
+Riddle : இடி இடிக்கும், மின்னல் மின்னும், மழை பெய்யாது- அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கற்பூரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தேயத் தேயக் குறைந்தாலும், ஒருபோதும் அலுத்துக் கொள்ளாது. அது என்ன?
+Answer: சோப்பு
+
+Example 2:
+Riddle: கரும்பலகையில் பூக்கும் பூ, அழித்தால் மறைந்து போகும் பூ. அது என்ன?
+Answer: எழுத்து
+
+Example 3:
+Riddle: அடிக்காமல் அழவைப்பான், துன்பம் தராமல் கண்ணீர் வரவைப்பான். அவன் யார்?
+Answer: வெங்காயம்
+
+Example 4:
+Riddle: நீரிலே ஊறி, உரலிலே அரைபட்டு, தட்டினிலே மலரும் பூ எது?
+Answer: இட்லி
+
+
+Now, solve this riddle:
+Riddle : தொடாமல் அழுவான், தொட்டால் பேசுவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தொலைபேசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பேசாத நண்பன், உண்மையான திசையைக் காட்டும் - அது என்ன?
+Answer: திசைக்காட்டி
+
+Example 2:
+Riddle: விலையுயர்ந்தவற்றை உள்ளே வைக்கும், இரும்புச் சுவர்களால் தடிமனாகக் கட்டப்பட்டிருக்கும். இருக்கும் இடத்தைவிட்டு நகரவே நகராது. அது என்ன?
+Answer: பாதுகாப்புப் பெட்டி
+
+Example 3:
+Riddle: இதுவும் ஒரு வண்டி தான், ஆனால் சக்கரங்கள் இல்லாமல் ஓடும். அது என்ன?
+Answer: படகு
+
+Example 4:
+Riddle: விறகில் பூக்கும் பூ, நீரில் மாயும் பூ, அது என்ன பூ?
+Answer: நெருப்பு
+
+
+Now, solve this riddle:
+Riddle : உடம்பெல்லாம் சிவப்பு, அதன் குடுமி பச்சை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மிளகாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறுவன் ஆனால் சீறிப் பாய்வான், பெரிய கோட்டையையும் தகர்ப்பான். அவன் யார்?
+Answer: தீக்குச்சி
+
+Example 2:
+Riddle: தொடாமல் அமைதியாய் கிடப்பான், தொட்டால் ஐயோ என்பான். அவன் யார்?
+Answer: புண்
+
+Example 3:
+Riddle: சிவப்பு மேனி, கருப்புப் புள்ளிகள், பறந்தால் அதிர்ஷ்டம் என்பார்கள். அது என்ன?
+Answer: பொன்வண்டு
+
+Example 4:
+Riddle: காகிதக் கூட்டுக்காரி, நெருப்புத் தலைக் குஞ்சுகள் ஈன்றாள். அவள் யார்?
+Answer: தீப்பெட்டி
+
+
+Now, solve this riddle:
+Riddle : ஒட்டுத் திண்ணையில் பட்டுப் பாவாடை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அரைவடை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: எண்ணிலடங்காமல் தினமும் உதிர்ந்தாலும், யாருக்கும் வலிப்பதில்லை, ஓசையும் கேட்பதில்லை. அது என்ன?
+Answer: தலைமுடி
+
+Example 2:
+Riddle: நெருப்பைக் கக்கும், புகையையும் கக்கும், ஆனால் தானாய் சாம்பல் ஆகாது - அது என்ன?
+Answer: அடுப்பு
+
+Example 3:
+Riddle: இயந்திரம் இல்லாத படகுக்கு ஆற்றல் தரும் புதிய கை. அது என்ன?
+Answer: துடுப்பு
+
+Example 4:
+Riddle: பேசாத நண்பன், உண்மையான திசையைக் காட்டும் - அது என்ன?
+Answer: திசைக்காட்டி
+
+
+Now, solve this riddle:
+Riddle : வெள்ளை ஆடை உடுத்திய மஞ்சள் மகாராணி? அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கதறல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கால்கள் உண்டு, ஆனால் நடக்காது. தலை உண்டு, ஆனால் பேசாது. நான் யார்?
+Answer: கட்டில்
+
+Example 2:
+Riddle: கவனமின்றிப் பரப்பினால், ஒட்டிக் கொண்டு மானத்தை எடுப்பான், உறவை முறிப்பான். அவன் யார்?
+Answer: வதந்தி
+
+Example 3:
+Riddle: செடியிலே பிறந்து, சட்டியிலே வெந்து, தட்டிலே பரவும் மணி எது?
+Answer: சோறு
+
+Example 4:
+Riddle: கவனிக்காமல் விட்டால் வளரும், கவனித்தால் மறையும் அது என்ன?
+Answer: களை (Weed)
+
+
+Now, solve this riddle:
+Riddle : வாயிலிருந்து நூல் போடுவான்; மந்திரவாதியும் இல்லை, கிளைக்குக் கிளை தாவுவான்; குரங்கும் இல்லை, வலைவிரித்துப் பதுங்கியிருப்பான்; வேடனும் இல்லை – அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அரைக்காசு சிலந்தி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நான் சாப்பிடும்போது உடன் இருப்பேன், ஆனால் நான் சாப்பிட மாட்டேன். அது என்ன?
+Answer: தட்டு 
+
+Example 2:
+Riddle: மண்ணில் போடும்போது ஒன்று, எடுக்கும்போது நிறைய பற்கள் அது என்ன?
+Answer: பூண்டு
+
+Example 3:
+Riddle: சிறு சிறு மணிகளாய் கொட்டிக்கிடந்தாலும், ஒன்றை மட்டும் தனியாக எடுக்க முடியாது?
+Answer: கடுகு
+
+Example 4:
+Riddle: விதைப்பது கண்ணுக்குத் தெரியும். வேர் விடுவது கண்ணுக்குத் தெரியாது. அது என்ன?
+Answer: விதை
+
+
+Now, solve this riddle:
+Riddle : வெள்ளை ராஜாவுக்கு கறுப்பு உடை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பல்லு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: முள்ளுடம்புக்காரி, மஞ்சள் நிறத்தில் மணக்கும் பிள்ளைகள் பெற்றாள். அவள் யார்?
+Answer: பலாப்பழம்
+
+Example 2:
+Riddle: சுருண்ட பாம்பு ஓட ஓட, அதன் வால் சுருங்கும். அது என்ன?
+Answer: டேப் ரோல் / பேப்பர் ரோல்
+
+Example 3:
+Riddle: காதுக்குக் காது செய்தி பரவும், ஆனால் அதை முதலில் சொன்னவர் யார் என்று தெரியாது. அது என்ன?
+Answer: வதந்தி
+
+Example 4:
+Riddle: நுரை தரும், வாய் இல்லை. உடலைத் தேய்க்கும், கை இல்லை. மணம் தரும், பூ இல்லை. கரையும், பனிக்கட்டி இல்லை. அது என்ன?
+Answer: சோப்பு
+
+
+Now, solve this riddle:
+Riddle : இரவு வீட்டிற்கு வருவான், இரவு முழுவதும் இருப்பான் காலையில் சொல்லாமல் கொள்ளாமல் போய்விட்டிருப்பான்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கனவு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறு துளி விழுந்ததும் தாளைக் கெடுத்தது அது என்ன?
+Answer: மை
+
+Example 2:
+Riddle: முகத்தில் எண்களைச் சுமப்பான், கைகளால் நேரத்தைக் காட்டுவான். அவன் யார்?
+Answer: கடிகாரம்
+
+Example 3:
+Riddle: கண்ணாடிக் குடுவை கொண்டவன், மின்னோட்டத்தில் உயிர் பெறுவான், இரவில் விழித்திருப்பான், இருளை விரட்டி ஒளி கொடுப்பான். அவன் யார்?
+Answer: மின்விளக்கு
+
+Example 4:
+Riddle: ஒரு பெரிய வளையம், அதில் நிறைய நண்பர்கள், கூடவே ஒரு சின்னக் குழந்தை - அது என்ன?
+Answer: சாவிக்கொத்து
+
+
+Now, solve this riddle:
+Riddle : பூ கொட்ட கொட்ட ஒன்றையும் தனியே பொறுக்க முடியவில்லை?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கண்ணீர்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வாயுண்டு பேசாது. பல்லுண்டு கடிக்காது. கதவைத் திறக்கும். யார் நான்?
+Answer: சாவி
+
+Example 2:
+Riddle: புகை கண்டால் அலறுவான், அணைத்தால் அடங்குவான். அவன் யார்?
+Answer: தீ எச்சரிக்கை கருவி
+
+Example 3:
+Riddle: குச்சியால் தட்டுவார்; வார்த்தையால் சுடுவார். ஆனாலும் அறிவைக் கொடுப்பார். யார் அவர்?
+Answer: ஆசிரியர்
+
+Example 4:
+Riddle: பல்லுண்டு, பசி இராது. அது என்ன?
+Answer: சீப்பு
+
+
+Now, solve this riddle:
+Riddle : எத்தனை தரம் சுற்றினாலும் தலை சுற்றாது, அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சக்கரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நான் அழ மாட்டேன், ஆனால் பார்ப்பவரை அழ வைப்பேன். நான் யார்?
+Answer: வெங்காயம்
+
+Example 2:
+Riddle: ஒரு சிறு பொய் சொன்னதும், மொத்த நம்பிக்கையும் சிதறியது. அது என்ன?
+Answer: துரோகம்
+
+Example 3:
+Riddle: பாட்டு கேட்கும், இசை வரும், பாடுபவர் யாரும் இல்லை - அது என்ன?
+Answer: வானொலி / ஒலிப்பான்
+
+Example 4:
+Riddle: காலில் எண்ணெய் குடிக்கும், தலையில் வெளிச்சம் தரும். அவன் யார்?
+Answer: விளக்கு
+
+
+Now, solve this riddle:
+Riddle : வெளியே உள்ளதை எறிந்து உள்ளே உள்ளதை சமைத்தான். பின் வெளியே உள்ளதை சாப்பிட்டு விட்டு உள்ளே உள்ளதை எறிந்தான் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மீன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உலகமெங்கும் சுற்றும் ஆனால் இருக்கும் இடம் ஒரு அங்குலம். அது என்ன?
+Answer: அஞ்சல் தலை
+
+Example 2:
+Riddle: தாய் ஓரிடத்தில் இருக்க, சேய் ஊர் சுற்றுவாள். அவள் யார்?
+Answer: பூட்டும் சாவியும்
+
+Example 3:
+Riddle: மண்ணில் வாழ்ந்து மண்ணையே உண்ணும், அது என்ன?
+Answer: மண்புழு
+
+Example 4:
+Riddle: சூடான கல்லில் விழுந்து, மெலிந்து பரவுவான். அவன் யார்?
+Answer: தோசை
+
+
+Now, solve this riddle:
+Riddle : ஆழக் குழி தோண்டி அதிலே ஒரு முட்டையிட்டு அண்ணாந்து பார்த்தால் தொண்ணூறு முட்டை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+துப்பாக்கி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பேசத் தெரியாது, ஆனால் அடித்தால் அழுது தீர்க்கும். அது என்ன?
+Answer: பறை (மேளம்)
+
+Example 2:
+Riddle: நான் பலவற்றைத் தருகிறேன், ஆனால் நீங்கள் ஒன்றையும் கையில் வைத்திருக்க முடியாது. நான் யார்?
+Answer: அறிவுரை
+
+Example 3:
+Riddle: மழைக்குப் பின்னால் வருவேன், வானில் வளைந்து நிற்பேன், சிறிது நேரத்தில் மறைந்து போவேன். நான் யார்?
+Answer: வானவில்
+
+Example 4:
+Riddle: உடலால் தொட்டு உணர முடியாது, ஆனால் அது இல்லாமல் முயற்சியில் வெற்றி இல்லை. அது என்ன?
+Answer: நம்பிக்கை
+
+
+Now, solve this riddle:
+Riddle : நூல் நூற்கும் நெசவாளிக்கு கட்டிக்கொள்ள துணியில்லை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அரைஞான்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அரசன் இறந்தாலும், ஆட்சி மாறினாலும், கோட்டை இடிந்தாலும், கொடியும் வீழ்ந்தாலும், அது மட்டும் நிலைத்திருக்கும். அது என்ன?
+Answer: வரலாறு
+
+Example 2:
+Riddle: தாய் சேற்றிலே, மகள் சமையலறையிலே அவை என்ன?
+Answer: மண் பானை
+
+Example 3:
+Riddle: ஓரிடத்தில் நின்று கொண்டே சுற்றித் திரியும். இரவெல்லாம் வழி காட்டும். அது என்ன?
+Answer: கலங்கரை விளக்கின் ஒளிக்கீற்று
+
+Example 4:
+Riddle: தொடக்கத்தில் நீர், கொதித்தால் ஆவி, குளிர்ந்தால் மீண்டும் நீர். இது என்ன?
+Answer: தண்ணீர்
+
+
+Now, solve this riddle:
+Riddle : பேச்சுக் கேட்குது பேசுபவர் தெரியவில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வானொலி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ** கண் உண்டு பார்க்காது, கால் உண்டு நடக்காது, அது என்ன?
+Answer: ** நாற்காலி
+
+Example 2:
+Riddle: சட்டையை உரித்தால் சத்தான முத்துக்கள் அது என்ன?
+Answer: மக்காச்சோளம்
+
+Example 3:
+Riddle: ஒரு சின்னப் பொய் சொன்னால், மனமே அல்லாடும். அது என்ன?
+Answer: மனசாட்சி
+
+Example 4:
+Riddle: கறந்தால் நீரோட்டம், உறைந்தால் பாறைக்கட்டி. அது என்ன?
+Answer: பால்
+
+
+Now, solve this riddle:
+Riddle : கடைசி வார்த்தையில் மானம் உண்டு, முதல் வார்த்தையின் மென்மைக்காக இறந்தன பூச்சிகள். காஞ்சியில் நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கற்பூரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடம்புக்குள் இருந்தபடி எப்போதும் துடித்துக்கொண்டே இருப்பான். இரவும் பகலும் ஓய்வு என்பதே இல்லை. அவன் யார்?
+Answer: இதயம்
+
+Example 2:
+Riddle: காற்றில் கட்டிய கோட்டை, கையில் எடுத்தால் கண்ணீராம் அது என்ன?
+Answer: நீர்க்குமிழி
+
+Example 3:
+Riddle: அடிக்காமல் அழவைப்பான், துன்பம் தராமல் கண்ணீர் வரவைப்பான். அவன் யார்?
+Answer: வெங்காயம்
+
+Example 4:
+Riddle: ஓரிடத்தில் நின்று கொண்டே சுற்றித் திரியும். இரவெல்லாம் வழி காட்டும். அது என்ன?
+Answer: கலங்கரை விளக்கின் ஒளிக்கீற்று
+
+
+Now, solve this riddle:
+Riddle : இவன் வாலுக்கு வையகமே நடுங்கும் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கோழி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கிள்ளினால் மீண்டும் ஒட்ட முடியாது. அது என்ன?
+Answer: நீர்க்குமிழி
+
+Example 2:
+Riddle: பற்கள் பல கொண்டவன், கைப்பிடி ஒன்று உள்ளவன், தலையில் உலா வருவான், சிக்கலை நீக்கி அழகு தருவான். அவன் யார்?
+Answer: சீப்பு
+
+Example 3:
+Riddle: ஓரிடத்தில் நின்று கொண்டே சுற்றித் திரியும். இரவெல்லாம் வழி காட்டும். அது என்ன?
+Answer: கலங்கரை விளக்கின் ஒளிக்கீற்று
+
+Example 4:
+Riddle: விறகில் பூக்கும் பூ, நீரில் மாயும் பூ, அது என்ன பூ?
+Answer: நெருப்பு
+
+
+Now, solve this riddle:
+Riddle : உடம்பெல்லாம் தங்கநிறம், தலையில் பச்சை கிரீடம் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கொய்யா பழம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பச்சையாய் இருக்கும்போது பார்க்கப் பிரியம், கடித்தாலோ கண்ணில் நீர்வரும் காரம். உணவுக்குச் சுவை ஊட்டும் உத்தமன். அது என்ன?
+Answer: மிளகாய்
+
+Example 2:
+Riddle: பணத்தைப் பாதுகாக்கும் ஆனால் செலவு செய்யாது அது என்ன?
+Answer: உண்டியல்
+
+Example 3:
+Riddle: நான் உள்ளேயும் இருப்பேன், வெளியேயும் இருப்பேன். ஒரு உலகிலிருந்து இன்னொரு உலகுக்கு என்னை கடந்துதான் செல்ல வேண்டும். நான் யார்?
+Answer: கதவு
+
+Example 4:
+Riddle: பற்கள் உண்டு, ஆனால் கடிக்காது. அது என்ன?
+Answer: சீப்பு
+
+
+Now, solve this riddle:
+Riddle : கந்தல் துணிக்காரி முத்துப் பிள்ளைகள் பெற்றாள் அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ஏலக்காய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: யாரும் ஊற்றாத எண்ணெய், இரவில் எரியும் விளக்கு. அது என்ன?
+Answer: மின்மினிப் பூச்சி
+
+Example 2:
+Riddle: ஆபத்து வந்ததும் உரத்த குரலில் அலறும். அது யார்?
+Answer: சைரன்
+
+Example 3:
+Riddle: ஒரு தலைக்கு இரண்டு கதவுகள். அது என்ன?
+Answer: காதுகள்
+
+Example 4:
+Riddle: என் இறுதிப் பெயர் ஒரு பெரிய நிலத்து விலங்கைக் குறிக்கும், ஆனால் நான் பெரும்பாலும் அங்கு வாழ்வதில்லை. என் முதல் பெயரே என் வாழிடம், அதில் மூழ்கிக் கிடப்பதே என் விருப்பம். ஆப்பிரிக்காவில் என்னைக் காணலாம், கோபம் வந்தால் ஜாக்கிரதை. நான் யார்?
+Answer: நீர்யானை
+
+
+Now, solve this riddle:
+Riddle : நீளவால் குதிரையின் வால் ஓடஓடக் குறையும் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தீப்பந்தம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வீட்டில் இருக்கும், ஆனால் நடக்காது, நிற்காது. அது என்ன?
+Answer: தரை
+
+Example 2:
+Riddle: நேராகச் செல்லும், பல ஊர்களைச் சேர்ப்பாள் அவள் யார்?
+Answer: இரயில்
+
+Example 3:
+Riddle: ஊசி போல் இலைகள், வானம் தொடும் உயரம். குளிர்ந்த தேசத்தில் பிறப்பேன், நறுமணம் பரப்புவேன். அது என்ன?
+Answer: பைன் மரம்
+
+Example 4:
+Riddle: பல்லுண்டு, பசி இராது. அது என்ன?
+Answer: சீப்பு
+
+
+Now, solve this riddle:
+Riddle : ஒரு வீட்டுக்கு இரண்டு வாசல்படி. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கண்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சட்டியில் சுற்றி வருகிறான், ஆனால் சற்றும் நகர்வதில்லை.
+Answer: ஆட்டுக்கல்
+
+Example 2:
+Riddle: முள்ளுடம்புக்காரி, மஞ்சள் நிறத்தில் மணக்கும் பிள்ளைகள் பெற்றாள். அவள் யார்?
+Answer: பலாப்பழம்
+
+Example 3:
+Riddle: உடம்புக்குள் இருந்தபடி எப்போதும் துடித்துக்கொண்டே இருப்பான். இரவும் பகலும் ஓய்வு என்பதே இல்லை. அவன் யார்?
+Answer: இதயம்
+
+Example 4:
+Riddle: மலையில் தோன்றும் அருவி, கடலில் கலந்த பின் காணவில்லை. அது என்ன?
+Answer: நதி
+
+
+Now, solve this riddle:
+Riddle : வால் நீண்ட குருவிக்கு வாயுண்டு. வயிறில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+எருமைப்பூச்சி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நேராகச் செல்லும், பல ஊர்களைச் சேர்ப்பாள் அவள் யார்?
+Answer: இரயில்
+
+Example 2:
+Riddle: படபடவென நகரும், உடல் பளபளக்கும், மனதுக்குள் பயத்தை ஏற்படுத்தும் அது என்ன?
+Answer: பாம்பு
+
+Example 3:
+Riddle: உடம்புக்குள் இருந்தபடி எப்போதும் துடித்துக்கொண்டே இருப்பான். இரவும் பகலும் ஓய்வு என்பதே இல்லை. அவன் யார்?
+Answer: இதயம்
+
+Example 4:
+Riddle: கவனமின்றிப் பரப்பினால், ஒட்டிக் கொண்டு மானத்தை எடுப்பான், உறவை முறிப்பான். அவன் யார்?
+Answer: வதந்தி
+
+
+Now, solve this riddle:
+Riddle : உடல் சிவப்பு, வாய் அகலம், உணவு காகிதம்- நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பிரட்டர்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மழைக்குப் பின்னால் வருவேன், வானில் வளைந்து நிற்பேன், சிறிது நேரத்தில் மறைந்து போவேன். நான் யார்?
+Answer: வானவில்
+
+Example 2:
+Riddle: வண்ண மேலாடையைக் களைந்தால் பஞ்சுப் போர்வை! பஞ்சுப் போர்வைக்குள் வரிசை வரிசையாய் அறைகள்! அறைகளுக்குள் அமுதசுரபியாய் குளம்! அது என்ன?
+Answer: ஆரஞ்சுப் பழம்
+
+Example 3:
+Riddle: கைகள் இல்லாமல் நீந்துவான், கால்கள் இல்லாமல் ஓடுவான். அவன் யார்?
+Answer: பாம்பு
+
+Example 4:
+Riddle: நேரம் வந்தால் கத்து கத்தென்று கத்துவான், தட்டிவிட்டால் அமைதியாகி விடுவான். அவன் யார்?
+Answer: அலாரம் கடிகாரம்
+
+
+Now, solve this riddle:
+Riddle : வட்ட வட்ட நிலவில் வரைஞ்சிருக்கு; எழுதியிருக்கு. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முகம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உயிரில்லாத உடம்புக்கு ஒரே ஒரு தோல், அது என்ன?
+Answer: பறவை
+
+Example 2:
+Riddle: கைகள் இல்லாமல் நீந்துவான், கால்கள் இல்லாமல் ஓடுவான். அவன் யார்?
+Answer: பாம்பு
+
+Example 3:
+Riddle: உயரப் பறக்கும், ஆனால் இறகுகள் இல்லை. அது என்ன?
+Answer: பட்டம்
+
+Example 4:
+Riddle: ஓடியவன் நின்றான். வயிறு நிரப்பப்பட்டது மறுபடியும் ஓடினான். அவன் யார்?
+Answer: வாகனம்
+
+
+Now, solve this riddle:
+Riddle : வளைந்து நெளிந்து செல்பவள் வழியெங்கும் தாகம் தீர்ப்பாள் அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+குழாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சட்டைகளைக் கழற்றினால் கண்ணீர் வரும் அது என்ன?
+Answer: வெங்காயம்
+
+Example 2:
+Riddle: இது ஒரு செடியின் பகுதி. இதன் முதற்பகுதி சமையலுக்கு உதவும் ஒரு சொல். பிற்பகுதி இலை வகையைக் குறிக்கும். அது என்ன?
+Answer: கறிவேப்பிலை
+
+Example 3:
+Riddle: பல் துலக்க வந்த குழாய்ப் பையன், அழுத்த அழுத்தக் கரைகிறான். அவன் யார்?
+Answer: பற்பசை
+
+Example 4:
+Riddle: ஒரே இடத்தில் நின்று ஊரெல்லாம் அழைக்கும். அது என்ன?
+Answer: கோவில் மணி (அல்லது தொலைபேசி) - (கோவில் மணி என்பது ஒரு பொதுவான விடை)
+
+
+Now, solve this riddle:
+Riddle : பூ பூப்பது கண்ணுக்குத் தெரியும். காய் காய்ப்பது கண்ணுக்குத் தெரியாது. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சுவரிலே அட்டை ஊறுது. அது என்ன?
+Answer: பல்லி 
+
+Example 2:
+Riddle: பூமி ஆடும், ஆனால் ஆட்டுபவர் யார் என்று கண்ணுக்குத் தெரியாது. அது என்ன?
+Answer: பூகம்பம்
+
+Example 3:
+Riddle: ** தலையும் உண்டு, வாலும் உண்டு, ஆனால் உடம்பு இல்லை. அது என்ன?
+Answer: ** நாணயம்
+
+Example 4:
+Riddle: காகிதக் கூட்டுக்காரி, நெருப்புத் தலைக் குஞ்சுகள் ஈன்றாள். அவள் யார்?
+Answer: தீப்பெட்டி
+
+
+Now, solve this riddle:
+Riddle : கந்தல் துணி கட்டியவன், முத்துப் பிள்ளைகளைப் பெற்று மகிழ்ந்தான். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தென்னைமரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples of Tamil riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சத்தம் போடுவான், தொண்டை இல்லை. தாளம் போடுவான், இசைஞன் அல்ல. அவன் யார்?
+Answer: மேளம்
+
+Example 2:
+Riddle: உடம்பெல்லாம் தங்கம், அதன் குடுமி பச்சை. அது என்ன?
+Answer: அன்னாசிப்பழம்
+
+Example 3:
+Riddle: அரிசி போல கொட்டும், ஆனால் ஒன்றை மட்டும் பொறுக்க முடியாது?
+Answer: மணல்
+
+Example 4:
+Riddle: பஞ்சில் பிறந்து, நூலாய் நெய்து, உடையாவான், மானம் காப்பான். அது என்ன?
+Answer: ஆடை
+
+
+Now, solve this riddle:
+Riddle : சட்டையைக் கழற்றினால் சத்துணவு அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Mon May 26 20:20:08 2025 ---

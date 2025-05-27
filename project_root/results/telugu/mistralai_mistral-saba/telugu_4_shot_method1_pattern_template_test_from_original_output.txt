@@ -1,0 +1,3564 @@
+
+--- Starting New Generation Run at Tue May 27 16:52:24 2025 ---
+Model: mistralai/mistral-saba, Language: Telugu, Prompt: 4_shot_method1_pattern_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Telugu riddles.
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఆకు కాని ఆకు, ఏమి ఆకు?
+Answer: విస్తరాకు
+
+Example 2:
+Riddle: గూడు కాని గూడు, ఏమి గూడు?
+Answer: సాలె గూడు
+
+Example 3:
+Riddle: కాయ కాని కాయ, ఏమి కాయ?
+Answer: పత్తి కాయ
+
+Example 4:
+Riddle: కాయ కాని కాయ, ఏమి కాయ?
+Answer: తలకాయ
+
+Now, solve this riddle:
+Riddle : మొగ్గ కాని మొగ్గ, ఏమి మొగ్గ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+తలమొగ్గ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఒకరు తీస్తారు, ఒకరు చూస్తారు?
+Answer: సినిమా
+
+Example 2:
+Riddle: ఒకరు ఇస్తారు, ఒకరు తీసుకుంటారు?
+Answer: సలహా
+
+Example 3:
+Riddle: ఒకరు నేర్పుతారు, ఒకరు నేర్చుకుంటారు?
+Answer: పాఠం
+
+Example 4:
+Riddle: ఒకరు సంపాదిస్తారు, ఒకరు ఖర్చు పెడతారు?
+Answer: డబ్బు
+
+Now, solve this riddle:
+Riddle : ఒకరు పొడుస్తారు, ఒకరు విడుస్తారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ముట్టుకు
+(ముట్టె)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కడుపులో సమాచారం, నోటిలో ప్రపంచం! పిలుపుకే స్పందన, శక్తి ఆగిపోతే మౌనం!!
+Answer: చరవాణి
+
+Example 2:
+Riddle: గాజు కడుపులో దృశ్యాలు, స్పీకరు గొంతులో శబ్దాలు! ఆజ్ఞతోనే ప్రదర్శన, విద్యుత్ పోతే నిశ్చలం!!
+Answer: టెలివిజన్
+
+Example 3:
+Riddle: కడుపు లోన జలనిధి, కంఠము లోన మెరుపు. అరుపేమో ఉరుము, ఎండంటే భయము.
+Answer: మేఘము
+
+Example 4:
+Riddle: దేహంలో మైనపు నిధి, శిరస్సున అగ్ని కిరీటం! వెలుగే దాని జీవనం, గాలి సోకితే మరణం!!
+Answer: కొవ్వొత్తి
+
+Now, solve this riddle:
+Riddle : కడుపు లోన పిల్లలు, కంఠము లోన నిప్పులు! అరుపేమో ఉరుము, ఎరుపంటే భయము!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వంటగది
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కళ్ళున్నాయి, చూడలేదు?
+Answer: ఆలుగడ్డ
+
+Example 2:
+Riddle: పరుపు ఉంది, నిద్రపోదు?
+Answer: నది
+
+Example 3:
+Riddle: నాలుక ఉంది, మాట్లాడలేదు, తినలేదు?
+Answer: అగ్ని
+
+Example 4:
+Riddle: దేహం ఉంది, ప్రాణం లేదు?
+Answer: బొమ్మ
+
+Now, solve this riddle:
+Riddle : సన్నని స్తంభం, ఎక్కలేరు, దిగలేరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దారం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: రెక్కలుంటాయి కాని పక్షిని కాదు, మకరందాన్ని తాగుతాను కాని తేనెటీగను కాదు?
+Answer: సీతాకోకచిలుక
+
+Example 2:
+Riddle: పళ్ళు ఉంటాయి కానీ జంతువును కాదు, కోస్తాను కానీ కత్తిని కాదు?
+Answer: రంపము
+
+Example 3:
+Riddle: పళ్ళుంటాయి కాని జంతువును కాదు, తల దువ్వుతాను కాని క్షురకుడిని కాదు?
+Answer: దువ్వెన
+
+Example 4:
+Riddle: జుట్టు ఉంటుంది కాని మనిషిని కాదు, దాహం తీరుస్తాను కాని నదిని కాదు?
+Answer: కొబ్బరికాయ
+
+Now, solve this riddle:
+Riddle : కిరీటము ఉంటుంది కాని రాజును కాదు, నాట్యము చేస్తాను కాని మయూరిని కాదు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నాగుపాము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తోలు నలుపు, తింటే కారం, ఏంటో అది?
+Answer: మిరియాలు
+
+Example 2:
+Riddle: తోలు ప‌సుపు, తింటే తీపి, ఏంటో అది?
+Answer: అరటి పండు
+
+Example 3:
+Riddle: పైన ఆకుపచ్చ, లోపల ఎరుపు, ఏంటో అది?
+Answer: పుచ్చకాయ
+
+Example 4:
+Riddle: చూడటానికి పచ్చ, తింటే కారం, ఏంటో అది?
+Answer: ప‌చ్చిమిర్చి
+
+Now, solve this riddle:
+Riddle : తోలు న‌లుపు, తింటే పులుపు, ఏంటో అది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నిమ్మకాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తెల్లని దేహం, చిన్నపాటి శిరసు! వెలిగితే వెలుగు, కరిగితే అరుగు!!?
+Answer: కొవ్వొత్తి
+
+Example 2:
+Riddle: చిన్నారి రూపం, మహావృక్షపు రూపురేఖ! తడి తగిలితే ప్రాణం పోసుకుంటుంది, ఎండిపోతే మౌనం వహిస్తుంది!?
+Answer: విత్తనం
+
+Example 3:
+Riddle: రంగులు మారును, రూపము చూపును! సంతోషాన విరియును, కోపాన ముడుచును!!
+Answer: ముఖము
+
+Example 4:
+Riddle: నల్లని గుంటలు, అందాల పంటలు! తెరిస్తే వెలుగులు, మూస్తే చీకట్లు!!?
+Answer: కళ్ళు
+
+Now, solve this riddle:
+Riddle : కాటుక రంగు, కమలము హంగు! విప్పిన పొంగు, ముడిచిన క్రుంగు!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పలువరుస
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నీరు కాని నీరు, ఏమి నీరు?
+Answer: కన్నీరు
+
+Example 2:
+Riddle: కోటలు కాని కోటలు, ఏమి కోటలు?
+Answer: ఇసుక కోటలు
+
+Example 3:
+Riddle: పాలు కాని పాలు, ఏమి పాలు?
+Answer: కష్టాల పాలు
+
+Example 4:
+Riddle: గొడుగు కాని గొడుగు, ఏమి గొడుగు?
+Answer: పుట్టగొడుగు
+
+Now, solve this riddle:
+Riddle : కాయలు కాని కాయలు, ఏమి కాయలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పెదవుల కాయలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కారం కాని కారం, ఏమి కారం?
+Answer: అపకారం
+
+Example 2:
+Riddle: పోస్టు కాని పోస్టు, ఏమి పోస్టు?
+Answer: కంపోస్టు
+
+Example 3:
+Riddle: రాయి కాని రాయి, ఏమి రాయి?
+Answer: పావురాయి
+
+Example 4:
+Riddle: వనం కాని వనం, ఏమి వనం?
+Answer: భవనం
+
+Now, solve this riddle:
+Riddle : కార్డు కాని కార్డు, ఏమి కార్డు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నమస్కారం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మట్టి బట్టలు! రుచికరమైన బిడ్డలు!!
+Answer: వేరుశనగ కాయ
+
+Example 2:
+Riddle: చింపిరి గుడ్డల చుట్ట, కారు చిచ్చు పుట్ట.
+Answer: టపాకాయ
+
+Example 3:
+Riddle: సున్నపు గూడు! రెండు రంగుల కూడు!!
+Answer: గ్రుడ్డు
+
+Example 4:
+Riddle: ఒంటినిండా పోటుగాళ్లు! కడుపునిండా చంటిపిల్లలు!!
+Answer: పనస పండు
+
+Now, solve this riddle:
+Riddle : చింపిరి గుడ్డలు! బంగారం లాంటి బిడ్డలు!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+అడవి చింత గింజలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మొలకెత్తేటప్పుడు బట్టతల, పెరిగాక గుబురు తల. ఏంటది?
+Answer: మొక్క
+
+Example 2:
+Riddle: పుట్టేటప్పుడు సన్నది, చేరేటప్పుడు జడలది. ఏంటది?
+Answer: నది
+
+Example 3:
+Riddle: మొగ్గ తొడిగేటప్పుడు మోడులా, ఆకు విచ్చాక అడవిలా. ఏంటది?
+Answer: చెట్టు
+
+Example 4:
+Riddle: పట్టుకుంటే గట్టిగా ఉంటుంది, వదిలేస్తే కారిపోతుంది ఏంట‌ది?
+Answer: మంచు గడ్డ
+
+Now, solve this riddle:
+Riddle : పొంగ బోడ‌ది రాంగ జుట్టుది ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పాలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: గొంతు లేని గాయని, రాగాలెన్నో పలుకుతుంది.
+Answer: పిల్లనగ్రోవి
+
+Example 2:
+Riddle: మాటలు రాని పండితుడు, లోకజ్ఞానం అందిస్తాడు?
+Answer: పుస్తకం
+
+Example 3:
+Riddle: ప్రాణం లేని పసిపాప, లోకానికి వెలుగునిస్తుంది.
+Answer: దీపం
+
+Example 4:
+Riddle: నోరు లేని పక్షి, లోకమంతా తిరుగుతుంది?
+Answer: ఉత్తరం
+
+Now, solve this riddle:
+Riddle : ఎముకలు లేని జీవము, ఏటికి పోయింది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పరుగు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మాట విని వొచ్చేది, చెప్పకుండా వెళ్ళేది?
+Answer: ప్రతిధ్వని
+
+Example 2:
+Riddle: రమ్మని పిలిస్తే వస్తుంది, పొమ్మనకుండానే పోతుంది?
+Answer: నిద్ర
+
+Example 3:
+Riddle: కడుపు ఖాళీ అయితే వొచ్చేది, చెప్పకుండా వెళ్ళేది?
+Answer: ఆకలి
+
+Example 4:
+Riddle: చెప్పి వొచ్చేది, చెప్పకుండా వెళ్ళిపోయేది?
+Answer: వాన
+
+Now, solve this riddle:
+Riddle : అందరికి చెప్పి వొచ్చేది, చెప్పకుండా వెళ్ళేది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వయస్సు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: గాలిలో ప్రయాణించేది, ఎవ్వరూ దాన్ని చూడలేరు, ఎవ్వరూ దాన్ని పట్టుకోలేరు. ఏంటది?
+Answer: శబ్దం
+
+Example 2:
+Riddle: రూపాలను దాచే సరస్సు, ఈదలేరు, నీరు తాగలేరు. ఏంటది?
+Answer: అద్దం
+
+Example 3:
+Riddle: వెలుగునిచ్చే గోళం, ఎవ్వరూ దాన్ని పట్టుకోలేరు, దాని మీద నిలబడలేరు. ఏంటది?
+Answer: సూర్యుడు
+
+Example 4:
+Riddle: లోతైన నీటిమడుగు, ఎవ్వరూ దాని అడుగు చూడలేరు, ఎవ్వరూ దాన్ని పూర్తిగా తాగలేరు. ఏంటది?
+Answer: సముద్రం
+
+Now, solve this riddle:
+Riddle : స‌న్న‌టి స్థంభం, ఎవ్వ‌రూ ఎక్క‌లేరు, దిగ‌లేరు ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పువ్వు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పెద్ద పర్వతాలు కూడా ఎవరి దారికి అడ్డు చెప్పలేవు?
+Answer: నది
+
+Example 2:
+Riddle: విలువైన గడియారం కూడా ఒక్క చిన్నది లేకపోతే పనిచేయదు?
+Answer: బ్యాటరీ
+
+Example 3:
+Riddle: పెద్ద అగ్నిజ్వాల కూడా ఒక చిన్న చుక్క దగ్గర ఆరిపోతుంది?
+Answer: నీటి చుక్క
+
+Example 4:
+Riddle: పెద్ద పెద్ద రైళ్లు కూడా ఒక దాని దగ్గర ఆగాల్సి వస్తుంది?
+Answer: సిగ్నల్
+
+Now, solve this riddle:
+Riddle : రాజాధి రాజులు కూడా ఒకరిముందు తల వంచుకుంటారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సమాధానం: దేవుడు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: రుచి చూడలేని వంటకాలు, తాగలేని పానీయాలు ఎక్కడ ఉంటాయి?
+Answer: వంట పుస్తకంలో
+
+Example 2:
+Riddle: గింజ లేని మామిడి పండ్లు, పురుగు లేని కూరగాయలు ఎక్కడ ఉంటాయి?
+Answer: మెనూలో
+
+Example 3:
+Riddle: శరీరం లేని రాజులు, నడిచే శక్తి లేని సైనికులు ఎక్కడ ఉంటారు?
+Answer: కథలలో
+
+Example 4:
+Riddle: మాటలు లేని సంభాషణలు, ఆయుధాలు లేని యుద్ధాలు ఎక్కడ జరుగుతాయి?
+Answer: కలలో
+
+Now, solve this riddle:
+Riddle : ఇళ్ళు లేని పట్నాలు, నీళ్లు లేని సముద్రాలు ఎక్కడ ఉంటాయి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పటనములో
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఒకటి తెరిస్తే రెండు కదులుతాయి?
+Answer: నోరు
+
+Example 2:
+Riddle: ఒకటి పెట్టుకుంటే, రెండు దారి చూపిస్తాయి?
+Answer: కళ్ళజోడు
+
+Example 3:
+Riddle: ఒకటి నొక్కితే రెండు దగ్గరవుతాయి?
+Answer: చిమట
+
+Example 4:
+Riddle: ఒకటి పట్టుకుంటే రెండు కదులుతాయి?
+Answer: కత్తెర
+
+Now, solve this riddle:
+Riddle : ఒకటి పట్టుకుంటే రెండు ఊగుతాయి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+త్రాసు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మట్టి, నోరు లేని కుండ?
+Answer: పొట్ట
+
+Example 2:
+Riddle: తలుపులు, కిటికీలు లేని కోట?
+Answer: పుట్ట
+
+Example 3:
+Riddle: కిరీటం, సింహాసనం లేని రాజు?
+Answer: సింహం
+
+Example 4:
+Riddle: కాళ్ళు, వాహనం లేని ప్రయాణం?
+Answer: ఆలోచన
+
+Now, solve this riddle:
+Riddle : కాయ, పువ్వు లేని పంట?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మాట
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అందరూ నాపై నడుస్తారు కానీ నేను ఎక్కడికీ నడవను, అందరినీ గమ్యానికి చేర్చుతాను కానీ నాకు గమ్యం లేదు.
+Answer: దారి/రహదారి
+
+Example 2:
+Riddle: నన్ను చూసి దారి తెలుసుకుంటారు కాని నేనేమీ చూడను. నన్ను మడిచేస్తారు కాని నేనేమీ మడవను.
+Answer: పటం
+
+Example 3:
+Riddle: అందరూ నన్ను చూడగలరు, కానీ నేను ఎవరినీ చూడలేను. నేను ఎప్పుడూ మీతోనే ఉంటాను, కానీ నేను మీతో మాట్లాడలేను.
+Answer: నీడ
+
+Example 4:
+Riddle: అందరూ నా మీద రాస్తారు కాని నేనెవరి మీద రాయను. నన్ను చదువుతారు కాని నేను ఎవరిని చదవను?
+Answer: కాగితం
+
+Now, solve this riddle:
+Riddle : అందరూ నన్ను పట్టుకుంటారు కాని నేనే ఎవరిని పట్టుకొను, అందరూ నాతో మాట్లాడతారు కాని నేనే ఎవరితో మాట్లాడను?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+టెలిఫోన్
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వినకుండా మాట్లాడలేనిది! మాట్లాడకుండా వినలేనిది!!?
+Answer: మాట / సంభాషణ
+
+Example 2:
+Riddle: చెప్పకుండా తెలియనిది, తెలియకుండా చెప్పలేనిది?
+Answer: రహస్యం
+
+Example 3:
+Riddle: అమ్మకుండా కొనలేనిది! కొనకుండా అమ్మలేనిది!!?
+Answer: వ్యాపారం / లావాదేవీ
+
+Example 4:
+Riddle: పీల్చకుండా వదలలేనిది! వదలకుండా పీల్చలేనిది!!
+Answer: శ్వాస
+
+Now, solve this riddle:
+Riddle : ఇవ్వకుండా తీసుకో లేనిది! తీసుకోకుండా ఇవ్వ లేనిది!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+భాగస్వామ్యం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ** మట్టిని తొలిచేసి, గొయ్యికి ఊపిరి పోస్తారు?
+Answer: బావి
+
+Example 2:
+Riddle: ఆకులు దులిపేసి, కర్రలకు రసం పిండుతారు?
+Answer: చెరకు గడ
+
+Example 3:
+Riddle: లోపల ఉన్నదాన్ని పారేసి, దాని చిప్పను పిండుతారు?
+Answer: ముత్యం
+
+Example 4:
+Riddle: గొర్రెల్ని తోలేసి గుండ్లకి దారం లాగుతారు?
+Answer: పట్టు పురుగు గూడు
+
+Now, solve this riddle:
+Riddle : మేకల్ని తోలేసి తడకలకి పాలు పిండుతారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కోకో చెట్టు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నాతోపాటే ఊరంతా తిరుగుతాయి, ఇంటికొచ్చాక గుమ్మం దగ్గరే ఆగిపోతాయి?
+Answer: చెప్పులు
+
+Example 2:
+Riddle: తాళాలన్నీ తెరుస్తుంది, గుత్తిలో కూర్చుంటుంది?
+Answer: తాళం చెవి
+
+Example 3:
+Riddle: కాగితాలన్నీ తిరుగుతుంది, పెట్టెలో కూర్చుంటుంది?
+Answer: పెన్ను
+
+Example 4:
+Riddle: తల అంతా తిరిగి, అద్దం ముందు నిలుచుంటుంది.
+Answer: దువ్వెన
+
+Now, solve this riddle:
+Riddle : ఇల్లంతా తిరిగి మూలకు కూర్చుంటుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చీపురు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పాప కాని పాప, ఏమి పాప?
+Answer: కంటిపాప
+
+Example 2:
+Riddle: రసం కాని రసం, ఏమి రసం?
+Answer: నీరసం
+
+Example 3:
+Riddle: కోడి కాని కోడి, ఏమి కోడి?
+Answer: పకోడి
+
+Example 4:
+Riddle: పురం కాని పురం, ఏమి పురం?
+Answer: అంతఃపురం
+
+Now, solve this riddle:
+Riddle : కలి కాని కలి, ఏమి కలి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కలం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నోటి గుహలో ఎర్ర పాము?
+Answer: నాలుక
+
+Example 2:
+Riddle: ఎండలో వెంటపడే స్నేహితుడు?
+Answer: నీడ
+
+Example 3:
+Riddle: నేల లోపల నారల దయ్యము?
+Answer: చెట్టు వేళ్ళు
+
+Example 4:
+Riddle: పొలంలో నిలబడ్డ బట్టల దయ్యము?
+Answer: దిష్టిబొమ్మ
+
+Now, solve this riddle:
+Riddle : చీకటి ఇంటిలో జడల దయ్యము?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మొక్కజొన్న
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పొరలు విప్పితే, కన్నీటి ప్రవాహం?
+Answer: ఉల్లిపాయ
+
+Example 2:
+Riddle: తలుపు తెరిస్తే, జ్ఞాన భాండాగారం?
+Answer: గ్రంథాలయం
+
+Example 3:
+Riddle: మొగ్గ విచ్చుకుంటే, రంగుల హరివిల్లు?
+Answer: పువ్వు
+
+Example 4:
+Riddle: ఆకాశం తెరిస్తే, వజ్రాల రాశి?
+Answer: చుక్కలు
+
+Now, solve this riddle:
+Riddle : మూత తెరిస్తే, ముత్యాల పేరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ముత్యాలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మానం కాని మానం, ఏమి మానం?
+Answer: విమానం
+
+Example 2:
+Riddle: తార కాని తార, ఏమి తార?
+Answer: సితార
+
+Example 3:
+Riddle: జనం కాని జనం, ఏమి జనం?
+Answer: అంజనం
+
+Example 4:
+Riddle: గడి కాని గడి, ఏమి గడి?
+Answer: అంగడి
+
+Now, solve this riddle:
+Riddle : జాన కాని జాన, ఏమి జాన?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+రామజాన
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఏడు తీగలు! కడుపు నిండా సంగీతం!!
+Answer: వీణ
+
+Example 2:
+Riddle: రెండు కాళ్లున్నాయి! అనేక పక్కటెముకలున్నాయి!!?
+Answer: నిచ్చెన
+
+Example 3:
+Riddle: ఒక్కటే కన్నూ! సన్నటి దేహం!!?
+Answer: సూది
+
+Example 4:
+Riddle: వేల పళ్ళు! ఒకే ఎముక!!
+Answer: మొక్కజొన్న కంకి
+
+Now, solve this riddle:
+Riddle : ఎనమిది ఎముకలు! తట్టెడు ప్రేగులు!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బరి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మూత లేని పాత్ర! నీరుండును!!?
+Answer: బావి
+
+Example 2:
+Riddle: రాజ్యము లేని రాజు! అంకెలను శాసిస్తాడు!!?
+Answer: సున్నా
+
+Example 3:
+Riddle: బళ్ళు తిరగని దారి! పుస్తకాల్లో దొరుకుతుంది!!?
+Answer: చరిత్ర
+
+Example 4:
+Riddle: వేర్లు లేని చెట్టు! వాన నుండి కాపాడుతుంది!!?
+Answer: గొడుగు
+
+Now, solve this riddle:
+Riddle : ఈగ ముసరని పండు! ఇంటిలో నుండు!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బరి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కాళ్ళు లేవు కానీ పరుగులు తీస్తుంది, శరీరం ఉంది కానీ జీవం లేదు. ఏంటది?
+Answer: నది
+
+Example 2:
+Riddle: కాళ్లుంటాయి కానీ నడవలేదు, చేతులుంటాయి కానీ ఏ పనీ చేయలేదు. ఏంటది?
+Answer: కుర్చీ
+
+Example 3:
+Riddle: నోరుంది కానీ మాట రాదు, శరీరం ఉంది కానీ జీవం లేదు. ఏంటది?
+Answer: కుండ
+
+Example 4:
+Riddle: పళ్ళున్నాయి కానీ నమలలేదు, వీపుంది కానీ వంగలేదు. ఏంటది?
+Answer: దువ్వెన
+
+Now, solve this riddle:
+Riddle : వీధిరాజుకు కొప్పుది కానీ జుట్టు లేదు, క‌ళ్ళున్నాయి కానీ చూపులేదు ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గడియారం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఏది కాల్చితే బూడిద అవుతుంది?, ఏది కాల్చితే గట్టి పడుతుంది?
+Answer: కట్టె, ఇటుక
+
+Example 2:
+Riddle: ఏది ఇస్తే తరిగిపోతుంది? ఏది ఇస్తే పెరుగుతుంది?
+Answer: డబ్బు, జ్ఞానము
+
+Example 3:
+Riddle: ఏది పంచుకుంటే తరిగిపోతుంది? ఏది పంచుకుంటే పెరుగుతుంది?
+Answer: దుఃఖము, సంతోషము
+
+Example 4:
+Riddle: ఏది పూస్తే పోతుంది? ఏది పూస్తే పోదు?
+Answer: గోరింటాకు, పచ్చబొట్టు
+
+Now, solve this riddle:
+Riddle : ఏది పెడితే అరిగి పోతుంది?, ఏది పెడితే కలకాలం ఉంటుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మలము, విత్తనము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కడుపు నిండా ధ్వనులు, వంటి నిండా గాయాలు.
+Answer: డప్పు
+
+Example 2:
+Riddle: కడుపు నిండా నీళ్లు, ఒంటి నిండా కంతలు?
+Answer: స్పాంజ్ (సముద్రపు పాచి)
+
+Example 3:
+Riddle: కడుపు నిండా రుచులు, వంటి నిండా గాయాలు.
+Answer: రోలు
+
+Example 4:
+Riddle: కడుపు నిండా ఘాటు, వంటి నిండా సోకు?
+Answer: మిరపకాయ
+
+Now, solve this riddle:
+Riddle : కడుపు నిండా రాగాలు, వంటి నిండా గాయాలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వీణ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: సముద్రం కాని సముద్రం, ఏమి సముద్రం?
+Answer: జ్ఞాన సముద్రం
+
+Example 2:
+Riddle: పాలు కాని పాలు, ఏమి పాలు?
+Answer: కొబ్బరి పాలు
+
+Example 3:
+Riddle: దారం కాని దారం, ఏమి దారం?
+Answer: ఆధారం
+
+Example 4:
+Riddle: కుమారి కాని కుమారి, ఏమి కుమారి?
+Answer: కన్యాకుమారి
+
+Now, solve this riddle:
+Riddle : గీత కాని గీత, ఏమి గీత?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సంఘీత
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఈ లోక‌మంతా నా కిందే ఉంది. న‌క్ష‌త్రాలు, చంద్రుడు, సూర్యుడు నాలోనే క‌నిపిస్తారు. కానీ నాతో ఎవ‌రూ మాట్లాడ‌రు. నేనెవ‌ర్ని?
+Answer: ఆకాశం
+
+Example 2:
+Riddle: ఈ లోకంలో నడిచేవారంతా నా బిడ్డ‌లే, కాని అమ్మా! అని న‌న్నెవ‌రు పిల‌వ‌రు. ఎక్కడికి వెళ్లాలన్నా నా మీదే, ఏదైనా చేరాలన్నా నా మీదే. నేనెవ‌ర్ని?
+Answer: దారి (రహదారి)
+
+Example 3:
+Riddle: ఈ ప్రపంచంలోని భావాలన్నీ నాలోనే పుడతాయి, కానీ నన్ను ఎవరూ తల్లి అనరు. ఏం చెప్పాలన్నా, ఏం వ్యక్తపరచాలన్నా నాలోనే సాధ్యం. జ్ఞానం ప్రవహించాలన్నా, సంస్కృతి విస్తరించాలన్నా నా ద్వారానే. నేనెవర్ని?
+Answer: భాష
+
+Example 4:
+Riddle: ఈ సృష్టిలోని ప్రతిదీ నా బిడ్డే. కాని ఎవరూ నన్ను అమ్మా! తాతా! అని పిలవరు. ఏమి జరిగినా నాలోనే జరుగుతుంది, ఎటూ పోవాలన్నా నాతో పాటే. నేనెవ‌ర్ని?
+Answer: కాలం
+
+Now, solve this riddle:
+Riddle : ఈ ప్ర‌పంచ‌లోని వారంద‌రూ నా బిడ్డ‌లే కాని అమ్మా! అని న‌న్నెవ‌రు పిల‌వ‌రు ఏం చేయాల‌న్నా ఏమి పొందాల‌న్నా నాలోనే ఎటూ పోవాల‌న్నా ఎక్క‌డికి వెళ్లాల‌న్నా నా మీదే..నేనెవ‌ర్ని?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+భూమి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అది లేకపోతే ఏ సమాధానమూ దొరకదు?
+Answer: ప్రశ్న
+
+Example 2:
+Riddle: అది లేకపోతే ఏ రంగులూ కనపడవు?
+Answer: కాంతి
+
+Example 3:
+Riddle: అది లేకపోతే ఏమీ వినిపించదు?
+Answer: శబ్దం
+
+Example 4:
+Riddle: అది లేకపోతే ఎవ్వరూ ప్రయాణం మొదలుపెట్టరు?
+Answer: గమ్యం
+
+Now, solve this riddle:
+Riddle : అది లేకపోతే ఎవ్వరూ ఏమీ తినరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఆకలి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఇద్దరు స్నేహితులు, ఒకరినొకరు వెంబడిస్తూ ఉంటారు, కానీ ఎప్పుడూ కలుసుకోరు?
+Answer: గతం, భవిష్యత్తు
+
+Example 2:
+Riddle: ఇద్దరు అన్నదమ్ములు, దేశాలన్నీ తిరిగినా, ఎప్పుడూ కలుసుకోరు?
+Answer: రైలు పట్టాలు
+
+Example 3:
+Riddle: ఒక తల్లికి ఇద్దరు బిడ్డలు, ఎప్పుడూ కలిసే ఉంటారు, కానీ ఒకరినొకరు చూసుకోరు. వారెవరు?
+Answer: నాణేనికి ఉండే రెండు ముఖాలు
+
+Example 4:
+Riddle: అక్క చెల్లెల్లు పక్కపక్కనే ఉంటారు, అన్ని మాటలు వింటారు, కానీ ఒకరినొకరు చూసుకోలేరు?
+Answer: చెవులు
+
+Now, solve this riddle:
+Riddle : ఇద్దరు అక్క చెల్లెల్లు, ప్రపంచం మొత్తం తిరిగి చూసినా, ఒకరినొకరు చూసుకోరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కళ్ళు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వాకిలి లేని ఇల్లు మనుషులు ఉండే ఇల్లు? ఏంట‌ది?
+Answer: గ‌ర్భం
+
+Example 2:
+Riddle: చెట్టుకు పూయని పువ్వు, వెలుగులీనే పువ్వు? ఏంట‌ది?
+Answer: కాకర పువ్వొత్తు
+
+Example 3:
+Riddle: న‌డ‌క‌లేని దారి, ఎప్పుడూ బిజీగా ఉంటుంది. ఏంట‌ది?
+Answer: చూపుల దారి
+
+Example 4:
+Riddle: ఆకు కానీ ఆకు, రంగుల ఆకు? ఏంట‌ది?
+Answer: పేక ముక్క
+
+Now, solve this riddle:
+Riddle : చెట్టుకు కాయ‌ని కాయ కర‌క‌ర‌లాడే కాయ‌? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వేరుశెనగ కాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పైన వెలుగుతుంది, కింద బూడిద అవుతుంది?
+Answer: అగ్ని
+
+Example 2:
+Riddle: కొమ్మల నిండా ఫలాలు, మొదలులో మాత్రం శూన్యం?
+Answer: పండ్ల చెట్టు
+
+Example 3:
+Riddle: అందరి దాహం తీర్చేది, కానీ దాని గర్భంలోనే సగం ఖాళీ?
+Answer: నుయ్యి
+
+Example 4:
+Riddle: బయట అంతా తడి, ఇంట్లో అంతా పొడి?
+Answer: వాన
+
+Now, solve this riddle:
+Riddle : ఇల్లు మొత్తం వెలుగు, బల్ల కింద చీకటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దీపం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పెట్టెలో నిదరోయే చిన్నోడు, గీత తగలగానే బుస్సున లేస్తాడు?
+Answer: అగ్గిపుల్ల
+
+Example 2:
+Riddle: కుండలో రాయి, కంచంలో అన్నం?
+Answer: వరి గింజ
+
+Example 3:
+Riddle: చేతిలో ఉన్నప్పుడు చారెడు, గాలి ఊదితే గంపెడు?
+Answer: గాలిబుడగ (బెలూన్)
+
+Example 4:
+Riddle: భూమిలో బంధి, బయటకొస్తే పచ్చని పందిరి.
+Answer: విత్తనం
+
+Now, solve this riddle:
+Riddle : ఇంట్లో మొగ్గ బ‌య‌ట‌కొస్తే పువ్వు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మానవుడు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఏ రాజుకు రాజ్యం ఉండదు, ప్రజలు ఉండరు?
+Answer: పేకాటలో రాజు
+
+Example 2:
+Riddle: మనం త్వరగా చదివే కథ ఏమిటి?
+Answer: చిన్న కథ
+
+Example 3:
+Riddle: కుంభకర్ణుడు కూడా తక్కువగా నిద్రపోయే రాత్రి ఏది?
+Answer: శివరాత్రి
+
+Example 4:
+Riddle: ఏ కీ తో తలుపు తెరవలేము?
+Answer: మ్యూజిక్ కీ
+
+Now, solve this riddle:
+Riddle : ఆడవారు తక్కువగా మాట్లాడే నెల?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఫిబ్రవరి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అనేక దారాల మ‌ధ్య ఒక ఇల్లు? ఏంట‌ది?
+Answer: సాలీడు గూడు (సాలీడు వల)
+
+Example 2:
+Riddle: ఐదు క‌ర్ర‌ల మ‌ధ్య మెత్త‌ని ప్రదేశం? ఏంట‌ది?
+Answer: అరచేయి
+
+Example 3:
+Riddle: అనేక రేకుల మ‌ధ్య బంగారపు ముద్ద? ఏంట‌ది?
+Answer: పొద్దుతిరుగుడు పువ్వు (సూర్యకాంతి పువ్వు)
+
+Example 4:
+Riddle: రాతి గోడల మధ్య చల్లని నీరు? ఏంట‌ది?
+Answer: బావి
+
+Now, solve this riddle:
+Riddle : నాలుగు క‌ర్ర‌ల మ‌ద్య న‌ల్ల‌రాయి? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చెస్‌ బోర్డు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చిన్నప్పుడు చెప్పినది ఒకటి, పెద్దయ్యాక చూసినది ఒకటి?
+Answer: మాట, అనుభవం
+
+Example 2:
+Riddle: చిన్నప్పుడు పురుగులా, పెద్దయ్యాక పక్షిలా?
+Answer: సీతాకోకచిలుక
+
+Example 3:
+Riddle: నదికి పుట్టినచోట ఒకటి, సాగిపోయాక మరొకటి?
+Answer: పేరు
+
+Example 4:
+Riddle: చంద్రునికి కృష్ణపక్షంలో ఒకటి, శుక్లపక్షంలో మరొకటి?
+Answer: కళ
+
+Now, solve this riddle:
+Riddle : ఆడదానికి పుట్టినింట ఒకటి, మెట్టినింట ఒకటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పేరు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఒకే పొట్ట, పొట్ట నిండా సైనికులు, సైనికుడికొక్క పదునైన ఆయుధం?
+Answer: అమ్ములపొది
+
+Example 2:
+Riddle: పొడవైన పాముకు చాలా గదులు, గదిలో మనుషులు, మనిషికి గమ్యం?
+Answer: రైలు లేదా బస్సు
+
+Example 3:
+Riddle: పచ్చని పడవ, లోపల చాలా గదులు, గదికొక్క మనిషి, మనిషికొక్క పచ్చటి బట్ట?
+Answer: బఠానీ కాయ
+
+Example 4:
+Riddle: నేల లోపల గని, గనికి అనేక గదులు, గదికొక సైనికుడు, సైనికుడికి అనేక కాళ్ళు.
+Answer: చీమల పుట్ట
+
+Now, solve this riddle:
+Riddle : అడవిలో చిన్న గని, గనికి చాలా గదులు, గదికొక్క సిపాయి, సిపాయికొక్క తుపాకి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+తేనె పుట్ట
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అందంగా ఉంటాను కాని ఎవరితో మాట్లాడను, దగ్గరికి వస్తే గుచ్చుకుంటాను.
+Answer: ముళ్ళ చెట్టు
+
+Example 2:
+Riddle: చిన్నదాన్ని కాని నాతో ఆటలు ఆడకు, నన్ను కదిలిస్తే కుడతాను.
+Answer: తేలు
+
+Example 3:
+Riddle: పసుపు-నలుపు చారలతో ఉంటాను, పూలతో సరసమాడతాను. నన్ను విసిగిస్తే కుడతాను.
+Answer: తేనెటీగ
+
+Example 4:
+Riddle: నేను చిన్నవాడిని కానీ నన్ను తాకితే ఊరుకోను.
+Answer: ముల్లు
+
+Now, solve this riddle:
+Riddle : ఎర్రగా ఉంటాను కాని నేనెవరితో సరసాలాడను, నన్ను ముట్టుకుంటే ఊరుకోను.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మిరపకాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అవసరమని పెట్టుకుంటారు, మోగగానే తిట్టుకుంటారు. ఏంటది?
+Answer: అలారం గడియారం
+
+Example 2:
+Riddle: ఆసక్తిగా వింటారు, సమాధానం కోసం తల బద్దలు కొట్టుకుంటారు?
+Answer: పొడుపుకథ
+
+Example 3:
+Riddle: పిలిస్తేనే వెళ్తారు, మోసుకుంటూ ఏడుస్తారు?
+Answer: శవయాత్ర
+
+Example 4:
+Riddle: అవసరానికి ఆశగా తీసుకుంటారు, దాని బరువు మోయలేక ఇబ్బంది పడతారు.
+Answer: అప్పు
+
+Now, solve this riddle:
+Riddle : ఇష్టంగా తెచ్చుకుంటారు, చంపి ఏడుస్తారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పువ్వు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఇంజిన్‌లో ఉంటే పని చేస్తుంది, కడుపులో పడితే పని పడుతుంది?
+Answer: నూనె
+
+Example 2:
+Riddle: వంట ఇంట్లో ఉంటే ఉపకారం, ఒంటి మీద పడితే అపకారం?
+Answer: కత్తి
+
+Example 3:
+Riddle: నిలిపితే ఘనత, జారితే అనర్థం?
+Answer: మాట
+
+Example 4:
+Riddle: తీగలో ప్రవహిస్తే వెలుగు, ఒంటికి తగిలితే ఉరుము లేని పిడుగు?
+Answer: విద్యుత్తు
+
+Now, solve this riddle:
+Riddle : ఇంటిలో ఉంటే ప్రమోదము, ఒంటిలో ఉంటే ప్రమాదము?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నీరు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అన్నదమ్ములు ఇద్దరు, పైవాడు తల మీద కొడితే, కిందివాడు లోపలికి దూసుకుపోతాడు. వీరిద్దరి మధ్యకు చెక్క వస్తే చిల్లు పడుతుంది. ఏంటది?
+Answer: సుత్తి, మేకు
+
+Example 2:
+Riddle: పైనేమో ఒక సైన్యం, కిందేమో ఒక సైన్యం. అవి ఎప్పుడూ ఒకదానితో ఒకటి కొట్లాడుతూ ఉంటాయి. వాటి మధ్యకు వచ్చిన దేన్నైనా మెత్తగా నలిపేస్తాయి.
+Answer: పళ్లు
+
+Example 3:
+Riddle: అక్కాచెల్లెళ్లు ఇద్దరు, ఎప్పుడూ పోట్లాడుకుంటూనే ఉంటారు, వారి మధ్యకు వచ్చినదాన్ని రెండు ముక్కలు చేస్తారు.
+Answer: కత్తెర
+
+Example 4:
+Riddle: ఇద్దరు దొంగలు, ఒకరిపై ఒకరు పడతారు. మధ్యలో దొరికిన దాన్ని పిప్పి చేస్తారు?
+Answer: చెరుకు గానుగ
+
+Now, solve this riddle:
+Riddle : అన్నదమ్ములు ఇద్దరు, ఒకరంటే మరొకరికి పడదు, ఎప్పుడూ కొట్టుకుంటూనే ఉంటారు. వారి మధ్యకు ఎవరైనా వొస్తే పచ్చడి పచ్చడే?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పెళ్ళి ప్రాంతం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అడవిలో పుట్టిపెరిగి, నోటితో అరుస్తుంది, ఏమిటది?
+Answer: పిల్లనగ్రోవి
+
+Example 2:
+Riddle: పొలంలో పుట్టి, పళ్ళెంలో కడుపు నింపుతుంది, ఏమిటది?
+Answer: అన్నం
+
+Example 3:
+Riddle: అడవిలో పుట్టి, కాగితంపై నాట్యం చేస్తుంది, ఏమిటది?
+Answer: పెన్సిల్
+
+Example 4:
+Riddle: గనిలో పుట్టి, ఒంటికి వన్నె తెస్తుంది. ఏమిటది?
+Answer: బంగారం
+
+Now, solve this riddle:
+Riddle : సముద్రంలో పుట్టిపెరిగి ఊరిలో అరుస్తుంది, ఏమిటది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పిల్లనగ్రోవి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నేలలో పుట్టాను లోహంగా పెరిగాను, వంటినిండా ముళ్ళు, కడుపునిండా కాలం.
+Answer: గడియారం
+
+Example 2:
+Riddle: అడవిలో పెరిగిన దానికి నేను బిడ్డను, నా ఒంటినిండా అక్షరాల గాయాలు, నా కడుపునిండా లోకజ్ఞానం.
+Answer: పుస్తకం
+
+Example 3:
+Riddle: నేలలో పుట్టాను నేలలో పెరిగాను, వంటినిండా కళ్ళు, కడుపునిండా తిండి.
+Answer: బంగాళాదుంప – ఆలుగడ్డ (ఆలూ)
+
+Example 4:
+Riddle: చెట్టులో పుట్టాను, ఒళ్ళంతా గాయాలు, కడుపునిండా అక్షరాలు.
+Answer: పెన్సిల్
+
+Now, solve this riddle:
+Riddle : అడ‌విలో పుట్టాను అడ‌విలో పెరిగాను వంటినిండా గాయాలు క‌డుపునిండా రాగాలు
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వీణ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కాయ కాని కాయ, ఏమి కాయ?
+Answer: దిష్టికాయ
+
+Example 2:
+Riddle: దండు కాని దండు, ఏమి దండు?
+Answer: మిరపదండు
+
+Example 3:
+Riddle: ఇల్లు కాని ఇల్లు, ఏమి ఇల్లు?
+Answer: బొమ్మరిల్లు
+
+Example 4:
+Riddle: కన్ను కాని కన్ను, ఏమి కన్ను?
+Answer: నెమలి కన్ను
+
+Now, solve this riddle:
+Riddle : కోడి కాని కోడి, ఏమి కోడి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కోడికొట్టు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నీలం కిరీటానికి రంగుల గొడుగు!
+Answer: నెమలి
+
+Example 2:
+Riddle: పొడవాటి పాముకి, ఇనుప కాళ్ళు!
+Answer: రైలు
+
+Example 3:
+Riddle: ముళ్ళ కాయకి, ఆకుపచ్చ కిరీటం.
+Answer: అనాస పండు
+
+Example 4:
+Riddle: పసుపు చొక్కా, లోపల తెల్లని ఒళ్ళు.
+Answer: అరటి పండు
+
+Now, solve this riddle:
+Riddle : చారల పాపకి దూది కుచ్చు!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పులి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పాల నుండి తయారవుతుంది, పండగనాడు ఘుమఘుమలాడుతుంది? ఇంత‌కీ ఏమిట‌ది?
+Answer: నెయ్యి
+
+Example 2:
+Riddle: భూమిలో దొరుకుతుంది, చలిలో వెచ్చదనాన్ని ఇస్తుంది? ఇంత‌కీ ఏమిట‌ది?
+Answer: బొగ్గు
+
+Example 3:
+Riddle: గొంతు నుండి జాలువారుతుంది, మనసుకు హాయినిస్తుంది. ఏంటది?
+Answer: పాట
+
+Example 4:
+Riddle: నేల నుంచి వస్తుంది. నానా రంగులు అద్దుకుంటుంది. ఏమిటది?
+Answer: పూలు
+
+Now, solve this riddle:
+Riddle : నీళ్లు నుంచి వ‌స్తుంది. నీకు నాకూ రుచిస్తుంది? ఇంత‌కీ ఏమిట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఉప్పు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: రూపం లేదు కానీ శరీరాన్ని తాకుతుంది, అనుభవించగలరు కానీ బంధించలేరు?
+Answer: గాలి
+
+Example 2:
+Riddle: ఆకాశపు పల్లెలో వెండి పళ్లెం, అందరూ చూస్తారు కానీ అందుకోలేరు?
+Answer: చంద్రుడు
+
+Example 3:
+Riddle: రాత్రి ఆకాశం నిండా వెలుగు చుక్కలు, లెక్కపెట్టగలరే కానీ తీసుకోలేరు?
+Answer: నక్షత్రాలు
+
+Example 4:
+Riddle: నిదురలో వచ్చే అతిథి, కనులకు కనిపించడు కానీ మనసును దోచుకుంటాడు. ఉదయాన్నే మాయమవుతాడు, పట్టుకుందామంటే దొరకడు?
+Answer: కల
+
+Now, solve this riddle:
+Riddle : పొద్దుటూరి చెట్లలో పొదిలింది చెళవాయి, చూసే వారే కాని పట్టే వారు లేరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పొద్దుటూరి చెట్లలో పొదిలింది చెళవాయి, చూసే వారే కాని పట్టే వారు లేరు?
+Answer: సూర్యుడు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: అన్నదమ్ములు నలుగురు, ఒకచోట కలిసే నిలబడతారు, ఒకరికి కష్టమొస్తే మిగతావారికీ కష్టమే?
+Answer: కుర్చీ కాళ్లు
+
+Example 2:
+Riddle: ఇద్దరు మిత్రులు, నడవాలంటే ఇద్దరూ కదలాలి, ఆగాలంటే ఇద్దరూ ఆగాలి?
+Answer: కాళ్ళు
+
+Example 3:
+Riddle: ఇద్దరు మిత్రులు, ఒకే కర్రకి కట్టుబడి ఉంటారు. ఒకరు కదిలితే ఇద్దరూ కదులుతారు, ఒకరు ఆగితే ఇద్దరూ ఆగిపోతారు?
+Answer: బండి చక్రాలు
+
+Example 4:
+Riddle: ముగ్గురు అన్నదమ్ములు, ఒకే ఇంట్లో ఉంటారు. ఒకరు తిరుగుతుంటే అందరూ తిరుగుతారు, ఒకరు ఆగితే అందరూ ఆగిపోతారు?
+Answer: గడియారం ముళ్ళు
+
+Now, solve this riddle:
+Riddle : అన్నదమ్ములు ముగ్గురు, తిరిగితే ముగ్గురూ తిరుగుతారు, మానితే ముగ్గురూ మానుతారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పుస్తక పుటలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కిర్రు కిర్రు బండి! ఎంత లాగినా రాదు!!
+Answer: పాత తలుపు
+
+Example 2:
+Riddle: మూడు కళ్ళ మునికన్నా! బండకేసి బాదరన్నా!!
+Answer: టెంకాయ
+
+Example 3:
+Riddle: గ ర గ ర బావ! చేత్తో పట్టి తిప్పు!!
+Answer: తిరగలి
+
+Example 4:
+Riddle: కిర్రు కిర్రు పుల్ల! గీస్తే మంట జ్వాల!!
+Answer: అగ్గిపుల్ల
+
+Now, solve this riddle:
+Riddle : కీచు కీచు పిట్ట! నేలకేసి కొట్ట!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కత్తి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: రెండు ఓడిస్తాయి, ఒకటి గెలిపిస్తుంది?
+Answer: తప్పులు, సోమరితనం, పట్టుదల
+
+Example 2:
+Riddle: రెండు పడతాయి, ఒకటి లేస్తుంది?
+Answer: ఆకులు, పళ్ళు, మొలక
+
+Example 3:
+Riddle: రెండు గడిచిపోతాయి, ఒకటి నిలిచిపోతుంది?
+Answer: బాల్యం, యవ్వనం, కీర్తి
+
+Example 4:
+Riddle: రెండు ప్రవహిస్తాయి, ఒకటి నిశ్చలంగా ఉంటుంది?
+Answer: నీరు, గాలి, రాయి
+
+Now, solve this riddle:
+Riddle : రెండు కొడతాయి, ఒకటి పెడుతుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నోరు, చేతులు, కడుపు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మతి కాని మతి, ఏమి మతి?
+Answer: సుమతి
+
+Example 2:
+Riddle: పతి కాని పతి, ఏమి పతి?
+Answer: తిరుపతి
+
+Example 3:
+Riddle: హారం కాని హారం, ఏమి హారం?
+Answer: ఆహారం
+
+Example 4:
+Riddle: పల్లి కాని పల్లి, ఏమి పల్లి?
+Answer: కొండపల్లి
+
+Now, solve this riddle:
+Riddle : గారు కాని గారు, ఏమిగారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+విశ్వగారు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కడుపులో మౌనం, బయట శబ్దం?
+Answer: తుపాకి
+
+Example 2:
+Riddle: మనసులో మెరుపు, బయట శబ్దం?
+Answer: నవ్వు
+
+Example 3:
+Riddle: పుస్తకంలో అక్షరం, నోటిలో జ్ఞానం?
+Answer: చదువు
+
+Example 4:
+Riddle: సీసాలో నీరు, గాలిలో సుగంధం?
+Answer: అత్తరు
+
+Now, solve this riddle:
+Riddle : ఇంట్లో మొగ్గ, వీధిలో పువ్వు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మనసు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కళ్ళు వేయి ఉన్నా ఏమీ చూడలేదు, మంచిని ఉంచి చెడును వదులుతుంది. ఏంటది?
+Answer: జల్లెడ
+
+Example 2:
+Riddle: స‌ప్త స్వ‌రాల స‌మూహం, ఒక‌టే శ్రుతి. వేళ్ల‌తో మీటుతాను, చెవుల‌తో వింటాను. ఏంట‌ది?
+Answer: సంగీతం (లేదా వాయిద్యం)
+
+Example 3:
+Riddle: తెల్లటి కోటలో ముప్పైరెండు సిపాయిలు, మధ్యలో ఒక మంత్రి. చేతితో లంచం ఇస్తే, నోటితో పని కానిస్తాడు. ఏంటది?
+Answer: నోరు
+
+Example 4:
+Riddle: ఒక తెల్ల‌టి గుట్ట, దాని చుట్టూ రంగు రంగుల నీళ్లు. చేత్తో దాన్ని కలుపుతాం, నోటితో దాన్ని ఏరుకుంటాం. ఏంట‌ది?
+Answer: భోజనం
+
+Now, solve this riddle:
+Riddle : తెల్ల‌టి శ‌న‌గ‌ల‌లో ఒక‌టేరాయి, చేతితో చ‌ల్ల‌డం నోటితో ఏరుకోవ‌డం ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ప‌న్నీరు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తెలిసేలా తనువును కరిగిస్తుంది, తెలియకుండా పరిమళాలను వెదజల్లుతుంది?
+Answer: అగరబత్తి
+
+Example 2:
+Riddle: పైన తియ్యగా ఉంటుంది, లోపల రాయిని దాస్తుంది?
+Answer: మామిడి పండు
+
+Example 3:
+Riddle: పైకి చెమట చిందిస్తారు, లోపల పదును పెంచుకుంటారు?
+Answer: సాధన
+
+Example 4:
+Riddle: తెలిసేలా చుక్క వేస్తారు, తెలియకుండా గడ్డ కడుతుంది?
+Answer: పెరుగు
+
+Now, solve this riddle:
+Riddle : తెలిసేలా పూస్తుంది, తెలియకుండా కాస్తుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఉసిరి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వత్తులలో సువాసన ఇచ్చే వత్తి?
+Answer: అగరవత్తి
+
+Example 2:
+Riddle: కాయలతో అరిచే కాయ?
+Answer: కీచులకాయ
+
+Example 3:
+Riddle: కాయల్లో కోయలేని కాయ?
+Answer: తలకాయ
+
+Example 4:
+Riddle: దారులలో అతి చిన్న దార?
+Answer: కన్నీటి దార
+
+Now, solve this riddle:
+Riddle : కర్రలతో అతి చిన్న కర్ర?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పెన్సిల్
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మనుషులెందరో వస్తారు పోతారు, అది మాత్రం అక్కడే నిలబడి చూస్తుంది?
+Answer: ద్వారం (తలుపు)
+
+Example 2:
+Riddle: భూమి మొత్తం తిరిగినా, తాను మాత్రం కదలడు?
+Answer: కొండ
+
+Example 3:
+Riddle: దేహమంతా తిరిగినా, తలరాతను శాసించేవాడు తన స్థానం వదలడు?
+Answer: మెదడు
+
+Example 4:
+Riddle: ఆకాశంలో అన్నీ కదిలినా, అదొక్కటే కదలదు?
+Answer: ధృవ నక్షత్రం
+
+Now, solve this riddle:
+Riddle : ఊరంతా కదిలిన, ఊరగాయ కుండ కదలదు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కుండ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: లోకమంతటికీ ఒకటే దీపం?
+Answer: సూర్యుడు
+
+Example 2:
+Riddle: రాత్రి పూట ప్రపంచమంతా ఒక్కటే కప్పు?
+Answer: చీకటి
+
+Example 3:
+Riddle: ఇంటికంత ఒక్కటే కప్పు?
+Answer: ఇంటి కప్పు
+
+Example 4:
+Riddle: శరీరానికంత ఒక్కటే దుప్పటి?
+Answer: చర్మము
+
+Now, solve this riddle:
+Riddle : ఉరికంత ఒక్కటే దుప్పటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నది
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: లోకాన్నంతా చుట్టివస్తుంది, కానీ కాలు కదపదు? ఏంట‌ది?
+Answer: పటం
+
+Example 2:
+Riddle: తాను కరుగుతుంది, కానీ ఇతరుల తప్పులను సరిదిద్దుతుంది? ఏంటది?
+Answer: రబ్బరు (ఎరేజర్)
+
+Example 3:
+Riddle: తడిని తుడుస్తుంది, తుడుస్తూ తనే తడిసిపోతుంది? ఏంట‌ది?
+Answer: తువ్వాలు
+
+Example 4:
+Riddle: కాలిపోయినా, వేడినిస్తూనే ఉంటుంది? ఏంట‌ది?
+Answer: బొగ్గు
+
+Now, solve this riddle:
+Riddle : చ‌క్క‌న‌మ్మ చిక్కినా అందంగా ఉంటుంది? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ముక్కు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పొలంలో పుట్టింది పొలంలో పెరిగింది మా ఇంటికొచ్చింది పొట్ట నింపింది.
+Answer: అన్నం
+
+Example 2:
+Riddle: అడ‌విలో పుట్టింది అడ‌విలో పెరిగింది మా ఇంటికొచ్చింది ఊడుస్తూ ఆడింది.
+Answer: చీపురు క‌ట్ట
+
+Example 3:
+Riddle: అడవిలో పుట్టింది, అడవిలో పెరిగింది, పట్నం వచ్చింది, ఢమ ఢమ లాడింది.
+Answer: డప్పు
+
+Example 4:
+Riddle: నేలలో పుట్టింది, నేలలో పెరిగింది, మా ఇంటికొచ్చింది, కూరకు రంగు తెచ్చింది.
+Answer: పసుపు
+
+Now, solve this riddle:
+Riddle : అడ‌విలో పుట్టింది అడ‌విలో పెరిగింది మా ఇంటికొచ్చింది తైత‌క్క లాడింది.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+క‌త్తి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నల్లని పొలంలో తెల్లని విత్తనాలు, రాత్రి పూట మొలకెత్తుతాయి. ఏంటవి?
+Answer: నక్షత్రాలు
+
+Example 2:
+Riddle: పచ్చని చిలుకకు నల్లని చుక్కలు? ఏంటది?
+Answer: అరటిపండు
+
+Example 3:
+Riddle: తెల్ల‌టి గుర్రానికి నల్ల‌టి చార‌లు? ఏంట‌ది?
+Answer: జీబ్రా
+
+Example 4:
+Riddle: నల్లటి నేల మీద తెల్లటి గీతలు ఉంటాయి. ఏంటది?
+Answer: రోడ్డు
+
+Now, solve this riddle:
+Riddle : ప‌చ్చ‌ని పాముకు తెల్ల‌ని చార‌లు? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+క‌ర‌ప‌త్రము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: లోతైన నీటిలో దాగిన మెరుపు?
+Answer: ముత్యం
+
+Example 2:
+Riddle: ఇనుప కోటలోపల బంగారు మూట?
+Answer: ధనాగారం / ఖజానా
+
+Example 3:
+Riddle: పెంకు ఇంటిలో తియ్యని నీరు?
+Answer: కొబ్బరి బొండం
+
+Example 4:
+Riddle: రాతి ఇంట్లో మెత్తని ప్రాణం?
+Answer: తాబేలు
+
+Now, solve this riddle:
+Riddle : ముళ్ల కంచెలో మిఠాయి పొట్లం?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+స్ట్రాబెర్రీ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఇసుకతో కట్టిన ఇల్లు. నీళ్లు తగిలితే కరిగిపోతుంది. ఇదేమిటి?
+Answer: ఇసుక గూడు
+
+Example 2:
+Riddle: నల్లని నోరు, ఎంత తీస్తే అంత పెద్దదవుతుంది.
+Answer: గొయ్యి
+
+Example 3:
+Riddle: రోజు రోజుకి పెరిగే మనిషి! తిండి పెడితే తగ్గిపోతాడు!!?
+Answer: అప్పు
+
+Example 4:
+Riddle: అది బతకడానికి నిశ్శబ్దం కావాలి! మాట వస్తే చచ్చిపోతుంది!!?
+Answer: గుట్టు / రహస్యం
+
+Now, solve this riddle:
+Riddle : ఎర్రనిచెట్టు! నీళ్లు పోస్తే చస్తుంది!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+అగ్ని
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పాలు కాదు, పుంత కాదు! ఆకాశంలో ఉంటుంది!! అదేమిటి?
+Answer: పాలపుంత
+
+Example 2:
+Riddle: వడ కాదు, గళ్ళు కాదు! ఆకాశం నుండి పడతాయి!! అదేమిటి?
+Answer: వడగళ్ళు
+
+Example 3:
+Riddle: బంగారం కాదు, కాకి కాదు! పసపు పచ్చ బంగారం కానేకాదు!! అదేమిటి?
+Answer: కాకిబంగారం
+
+Example 4:
+Riddle: ఏరు కాదు, సముద్రం కాదు! అలలు కానేకావు!! అదేమిటి?
+Answer: కన్నీరు
+
+Now, solve this riddle:
+Riddle : కొక లేదు, సీత కాదు! రామ చిలుక కానేకాదు!! అదేమిటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+రామచిలుక
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కళ్ళకు లేనిది, చెవులకు ఉండేది?
+Answer: వినికిడి
+
+Example 2:
+Riddle: పని మొదలుపెట్టినప్పుడు లేనిది, పని పూర్తికాగానే వచ్చేది?
+Answer: అలసట
+
+Example 3:
+Riddle: చెట్లకు లేనిది, జంతువులకు ఉండేది?
+Answer: చలనం
+
+Example 4:
+Riddle: మనుషులకు ఉండనిది, జంతువులకు ఉండేది?
+Answer: తోక
+
+Now, solve this riddle:
+Riddle : ఆడవారికి ఉండనిది, మగవారికి ఉండేది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దాడి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పెద్ద అడవిలో చిట్టి కణం విసిరితే నిండా నేనే?
+Answer: నిప్పు
+
+Example 2:
+Riddle: పెద్ద పొలంలో చిట్టి గింజని పాతితే నిండా నేనే?
+Answer: పంట
+
+Example 3:
+Riddle: పెద్ద కుండలో చిన్నదాన్ని వేస్తే, ఘాటంతా నేనే?
+Answer: మిరపకాయ
+
+Example 4:
+Riddle: పెద్ద హాలులో చిట్టి అత్తరు బొట్టు పెడితే నిండా నేనే?
+Answer: వాసన
+
+Now, solve this riddle:
+Riddle : పెద్ద ఇంటిలో పొట్టివాన్ని నిలబెడితే నిండా నేనే?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చీకటి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఒకే గదిలో చాలా మంది సైనికులు. ఏంటది?
+Answer: వెల్లుల్లిపాయ
+
+Example 2:
+Riddle: గట్టి గదిలో రెండు మెదళ్ళు. ఏంటది?
+Answer: అక్రోట్
+
+Example 3:
+Riddle: తెల్లని పొలంలో నల్లని చీమలు ఏంట‌ది?
+Answer: అక్షరాలు
+
+Example 4:
+Riddle: ఒక పొదలో పది మంది దొంగలు ఏంట‌ది?
+Answer: చేతులు
+
+Now, solve this riddle:
+Riddle : అగ్గిపెట్టెలో ఇద్ద‌రు పోలీసులు ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కళ్ళు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వాన దేవుని ఏడు రంగుల చీర, ఆకాశానికి అందమైన తోరణం, క్షణకాలం మెరిసి మాయమౌను, వర్షం వెలిశాక కనిపిస్తుంది.
+Answer: ఇంద్రధనస్సు
+
+Example 2:
+Riddle: పాఠశాల ప్రాంగణపు గొంతుక, విద్యార్థులకు కాలపు సూచిక, ఠంగున మోగి హెచ్చరించును, ప్రతి గంటకు పలుకుతుంది.
+Answer: బడి గంట
+
+Example 3:
+Riddle: నోటివారి కోడలు, పలుకులకు ఆడపడుచు, తియ్యని చేదుని పంచుతుంది, మాట్లాడేటప్పుడు వస్తుంది.
+Answer: నాలుక
+
+Example 4:
+Riddle: వెదురువారి కోడలు, గాలికి ఆడపడుచు, రంధ్రాలున్నా గొంతు లేదు, రాగాలను పంచుతుంది, గొల్లవాడి చేతిలో వస్తుంది.
+Answer: పిల్లనగ్రోవి
+
+Now, solve this riddle:
+Riddle : జీడివారి కోడ‌లు సిరిగ‌ల వారికి ఆడ‌ప‌డుచు వ‌య‌సులో కులికే వ‌య్యారి వైశాఖ‌మాసంలో వ‌స్తుంది.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మామిడి పండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కళ్ళ నుండి బయటకు పెట్టడం సులువు, కానీ దాన్ని మళ్ళీ లోపలికి తీసుకోలేవు. ఏంటది?
+Answer: కన్నీరు
+
+Example 2:
+Riddle: రాత రాస్తాను కానీ చెరిపేయలేను, ఏంటది?
+Answer: తలరాత
+
+Example 3:
+Riddle: చిన్నదే గానీ భూమిలోపల రాజ్యం ఏలుతుంది. వేయంగ వేయవచ్చు గాని, తీయంగ తీయలేవు (మళ్ళీ దానిలా). ఏంటది?
+Answer: విత్తనం
+
+Example 4:
+Riddle: ఒంటి మీద రంగు వేయవచ్చును గాని, వేసిన రంగును తియ్యంగా తియ్యలేవు. ఏంటది?
+Answer: పచ్చబొట్టు
+
+Now, solve this riddle:
+Riddle : కిరు కిరు త‌లుపులు కిటారు త‌లుపులు వెయ్యంగ వెయ్య‌స్త‌వి గాని తియ్యంగా తియ్య‌రావు ఏంట‌వి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కళ్ళు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: మొదట లేత వెలుగును, నడుమ ప్రచండమైన వేడిని, చివరన చల్లని చీకటిని. ఏమిటవి?
+Answer: ఉదయం, మధ్యాహ్నం, రాత్రి
+
+Example 2:
+Riddle: మొదట ఆట, నడుమ బాధ్యత, కొసన ప్రశాంతత.
+Answer: బాల్యం, యవ్వనం, వృద్ధాప్యం
+
+Example 3:
+Riddle: మొదట దూదిని, నడుమ నూలు పోగును, కొసన బట్టను. ఏమిటది?
+Answer: వస్త్రం
+
+Example 4:
+Riddle: మొదట అదృశ్యం, నడుమ పచ్చన, కొసకు ఫలభరితం?
+Answer: మొక్క
+
+Now, solve this riddle:
+Riddle : మొదట చప్పన, నడుమ పుల్లన, కొస కమ్మన?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వంటగదిలో నల్లని భూతం ఏమిటది?
+Answer: పొయ్యి
+
+Example 2:
+Riddle: ఇంటి మూల‌లో అనేక కాళ్ళ రాక్షసి ఏమిట‌ది?
+Answer: చీపురు
+
+Example 3:
+Riddle: ఆకాశంలో వంకర కత్తి ఏమిటది?
+Answer: చంద్రుడు
+
+Example 4:
+Riddle: నేలపైన అగ్గి లేని పొగ ఏమిటది?
+Answer: పొగమంచు
+
+Now, solve this riddle:
+Riddle : చీక‌టింట్లో జ‌డ‌ల ద‌య్యం ఏమిట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ముళ్ళ‌చెట్టు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పోతే తిరిగి రానిది, ఎవరికీ ఆగనిది?
+Answer: కాలము
+
+Example 2:
+Riddle: కంటికి కనిపించనిది, ఊపిరికి ఊతమిచ్చేది?
+Answer: గాలి
+
+Example 3:
+Riddle: డబ్బుతో కొనలేనిది, అన్నింటికన్నా ముఖ్యమైనది?
+Answer: ఆరోగ్యం
+
+Example 4:
+Riddle: అందరికీ అవసరమైనది, ప్రాణాధారమైనది?
+Answer: నీరు
+
+Now, solve this riddle:
+Riddle : అన్నింటికన్నా విలువైనది, అందరికి అవసరమైనది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ప్రేమ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చిన్న గదిలో అక్షరాల బడి?
+Answer: పుస్తకం
+
+Example 2:
+Riddle: అరచేతి పెట్టెలో ప్రపంచపు గొంతు?
+Answer: సెల్ ఫోన్
+
+Example 3:
+Riddle: చిన్న గదిలో పెద్ద ప్రపంచం?
+Answer: కన్ను
+
+Example 4:
+Riddle: చిన్న నోట్లో పెద్ద ఏరు?
+Answer: కుళాయి
+
+Now, solve this riddle:
+Riddle : చిన్న చిట్టిలో కమ్మని కూర?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఆకలి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నేలలో గోధుమ రంగుతో పుట్టాను, కుండలో ఎక్కి తెల్లగా మారాను, పెనంపై పడ్డాను మళ్ళీ గోధుమ రంగు అయ్యాను.
+Answer: బంగాళదుంప
+
+Example 2:
+Riddle: పొలంలో పుట్టాను పచ్చగా ఉన్నాను, ఇంటికి వచ్చాను తెల్లగా మారాను, కుండలో పడ్డాను మెత్తగా అయ్యాను, పళ్ళెంలో చేరాను మాయమైపోయాను?
+Answer: బియ్యం
+
+Example 3:
+Riddle: అడవిలో పచ్చగా ఉన్నాను, ఫ్యాక్టరీలో తెల్లగా మారాను, మంటల్లో పడ్డాను బూడిదగా మారాను.
+Answer: కాగితం
+
+Example 4:
+Riddle: భూమిలో పుట్టాను, చేతుల్లో మెలికలు తిరిగాను, నిప్పుల కొలిమిలో గట్టిపడ్డాను?
+Answer: కుండ
+
+Now, solve this riddle:
+Riddle : అడవిలో పుట్టాను, నల్లగా అయ్యాను, ఇంటికి వచ్చాను, ఎర్రగా మారాను, తొట్టిలో పడ్డాను తెల్లగా మారాను?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+బొగ్గు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పొద్దున తెలుపు, సాయంత్రం ఎరుపు, రాత్రి నలుపు ఏమిటది?
+Answer: ఆకాశం
+
+Example 2:
+Riddle: కొనేటప్పుడు ఆకుపచ్చ, తినేటప్పుడు పసుపు, పారేసేటప్పుడు నలుపు ఏమిటది?
+Answer: అరటిపండు
+
+Example 3:
+Riddle: మొదట పచ్చని పాప, నడిమిలో పచ్చని వనిత, చివరలో పసుపు రంగు బామ్మ. ఏమిటది?
+Answer: ఆకు
+
+Example 4:
+Riddle: కొనేటప్పుడు గట్టిగా ఉంటుంది, వాడేటప్పుడు కరిగిపోతుంది, చివరికి చిన్నగా మిగిలిపోతుంది. ఏమిటది?
+Answer: సబ్బు
+
+Now, solve this riddle:
+Riddle : కొనే టప్పుడు నలుపు, తినేటప్పుడు ఎరుపు, పారేసేటప్పుడు తెలుపు ఏమిటది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పొగాకు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ముఖం మీద కొండ, కొండ అడుగున రంధ్రాలు?
+Answer: ముక్కు
+
+Example 2:
+Riddle: ఆకాశంలో బంగారు కుండ, కుండ నిండా వెలుగు కిరణాలు?
+Answer: సూర్యుడు
+
+Example 3:
+Riddle: చెట్టు తల మీద కుండ, కుండ లోపల నీళ్లు?
+Answer: కొబ్బరికాయ
+
+Example 4:
+Riddle: పుస్తకంలో గీత, గీత చివర చుక్క?
+Answer: వాక్యం
+
+Now, solve this riddle:
+Riddle : రాళ్ల అడుగున విల్లు, విల్లు కోనలో ముళ్లు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పాదం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పొడవైన బాబుకు చిన్న టోపీ?
+Answer: సీసా మరియు మూత
+
+Example 2:
+Riddle: లోహపు కాడ పైన గుండ్రటి తల?
+Answer: మేకు
+
+Example 3:
+Riddle: పొడవాటి మనిషికి, తల నిండా జుట్టు?
+Answer: కొబ్బరి చెట్టు
+
+Example 4:
+Riddle: గుండ్రని కుండ పైన లెక్కలేనన్ని పాములు?
+Answer: తల, జుట్టు
+
+Now, solve this riddle:
+Riddle : నల్ల స్తంభం పైన నలుగురు దొంగలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బేరు మల
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చెరువు నిండా చేపపిల్లలు, చూడటానికి బాగుంటాయి కానీ పట్టడానికి దొరకవు. ఏమిటవి?
+Answer: నీటి అలలు (లేదా నీటి తరంగాలు)
+
+Example 2:
+Riddle: సముద్రుడి అంగట్లో మెరిసే బంగారు పూసలు, చూసేవారే గానీ అన్నీ లెక్కపెట్టేవారు లేరు. ఏమిటవి?
+Answer: ఇసుక రేణువులు
+
+Example 3:
+Riddle: కొండపై అడవిలో సన్నని గడ్డి పోచలు చూచేవారేగాని లెక్కవేసేవారు కాదు ఏమిటవి?
+Answer: తల వెంట్రుకలు
+
+Example 4:
+Riddle: ఆకాశం నుండి రాలతాయి, చూస్తారు కానీ లెక్కపెట్టలేరు ఏమిటవి?
+Answer: వాన చినుకులు
+
+Now, solve this riddle:
+Riddle : రాజుగారి తోట‌లో రోజాపూలు చూచేవారేగాని లెక్క‌వేసేవారు కాదు ఏమిట‌వి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నక్షత్రాలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తలమీద పురుగు! పళ్లున్న పురుగు!!
+Answer: దువ్వెన
+
+Example 2:
+Riddle: గూటి లోన పాప! తిరుగు తిరుగు పాప!!
+Answer: కను పాప
+
+Example 3:
+Riddle: ఒంటిలో తీగలు! అల్లుకుపోయే తీగలు!!
+Answer: నరాలు
+
+Example 4:
+Riddle: చెవి గట్టున రాయి! మినుకు మినుకు రాయి!!
+Answer: చెవి కమ్మ రాయి
+
+Now, solve this riddle:
+Riddle : గట్టుమీద రాయి! మినుకు మినుకు రాయి!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+రాయి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: భూమిలో పాతుకున్న ఆకుపచ్చని గొడుగు, తన వేళ్ళతో నీళ్ళు తాగి, అందరికీ ప్రాణవాయువు ఇస్తుంది.
+Answer: చెట్టు
+
+Example 2:
+Riddle: పొడవాటి గొట్టంలో నల్లని జీవి, తల గీరితే అక్షరాల జల్లు కురిపిస్తుంది.
+Answer: కలం
+
+Example 3:
+Riddle: భూమి అనే గిన్నెలో ఆకుపచ్చని పిట్ట కాళ్ళతో నీళ్లు తాగుతుంది
+Answer: మొక్క
+
+Example 4:
+Riddle: ఇనుప దారిలో పొగలు కక్కే పాము, బొగ్గు నీళ్ళు తాగి ఊళ్ళన్నీ తిరుగుతుంది.
+Answer: రైలు బండి (ఆవిరి యంత్రం)
+
+Now, solve this riddle:
+Riddle : అందమైన గిన్నెలో ఎర్రని పిట్ట తోకతో నీళ్లు త్రాగుతుంది
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దీపం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఆకుపచ్చని బంతికి బోలెడు చొక్కాలు. ఏమిటది?
+Answer: క్యాబేజీ
+
+Example 2:
+Riddle: ఒక తల్లికి చాలా మంది పిల్లలు, అందరూ పసుపు చొక్కాలు వేసుకున్నారు. ఏమిటది?
+Answer: అరటి గెల
+
+Example 3:
+Riddle: ఒకటే స్తంభానికి కోటి దీపాలు. ఏమిటది?
+Answer: మొక్కజొన్న కంకి
+
+Example 4:
+Riddle: దొడ్డుపాటి దొరకు దొంతరల బట్టలు. ఏమిటది?
+Answer: అరటి దూట
+
+Now, solve this riddle:
+Riddle : చిన్న పాపకు చాలా చీరలు. ఏమిటది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పువ్వు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నవ్వుల వసంతం వస్తే, కన్నీటి శిశిరం వెళ్ళిపోతుంది. ఏమిటవి?
+Answer: ఆనందం, విచారం
+
+Example 2:
+Riddle: నల్ల దొర వస్తే, తెల్ల దొరసాని వెళ్ళిపోతుంది. ఏమిటవి?
+Answer: రాత్రి, పగలు
+
+Example 3:
+Riddle: ఒంటి కన్ను వాడొస్తే, నల్ల దుప్పటి పారిపోతుంది?
+Answer: అగ్గిపుల్ల, చీకటి
+
+Example 4:
+Riddle: ఎర్రని నోరున్నవాడు వస్తే, తెల్లని దేహం కరిగిపోతుంది.
+Answer: నిప్పు, మంచు
+
+Now, solve this riddle:
+Riddle : ఎర్రవాడొస్తే తెల్లవాడు, పారిపోయి దాక్కుంటాడు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సూర్యుడు, చంద్రుడు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పొద్దున పూట ఆకు మీద వజ్రంలా మెరిసేది ఏది? పట్టుకోబోతే కరిగి పోతుంది.
+Answer: మంచు బిందువు
+
+Example 2:
+Riddle: కొమ్మలేని చెట్టు మీద రంగుల పువ్వు, ముట్టుకుంటే చేతికి మంట అంటును?
+Answer: కొవ్వొత్తి మంట
+
+Example 3:
+Riddle: గోడ మీద ఆడుతుంది, కానీ పట్టుకోలేము?
+Answer: వెలుగు
+
+Example 4:
+Riddle: తెల్లగా ఆవరిస్తుంది, పట్టుకుందామంటే చేతికి చిక్కదు?
+Answer: పొగమంచు
+
+Now, solve this riddle:
+Riddle : గాలిలో ఎగిరే అద్దము పట్టుకుంటే పలిగి పోవు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+బుడగ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: చిన్న శబ్దం వచ్చి పడితే, పది మంది నిద్రని వదిలేసి పారిపోయారు.
+Answer: అలారం
+
+Example 2:
+Riddle: చిన్న మాట వచ్చి పడితే, ఊరంతా గొడవ పడ్డారు.
+Answer: పుకారు
+
+Example 3:
+Riddle: ఒకే ఒక మాట ఊరంతా పాకింది, విన్నవారి గుండెలు ఆగిపోయినంత పనైంది.
+Answer: దుర్వార్త ( )
+
+Example 4:
+Riddle: చిన్న నిప్పు రవ్వ అడవిలో పడితే, చెట్లన్నీ తప్పించుకోలేక బూడిదైపోతాయి.
+Answer: కార్చిచ్చు
+
+Now, solve this riddle:
+Riddle : అబ్బాయి గారి దొడ్లో పెద్ద పండు పడితే, పరుగెత్తలేక పది మంది చచ్చారు.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పిడుగు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: వంద సిపాయిలు, ఒకటే కోట?
+Answer: అగ్గిపెట్టె
+
+Example 2:
+Riddle: ఎన్నో తీగలు దానికి, ఒక్కటే గొంతు పలికిస్తుంది సంగీతం?
+Answer: వీణ
+
+Example 3:
+Riddle: గదులు వేలు, వాకిలి ఒకటే?
+Answer: తేనెపట్టు
+
+Example 4:
+Riddle: వేలాది పువ్వులు ఒకటే దారం?
+Answer: పూలమాల
+
+Now, solve this riddle:
+Riddle : నూరు పళ్ళు ఒకటే నోరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దంతాలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఫలము కాని ఫలము, ఏమి ఫలము?
+Answer: ప్రతిఫలము
+
+Example 2:
+Riddle: దారి కాని దారి, ఏమి దారి?
+Answer: అడ్డదారి
+
+Example 3:
+Riddle: పాలు కాని పాలు, ఏమి పాలు?
+Answer: నీటి పాలు
+
+Example 4:
+Riddle: పురుగు కాని పురుగు, ఏమి పురుగు?
+Answer: పుస్తకాల పురుగు
+
+Now, solve this riddle:
+Riddle : గోళము కాని గోళము, ఏమి గోళము?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గోళము కాని గోళము, ఏమి గోళము?
+Answer: కంటి గోళము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ఆకాశంలో తోక ఉన్న పువ్వు?
+Answer: తోకచుక్క
+
+Example 2:
+Riddle: మెడకు చుట్టుకునే పాము, కానీ కరవదు ఏమిటి?
+Answer: నెక్లెస్ / హారం
+
+Example 3:
+Riddle: చెవిలో పూచిన పువ్వు!?
+Answer: చెవి కమ్మ
+
+Example 4:
+Riddle: ఆకాశంలో దారంతో కట్టిన చేప?
+Answer: గాలిపటం
+
+Now, solve this riddle:
+Riddle : గోడకు గొలుసు పండు!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కాలెండర్
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: నువ్వు తాకితే నీ గుర్తు పడుతుంది, నేను తాకితే నా గుర్తు పడుతుంది?
+Answer: వేలిముద్ర
+
+Example 2:
+Riddle: పాతకాలపు నిన్ను నీకు చూపిస్తూ, నువ్వు నన్ను చూసినప్పుడల్లా, నేను కదలక మెదలక నిన్నే చూస్తాను. ఏంటది?
+Answer: ఛాయాచిత్రం
+
+Example 3:
+Riddle: నువ్వు కాలు పెడితే నీ జాడ అవుతుంది, నేను కాలు పెడితే నా జాడ అవుతుంది?
+Answer: కాలిజాడ
+
+Example 4:
+Riddle: శబ్దముంది కానీ శరీరము లేదు. నువ్వు మాట్లాడితే నీ మాటలే వినబడతాయి, నేను మాట్లాడితే నా మాటలే వినబడతాయి?
+Answer: ప్రతిధ్వని
+
+Now, solve this riddle:
+Riddle : అందమైన చిన్నది, అందాల చిన్నది, నువ్వు చుస్తే నిన్ను చూస్తుంది, నేను చుస్తే నన్ను చూస్తుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కన్ను
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కళ్ళున్నాయి, కానీ చూడలేదు?
+Answer: వెదురు బొంగు
+
+Example 2:
+Riddle: ముఖాలు చాలా ఉన్నా, ఒక్క నోరు కూడా లేనిది?
+Answer: పాచిక
+
+Example 3:
+Riddle: నోరున్నా, మాటరానిది?
+Answer: కూజా
+
+Example 4:
+Riddle: మెడ ఉన్నా, తల లేనిది?
+Answer: చొక్కా, సీసా
+
+Now, solve this riddle:
+Riddle : అడుగులున్నా, కాళ్ళులేనిది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గడియారం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: పదునైన పళ్లు దాని సొంతం! బారులు తీరిన పళ్లు దాని సొంతం! అయినా ఎవ్వరినీ కరవదు పాపం. ఏమిటది?
+Answer: దువ్వెన
+
+Example 2:
+Riddle: విశాలమైన పరుపుంది! మెత్తని పరుపుంది! అయినా క్షణమైనా నిద్రపోదు. ఏమిటది?
+Answer: నది
+
+Example 3:
+Riddle: పళ్ళున్న మొనగాణ్ణి! కొయ్యలు కోస్తాను గానీ, రొట్టె ముక్క కొరకలేను. ఏమిటది?
+Answer: రంపం
+
+Example 4:
+Riddle: లోపల ఒక లోకం ఉంటుంది, అక్కడ చాలా మంది మాట్లాడుకుంటారు, కానీ ఆ మాటలు బయటికి రావు.
+Answer: ఆలోచనలు
+
+Now, solve this riddle:
+Riddle : కిట కిట తలుపులు! కిటారు తలుపులు!! ఎప్పుడు తీసినా చప్పుడు కాదు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కళ్ళు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: తలుపులు కిటికీలు లేని గదిలో, కట్టెలు లేకుండా మంట మండుతుంది. ఏంటది?
+Answer: ఆకలి
+
+Example 2:
+Riddle: కిటికీలు లేని నిశ్శబ్ద ఇంట్లో, గోడలను తాకకుండా ఇల్లును తెరవగల లేదా మూయగల చిన్న ఇనప నాలుక ఏంట‌ది?
+Answer: తాళం చెవి
+
+Example 3:
+Riddle: దారి లేని ప్రయాణంలో, జీవం లేని వేటగాడు క్షణాలనే జీవాలను వేటాడుతాడు. ఏంట‌ది?
+Answer: కాలం
+
+Example 4:
+Riddle: ప‌చ్చద‌నం లేని బాట‌లో, కాళ్లు లేని కద‌లే జంతువు దూరాన్ని మింగుతుంది. ఏంట‌ది?
+Answer: వాహ‌నం
+
+Now, solve this riddle:
+Riddle : ఆకులు లేని అడ‌విలో జీవం లేని జంతువు జీవాల‌ను వేటాడుతుంది ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సంకెళ్ళు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Telugu riddle with its answer, followed by one or more 'context-reconstructed' Telugu riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: కంటికి ఇద్దరు తోబుట్టువులు?
+Answer: రెప్పలు
+
+Example 2:
+Riddle: సైకిల్‌కు ఇద్దరు బిడ్డలు?
+Answer: చక్రాలు
+
+Example 3:
+Riddle: కళ్ళజోడుకు ఇద్దరు బిడ్డలు?
+Answer: అద్దాలు
+
+Example 4:
+Riddle: కుర్చీకి నలుగురు మిత్రులు?
+Answer: కాళ్ళు
+
+Now, solve this riddle:
+Riddle : ఈత చెట్టుకు ఇద్దరు బిడ్డలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఆకులు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 16:56:22 2025 ---

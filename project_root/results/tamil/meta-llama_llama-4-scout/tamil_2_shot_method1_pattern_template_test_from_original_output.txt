@@ -1,0 +1,2815 @@
+
+--- Starting New Generation Run at Mon May 26 20:44:16 2025 ---
+Model: meta-llama/llama-4-scout, Language: Tamil, Prompt: 2_shot_method1_pattern_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Tamil riddles.
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வெள்ளைக் கூட்டுக்குள் மஞ்சள் திரவம்?
+Answer: முட்டை
+
+Example 2:
+Riddle: ஊதாப் பெட்டிக்குள் வெள்ளை முத்துக்கள்?
+Answer: கத்தரிக்காய்
+
+Now, solve this riddle:
+Riddle : பச்சை பொட்டிக்குள் வெள்ளை முத்துகள்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: வெண்டைக்காய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மேலிலும் துவாரம், கீழேயும் துவாரம், எங்கும் துளைகள், இருந்தும் மழையை என்னுள் அடக்கி வைப்பேன். நான் யார்?
+Answer: மேகம்
+
+Example 2:
+Riddle: கால்கள் உண்டு, ஆனால் நடக்காது. தலை உண்டு, ஆனால் பேசாது. நான் யார்?
+Answer: கட்டில்
+
+Now, solve this riddle:
+Riddle : மேலிலும் துவாரம், கீழிழும் துவாரம், வலதிலும் துவாரம், இடதிலும் துவாரம், உள்ளிலும் துவாரம் வெளியிலும் துவாரம் இருந்தும் நீரை என்னுள் சேமித்து வைப்பேன், நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+துளசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வாய் உண்டு, பேசமாட்டான்; வயிறு உண்டு, உண்ணமாட்டான். அவன் யார்?
+Answer: பானை
+
+Example 2:
+Riddle: நாக்கு உண்டு, ஆனால் பேசாது; அடித்தால் மட்டும் பேசும். அது என்ன?
+Answer: மணி
+
+Now, solve this riddle:
+Riddle : காலில் தண்ணீர் குடிப்பான், தலையில் முட்டையிடுவான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: 
+தாமரை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பள்ளிக்கூடம் முழுவதும் ஒலிப்பான், ஒரு நாள் மட்டும் ஓய்வெடுப்பான். அவன் யார்?
+Answer: பள்ளி மணி
+
+Example 2:
+Riddle: உடலுக்கெல்லாம் ஒரே காவலன், உறக்கத்தில் மட்டும் ஓய்வெடுப்பான். அவன் யார்?
+Answer: மூளை
+
+Now, solve this riddle:
+Riddle : ஊரெல்லாமல் ஒரே விளக்கு. அதற்கு ஒரு நாள் ஒய்வு அது?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சூரியன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: காகிதப் பைக்குள் சர்க்கரை மணிகள். அது என்ன?
+Answer: மாத்திரை
+
+Example 2:
+Riddle: சிவப்பு கோட்டைக்குள் சிதறிக் கிடக்கும் வைரக் கற்கள். அது என்ன?
+Answer: மாதுளம்பழம்
+
+Now, solve this riddle:
+Riddle : பட்டுப்பை நிறைய பவுண் காசு. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டுப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இவனும் ஒரு காகிதம் தான்; ஆனால், உலகம் முழுவதும் சுற்றி வந்திருப்பான். அது என்ன?
+Answer: செய்தித்தாள்
+
+Example 2:
+Riddle: இதுவும் ஒரு வண்டி தான், ஆனால் சக்கரங்கள் இல்லாமல் ஓடும். அது என்ன?
+Answer: படகு
+
+Now, solve this riddle:
+Riddle : இவனும் ஒரு பேப்பர் தான்; ஆனால், மதிப்போடு இருப்பான். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பணக்காகிதம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நின்ற இடத்திலேயே எப்போதும் கீழே விழுவான். இரவும் பகலும் இந்த வேலைதான். அவன் யார்?
+Answer: அருவி (நீர்வீழ்ச்சி)
+
+Example 2:
+Riddle: தான் இருக்கும் இடத்தில் நகராமல், இரவும் பகலும் சுழலும். அது என்ன?
+Answer: விசிறி
+
+Now, solve this riddle:
+Riddle : இருந்த இடத்தில் நகர்ந்தபடி இரவும் பகலும் செல்வான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நேரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சத்தத்தில் பிறந்து அமைதியில் மறையும்?
+Answer: எதிரொலி
+
+Example 2:
+Riddle: வெளிச்சத்தில் பிறந்து இருட்டில் மறையுது?
+Answer: நிழல்
+
+Now, solve this riddle:
+Riddle : மழையில் பிறந்து வெயிலில் காயுது?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நீர்த்திவலை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தலையில் குடுமி வைத்திருப்பான், தாகத்திற்கு நீர் கொடுப்பான். அவன் யார்?
+Answer: தேங்காய்
+
+Example 2:
+Riddle: கருப்பாய் பிறப்பான், சிவப்பாய் எரிவான், சாம்பலாய் மிஞ்சுவான். அவன் யார்?
+Answer: கரி
+
+Now, solve this riddle:
+Riddle : சலசலவென சத்தம் போடுவான், சமயத்தில் தாகம் தீர்ப்பான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பனிக்கூழ்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஆயிரம் சிப்பாய்கள் கட்டிய வீடு, ஒரு கை பட்டால் கலைந்துவிடும் கூடு, அது என்ன?
+Answer: தேன்கூடு
+
+Example 2:
+Riddle: மழை முடிந்த ஓவியம், தூரிகை தொடாமலே பல வண்ணம். அது என்ன?
+Answer: வானவில்
+
+Now, solve this riddle:
+Riddle : பச்சை நிற அழகிக்கு உதட்டுச் சாயம் பூசாமலே சிவந்தவாய் அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: திராட்சைப் பழம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஓர் மூலையில் உட்கார்ந்திருக்கும், உலகமெல்லாம் சுற்றும். அது என்ன?
+Answer: அஞ்சல் தலை
+
+Example 2:
+Riddle: விசில் ஒலி வரும் முன்னே, சோறு வெந்துவிடும் பின்னே. அது என்ன?
+Answer: குக்கர்
+
+Now, solve this riddle:
+Riddle : செய்தி வரும் பின்னே, மணியோசை வரும் முன்னே. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தொலைபேசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடைந்தாலும் ஓசை வராத கண்ணாடி, கடையில் கிடைக்காத கண்ணாடி, அது என்ன?
+Answer: மனம்
+
+Example 2:
+Riddle: தண்ணீர் இல்லாத ஆறு, திரும்பி ஓடாத ஆறு, அது என்ன?
+Answer: நேரம்
+
+Now, solve this riddle:
+Riddle : எவர் கையிலும் சிக்காத கல் எங்கும் விற்காத கல், அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+உள்ளம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பற்கள் ஆயிரம் உண்டு, ஆனால் எதையும் கடிக்க முடியாது. அது என்ன?
+Answer: சீப்பு
+
+Example 2:
+Riddle: கீழே போட்டாலும், கிள்ளிப் பார்த்தாலும் அழ மாட்டேன், யார் நான்?
+Answer: பொம்மை
+
+Now, solve this riddle:
+Riddle : அடித்தாலும், உதைத்தாலும் அவன் அழ மாட்டான், அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கல்தூண்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உயிரில்லை, ஆனால் நீளமாக வளரும். வெட்ட வெட்ட மீண்டும் வரும். அது என்ன?
+Answer: முடி
+
+Example 2:
+Riddle: பகல் முழுவதும் எழுதுவான், ஆனால் கை வலிக்காது. இரவில் ஓய்வெடுப்பான், ஆனால் தூங்க மாட்டான். அவன் யார்?
+Answer: பேனா
+
+Now, solve this riddle:
+Riddle : எப்போதும் மழையில் நனைவான் ஆனால் ஜுரம் வராது. எப்போதும் வெயிலில் காய்வான் ஆனால் ஏதும் ஆகாது. அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நிழல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கரும்பலகையில் பூத்து, கரும்பலகையிலேயே உதிரும் வெள்ளைப்பூ. அது என்ன?
+Answer: சாக்பீஸ் எழுத்து
+
+Example 2:
+Riddle: கண்ணிலே தோன்றி கண்ணிலே மறையும் நீர்வீழ்ச்சி. அது என்ன?
+Answer: கண்ணீர்
+
+Now, solve this riddle:
+Riddle : வாயிலே தோன்றி வாயிலே மறையும் பூ. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நான் உள்ளேயும் இருப்பேன், வெளியேயும் இருப்பேன். ஒரு உலகிலிருந்து இன்னொரு உலகுக்கு என்னை கடந்துதான் செல்ல வேண்டும். நான் யார்?
+Answer: கதவு
+
+Example 2:
+Riddle: வாயுண்டு பேசாது. பல்லுண்டு கடிக்காது. கதவைத் திறக்கும். யார் நான்?
+Answer: சாவி
+
+Now, solve this riddle:
+Riddle : நீரிலும் வாழ்வேன், நிலத்திலும் வாழ்வேன். நீண்ட ஆயுள் உடைய எனக்கு இறைவன் கொடுத்த கவசமும் இருக்கு. நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முள்ளந்தண்டற்றவன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: குளத்திலே குடை பிடிக்குது. அது என்ன?
+Answer: தாமரை இலை
+
+Example 2:
+Riddle: முகத்திலே முத்துக்கள் மலருது. அது என்ன?
+Answer: வியர்வைத் துளிகள்
+
+Now, solve this riddle:
+Riddle : பாலிலே புழு நெளியுது. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பால் வழிகின்ற வழிமுகவரே!
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கரும்பலகையில் பூக்கும் பூ, அழித்தால் மறைந்து போகும் பூ. அது என்ன?
+Answer: எழுத்து
+
+Example 2:
+Riddle: கால்களுண்டு ஆனால் நடப்பதில்லை, அது என்ன?
+Answer: நாற்காலி / மேஜை ( / )
+
+Now, solve this riddle:
+Riddle : கல்லில் காய்க்கும்பூ தண்ணீரில் மலரும்பூ, அது என்ன பூ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கள்  மற்றும்  கற்பூரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: செடியிலே பிறந்து, சட்டியிலே வெந்து, தட்டிலே பரவும் மணி எது?
+Answer: சோறு
+
+Example 2:
+Riddle: மண்ணிலே பிறந்து, தீயிலே வெந்து, சுவரிலே வசிக்கும் பறவை எது?
+Answer: செங்கல்
+
+Now, solve this riddle:
+Riddle : கடலிலே கலந்து, கரையிலே பிரிந்து, தெருவிலே திரியும் பூ எது?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மஞ்சள்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: எவ்வளவு முயன்றாலும் கைகளால் பிடிக்க முடியாது. அது இல்லாமல் உயிரே இல்லை. அது என்ன?
+Answer: காற்று
+
+Example 2:
+Riddle: அதை பிடிக்க முடியாது. அது இல்லாமல் எதுவுமே நடக்காது. அது என்ன?
+Answer: காலம் (நேரம்)
+
+Now, solve this riddle:
+Riddle : எவ்வளவு முயன்றாலும் அவனை கடிக்க முடியாது. அவன் இல்லாமல் உணவே இல்லை. அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: பசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கண்ணுக்குத் தெரியாமல் வந்திடுவான், கவலைகளை மறக்கச் செய்திடுவான், உடல் சோர்வாகும் போது வந்திடுவான், அனைவரையும் தொற்றி விடுவான் – அவன் யார்?
+Answer: உறக்கம் (தூக்கம்)
+
+Example 2:
+Riddle: உடம்பு இல்லாதவன், குறும்பு அதிகம் செய்பவன், கோப்புகளைத் திறந்தால் வந்திடுவான், வேகமாகப் பரவி விடுவான் – அவன் யார்?
+Answer: கணினி வைரஸ்
+
+Now, solve this riddle:
+Riddle : கருப்பு நிறமுடையவன், கபடம் அதிகம் கொண்டவன், கூவி அழைத்தால் வந்திடுவான், கூட்டம் சேர்த்தும் வந்திடுவான் – அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காகம் (காக்கை)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கண்ணீர் விடுவான், மனிதன் அல்ல. இருளை நீக்குவான், பகலவன் அல்ல. அவன் யார்?
+Answer: மெழுகுவர்த்தி
+
+Example 2:
+Riddle: பேசும் ஆனால் மனிதன் அல்ல, படம் காட்டும் ஆனால் திரையரங்கம் அல்ல. அது என்ன?
+Answer: தொலைக்காட்சி
+
+Now, solve this riddle:
+Riddle : மரத்துக்கு மரம் தாவுவான் குரங்கல்ல, பட்டை போட்டிருப்பான் சாமி அல்ல, அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பூனை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ** மின்சாரத்தைக் குடிப்பான், இருளை விரட்டுவான். அவன் யார்?
+Answer: மின்விளக்கு
+
+Example 2:
+Riddle: தண்ணீரைக் குடித்து வானத்தை நோக்கி வளருவான், அவன் யார்?
+Answer: மரம்
+
+Now, solve this riddle:
+Riddle : காற்றைக் குடித்து காற்றில் பறப்பான், அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காற்றாம்புள்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இது ஒரு பூச்சி. முதற்பகுதி அழகைக் குறிக்கும் சொல்; பிற்பகுதி பறக்கும் ஒரு சிறிய உயிரி. அது என்ன?
+Answer: வண்ணத்துப்பூச்சி
+
+Example 2:
+Riddle: இது ஒரு செடியின் பகுதி. இதன் முதற்பகுதி சமையலுக்கு உதவும் ஒரு சொல். பிற்பகுதி இலை வகையைக் குறிக்கும். அது என்ன?
+Answer: கறிவேப்பிலை
+
+Now, solve this riddle:
+Riddle : இது ஒரு பூ. முதற்பகுதி ஆதவனின் மறுபெயர்; பிற்பகுதி தேசத் தந்தையை குறிக்கும். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சூரியகாந்தி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நெருப்பெனும் கிணற்றில் விழுந்து, சம்மட்டி அடிபட்டு, உருமாறி எழுவான். அவன் யார்?
+Answer: இரும்பு
+
+Example 2:
+Riddle: தண்ணீர் குளத்தில் குதித்து, நுரை மேனி கொண்டு வருவாள். அவள் யார்?
+Answer: சோப்பு
+
+Now, solve this riddle:
+Riddle : கொதிக்கும் கிணற்றில் குதித்துக் குண்டாகி வருவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அடிக்கலாம் ஓடமுடியாது அது என்ன?
+Answer: ஆணி
+
+Example 2:
+Riddle: எடுக்க எடுக்க வளரும், போட போட குறையும் அது என்ன?
+Answer: குழி
+
+Now, solve this riddle:
+Riddle : பிடுங்கலாம் நடமுடியாது அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கிளை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அது உங்களுக்குச் சொந்தமானது, ஆனால் உங்களை விட மற்றவர்கள்தான் அதை அதிகமாகப் பயன்படுத்துவார்கள். அது என்ன?
+Answer: உங்கள் பெயர்
+
+Example 2:
+Riddle: நிறைய சாவிகள் இருக்கும், ஆனால் பூட்டைத் திறக்காது. அது என்ன?
+Answer: பியானோ
+
+Now, solve this riddle:
+Riddle : ஆயிரம் பேர் அணி வகுத்தாலும் ஆரவாரம் இராது- அவர்கள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கேரமி மாணவர்கள்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கூரிய முனை கொண்டவன், நீண்ட உடல் பெற்றவன், காகிதத்தில் நடனமாடுவான், எண்ணங்களை எழுதி வைப்பான். அவன் யார்?
+Answer: பேனா
+
+Example 2:
+Riddle: முகம் உண்டு கண் இல்லை, கைகள் உண்டு தட்ட முடியாது, ஓடிக்கொண்டே இருப்பான், ஆனால் ஓரிடத்தை விட்டு நகரமாட்டான். அவன் யார்?
+Answer: கடிகாரம்
+
+Now, solve this riddle:
+Riddle : நான்கு கால்கள் உள்ளவன், இரண்டு கைகள் உள்ளவன், உட்கார்ந்து கொண்டிருப்பான், உட்கார இடம் கொடுப்பான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+உறுப்பு நாற்காலி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மேலே போனால் எடை குறையும், கீழே வந்தால் எடை கூடும். அது என்ன?
+Answer: பலூன் ()
+
+Example 2:
+Riddle: கவனிக்காமல் விட்டால் வளரும், கவனித்தால் மறையும் அது என்ன?
+Answer: களை ()
+
+Now, solve this riddle:
+Riddle : கடல் நீரில் வளர்ந்து , மழை நீரில் மடிவது என்ன ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பவளம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சின்னப் பெட்டியில் உட்கார்ந்து உலகமெல்லாம் பேசும்.
+Answer: அலைபேசி
+
+Example 2:
+Riddle: விரல் காட்டும் திசையில் வெள்ளம் வரும்.
+Answer: குழாய்
+
+Now, solve this riddle:
+Riddle : குண்டுச்சட்டியில குதிரை ஓட்டறான்.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+துடுப்பு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கையில் அடங்கும், கருப்பாய் சுரக்கும், தாளினில் ஆடினால் தடம் பதிக்கும். அது என்ன?
+Answer: பேனா
+
+Example 2:
+Riddle: கர்ஜிக்கும், கோடுகள் இருக்கும், காட்ட வேண்டும் என்றால் கூண்டில் அடைப்பார்கள். அது என்ன?
+Answer: புலி
+
+Now, solve this riddle:
+Riddle : படபடக்கும், பளபளக்கும், பண்டிகை வந்தால் வானில் பறக்கும். அது என்ன ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: பட்டாசு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வாய் இருக்கும் உண்ணாது. அது என்ன?
+Answer: குடம்
+
+Example 2:
+Riddle: ஓட்டம் இருக்கும், நிற்கமாட்டான். அவன் யார்?
+Answer: நதி
+
+Now, solve this riddle:
+Riddle : . பற்கள் இருக்கும் கடிக்கமாட்டான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கத்திரிக்காய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உயிர் இல்லாத காவலன், இரவு பகல் பாராமல் காவல் காப்பான் - அது என்ன?
+Answer: கதவு / வாசல்
+
+Example 2:
+Riddle: பேசாத நண்பன், உண்மையான திசையைக் காட்டும் - அது என்ன?
+Answer: திசைக்காட்டி
+
+Now, solve this riddle:
+Riddle : உயிர் இல்லாத நீதிபதியிடம் ஒழுங்கான நியாயம்- அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பள்ளி வேறுபாடு/சாதி  அல்லது  படிகளのある階段 thangai படிக்கட்டு ( staircase)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சாப்பிடத் தெரியாதவனுக்கு உடம்பெல்லாம் பற்கள்?
+Answer: பூண்டு
+
+Example 2:
+Riddle: நடக்கத் தெரியாதவனுக்கு உடம்பெல்லாம் கால்கள், அது என்ன?
+Answer: ஏணி
+
+Now, solve this riddle:
+Riddle : பல் துவக்ககாதவனுக்கு உடம்பு எல்லாம் பற்கள்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விளக்கு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: என் தலைக்கு மேலே எப்போதும் உணவு இருக்கும். நான் யார்?
+Answer: தலைவாழை இலை
+
+Example 2:
+Riddle: ஒன்றுமில்லாத இடத்தில் புதிதாக ஒரு கண் தோன்றுமே அது என்ன?
+Answer: துளை / ஓட்டை
+
+Now, solve this riddle:
+Riddle : வயதான பலருக்கு புதிதாக ஒரு கை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வாத்து
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வெளியே மண்ணுக்குள் ஒளிந்திருக்கும்; உள்ளே வரிசையாய் முத்துக்கள் இருக்கும். அது என்ன?
+Answer: நிலக்கடலை
+
+Example 2:
+Riddle: மேலே ரொட்டி, கீழே ரொட்டி, நடுவில் சுவையான கறி. அது என்ன?
+Answer: சாண்ட்விச்
+
+Now, solve this riddle:
+Riddle : கீழேயும் மேலேயும் மண்; நடுவிலே அழகான பெண். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மண்கலன்மறைந்தான்  பூந்துணை நடுவே செண்கிழாய்  அதுஎன்ன எனவினவுவார்க்கு  ஆடவர்பேர் விடை
+
+விளக்கம் 
+கலன்மறைந்தான்= பானை 
+பூந்துணை = பூவினால் ஆன துணி 
+செண் கிழாய்=செங்காந்தள் 
+ஆடவர் பேர்= ஆண்பெயர் 
+ஆகவே பானையின்  கிழிந்த பகுதியில்  பூவினால் ஆன துணியும்   அதன்மேலே செங்காந்தளும் உள்ளது 
+இதனை 
+கீழேயும் மேலேயும் மண்; நடுவிலே அழகான பெண்  என்று சொல்லலாம் 
+இதனைத் தொடர்ந்து 
+
+காய்மண் மேலாடை மண் கீழே
+நாடி முகம் நட்டாள் அழகி
+தேடு குழாய் துணித்த வாய்மொழி 
+விடை சொன்னவர் யாவர்?
+
+பானை மேல் மண் கீழே மண் 
+நாடிமுகம் நட்டாள்  நடுவிலே அழகி
+தேடுகுழாய் துணித்த 
+புன்குழாய்  கிழங்கு கிழாய்
+விடை சொன்னவர் யாவர்?
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தொடக்கத்தில் நீர், கொதித்தால் ஆவி, குளிர்ந்தால் மீண்டும் நீர். இது என்ன?
+Answer: தண்ணீர்
+
+Example 2:
+Riddle: இளமையில் பச்சை, முதுமையில் பொன்னிறம், பசி போக்கும் குணம். விடை என்ன?
+Answer: நெல்
+
+Now, solve this riddle:
+Riddle : இளமையில் பச்சை, முதுமையில் சிகப்பு, குணத்திலே எரிப்பு. விடை தெரியுமா?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மிளகாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: திறந்தால் மீண்டும் மூடி பூட்ட முடியாது. அது என்ன?
+Answer: குளிர்பான டின்
+
+Example 2:
+Riddle: மொட்டு விரிந்தால், மீண்டும் மூடாது. அது என்ன?
+Answer: பூ
+
+Now, solve this riddle:
+Riddle : பெட்டியைத் திறந்தால் பூட்ட முடியாது. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+உருவப்படிப்பு பெட்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடல் முழுவதும் துளைகள், ஆனாலும் தண்ணீரைத் தாங்குவான். அவன் யார்?
+Answer: பஞ்சு (ஸ்பாஞ்ச்)
+
+Example 2:
+Riddle: கழுத்து உண்டு, தலை இல்லை. உடம்பு உண்டு, கைகள் கால்கள் இல்லை. அது என்ன?
+Answer: பாட்டில்
+
+Now, solve this riddle:
+Riddle : வீட்டுக்கு வந்த விருந்தாளியை வரவேற்க ஆளில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+குளிர்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: காற்றில் கட்டிய கோட்டை, கையில் எடுத்தால் கண்ணீராம் அது என்ன?
+Answer: நீர்க்குமிழி
+
+Example 2:
+Riddle: ஓலை வேய்ந்த கூரை, புயல் அடித்தால் வெறும் நார் நாராய் சிதறும் கீற்று. அது என்ன?
+Answer: ஓலைக் கூரை / கீற்றுக் கூரை
+
+Now, solve this riddle:
+Riddle : மாமா போட்ட பந்தல் மறுபடி பிரிச்சா கந்தல் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டாசு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: முறையின்றி உட்கொண்டால், உடலினுள்ளே சென்று உயிரைப் பறிக்கும். நான் யார்?
+Answer: விஷம்
+
+Example 2:
+Riddle: கவனமின்றிப் பரப்பினால், ஒட்டிக் கொண்டு மானத்தை எடுப்பான், உறவை முறிப்பான். அவன் யார்?
+Answer: வதந்தி
+
+Now, solve this riddle:
+Riddle : முறையின்றித் தொட்டால்,ஒட்டிக் கொண்டு உயிரை எடுப்பான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வைரஸ்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நடுவில் அது ஒலிக்கும், கேட்க உதவும் உறுப்பு, கடைசியில் சொல் இல்லை, அது என்ன?
+Answer: காது
+
+Example 2:
+Riddle: நடுவே தனித்திருக்கும், கடைசியில் 'இல்லை' என்று வரும், மூன்றெழுத்தில் ஏறலாம், மொத்தத்தில் எல்லோரும் வியக்கும், அது என்ன?
+Answer: புகைப்படம்
+
+Now, solve this riddle:
+Riddle : நடுவழிய ஓய்வுக்காம், கடையிரண்டில் ஏதுமில்லை சொல், மூன்றெழுத்தில் உடுத்தலாம், மொத்தத்தில் பெண்கள் விருப்பம், அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+துணி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மணக்க இனிமை, குத்தினால் வலி. அது என்ன?
+Answer: ரோஜா
+
+Example 2:
+Riddle: இனிப்புத் சுவை தருவான், ஈக்களுக்கு நண்பன். அவன் யார்?
+Answer: சர்க்கரை / வெல்லம்
+
+Now, solve this riddle:
+Riddle : பார்க்க அழகு பாம்புக்கு எதிரி அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விசிறி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு வருடத்தில் பன்னிரண்டு பிள்ளைகள். அது என்ன?
+Answer: மாதங்கள்
+
+Example 2:
+Riddle: ஒரு உடலில் இருபது காவலர்கள் அது என்ன?
+Answer: நகங்கள்
+
+Now, solve this riddle:
+Riddle : ஓர் அரண்மனையில் முப்பத்திரெண்டு காவலர்கள் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சதுரங்கம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அடித்தால் அழுவான், பிடிக்காவிட்டால் ஓடுவான். அவன் யார்?
+Answer: பந்து
+
+Example 2:
+Riddle: தாய் மண்ணிலே, மகள் மகுடத்திலே. அவை என்ன?
+Answer: தங்கம்
+
+Now, solve this riddle:
+Riddle : தாய் குப்பையிலே, மகள் சந்தையிலே அவை என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மெழுகு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மரத்தை அறுப்பான்; தூளாய்ப் பறக்கடிப்பான். ஆனாலும் வீட்டுக்கு உதவுவான். யார் அவன்?
+Answer: ரம்பம்
+
+Example 2:
+Riddle: குச்சியால் தட்டுவார்; வார்த்தையால் சுடுவார். ஆனாலும் அறிவைக் கொடுப்பார். யார் அவர்?
+Answer: ஆசிரியர்
+
+Now, solve this riddle:
+Riddle : கையை வெட்டுவார்; கழுத்தை வெட்டுவார். ஆனாலும் நல்லவர். யார் அவர்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+க scissors
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஆட்களைச் சுமந்து செல்லும் ஆனால் பயணம் செய்யாது அது என்ன?
+Answer: லிப்ட்
+
+Example 2:
+Riddle: உடையைத் தொங்கவிடுவான், ஆனால் அதை அணியமாட்டான். அவன் யார்?
+Answer: ஆடைத் தொங்கி
+
+Now, solve this riddle:
+Riddle : உணவை எடுப்பான் ஆனால் உண்ணமாட்டான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கரண்டியம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பேசத் தெரியாது, ஆனால் அடித்தால் அழுது தீர்க்கும். அது என்ன?
+Answer: பறை (மேளம்)
+
+Example 2:
+Riddle: ஆபத்து வந்ததும் உரத்த குரலில் அலறும். அது யார்?
+Answer: சைரன்
+
+Now, solve this riddle:
+Riddle : சொன்ன நேரத்துக்கு தொண்டை கிழிய கத்துவான். அவன் யார் ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கோழி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சுட்டவன் ஓய்ந்தான், வெங்காயத்தை எடுத்து முகத்தைத் தேய்த்தேன், மறுபடியும் சுட்டான். அவன் யார்?
+Answer: தோசைக்கல்
+
+Example 2:
+Riddle: ஓடியவன் நின்றான். வயிறு நிரப்பப்பட்டது மறுபடியும் ஓடினான். அவன் யார்?
+Answer: வாகனம்
+
+Now, solve this riddle:
+Riddle : நடந்தவன் நின்றான் கத்தியை எடுத்து தலையைச் சீவினேன் மறுபடியும் நடந்தான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முட்டை கரண்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அம்மா பள்ளத்தில் இருக்க மகள் குத்தி வருவாள் அது என்ன?
+Answer: உரல் உலக்கை
+
+Example 2:
+Riddle: அம்மா மேடையில் நிற்க பிள்ளை ஆடி வருவான் அது என்ன?
+Answer: மேடை நடனக் கலைஞர்
+
+Now, solve this riddle:
+Riddle : அம்மா படுத்திருக்க மகள் ஓடித்திரிவாள் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தேர் சக்கரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மலையில் தோன்றும் அருவி, கடலில் கலந்த பின் காணவில்லை. அது என்ன?
+Answer: நதி
+
+Example 2:
+Riddle: இரவில் வந்த விருந்தாளியை காலையில் காணவில்லை. அது என்ன?
+Answer: கனவு
+
+Now, solve this riddle:
+Riddle : காலையில் வந்த விருந்தாளியை மாலையில் காணவில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கிழக்கு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அரசன் இறந்தாலும், ஆட்சி மாறினாலும், கோட்டை இடிந்தாலும், கொடியும் வீழ்ந்தாலும், அது மட்டும் நிலைத்திருக்கும். அது என்ன?
+Answer: வரலாறு
+
+Example 2:
+Riddle: செடிகள் வளருது, குழந்தைகள் வளருது, கட்டிடங்கள் உயருது, ஆனால் கண்ணுக்குத் தெரியாமல் எப்போதும் வளர்வது எது?
+Answer: வயது
+
+Now, solve this riddle:
+Riddle : ஆலமரம் தூங்க அவனியெல்லாம் தூங்க, சீரங்கம் தூங்க திருப்பாற்கடல் தூங்க, ஒருவன் மட்டும் தூங்கவில்லை அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காகம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: விலையுயர்ந்தவற்றை உள்ளே வைக்கும், இரும்புச் சுவர்களால் தடிமனாகக் கட்டப்பட்டிருக்கும். இருக்கும் இடத்தைவிட்டு நகரவே நகராது. அது என்ன?
+Answer: பாதுகாப்புப் பெட்டி
+
+Example 2:
+Riddle: தரையில் ஊர்ந்தாலும் வேகம் கொள்ளாது, உடலோ எஃகுக் கவசம் தாங்கும். அது என்ன?
+Answer: டாங்கி (போர்த் தாங்கி)
+
+Now, solve this riddle:
+Riddle : நாளெல்லாம் நடந்தாலும் நாற்பதடி செல்லாது அந்த நாயகனுக்கோ உடல் மேல் கவசம் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கத்தூரி வண்டி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரே ஒரு தூண் தான் வீடு முழுக்க தாங்கும் அது என்ன?
+Answer: காளான்
+
+Example 2:
+Riddle: வட்டமான குளத்துக்குள்ளே ஒற்றைக் குதிரை ஓடுது, அது என்ன?
+Answer: மத்து
+
+Now, solve this riddle:
+Riddle : ஓடையில கருப்பு மீனு துள்ளி விளையாடுது அது என்ன ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கல்லு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: துளியுண்டு குடமில்லை, குளிர்ச்சியுண்டு ஏசி இல்லை, சத்தமுண்டு பேச்சில்லை, வருகையுண்டு வாசலில்லை, வெள்ளமுண்டு அணை இல்லை அது என்ன?
+Answer: கண்ணீர்
+
+Example 2:
+Riddle: சத்தம் உண்டு வாய் இல்லை,பதில் உண்டு கேள்வி இல்லை,வரும் உண்டு போனவர் இல்லை,இடம் உண்டு உடல் இல்லை அது என்ன?
+Answer: எதிரொலி
+
+Now, solve this riddle:
+Riddle : இலையுண்டு கிளையில்லை,பூ உண்டு மணமில்லை,காய் உண்டு விதையில்லை,பட்டை உண்டு கட்டை இல்லை,கன்று உண்டு பசு இல்லை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மேகம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வானத்தில் பஞ்சுப் பொதி போல் மிதப்பேன், கறுத்தால் கண்ணீர் வடிப்பேன். உயிர்களுக்கு நீர் ஊற்றுவேன். அது என்ன?
+Answer: மேகம்
+
+Example 2:
+Riddle: நான் அழ மாட்டேன், ஆனால் பார்ப்பவரை அழ வைப்பேன். நான் யார்?
+Answer: வெங்காயம்
+
+Now, solve this riddle:
+Riddle : பா‌ர்‌க்க‌த்தா‌ன் கறுப்பு; ஆனா‌ல் உள்ளமோ சிவப்பு. நம‌க்கு‌த் தருவதோ சுறுசுறு‌ப்பு அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மிளகாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வேலைக்கு துதிக்கை, சண்டைக்கு தந்தம் அது என்ன?
+Answer: யானை
+
+Example 2:
+Riddle: பாசத்துக்குச் சத்தம், பயத்துக்கு நகம் அது என்ன?
+Answer: பூனை
+
+Now, solve this riddle:
+Riddle : நன்றிக்கு வால் கோபத்துக்கு வாய் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நரி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: மண்ணில் பிறந்து, கையால் பறித்து, உணவாவான், ஆரோக்கியம் தருவான். அவன் யார்?
+Answer: கீரை
+
+Example 2:
+Riddle: வயலோடு பிறந்து; நீரோடு கலந்து; விருந்தாவான் மருந்தாவான். அவன் யார்?
+Answer: அரிசி
+
+Now, solve this riddle:
+Riddle : பூவோடு பிறந்து; நாவோடு கலந்து விருந்தாவான் மருந்தாவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மிளகாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடம்பில்லா ஒருவன், பல வண்ண சட்டைகள் அணிந்திருப்பான், எல்லாரும் அவனை சாப்பிட விரும்புவார்கள். அவன் யார்?
+Answer: லேயர் கேக்
+
+Example 2:
+Riddle: பிறந்ததும் சிறகு முளைக்கும், வாழ்நாளெல்லாம் பறக்காது. அது என்ன?
+Answer: அம்பு
+
+Now, solve this riddle:
+Riddle : உடம்பில்லா ஒருவன் பத்து சட்டை அணீந்திருப்பான்? அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காற்றாடி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கருப்பு நிறக் காடு, காட்டிற்குப் பின்னே எலும்பு மலை. மலைக்குள்ளே மென்மை மாளிகை, மாளிகைக்குள் எண்ணங்கள் என்னும் புதையல். அது என்ன?
+Answer: மனித தலை / மனம்
+
+Example 2:
+Riddle: சுண்ணாம்புக்கல்லால் கட்டப்பட்ட கோட்டை! கோட்டையை உடைத்தால் வெள்ளை மாளிகை! வெள்ளை மாளிகைக்குள் மஞ்சள் சூரியன்! அது என்ன?
+Answer: முட்டை
+
+Now, solve this riddle:
+Riddle : கூரை வீட்டைப் பிரிச்சா ஓட்டுவீடு! ஓட்டு வீட்டுக்குள்ள வெள்ளை மாளிகை!வெள்ளை மாளிகைக்கு நடுவில் குளம்!அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முட்டை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு நீண்ட நாகம், பல அறைகள், அதை இழுத்துச் செல்லும் ஒரு தலை. அது என்ன?
+Answer: தொடர்வண்டி
+
+Example 2:
+Riddle: ஒரு நீளமான கம்பி, அதில் நிறைய மணிகள், நடுவில் ஒரு தலைவன் - அது என்ன?
+Answer: மாலை (/)
+
+Now, solve this riddle:
+Riddle : ஒரு குகை, 32 வீரர்கள் , ஒரு நாகம் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சதுரங்கம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கையில்லாமல் அணைப்பான், வாயில்லாமல் விழுங்குவான். அவன் யார்?
+Answer: கடல்
+
+Example 2:
+Riddle: ஊர் எல்லாம் சுற்றுவான், ஆனால் காலடித் தடம் பதிக்க மாட்டான். அவன் யார்?
+Answer: காற்று
+
+Now, solve this riddle:
+Riddle : கையில்லாமல் நீந்துவான்; கால் இல்லாமல் ஓடுவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நீர்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: செவிகளில் சங்கீதம் பாடும், கால்கள் தாளம் போடும், மனதில் நிலைத்து நிற்கும், அது என்ன?
+Answer: இசை
+
+Example 2:
+Riddle: கொதிக்கும் போது சத்தம் போடும், கருப்பாக இருக்கும், தூக்கத்தை விரட்டி புத்துணர்ச்சி தரும். அது என்ன?
+Answer: காபி
+
+Now, solve this riddle:
+Riddle : வலை படபடக்கும்,பளபளக்கும் மனதுக்குள் இடம் பிடிக்கும் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: ஐஸ்கிரீம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கால்கள் உண்டு, ஆனால் நடக்காது. உட்கார உதவும். அது என்ன?
+Answer: நாற்காலி
+
+Example 2:
+Riddle: பற்கள் உண்டு, ஆனால் கடிக்காது. அது என்ன?
+Answer: சீப்பு
+
+Now, solve this riddle:
+Riddle : தலைக்குள் கண் வைத்திருப்பவன் இவன் மட்டும்தான் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கண்ணாடி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: இருட்டு அறையில் எட்ட முடியாத ராஜா, அது என்ன?
+Answer: நிலா
+
+Example 2:
+Riddle: உயிரில்லாதவனுக்கு நீண்ட முதுகெலும்பு உண்டு, அதன் மேல் பல உயிர்கள் ஓடும், அது என்ன?
+Answer: சாலை
+
+Now, solve this riddle:
+Riddle : உயிரில்லாதவனுக்கு உடம்பெல்லாம் நரம்பு, அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தந்தி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறு துளி விழுந்ததும் தாளைக் கெடுத்தது அது என்ன?
+Answer: மை
+
+Example 2:
+Riddle: ஒரு சிறு பொய் சொன்னதும், மொத்த நம்பிக்கையும் சிதறியது. அது என்ன?
+Answer: துரோகம்
+
+Now, solve this riddle:
+Riddle : சிறு தூசி விழுந்ததும் குளமே கலங்கியது அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கண்ணாடி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நாக்கு உண்டு, பேசத் தெரியாது. காலில் இருக்கும், நடக்கத் தெரியாது. குதிகால் உண்டு, உதைக்கத் தெரியாது. – அது என்ன?
+Answer: செருப்பு (காலணி)
+
+Example 2:
+Riddle: தூரம் செல்லும், கால் இல்லை. கையில் வரும், கை இல்லை. செய்தி சொல்லும், வாய் இல்லை. – அது என்ன?
+Answer: கடிதம்
+
+Now, solve this riddle:
+Riddle : முட்டையிடும், குஞ்சு பொரிக்காது. கூட்டில் குடியிருக்கும், கூடு கட்டத் தெரியாது. குரலில் இனிமையுண்டு, சங்கீதம் தெரியாது! – அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+குயில்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: யாரும் வரையாத கோலம், தரையில் நெளிந்து ஓடும். அது என்ன?
+Answer: பாம்பு
+
+Example 2:
+Riddle: யாரும் தட்டாத மேளம், வானில் கேட்கும் ஓசை. அது என்ன?
+Answer: இடி
+
+Now, solve this riddle:
+Riddle : யாரும் செய்யாத கதவு தானே திறக்கும் தானே மூடும். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கால்கள் இல்லை ஆனால் ஓரிடத்திலேயே நின்று உலகைக் காட்டுவான். அவன் யார்?
+Answer: ஜன்னல்
+
+Example 2:
+Riddle: பல் துலக்க வந்த குழாய்ப் பையன், அழுத்த அழுத்தக் கரைகிறான். அவன் யார்?
+Answer: பற்பசை
+
+Now, solve this riddle:
+Riddle : வீட்டுக்கு வந்த தொந்தியப்பன் தினமும் கரைகிறான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தேநீர்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பாட்டு கேட்கும், இசை வரும், பாடுபவர் யாரும் இல்லை - அது என்ன?
+Answer: வானொலி / ஒலிப்பான்
+
+Example 2:
+Riddle: நெருப்பைக் கக்கும், புகையையும் கக்கும், ஆனால் தானாய் சாம்பல் ஆகாது - அது என்ன?
+Answer: அடுப்பு
+
+Now, solve this riddle:
+Riddle : இடி இடிக்கும், மின்னல் மின்னும், மழை பெய்யாது- அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வானொலி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நேரம் வந்தால் கத்து கத்தென்று கத்துவான், தட்டிவிட்டால் அமைதியாகி விடுவான். அவன் யார்?
+Answer: அலாரம் கடிகாரம்
+
+Example 2:
+Riddle: தொடாமல் அமைதியாய் கிடப்பான், தொட்டால் ஐயோ என்பான். அவன் யார்?
+Answer: புண்
+
+Now, solve this riddle:
+Riddle : தொடாமல் அழுவான், தொட்டால் பேசுவான். அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தொலைபேசி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: தண்டு கருப்பு, இலைகள் பச்சை, பூவோ சிவப்பு. அது என்ன?
+Answer: செம்பருத்திச் செடி
+
+Example 2:
+Riddle: உடம்பெல்லாம் ஊதா, அதன் கொண்டை பச்சை. அது என்ன?
+Answer: கத்திரிக்காய்
+
+Now, solve this riddle:
+Riddle : உடம்பெல்லாம் சிவப்பு, அதன் குடுமி பச்சை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: முருங்கை
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: புத்தகத்தின் திண்ணையில் பட்டுத் துணி. அது என்ன?
+Answer: நூல் குறிப்பான்
+
+Example 2:
+Riddle: நெற்றியில் ஒட்டிக்கொண்ட திண்ணையில் பட்டுப் பொட்டு. அது என்ன?
+Answer: பொட்டு
+
+Now, solve this riddle:
+Riddle : ஒட்டுத் திண்ணையில் பட்டுப் பாவாடை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+அஞ்சாங்கு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பழுப்பு ஆடை உடுத்திய மஞ்சள் மருத்துவர்? அவள் யார்?
+Answer: இஞ்சி
+
+Example 2:
+Riddle: மஞ்சள் மேலாடைக்குள் மறைந்திருக்கும் வெண்ணிற மங்கை. அவள் யார்?
+Answer: வாழைப்பழம்
+
+Now, solve this riddle:
+Riddle : வெள்ளை ஆடை உடுத்திய மஞ்சள் மகாராணி? அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: முருங்கைப்பூ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: எங்கும் போவான் கால்கள் இல்லை; கதை சொல்வான் வாய் இல்லை; இடம் காட்டுவான் கண் இல்லை – அவன் யார்?
+Answer: வரைபடம்
+
+Example 2:
+Riddle: காதுகிட்ட வச்சா கடல் சத்தம் கேட்கும்; ரேடியோ இல்லை, கடலுக்குள்ளே இருக்கும்; மீனும் இல்லை, ஊதினால் சத்தம் வரும்; விசிலும் இல்லை – அது யார்?
+Answer: சங்கு
+
+Now, solve this riddle:
+Riddle : வாயிலிருந்து நூல் போடுவான்; மந்திரவாதியும் இல்லை, கிளைக்குக் கிளை தாவுவான்; குரங்கும் இல்லை, வலைவிரித்துப் பதுங்கியிருப்பான்; வேடனும் இல்லை – அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நிழல்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கரிய ராஜாவுக்கு வண்ண ஆடை. அது என்ன?
+Answer: எழுதுகோல்
+
+Example 2:
+Riddle: அழகான ராணிக்குக் கடினமான ஓட்டு வீடு, அவள் யார்?
+Answer: முத்து
+
+Now, solve this riddle:
+Riddle : வெள்ளை ராஜாவுக்கு கறுப்பு உடை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பனி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உறக்கத்தில் வருவேன், கற்பனையில் மிதக்க வைப்பேன், விழித்தவுடன் மறைந்து போவேன். நான் யார்?
+Answer: கனவு
+
+Example 2:
+Riddle: மழைக்குப் பின்னால் வருவேன், வானில் வளைந்து நிற்பேன், சிறிது நேரத்தில் மறைந்து போவேன். நான் யார்?
+Answer: வானவில்
+
+Now, solve this riddle:
+Riddle : இரவு வீட்டிற்கு வருவான், இரவு முழுவதும் இருப்பான் காலையில் சொல்லாமல் கொள்ளாமல் போய்விட்டிருப்பான்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+திருடன்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அரிசி போல கொட்டும், ஆனால் ஒன்றை மட்டும் பொறுக்க முடியாது?
+Answer: மணல்
+
+Example 2:
+Riddle: சிறு சிறு மணிகளாய் கொட்டிக்கிடந்தாலும், ஒன்றை மட்டும் தனியாக எடுக்க முடியாது?
+Answer: கடுகு
+
+Now, solve this riddle:
+Riddle : பூ கொட்ட கொட்ட ஒன்றையும் தனியே பொறுக்க முடியவில்லை?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மஞ்சள் தூள்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஓயாமல் கைகளை அசைக்கும், ஆனால் அதற்கு கை வலிக்காது. அது என்ன?
+Answer: கடிகாரம்
+
+Example 2:
+Riddle: எனக்கு பற்கள் உண்டு, ஆனால் கடிக்க மாட்டேன். நான் யார்?
+Answer: சீப்பு
+
+Now, solve this riddle:
+Riddle : எத்தனை தரம் சுற்றினாலும் தலை சுற்றாது, அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+சுருள் படி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வெளியில் உள்ளதை உரித்து எறிந்து, உள்ளே உள்ளதை உடைப்பான். பின் வெளியே உள்ளதை தின்றுவிட்டு, உள்ளே உள்ளதை எறிவான். அது என்ன?
+Answer: தேங்காய்
+
+Example 2:
+Riddle: வெளியே பச்சைப் போர்வை, உள்ளே முத்துக்கள் வெள்ளை நிறத்தில். முள் செடியின் மேல் பிறப்பேன், ஆனால் இனிப்பாய் மகிழ்விப்பேன். அது என்ன?
+Answer: பலாப்பழம்
+
+Now, solve this riddle:
+Riddle : வெளியே உள்ளதை எறிந்து உள்ளே உள்ளதை சமைத்தான். பின் வெளியே உள்ளதை சாப்பிட்டு விட்டு உள்ளே உள்ளதை எறிந்தான் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+தேங்காய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கீழே ஒரு விதை விதைத்து, மேலே பார்த்தால் ஆயிரம் வைரங்கள். அது என்ன?
+Answer: வானவேடிக்கை
+
+Example 2:
+Riddle: அடியை அமைத்து, ஒற்றைக்கால் ஊன்றி, அண்ணாந்து பார்த்தால் ஆயிரம் கண்கள். அது என்ன?
+Answer: கட்டிடம்
+
+Now, solve this riddle:
+Riddle : ஆழக் குழி தோண்டி அதிலே ஒரு முட்டையிட்டு அண்ணாந்து பார்த்தால் தொண்ணூறு முட்டை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+கிணறு
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பாதை காட்டுபவனுக்கு பயணம் செய்ய கால்களில்லை. அது என்ன?
+Answer: வழிகாட்டிப் பலகை
+
+Example 2:
+Riddle: உலகமெங்கும் சுற்றும் ஆனால் இருக்கும் இடம் ஒரு அங்குலம். அது என்ன?
+Answer: அஞ்சல் தலை
+
+Now, solve this riddle:
+Riddle : நூல் நூற்கும் நெசவாளிக்கு கட்டிக்கொள்ள துணியில்லை அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பேனா
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: அடிக்காமல் அழவைப்பான், துன்பம் தராமல் கண்ணீர் வரவைப்பான். அவன் யார்?
+Answer: வெங்காயம்
+
+Example 2:
+Riddle: பூமி ஆடும், ஆனால் ஆட்டுபவர் யார் என்று கண்ணுக்குத் தெரியாது. அது என்ன?
+Answer: பூகம்பம்
+
+Now, solve this riddle:
+Riddle : பேச்சுக் கேட்குது பேசுபவர் தெரியவில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+வானொலி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வாழ நீரைக் கொண்டவன், தன் சுவையால் சோற்றைச் சேர்ப்பவன். கடலோரம் நான் யார்?
+Answer: மீன் குழம்பு
+
+Example 2:
+Riddle: என் கடைசி வார்த்தைக்கு கோவிலில் மதிப்புண்டு. என் முதல் வார்த்தை கரும்பிலிருந்து பிறக்கும். கோவிலில் நான் யார்?
+Answer: சர்க்கரை பொங்கல்
+
+Now, solve this riddle:
+Riddle : கடைசி வார்த்தையில் மானம் உண்டு, முதல் வார்த்தையின் மென்மைக்காக இறந்தன பூச்சிகள். காஞ்சியில் நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பட்டினி கண்டனர்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சிறுவன் அவன், ஆனால் சீறினால், உயிரைப் பறிப்பான். அவன் யார்?
+Answer: குண்டு
+
+Example 2:
+Riddle: கண்ணுக்குத் தெரியாதவன், ஆனால் உயிரைப் பறிப்பான். அவன் யார்?
+Answer: கிருமி
+
+Now, solve this riddle:
+Riddle : இவன் வாலுக்கு வையகமே நடுங்கும் அவன் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: புறா
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடம்பெல்லாம் பச்சை நிறம், நுனியில் காரம் அதிகம். அது என்ன?
+Answer: பச்சை மிளகாய்
+
+Example 2:
+Riddle: இறக்கைகள் உண்டு, ஆனால் வானில் பறக்காது, வீட்டிற்குள் சுழலும். அது என்ன?
+Answer: மின்விசிறி
+
+Now, solve this riddle:
+Riddle : உடம்பெல்லாம் தங்கநிறம், தலையில் பச்சை கிரீடம் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: தாமரைப்பூ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஆழியில் வாழும் மங்கை, விலைமதிப்பில்லா மணி ஒன்றைப் பெற்றாள். அவள் யார்?
+Answer: சிப்பி
+
+Example 2:
+Riddle: காகிதக் கூட்டுக்காரி, நெருப்புத் தலைக் குஞ்சுகள் ஈன்றாள். அவள் யார்?
+Answer: தீப்பெட்டி
+
+Now, solve this riddle:
+Riddle : கந்தல் துணிக்காரி முத்துப் பிள்ளைகள் பெற்றாள் அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பவளம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: பிறர் அழுக்கைப் போக்க, தன் உடலையே தேய்த்துக் குறைப்பான். அவன் யார்?
+Answer: சோப்பு
+
+Example 2:
+Riddle: சுருண்ட பாம்பு ஓட ஓட, அதன் வால் சுருங்கும். அது என்ன?
+Answer: டேப் ரோல் / பேப்பர் ரோல்
+
+Now, solve this riddle:
+Riddle : நீளவால் குதிரையின் வால் ஓடஓடக் குறையும் அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நூற்பாகுப் பெயர்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ஒரு பாலத்துக்கு இரண்டு கண்கள். அது என்ன?
+Answer: கண்ணாடி
+
+Example 2:
+Riddle: உயரப் பறக்கும், ஆனால் இறகுகள் இல்லை. அது என்ன?
+Answer: பட்டம்
+
+Now, solve this riddle:
+Riddle : ஒரு வீட்டுக்கு இரண்டு வாசல்படி. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+காலணி
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: வாய் அகன்ற மலைக்கு வயிறில்லை. அது என்ன?
+Answer: புனல் ()
+
+Example 2:
+Riddle: கண்ணுண்டு, பார்வை இருக்காது. அது என்ன?
+Answer: ஊசி
+
+Now, solve this riddle:
+Riddle : வால் நீண்ட குருவிக்கு வாயுண்டு. வயிறில்லை. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+குழாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: உடல் மரம், துளைகள் பல, உணவு காற்று, பரிசு இசை - நான் யார்?
+Answer: புல்லாங்குழல்
+
+Example 2:
+Riddle: உடல் சிறியது, வாய் சாவிக்குழி, உணவு சாவி, காப்பது என் வேலை - நான் யார்?
+Answer: பூட்டு
+
+Now, solve this riddle:
+Riddle : உடல் சிவப்பு, வாய் அகலம், உணவு காகிதம்- நான் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பேனாกล่อง
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: காலையில் ஒரு கை நீளம் இருக்கும்; மாலையில் ஒரு கை நீளம் குறையும். அது என்ன?
+Answer: நிழல்
+
+Example 2:
+Riddle: வெள்ளை அரசன் போல் வரிசையாய் நிற்பான்; மெல்ல மெல்ல உதவுவான். அவன் யார்?
+Answer: பல்
+
+Now, solve this riddle:
+Riddle : வட்ட வட்ட நிலவில் வரைஞ்சிருக்கு; எழுதியிருக்கு. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+விடை: கற்பாத்திரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நேராகச் செல்லும், பல ஊர்களைச் சேர்ப்பாள் அவள் யார்?
+Answer: இரயில்
+
+Example 2:
+Riddle: வானில் மிதந்து செல்வேன் பூமிக்கு உயிர் கொடுப்பேன் நான் யார்?
+Answer: மேகம்
+
+Now, solve this riddle:
+Riddle : வளைந்து நெளிந்து செல்பவள் வழியெங்கும் தாகம் தீர்ப்பாள் அவள் யார்?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+நீர்க்குழாய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: நான் ஓடிக்கொண்டே இருப்பேன், ஆனால் எனக்கு கால்கள் இல்லை. நான் பிறக்கும் இடம் ரகசியம், ஆனால் நான் அடையும் இடம் சமுத்திரம். நான் யார்?
+Answer: நதி
+
+Example 2:
+Riddle: விதைப்பது கண்ணுக்குத் தெரியும். வேர் விடுவது கண்ணுக்குத் தெரியாது. அது என்ன?
+Answer: விதை
+
+Now, solve this riddle:
+Riddle : பூ பூப்பது கண்ணுக்குத் தெரியும். காய் காய்ப்பது கண்ணுக்குத் தெரியாது. அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+மரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: கண்கள் பல உண்டு, ஆனால் பார்க்க முடியாது. அது என்ன?
+Answer: அன்னாசிப்பழம்
+
+Example 2:
+Riddle: பேசாத மனிதன், பல கதைகள் சொல்வான். அவன் யார்?
+Answer: புத்தகம்
+
+Now, solve this riddle:
+Riddle : கந்தல் துணி கட்டியவன், முத்துப் பிள்ளைகளைப் பெற்று மகிழ்ந்தான். அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+பாக்கு மரம்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Tamil riddle with its answer, followed by one or more 'context-reconstructed' Tamil riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: சட்டைகளைக் கழற்றினால் கண்ணீர் வரும் அது என்ன?
+Answer: வெங்காயம்
+
+Example 2:
+Riddle: சட்டையை உரித்தால் சத்தான முத்துக்கள் அது என்ன?
+Answer: மக்காச்சோளம்
+
+Now, solve this riddle:
+Riddle : சட்டையைக் கழற்றினால் சத்துணவு அது என்ன?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+முருங்கைக் காய்
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Mon May 26 20:49:28 2025 ---

@@ -1,0 +1,3659 @@
+
+--- Starting New Generation Run at Tue May 27 00:55:17 2025 ---
+Model: mistralai/mistral-saba, Language: Malayalam, Prompt: 4_shot_context_recon_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Malayalam riddles.
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കണ്ണുള്ളവനും കണ്ണില്ലാത്തവനും ഒരുപോലെ അറിയുന്ന വെളിച്ചം?
+Answer: അറിവിൻ്റെ വെളിച്ചം
+
+Example 2:
+Riddle: ആകാശം ഇല്ലാത്ത മാനം ഏത്?
+Answer: അഭിമാനം
+
+Example 3:
+Riddle: ഒരു ദിവസത്തിൽ രണ്ടെണ്ണ?
+Answer: പകലും രാത്രിയും
+
+Example 4:
+Riddle: കാണാൻ പറ്റുന്ന ഇംഗ്ലീഷ് അക്ഷരം?
+Answer: C
+
+
+Now, solve this riddle:
+Riddle : ഞെട്ടില്ല വട്ടേല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അരിപ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വെള്ളക്കൊട്ടാരത്തിൽ മഞ്ഞ രാജകുമാരൻ.
+Answer: മുട്ട
+
+Example 2:
+Riddle: കറുത്തമ്മയുടെ പറമ്പിൽ ഒരുപാട് വെള്ളിക്കിണ്ണം.
+Answer: നക്ഷത്രങ്ങൾ
+
+Example 3:
+Riddle: കാലുകളുണ്ട്, പാദങ്ങളില്ല; പുറമുണ്ട്, നട്ടെല്ലില്ല; കൈകളുണ്ട്, വിരലുകളില്ല?
+Answer: കസേര
+
+Example 4:
+Riddle: ഞെട്ടിനൊരു ഒടിക്കൽ, തോലിനൊരു പൊളിക്കൽ, കാമ്പിനൊരു കടി?
+Answer: പഴം
+
+
+Now, solve this riddle:
+Riddle : മുള്ളുണ്ട് മുരിക്കല്ല, കൊമ്പുണ്ട് കുത്തില്ല, പാലുണ്ട് പശുവല്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തെങ്ങ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വെള്ളക്കൊട്ടാരത്തിൽ മഞ്ഞ രാജകുമാരൻ.
+Answer: മുട്ട
+
+Example 2:
+Riddle: കണ്ണാടി നിങ്ങളെ കാണിക്കുമെങ്കിലും സംസാരിക്കാത്തത് എന്തുകൊണ്ട്?
+Answer: വാ ഇല്ലാത്തതുകൊണ്ട്
+
+Example 3:
+Riddle: ഉപ്പുണ്ട് കടലല്ല, നനവുണ്ട് വെള്ളമല്ല?
+Answer: കണ്ണീർ
+
+Example 4:
+Riddle: വെളുത്ത കോട്ടയ്ക്കുള്ളിൽ സ്വർണ്ണ കൊട്ടാരം.
+Answer: മുട്ട
+
+
+Now, solve this riddle:
+Riddle : ചെടി ചെടിയിന്മേൽകായ് കയ്യിന്മേൽ ചെടി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അച്ചൻ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും മധുരമുള്ള നഗരം ഏത്?
+Answer: മധുര
+
+Example 2:
+Riddle: അങ്ങാടിയിൽ നിൽക്കും മൊട്ടത്തലയന് വയറ്റത്തൊരു പിളർപ്പ്.
+Answer: തപാൽപെട്ടി
+
+Example 3:
+Riddle: ലോകം കാണിക്കുന്നവൻ, കഥകൾ പറയുന്നവൻ, നനഞ്ഞാൽ മിണ്ടാതാകുന്നവൻ?
+Answer: പുസ്തകം
+
+Example 4:
+Riddle: വാലില്ലാത്ത കുതിര.
+Answer: കുതിരപ്പവൻ
+
+
+Now, solve this riddle:
+Riddle : നല്ല നായ്ക്ക് നാവിന്മേൽ പല്ല്
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കടുവ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വാലില്ലാ കിണ്ടി?
+Answer: കിണർ
+
+Example 2:
+Riddle: ഉപ്പുണ്ട് കടലല്ല, നനവുണ്ട് വെള്ളമല്ല?
+Answer: കണ്ണീർ
+
+Example 3:
+Riddle: തലയിലുണ്ട് വലയിലില്ല, പറയിലുണ്ട് പനയിലില്ല. രണ്ടക്ഷരമുള്ള ഞാൻ ആര്?
+Answer: തറ
+
+Example 4:
+Riddle: പാലത്തിലുണ്ട് കടലിലില്ല, തലയിലുണ്ട് കയ്യിലില്ല, കാക്കയിലുണ്ട് പൂച്ചയിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer: പലക
+
+
+Now, solve this riddle:
+Riddle : കുത്തുന്ന കാളക്ക് പിന്നിൽ കണ്ണ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അരിവാൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അകത്ത് പോകുമ്പോൾ പല നിറം, പുറത്ത് വരുമ്പോൾ ഒറ്റ കറുപ്പ്.
+Answer: കരി
+
+Example 2:
+Riddle: അടിക്കൊരു കുഴയ്ക്കൽ, നടുക്കൊരു തിരിക്കൽ, തലക്കൊരു ചുട്ടെടുക്കൽ?
+Answer: മൺപാത്ര നിർമ്മാണം
+
+Example 3:
+Riddle: നിങ്ങളാകുന്ന ഇഗ്ലീഷ് അക്ഷരം ?
+Answer: U
+
+Example 4:
+Riddle: ശരീരത്തിലെ പടത്തലവന് അഞ്ച് പടയാളികൾ.
+Answer: കൈയ്യും വിരലുകളും
+
+
+Now, solve this riddle:
+Riddle : കരടിയിലുണ്ട് കുതിരയിലില്ല, ഉഴുന്നിലുണ്ട് ഉലുവയിലില്ല, ജനതയിലുണ്ട് ജനങ്ങളിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഉറവ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും അടി കൊള്ളുന്നവൻ, പക്ഷെ കുറ്റവാളിയല്ല.
+Answer: ചെണ്ട
+
+Example 2:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത ശ്രദ്ധ ഏതാണ്?
+Answer: അശ്രദ്ധ
+
+Example 3:
+Riddle: പൊൻകൂട്ടിൽ വെള്ളി നൂൽക്കും?
+Answer: പട്ടുനൂൽ പുഴു
+
+Example 4:
+Riddle: ഇഴയാത്ത പാമ്പ്.
+Answer: നാഗപ്പൂവ്
+
+
+Now, solve this riddle:
+Riddle : കാലുപിടിക്കുന്നവനെ സംരക്ഷിക്കുന്നവൻ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മോചനം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എനിക്ക് രൂപമില്ല, പക്ഷെ ഞാൻ കൂടെ വരും... നീ ജീവിച്ചിരിക്കുന്ന ഓരോ ദിവസവും ഞാൻ നിന്‍റെ കൂടെയുണ്ട്.
+Answer: പ്രായം
+
+Example 2:
+Riddle: അമ്മ കരഞ്ഞപ്പോൾ മക്കൾ ചിതറിവീണു
+Answer: മേഘവും മഴയും
+
+Example 3:
+Riddle: അടയ്ക്കും തുറക്കും മുത്തുപ്പത്തായം.
+Answer: വായ
+
+Example 4:
+Riddle: എപ്പോഴും കട്ടിയായി കാണപ്പെടുന്ന സാധനം ഏത്?
+Answer: കട്ടിൽ
+
+
+Now, solve this riddle:
+Riddle : അകത്തുരോമം പുറത്തിറച്ചി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തെങ്ങ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തെറ്റ് ചെയ്യുന്ന ഒരാൾ ആദ്യം പഠിക്കുന്നത് എന്താണ്?
+Answer: പാഠം
+
+Example 2:
+Riddle: അകത്ത് പോകുമ്പോൾ പല നിറം, പുറത്ത് വരുമ്പോൾ ഒറ്റ കറുപ്പ്.
+Answer: കരി
+
+Example 3:
+Riddle: കറുപ്പില്ലാത്ത കാക്ക.
+Answer: കാക്കപ്പൂവ്
+
+Example 4:
+Riddle: നൂറു ഭടന്മാർക്ക് ഒരു വീട്.
+Answer: തീപ്പെട്ടി
+
+
+Now, solve this riddle:
+Riddle : കണ്ടാലൊരു വണ്ടി, തൊട്ടാലൊരു ചക്രം?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഒരു പുലി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പിറക്കുന്നത് ചെറുതായി, വളരുന്നത് വലുതായി.
+Answer: പുഴ
+
+Example 2:
+Riddle: തൊട്ടാൽ പൊട്ടും നിറക്കുടം?
+Answer: സോപ്പ് കുമിള
+
+Example 3:
+Riddle: നൂറ് മക്കൾക്ക് ഒരൊറ്റ പിടി?
+Answer: വാഴക്കുല
+
+Example 4:
+Riddle: കരയുന്ന കുഞ്ഞിന് തലയിൽ തീ?
+Answer: മെഴുകുതിരി
+
+
+Now, solve this riddle:
+Riddle : ഒരമ്മ പെറ്റതെല്ലാം കറുത്ത പട്ടാളം?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കടൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തൂങ്ങിക്കിടക്കുന്ന, നാക്കുകൊണ്ട് സ്വയം അടികൊള്ളുന്നവൻ.
+Answer: മണി
+
+Example 2:
+Riddle: ഇത് നിങ്ങളുടെ മനസ്സിലുണ്ട്, പക്ഷെ പുറത്ത് കാണാൻ കഴിയില്ല. എന്താണത് ?
+Answer: ചിന്ത
+
+Example 3:
+Riddle: നിലത്തെ ഒരു ചെറിയ മണി ഒരു വലിയ തണലായി.
+Answer: മരം
+
+Example 4:
+Riddle: പാടുന്ന ജീവിക്ക് തൊണ്ട പിന്നിലോ?
+Answer: ഉച്ചഭാഷിണി
+
+
+Now, solve this riddle:
+Riddle : ഉണ്ടാക്കുന്നവൻ ഉപയോഗിക്കുന്നില്ല, ഉപയോഗിക്കുന്നവൻ അറിയുന്നില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സമാധാനം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എന്നെ തൊട്ടാൽ കുത്തും.
+Answer: തേനീച്ചക്കൂട്
+
+Example 2:
+Riddle: എന്നെ തൊടുന്നവനെ ഇരുട്ടിൽ നിന്നകറ്റുന്നവൻ?
+Answer: സ്വിച്ച്
+
+Example 3:
+Riddle: ഒരു കടലാസ് വെള്ളത്തിൽ ഇട്ടാൽ എന്തു പറ്റും?
+Answer: നനയും
+
+Example 4:
+Riddle: ഒരു തോട്ടിൽ നിരനിരയായി നിൽക്കുന്ന വെള്ളാരംകല്ലുകൾ?
+Answer: പല്ല്
+
+
+Now, solve this riddle:
+Riddle : അമ്മയെകുത്തി മകൻ മരിച്ചു?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വെള്ളത്തില്‍
+
+Answer: വെള്ളത്തില്‍
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വയറ്റിൽ എണ്ണയുമായി, തലയിൽ തീയിട്ട് നിൽക്കുന്നതാരാണ്?
+Answer: വിളക്ക്
+
+Example 2:
+Riddle: പച്ച തിന്ന് ചുവപ്പ് തുപ്പും?
+Answer: മുറുക്ക്
+
+Example 3:
+Riddle: കറുത്ത ചുമരിൽ വെള്ളിപ്പൊട്ടുകൾ.
+Answer: രാത്രിയിലെ ആകാശം
+
+Example 4:
+Riddle: നിലമില്ലാത്ത പാടത്ത് ചിറകില്ലാത്ത പക്ഷി.
+Answer: മത്സ്യം
+
+
+Now, solve this riddle:
+Riddle : ആയിരം പറ അവളിൽ ഒരു നുള്ള് കൊട്ടത്തേങ്ങ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ആന
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എല്ലാറ്റിനെയും മൂടും, എല്ലാം മറയ്ക്കും. വെളിച്ചം വീണാൽ ഇല്ലാതാകും.
+Answer: ഇരുട്ട്
+
+Example 2:
+Riddle: കാലുണ്ട്, നടക്കില്ല. ഭാരം ചുമക്കും.
+Answer: മേശ
+
+Example 3:
+Riddle: വിരിച്ചാൽ ഒരു മുറ്റം, ചുരുട്ടിയാൽ ഒരു തൂണ്?
+Answer: പായ്
+
+Example 4:
+Riddle: നൂറേക്കർ പാടത്തിൽ ഒരൊറ്റക്കാലൻ?
+Answer: നോക്കുകുത്തി
+
+
+Now, solve this riddle:
+Riddle : അടി മുള്ള്, നടു കാട്, തല പൂവ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പുക
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വാച്ച് ഓടുന്നത് എപ്പോൾ ?
+Answer: ബാറ്ററി ഉള്ളപ്പോൾ
+
+Example 2:
+Riddle: ഇതിനൊരു കണ്ണുണ്ട്, പക്ഷേ കാണില്ല. ഇതിനൊരു വായയുണ്ട്, പക്ഷേ മിണ്ടില്ല. ഇതിനൊരു കാതുണ്ട്, പക്ഷേ കേൾക്കില്ല. ഇതെന്താണ്?
+Answer: മുഖംമൂടി
+
+Example 3:
+Riddle: അകത്ത് പോകുമ്പോൾ പല നിറം, പുറത്ത് വരുമ്പോൾ ഒറ്റ കറുപ്പ്.
+Answer: കരി
+
+Example 4:
+Riddle: താഴെ നിന്ന് വരവ്, മുകളിലേക്ക് പോക്ക്.
+Answer: പുക
+
+
+Now, solve this riddle:
+Riddle : മുറ്റത്തെ ചെപ്പിനു അടപ്പില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കാക്ക
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പുറത്ത് പച്ചക്കുടം, നടുവിൽ കയ്പുരസം, ഉള്ളിൽ ഉറച്ച കല്ല്?
+Answer: നെല്ലിക്ക
+
+Example 2:
+Riddle: വൃത്തിയാക്കാൻ ഞാൻ എത്രത്തോളം ശ്രമിക്കുന്നുവോ, അത്രത്തോളം ഞാൻ ചെറുതാവുന്നു, ഒടുവിൽ ഇല്ലാതാകുന്നു.
+Answer: സോപ്പ്
+
+Example 3:
+Riddle: മുറിയിലെ രാജാവിന് മൂന്നു ചിറകുകൾ.
+Answer: ഫാൻ
+
+Example 4:
+Riddle: ഒരമ്മ പെറ്റതെല്ലാം കറുത്ത നേരിയ നൂലുകൾ?
+Answer: തലമുടി
+
+
+Now, solve this riddle:
+Riddle : ആയിരം പോലീസുകാർക്ക് ഒരു ബെൽറ്റ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പാമ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരാൾ വരാൻ വൈകുമ്പോൾ എന്തിനാണ് കാത്തുനിൽക്കുന്നത്?
+Answer: അവർ വരാത്തതുകൊണ്ട്
+
+Example 2:
+Riddle: താഴെ വെച്ചാൽ മുകളിൽ എത്താം.
+Answer: ഏണി
+
+Example 3:
+Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന ഒരു ദാനം ഏതാണ്?
+Answer: വാഗ്ദാനം
+
+Example 4:
+Riddle: ഇരുട്ടിൽ തപ്പിത്തടയുന്നത് എന്തുകൊണ്ട് ?
+Answer: വെളിച്ചമില്ലാത്തതുകൊണ്ട്
+
+
+Now, solve this riddle:
+Riddle : ഇട്ടാൽ പൊട്ടും ഇംഗ്ലീഷ് മുട്ട?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+BOMB
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കാലില്‍ പിടിച്ചാല്‍ തോളില്‍ കയറും
+Answer: കാവടി
+
+Example 2:
+Riddle: ഈ ദിവസം നിങ്ങളുടേതാണ്, പക്ഷെ ഈ ദിവസം ആഘോഷിക്കുന്നത് കൂടുതലും മറ്റുള്ളവരാണ്. എന്ത് ?
+Answer: നിങ്ങളുടെ പിറന്നാൾ
+
+Example 3:
+Riddle: കറുത്ത വര മായ്ച്ചു നീക്കി, വെളുത്ത വഴി തെളിയിച്ചു.
+Answer: റബ്ബർ
+
+Example 4:
+Riddle: തല വട്ടം ഞെക്കിയാൽ നീളത്തിലോടും.
+Answer: ടൂത്ത് പേസ്റ്റ്
+
+
+Now, solve this riddle:
+Riddle : ആനയിലുണ്ട് ചേനയിലില്ല, ഇമയിലുണ്ട് ഇഷ്ട്ടത്തിലില്ല. രണ്ട് അക്ഷരമുള്ള ഞാനാര്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ആന
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തെറ്റ് ചെയ്യുന്ന ഒരാൾ ആദ്യം പഠിക്കുന്നത് എന്താണ്?
+Answer: പാഠം
+
+Example 2:
+Riddle: തകർക്കാനെളുപ്പം, പഴയപോലാക്കാനാവില്ല.
+Answer: വിശ്വാസം
+
+Example 3:
+Riddle: എല്ലാറ്റിനെയും മൂടും, എല്ലാം മറയ്ക്കും. വെളിച്ചം വീണാൽ ഇല്ലാതാകും.
+Answer: ഇരുട്ട്
+
+Example 4:
+Riddle: കാലുപിടിക്കുന്നവന് കുളിരു നൽകുന്നവൻ?
+Answer: വീശറി
+
+
+Now, solve this riddle:
+Riddle : ഓടും കുതിര, ചാടും കുതിര, വെള്ളം കണ്ടാൽ നില്കും കുതിര?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അഗ്നി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരുപാട് അരി വിളയുന്ന സ്ഥലം ഏത്?
+Answer: അരിസോണ
+
+Example 2:
+Riddle: പല രൂപങ്ങൾക്ക് ഒരു വളയം?
+Answer: താക്കോൽക്കൂട്ടം
+
+Example 3:
+Riddle: കറുപ്പില്ലാത്ത കാക്ക.
+Answer: കാക്കപ്പൂവ്
+
+Example 4:
+Riddle: ആരും കേൾക്കാൻ ആഗ്രഹിക്കാത്ത വാക്ക്?
+Answer: ദുർവാക്ക്
+
+
+Now, solve this riddle:
+Riddle : ഒരു അമ്മ പെറ്റതെല്ലാം തൊപ്പികുട്ടന്മാർ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കാട്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എന്നെ തൊട്ടാൽ കുത്തും.
+Answer: തേനീച്ചക്കൂട്
+
+Example 2:
+Riddle: തീയിലേക്ക് പോകുമ്പോൾ മൃദുവായവൻ, തിരിച്ചെത്തുമ്പോൾ കടുപ്പമുള്ളവൻ.
+Answer: മൺപാത്രം
+
+Example 3:
+Riddle: മനുഷ്യനും നാണയത്തിനും പൊതുവായിട്ടുള്ളത് എന്താണ്?
+Answer: തല
+
+Example 4:
+Riddle: രാത്രിയിൽ തിളങ്ങും, മാനത്തെ വെള്ളിക്കിണ്ണം.
+Answer: ചന്ദ്രൻ
+
+
+Now, solve this riddle:
+Riddle : അടി പാറ, നാട് വടി, മീതെ കുട?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അടുക്കള
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: രാത്രിയിൽ തിളങ്ങും, മാനത്തെ വെള്ളിക്കിണ്ണം.
+Answer: ചന്ദ്രൻ
+
+Example 2:
+Riddle: ഞാൻ നിൻ്റെ കൂടെ എപ്പോഴും ഉണ്ടാവും, പക്ഷെ എന്നെ ആരും കാണില്ല.
+Answer: രഹസ്യം
+
+Example 3:
+Riddle: ശരീരഭാഗത്തിനും നികുതിക്കും പൊതുവായുള്ളത് എന്ത്?
+Answer: കരം
+
+Example 4:
+Riddle: മുള്ളൻ കോട്ടയ്ക്കുള്ളിൽ വെണ്ണപോലെ ഒരാൾ.
+Answer: ചക്കച്ചുള
+
+
+Now, solve this riddle:
+Riddle : അങ്ങോട്ടോടും, ഇങ്ങോട്ടോടും. നേരെനിന്ന് സത്യം പറയും?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണാടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കുഴയ്ക്കുമ്പോൾ കുഴഞ്ഞുമറിഞ്ഞ്, അടുപ്പിൽ കയറിയാൽ ബലാബലൻ.
+Answer: മാവ്
+
+Example 2:
+Riddle: കർഷകർ ഏറ്റവും കൂടുതൽ ഭയക്കുന്ന വെള്ളം ഏതാണ്.?
+Answer: വെള്ളപ്പൊക്കം
+
+Example 3:
+Riddle: തീയിലേക്ക് പോകുമ്പോൾ മൃദുവായവൻ, തിരിച്ചെത്തുമ്പോൾ കടുപ്പമുള്ളവൻ.
+Answer: മൺപാത്രം
+
+Example 4:
+Riddle: അടിയിൽ പീഠം, നടുവിൽ തണ്ട്, മുകളിൽ പൂത്തിരി?
+Answer: നിലവിളക്ക്
+
+
+Now, solve this riddle:
+Riddle : മുള്ളുണ്ട് മുരിക്കല്ല, കൈപ്പുണ്ട് കാഞ്ഞിരമല്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പേപ്പർ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തലയുടെ മുകളിലാണ് വായ.
+Answer: കിണർ
+
+Example 2:
+Riddle: ജയിച്ചവനും തോറ്റവനും ഒരുപോലെ അനുഭവിക്കുന്ന ചൂട്?
+Answer: മത്സരച്ചൂട്
+
+Example 3:
+Riddle: വാലുണ്ട്, മൃഗമല്ല. തലയുണ്ട്, മനുഷ്യനല്ല.
+Answer: നാണയം
+
+Example 4:
+Riddle: ഒരു രഹസ്യം പലരുടെ ഇടയിൽ ഇട്ടാൽ എന്തുപറ്റും?
+Answer: രഹസ്യമല്ലാതാകും
+
+
+Now, solve this riddle:
+Riddle : അടിക്കൊരുവെട്ടും നടുക്കൊരു കെട്ടും തലക്കൊരു ചവിട്ടും?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അടുക്കല
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വട്ടത്തിൽ തിരിയുമ്പോൾ നേരെ മുന്നോട്ട് പോകും.
+Answer: സ്ക്രൂ
+
+Example 2:
+Riddle: പടർന്ന് പന്തലിക്കും, പലരെയും ദ്രോഹിക്കും, പക്ഷെ സത്യം കേട്ടാൽ ചത്തൊടുങ്ങും.
+Answer: അപവാദം
+
+Example 3:
+Riddle: ഇഴയാത്ത പാമ്പ്.
+Answer: നാഗപ്പൂവ്
+
+Example 4:
+Riddle: എന്നെ തൊട്ടാൽ തൊടുന്നവന് പൊള്ളും.
+Answer: തീ
+
+
+Now, solve this riddle:
+Riddle : ആയിരം കിളികൾക്ക് ഒറ്റക്കൊക്ക്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പുസ്തകം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വെള്ളക്കൊട്ടാരത്തിൽ മഞ്ഞ രാജകുമാരൻ.
+Answer: മുട്ട
+
+Example 2:
+Riddle: തലയുടെ മുകളിലാണ് വായ.
+Answer: കിണർ
+
+Example 3:
+Riddle: ഇമക്കടിയിൽ കറുത്ത രത്നം.
+Answer: കൃഷ്ണമണി
+
+Example 4:
+Riddle: കൂടെ വരുന്നവൻ, കൂടെ നിൽക്കുന്നവൻ, വെളിച്ചം പോയാൽ ഓടിമറയുന്നവൻ?
+Answer: നിഴൽ
+
+
+Now, solve this riddle:
+Riddle : എന്നെ തൊട്ടുകൂട്ടും, പക്ഷെ സദ്യക്ക് എടുക്കില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വാതിൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തക തക മേളം കൊഴുപ്പിക്കും, അരങ്ങൊഴിഞ്ഞാൽ മൂലക്കിരിക്കും?
+Answer: ചെണ്ട
+
+Example 2:
+Riddle: തലയിൽ അടി കൊണ്ടിട്ടും, മറ്റുള്ളവർക്ക് മധുരം നൽകുന്നവൻ?
+Answer: തേങ്ങ
+
+Example 3:
+Riddle: കറുത്ത ചുമരിൽ വെള്ളിപ്പൊട്ടുകൾ.
+Answer: രാത്രിയിലെ ആകാശം
+
+Example 4:
+Riddle: എന്നെ തൊട്ടാൽ തൊടുന്നവന് പൊള്ളും.
+Answer: തീ
+
+
+Now, solve this riddle:
+Riddle : ഒരു കുപ്പിയിൽ രണ്ടെണ്ണ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കറുത്ത തളികയിൽ വെള്ളാരം കല്ല്.
+Answer: നക്ഷത്രം
+
+Example 2:
+Riddle: എല്ലാവരും ആഗ്രഹിക്കുന്ന മാനം ഏത്..?
+Answer: സമ്മാനം
+
+Example 3:
+Riddle: പറക്കാൻ കഴിവുള്ള ഇംഗ്ലീഷ് അക്ഷരം?
+Answer: B
+
+Example 4:
+Riddle: സംസാരിക്കാതിരുന്നാൽ കേൾക്കുന്നത് എന്ത്?
+Answer: നിശ്ശബ്ദത
+
+
+Now, solve this riddle:
+Riddle : കിക്കിലുക്കം, കിലുകിലുക്കം ഉത്തരത്തിൽ ചത്തിരിക്കും?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അരിപ്പ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മുകളിലേക്കും താഴേക്കും പോകും, സമയം കൃത്യമായി പറയും?
+Answer: ഘടികാരം
+
+Example 2:
+Riddle: എപ്പോഴും ഐസുള്ള രാജ്യം ഏത്..?
+Answer: ഐസ്‌ലാന്റ്
+
+Example 3:
+Riddle: എപ്പോഴും മധുരമായിരിക്കുന്ന സ്ഥലം ഏത്?
+Answer: മധുര
+
+Example 4:
+Riddle: ഒരു തോടിനുള്ളിൽ രണ്ടെണ്ണം?
+Answer: നിലക്കടല
+
+
+Now, solve this riddle:
+Riddle : കാടുണ്ട് കടുവയില്ല, വീടുണ്ട് വീട്ടാറില്ല, കുളമുണ്ട് മീനില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പുസ്തകം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു കിണറ്റിനു ചുറ്റും ആയിരം പടയാളികൾ.
+Answer: ചോളം
+
+Example 2:
+Riddle: ചെളിക്കുളത്തിൽ ഒരു സ്വർണ്ണക്കിരീടം?
+Answer: താമര
+
+Example 3:
+Riddle: ഏറ്റവും കൂടുതൽ മധുരമുള്ള സ്ഥലം ഏതാണ്?
+Answer: മധുര
+
+Example 4:
+Riddle: വെള്ളക്കൊട്ടാരത്തിൽ മഞ്ഞ രാജകുമാരൻ.
+Answer: മുട്ട
+
+
+Now, solve this riddle:
+Riddle : പൊന്നുതിന്ന് വെള്ളിതുപ്പി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നിലവിളക്ക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അടിയിൽ പീഠം, നടുവിൽ തണ്ട്, മുകളിൽ പൂത്തിരി?
+Answer: നിലവിളക്ക്
+
+Example 2:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത ഫലം ഏതാണ്?
+Answer: നിഷ്ഫലം
+
+Example 3:
+Riddle: ശരീരത്തിൽ എണ്ണമയമുള്ള രാജ്യം ഏത്?
+Answer: ഗ്രീസ്
+
+Example 4:
+Riddle: പപ്പടത്തിലുണ്ട് കടത്തിലില്ല, കുടത്തിലുണ്ട് കുളത്തിലില്ല. രണ്ടക്ഷരമുള്ള ഞാനാര്?
+Answer: പടം
+
+
+Now, solve this riddle:
+Riddle : മലയിലെ അമ്മക്ക് നെറുകയിൽപൂവ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തേങ്ങ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ടിക് ടിക് ശബ്ദമുണ്ടാക്കും, ഭിത്തിയിൽ ഒരിടത്ത് നില്ക്കും?
+Answer: ക്ലോക്ക്
+
+Example 2:
+Riddle: ആകാശത്തിലെ അപ്പത്തിന് അരിയില്ല?
+Answer: അമ്പിളിമാമൻ
+
+Example 3:
+Riddle: വെള്ളക്കോട്ടയ്ക്കുള്ളിൽ മഞ്ഞക്കൊട്ടാരം.
+Answer: മുട്ട
+
+Example 4:
+Riddle: എപ്പോഴും മധുരമുള്ള സ്ഥലം ഏത്?
+Answer: മധുര
+
+
+Now, solve this riddle:
+Riddle : മരങ്ങൾക്കും ബാങ്കുകൾക്കും പൊതുവായുള്ളത് എന്താണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കമ്പ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വരുമ്പോൾ പച്ചയായിട്ട്, പോകുമ്പോൾ മഞ്ഞയായിട്ട്.
+Answer: ഇല
+
+Example 2:
+Riddle: മുന്നോട്ട് കുതിക്കും, പിന്നോട്ട് മടങ്ങില്ല.
+Answer: സമയം
+
+Example 3:
+Riddle: വെള്ളത്തളികയിൽ കറുത്ത വിത്തുകൾ
+Answer: അക്ഷരങ്ങൾ
+
+Example 4:
+Riddle: ഒരു ചുവന്ന കോട്ടയ്ക്കുള്ളിൽ, മുത്തുമണികൾ അടുക്കി വെച്ചിരിക്കുന്നു.
+Answer: മാതളനാരങ്ങ
+
+
+Now, solve this riddle:
+Riddle : ആരും ഇഷ്ടപ്പെടാത്ത പണം ഏതാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അടച്ചു വെച്ച പണം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു തവിട്ടു മതിലിനുള്ളിൽ രണ്ട് വെളുത്ത കട്ടകൾ.
+Answer: കപ്പലണ്ടി
+
+Example 2:
+Riddle: വായില്ല, കണ്ണുണ്ട്, വയറ്റിൽ പല്ലുണ്ട്.
+Answer: പൂട്ട്
+
+Example 3:
+Riddle: ചിറകില്ല, വാലുണ്ട്, വാലിൽ തീയുണ്ട്.
+Answer: വാണം
+
+Example 4:
+Riddle: കെട്ടിയിടാൻ പറ്റാത്ത ഒന്ന്.
+Answer: കാറ്റ്
+
+
+Now, solve this riddle:
+Riddle : ആൺകുട്ടികളും പെൺകുട്ടികളും ഒരുപോലെ ഉപയോഗിക്കുന്ന മാല ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കൊലുസ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ക്ലോക്കാണ്, പക്ഷേ സൂചികളില്ല കാണിക്കാൻ.
+Answer: ഡിജിറ്റൽ ക്ലോക്ക്
+
+Example 2:
+Riddle: വിരിച്ചാൽ ഒരു മുറ്റം, ചുരുട്ടിയാൽ ഒരു തൂണ്?
+Answer: പായ്
+
+Example 3:
+Riddle: കറുത്ത വര മായ്ച്ചു നീക്കി, വെളുത്ത വഴി തെളിയിച്ചു.
+Answer: റബ്ബർ
+
+Example 4:
+Riddle: എല്ലിൻ കൂട്ടിൽ ഒളിപ്പിച്ചുവെച്ച വെണ്ണക്കട്ടി.
+Answer: തലച്ചോറ്
+
+
+Now, solve this riddle:
+Riddle : ആരും പോകാൻ ആഗ്രഹിക്കാത്ത അറ ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അറസ്റ്റ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: നൂറു ഭടന്മാർക്ക് ഒരു വീട്.
+Answer: തീപ്പെട്ടി
+
+Example 2:
+Riddle: നല്ലൊരു ചെറുക്കന് തലയിൽ പല്ല്?
+Answer: താക്കോൽ
+
+Example 3:
+Riddle: മൃഗമല്ലാത്ത നായ ആര്?
+Answer: നായകൻ
+
+Example 4:
+Riddle: കൈയില്ല, കാലില്ല, എങ്കിലും ഓടിനടക്കും ഞാൻ നാട്ടിലാകെ. വിവരങ്ങൾ നൽകും ലോകർക്ക്.
+Answer: പത്രം
+
+
+Now, solve this riddle:
+Riddle : എല്ലാവർക്കും വിളമ്പി നൽകുകയും സ്വയം ഒന്നും കഴിക്കാതിരിക്കുകയും ചെയ്യുന്നത് ആരാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തകുക
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വെള്ളത്തളികയിൽ കറുത്ത വിത്തുകൾ
+Answer: അക്ഷരങ്ങൾ
+
+Example 2:
+Riddle: നനഞ്ഞ കാട്ടിലെ എല്ലില്ലാത്ത പാമ്പ്.
+Answer: നാക്ക്
+
+Example 3:
+Riddle: മുറിയിലെ രാജാവിന് മൂന്നു ചിറകുകൾ.
+Answer: ഫാൻ
+
+Example 4:
+Riddle: ആളുകൾ ഒറ്റക്കണ്ണ് അടച്ചുപിടിക്കുന്നത് എപ്പോൾ?
+Answer: ഫോട്ടോ എടുക്കുമ്പോൾ
+
+
+Now, solve this riddle:
+Riddle : തലകുത്തി നിന്നാൽ വലുതാകുന്നത് ആര് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നെല്ല്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വെള്ളി വീട്ടിൽ ഒരൊറ്റക്കാലൻ.
+Answer: ഒച്ച്
+
+Example 2:
+Riddle: പുറത്ത് മുള്ളൻ, അകത്ത് മധുരം.
+Answer: കൈതച്ചക്ക
+
+Example 3:
+Riddle: കറുത്ത കട്ടിൽ വഴിവെട്ടാൻ പോകുന്ന നിരനിരയായി നിൽക്കുന്ന വാളുകൾ 
+Answer: ചീർപ്പ്
+
+Example 4:
+Riddle: പുറത്തൊരു തല്ല്, അകത്തൊരു ചിരണ്ടൽ, നീരിനൊരു പിഴിച്ചിൽ?
+Answer: തേങ്ങ
+
+
+Now, solve this riddle:
+Riddle : വെച്ചടി വെച്ചടി കയറ്റം കിട്ടുന്ന ജോലി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നോട്ട്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തല വട്ടം ഞെക്കിയാൽ നീളത്തിലോടും.
+Answer: ടൂത്ത് പേസ്റ്റ്
+
+Example 2:
+Riddle: മനുഷ്യനും നാണയത്തിനും പൊതുവായിട്ടുള്ളത് എന്താണ്?
+Answer: തല
+
+Example 3:
+Riddle: ആരും വീഴാൻ ആഗ്രഹിക്കാത്ത വല?
+Answer: ചിലന്തിവല
+
+Example 4:
+Riddle: വരുമ്പോൾ ഒളിഞ്ഞിരിക്കും, പോകുമ്പോൾ പുറത്താകും.
+Answer: രഹസ്യം
+
+
+Now, solve this riddle:
+Riddle : കുടിക്കാൻ പറ്റുന്ന ഇഗ്ലീഷ് അക്ഷരം ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+T
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എന്നെ പിഴിയും, പക്ഷെ തുണിയല്ല.
+Answer: നാരങ്ങ
+
+Example 2:
+Riddle: വാഹനങ്ങൾക്കും സമയത്തിനും പൊതുവായുള്ളത് എന്താണ്?
+Answer: ഓട്ടം
+
+Example 3:
+Riddle: അടിയിൽ മായ്ക്കുന്നവൻ, നടുക്ക് മരം, മീതെ മൂർച്ച?
+Answer: പെൻസിൽ (Pencil)
+
+Example 4:
+Riddle: കൈകളുണ്ട്, വിരലുകളില്ല. കഴുത്തുണ്ട്, തലയില്ല. ഉടലുണ്ട്, ജീവനില്ല.
+Answer: ഷർട്ട്
+
+
+Now, solve this riddle:
+Riddle : എല്ലാവരും ഇഷ്ടപ്പെടുന്ന വാർഡ് ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നാമം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കാലുകളുണ്ട്, പാദങ്ങളില്ല; പുറമുണ്ട്, നട്ടെല്ലില്ല; കൈകളുണ്ട്, വിരലുകളില്ല?
+Answer: കസേര
+
+Example 2:
+Riddle: ഒരു രഹസ്യം പലരുടെ ഇടയിൽ ഇട്ടാൽ എന്തുപറ്റും?
+Answer: രഹസ്യമല്ലാതാകും
+
+Example 3:
+Riddle: കറുത്ത കാട്ടിൽ ഒരു വെള്ളിരേഖ?
+Answer: നരച്ച മുടി
+
+Example 4:
+Riddle: ഏറ്റവും കൂടുതൽ അടി കിട്ടിയ സ്ഥലം ഏത്?
+Answer: അടിമാലി
+
+
+Now, solve this riddle:
+Riddle : കുറ്റവാളികൾ ഭയപ്പെടുന്ന മരം ഏതാണ്.?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അറക്ക
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മണ്ണിനടിയിൽ പോയാൽ വലുതാകുന്നത് ആര് ?
+Answer: വിത്ത്
+
+Example 2:
+Riddle: ഇലയായിരിക്കുമ്പോൾ പച്ചനിറം, കയ്യിൽ പുരട്ടിയാൽ ചുവപ്പുനിറം.
+Answer: മൈലാഞ്ചി
+
+Example 3:
+Riddle: മറ്റുള്ളവർക്കായി വാതിൽ തുറക്കും, പക്ഷെ ഞാൻ ഒരിക്കലും അകത്ത് കടക്കുന്നില്ല. ഞാൻ ആരാണ്?
+Answer: താക്കോൽ
+
+Example 4:
+Riddle: വഴിയുണ്ട് യാത്രയില്ല, പുഴയുണ്ട് വെള്ളമില്ല, നാടുണ്ട് ആളില്ല?
+Answer: ഭൂപടം
+
+
+Now, solve this riddle:
+Riddle : വണ്ടി ഓടാത്ത റൂട്ട് ഏത്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പാത്തി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കഴുത്തുണ്ട്, തലയില്ല?
+Answer: കുപ്പി
+
+Example 2:
+Riddle: മിന്നാത്ത നക്ഷത്രം.
+Answer: കടൽ നക്ഷത്രം.
+
+Example 3:
+Riddle: ഇലയായിരിക്കുമ്പോൾ പച്ചനിറം, കയ്യിൽ പുരട്ടിയാൽ ചുവപ്പുനിറം.
+Answer: മൈലാഞ്ചി
+
+Example 4:
+Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന ഒരു തൃപ്തി ഏതാണ്?
+Answer: സംതൃപ്തി
+
+
+Now, solve this riddle:
+Riddle : ആരും ഇഷ്ടപ്പെടാത്ത ദേശം ഏതാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നരകം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു ചുവന്ന കോട്ടയ്ക്കുള്ളിൽ, മുത്തുമണികൾ അടുക്കി വെച്ചിരിക്കുന്നു.
+Answer: മാതളനാരങ്ങ
+
+Example 2:
+Riddle: നൃത്തം ചെയ്യും മത്സ്യം, നീന്തും മത്സ്യം, കര കണ്ടാൽ നില്ക്കും മത്സ്യം?
+Answer: ബോട്ട്
+
+Example 3:
+Riddle: എല്ലാവർക്കും ഇരിപ്പിടമൊരുക്കും, പക്ഷെ ഒരിക്കലും ഇരിക്കില്ല. അതാരാണ്?
+Answer: കസേര
+
+Example 4:
+Riddle: പറക്കാൻ കഴിവുള്ള ഇംഗ്ലീഷ് അക്ഷരം?
+Answer: B
+
+
+Now, solve this riddle:
+Riddle : നിങ്ങളുടെ മുന്നിലുണ്ട് എന്നാൽ നിങ്ങൾക്ക് കാണാൻ കഴിയില്ല. എന്താണത് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നിങ്ങളുടെ ഭാവി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പല നക്ഷത്രങ്ങൾക്ക് ഒരു കൂടാരം?
+Answer: ആകാശം
+
+Example 2:
+Riddle: നൂറേക്കർ പാടത്തിൽ ഒരൊറ്റക്കാലൻ?
+Answer: നോക്കുകുത്തി
+
+Example 3:
+Riddle: ഇഴയുന്നൊരമ്മയ്ക്ക് പറക്കുന്ന മക്കൾ.
+Answer: ചിത്രശലഭം
+
+Example 4:
+Riddle: എന്നെ തൊട്ടാൽ തൊടുന്നവന് പൊള്ളും.
+Answer: തീ
+
+
+Now, solve this riddle:
+Riddle : എന്നും ഉപ്പിലിടുന്ന വസ്തു ഏതാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും മധുരമുള്ള നഗരം ഏത്?
+Answer: മധുര
+
+Example 2:
+Riddle: ഒരമ്മയുടെ മക്കളെല്ലാം കറുത്ത പട്ടാളം?
+Answer: കട്ടുറുമ്പ്
+
+Example 3:
+Riddle: പല മുത്തിന് ഒരു നൂല്?
+Answer: മാല
+
+Example 4:
+Riddle: ആരും കാണാതെ ഉള്ളിൽ വരും, ആരും കാണാതെ പുറത്തേക്ക് പോകും.
+Answer: ശ്വാസം
+
+
+Now, solve this riddle:
+Riddle : പോലീസുകാർ ഒറ്റക്കാലിൽ നിൽക്കുന്നത് എപ്പോൾ ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അവസാനം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഏത് ശബ്ദവും ഏറ്റുപാടും, പക്ഷേ സ്വന്തമായി ഒരക്ഷരം മിണ്ടില്ല.
+Answer: പ്രതിധ്വനി
+
+Example 2:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത മാനം ഏതാണ്?
+Answer: അപമാനം
+
+Example 3:
+Riddle: പ്രവർത്തിപ്പിക്കും നിർത്തും, ഒരു കുഞ്ഞൻ യന്ത്രം.
+Answer: സ്വിച്ച്
+
+Example 4:
+Riddle: ഒരു വയസ്സൻ എന്നും എന്തോ ചവച്ചരക്കുന്നു.
+Answer: ആട്ടുകല്ല്
+
+
+Now, solve this riddle:
+Riddle : എപ്പോഴും വിശപ്പുള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കടൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: നൂലു പോലെ വളരും, മുകളിൽ കുട പോലെ കായ്ക്കും, കുടയ്ക്ക് താഴെ വീണ്ടും നൂലുകൾ
+Answer: കൂൺ
+
+Example 2:
+Riddle: കർഷകർ ഏറ്റവും കൂടുതൽ ഭയക്കുന്ന വെള്ളം ഏതാണ്.?
+Answer: വെള്ളപ്പൊക്കം
+
+Example 3:
+Riddle: ഒരമ്മയുടെ മക്കൾക്കെല്ലാം നിരനിരയായി മഞ്ഞപ്പല്ലുകൾ?
+Answer: ചോളം
+
+Example 4:
+Riddle: വെള്ളം കരയുന്ന കൊമ്പൻ.
+Answer: മേഘം
+
+
+Now, solve this riddle:
+Riddle : ആളുകൾ എപ്പോഴും തെന്നിവീഴുന്ന രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കേരളം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അടിയിൽ കിണ്ണം, നടുവിലൊരു തൂണ്, തലയിലൊരു പൊൻകിരീടം?
+Answer: നിലവിളക്ക്
+
+Example 2:
+Riddle: ഇലയായിരിക്കുമ്പോൾ പച്ചനിറം, കയ്യിൽ പുരട്ടിയാൽ ചുവപ്പുനിറം.
+Answer: മൈലാഞ്ചി
+
+Example 3:
+Riddle: ശാന്തനായി കാണാമെങ്കിലും, ഉള്ളിൽ ക്രോധം തിളയ്ക്കും. എൻ വായിലൂടെ അത് പുറത്തു വരും.
+Answer: അഗ്നിപർവ്വതം
+
+Example 4:
+Riddle: തീയിലേക്ക് പോകുമ്പോൾ മൃദുവായവൻ, തിരിച്ചെത്തുമ്പോൾ കടുപ്പമുള്ളവൻ.
+Answer: മൺപാത്രം
+
+
+Now, solve this riddle:
+Riddle : എപ്പോഴും മഴയുള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ആകാശം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആളുകൾ എപ്പോഴും ക്യൂ നിൽക്കുന്ന രാജ്യം ഏത്..?
+Answer: ക്യൂബ
+
+Example 2:
+Riddle: വെള്ളക്കൊട്ടാരത്തിൽ മഞ്ഞ രാജകുമാരൻ.
+Answer: മുട്ട
+
+Example 3:
+Riddle: കഴുത്തുണ്ട്, തലയില്ല. കൈകളുണ്ട്, പിടിക്കില്ല.
+Answer: കുപ്പായം (ഷർട്ട്)
+
+Example 4:
+Riddle: എന്നെ തൊടുന്നവനെ ഇരുട്ടിൽ നിന്നകറ്റുന്നവൻ?
+Answer: സ്വിച്ച്
+
+
+Now, solve this riddle:
+Riddle : ന്യൂസുകൾ കൂടുതൽ ഉള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പേപ്പർ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പുറത്തൊരു തല്ല്, അകത്തൊരു ചിരണ്ടൽ, നീരിനൊരു പിഴിച്ചിൽ?
+Answer: തേങ്ങ
+
+Example 2:
+Riddle: ഞാൻ ഊർജ്ജം നൽകും, പലരെയും പ്രവർത്തിപ്പിക്കും, വെള്ളം തട്ടിയാൽ ചത്തും പോകും.
+Answer: ബാറ്ററി
+
+Example 3:
+Riddle: മഴയത്ത് വിടരും പൂവ്?
+Answer: കുട
+
+Example 4:
+Riddle: എന്നെ തുറക്കും, പക്ഷെ താക്കോലിട്ട് തുറക്കില്ല?
+Answer: പുസ്തകം
+
+
+Now, solve this riddle:
+Riddle : ഏറ്റവും കൂടുതൽ തിരക്കുള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അറബി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: നൂറേക്കർ പാടത്തിൽ ഒരൊറ്റക്കാലൻ?
+Answer: നോക്കുകുത്തി
+
+Example 2:
+Riddle: തലയിൽ അടി കൊണ്ടിട്ടും, മറ്റുള്ളവർക്ക് മധുരം നൽകുന്നവൻ?
+Answer: തേങ്ങ
+
+Example 3:
+Riddle: തല വെട്ടുംതോറും ചെറുതാകുന്നവൻ?
+Answer: പെൻസിൽ
+
+Example 4:
+Riddle: കൈകളുണ്ട്, വിരലുകളില്ല. കഴുത്തുണ്ട്, തലയില്ല. ഉടലുണ്ട്, ജീവനില്ല.
+Answer: ഷർട്ട്
+
+
+Now, solve this riddle:
+Riddle : ഒരു മീനിനെ പിടിച്ചു കരയ്ക്ക് ഇട്ടാൽ എന്തുപറ്റും ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഒരു ചിത്തിരയിൽ എന്നും ഇരു പറക്കുന്ന്നുവൊരു ചിത്രത്തിൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും മധുരമുള്ള നഗരം ഏത്?
+Answer: മധുര
+
+Example 2:
+Riddle: പുറത്ത് രണ്ട് വാതിലുകൾ, നടുവിൽ കറുത്ത മുത്ത്, ഉള്ളിൽ വെള്ളാരംകല്ല്?
+Answer: കണ്ണ്
+
+Example 3:
+Riddle: ഉണങ്ങിയൊരമ്മയ്ക്ക് പച്ചയായ മക്കൾ.
+Answer: വിത്ത്
+
+Example 4:
+Riddle: വയലിലെ സുന്ദരിക്ക് തലനിറയെ മുത്ത്?
+Answer: നെൽക്കതിർ
+
+
+Now, solve this riddle:
+Riddle : വധൂവരന്മാർ ആദ്യമായി കഴിക്കുന്നത് എന്താണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പോട്ടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആരും കാണാതെ ഉള്ളിൽ വരും, ആരും കാണാതെ പുറത്തേക്ക് പോകും.
+Answer: ശ്വാസം
+
+Example 2:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത മാനം ഏതാണ് ?
+Answer: അപമാനം
+
+Example 3:
+Riddle: നിങ്ങളെ പിന്തുടരും, വലുതാകും, ചെറുതാകും, പക്ഷെ വെളിച്ചം വന്നാൽ ഓടിയൊളിക്കും.
+Answer: നിഴൽ
+
+Example 4:
+Riddle: തൊട്ടാൽ ആപത്ത്, അകത്ത് അമൃത്.
+Answer: തേനീച്ചക്കൂട്
+
+
+Now, solve this riddle:
+Riddle : പിറകിൽ നിന്ന് ആരെങ്കിലും വിളിച്ചാൽ തിരിഞ്ഞു നോക്കുന്നത് എന്തുകൊണ്ട് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കഴുത്ത്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആരും തിരഞ്ഞെടുക്കാൻ ആഗ്രഹിക്കാത്ത വഴി?
+Answer: ദുർവ്വഴി
+
+Example 2:
+Riddle: നീലപ്പരവതാനിയിൽ വെള്ളിമുത്തുകൾ.
+Answer: ആകാശവും നക്ഷത്രങ്ങളും
+
+Example 3:
+Riddle: കാലിലിരുന്ന് ചവിട്ടുകൊള്ളുന്നവൻ.
+Answer: ചെരിപ്പ്
+
+Example 4:
+Riddle: ഒരമ്മയുടെ  ദേഹത്ത് മുഴുവൻ കൂർത്ത പട്ടാളം?
+Answer: റോസാച്ചെടിയുടെ മുള്ളുകൾ
+
+
+Now, solve this riddle:
+Riddle : നിങ്ങളുടെ സ്വന്തം ആണെങ്കിലും ഇത് കൂടുതലും ഉപയോഗിക്കുന്നത് മറ്റുള്ളവരാണ്. എന്ത് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നാമം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരമ്മയുടെ മക്കളെല്ലാം കറുത്ത പട്ടാളം?
+Answer: കട്ടുറുമ്പ്
+
+Example 2:
+Riddle: അടി കിട്ടി കിട്ടി മുന്നോട്ട് പോകുന്നതെന്ത്?
+Answer: ആണി
+
+Example 3:
+Riddle: എപ്പോഴും കത്തുന്നതെന്താണ്?
+Answer: തീപ്പെട്ടി
+
+Example 4:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത ശീലം ഏതാണ്?
+Answer: ദുശ്ശീലം
+
+
+Now, solve this riddle:
+Riddle : ഇടുമ്പോൾ ടൈറ്റ് ആയിരിക്കും ഇട്ടു കഴിഞ്ഞാൽ ലൂസ് ആയിരിക്കും ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ബെഡ്ഡ് ഷീട്ട് (Bed sheet)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മുകളിൽ നിന്ന് വരവ്, താഴേക്ക് പോക്ക്.
+Answer: മഴ
+
+Example 2:
+Riddle: പല നക്ഷത്രങ്ങൾക്ക് ഒരു കൂടാരം?
+Answer: ആകാശം
+
+Example 3:
+Riddle: വാഹനങ്ങൾക്കും സമയത്തിനും പൊതുവായുള്ളത് എന്താണ്?
+Answer: ഓട്ടം
+
+Example 4:
+Riddle: ഒരുപാട് അരി വിളയുന്ന സ്ഥലം ഏത്?
+Answer: അരിസോണ
+
+
+Now, solve this riddle:
+Riddle : ആകാശത്തൊരു കൂട്ടിനുള്ളില്‍ മുപ്പത്തിരണ്ടു വെള്ളാന
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചന്ദ്രന്‍
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: താഴെ വെച്ചാൽ മുകളിൽ എത്താം.
+Answer: ഏണി
+
+Example 2:
+Riddle: വായുണ്ട്, പല്ലുണ്ട്, പക്ഷേ തിന്നുകയുമില്ല കടിക്കുകയുമില്ല. അടഞ്ഞതിനെ തുറന്നു കൊടുക്കും.
+Answer: താക്കോൽ
+
+Example 3:
+Riddle: പാകം ചെയ്യുമ്പോൾ മൃദുലൻ, വെയിലിൽ ഉണങ്ങിയാൽ മുരിഞ്ഞു ബലവാൻ.
+Answer: കൊണ്ടട്ടം
+
+Example 4:
+Riddle: മഴയത്ത് വിടരും പൂവ്?
+Answer: കുട
+
+
+Now, solve this riddle:
+Riddle : വീട്ടിലെ കോവിലിൽ മൂന്നുണ്ട് ദൈവങ്ങൾ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പുസ്തകം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അടുക്കളയിലെ രാജാവിന് തലയിൽ ചൂളം?
+Answer: പ്രഷർ കുക്കർ
+
+Example 2:
+Riddle: കാലില്ലാ കസേര?
+Answer: ഊഞ്ഞാൽ
+
+Example 3:
+Riddle: കാലുകളുണ്ട്, പാദങ്ങളില്ല; പുറമുണ്ട്, നട്ടെല്ലില്ല; കൈകളുണ്ട്, വിരലുകളില്ല?
+Answer: കസേര
+
+Example 4:
+Riddle: തകർക്കാനെളുപ്പം, പഴയപോലാക്കാനാവില്ല.
+Answer: വിശ്വാസം
+
+
+Now, solve this riddle:
+Riddle : വെട്ടും തോറും വളരും ഞാൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വൃക്ഷം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കാലുണ്ട്, നടക്കില്ല. ഭാരം ചുമക്കും.
+Answer: മേശ
+
+Example 2:
+Riddle: നിലത്ത് ഇഴഞ്ഞത് ആകാശത്ത് പാറിപ്പറന്നു.
+Answer: ശലഭം
+
+Example 3:
+Riddle: കൂടെ വരുന്നവൻ, കൂടെ നിൽക്കുന്നവൻ, വെളിച്ചം പോയാൽ ഓടിമറയുന്നവൻ?
+Answer: നിഴൽ
+
+Example 4:
+Riddle: ഒരു പച്ച മതിലിനുള്ളിൽ ഒരു ചുവന്ന പുഴ.
+Answer: തണ്ണിമത്തൻ
+
+
+Now, solve this riddle:
+Riddle : വെള്ളച്ചാരെ മാറ്റിയിരുത്തി, ചോപ്പന്മാരെ കേറ്റിയിരുത്തി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണാടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ശരീരത്തിലെ പടത്തലവന് അഞ്ച് പടയാളികൾ.
+Answer: കൈയ്യും വിരലുകളും
+
+Example 2:
+Riddle: വെള്ളമില്ലാത്ത ഒരു വലിയ കടലിൽ, തിരിയില്ലാത്ത വിളക്കുകൾ.
+Answer: നക്ഷത്രങ്ങൾ
+
+Example 3:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത മാനം ഏതാണ്?
+Answer: അപമാനം
+
+Example 4:
+Riddle: വരയിലുണ്ട് പുള്ളിയിലില്ല, കയ്യിലുണ്ട് കാലിലില്ല, നൂറിലുണ്ട് പത്തിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer: വയറ്
+
+
+Now, solve this riddle:
+Riddle : വെള്ളമതിലിനുള്ളിൽ ഒരു വെള്ളിവടി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തിരി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഇലകൾക്കടിയിൽ നാളത്തെ പൂവ്.
+Answer: മൊട്ട്
+
+Example 2:
+Riddle: താഴെ നിന്ന് വരവ്, മുകളിലേക്ക് പോക്ക്.
+Answer: പുക
+
+Example 3:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത മാനം ഏതാണ്?
+Answer: അപമാനം
+
+Example 4:
+Riddle: പപ്പടത്തിലുണ്ട് കടത്തിലില്ല, കുടത്തിലുണ്ട് കുളത്തിലില്ല. രണ്ടക്ഷരമുള്ള ഞാനാര്?
+Answer: പടം
+
+
+Now, solve this riddle:
+Riddle : വെള്ളിക്കിണ്ണത്തിൽ ഞാവൽപ്പഴം.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണീർ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എൻ്റെ പേര് പറഞ്ഞാൽ ഞാൻ ഇല്ലാതാകും.
+Answer: നിശ്ശബ്ദത
+
+Example 2:
+Riddle: എപ്പോഴും പ്രശ്നമുണ്ടാക്കുന്ന ഒരു വാദം ഏതാണ്?
+Answer: വിവാദം
+
+Example 3:
+Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന ഒരു ദാനം ഏതാണ്?
+Answer: വാഗ്ദാനം
+
+Example 4:
+Riddle: പറഞ്ഞു പരത്തും തോറും വലുതാകും ഞാൻ.
+Answer: വാർത്ത
+
+
+Now, solve this riddle:
+Riddle : വാലില്ലാത്തമ്മയ്ക്ക് വാലുള്ള മക്കൾ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മാവ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഈ ദിവസം നിങ്ങളുടേതാണ്, പക്ഷെ ഈ ദിവസം ആഘോഷിക്കുന്നത് കൂടുതലും മറ്റുള്ളവരാണ്. എന്ത് ?
+Answer: നിങ്ങളുടെ പിറന്നാൾ
+
+Example 2:
+Riddle: തല വെട്ടുംതോറും ചെറുതാകുന്നവൻ?
+Answer: പെൻസിൽ
+
+Example 3:
+Riddle: ചെലവാക്കും തോറും കൂടും ഞാൻ.
+Answer: കടം
+
+Example 4:
+Riddle: വാഹനങ്ങൾക്കും സമയത്തിനും പൊതുവായുള്ളത് എന്താണ്?
+Answer: ഓട്ടം
+
+
+Now, solve this riddle:
+Riddle : വില്ലാണ് പക്ഷേ ഞാണില്ല കെട്ടാൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വെള്ളം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അടുക്കളയിൽ ഉള്ള പന്നിയ്ക്ക് പുറത്തൊരു പല്ല്.
+Answer: ചിരവ
+
+Example 2:
+Riddle: ലോകം മുഴുവൻ കാണും, തന്നെ മാത്രം കാണില്ല.
+Answer: കണ്ണ്
+
+Example 3:
+Riddle: എന്നെ തൊട്ടാൽ ഒട്ടിപ്പിടിക്കും.
+Answer: പശ
+
+Example 4:
+Riddle: ഒരമ്മ ഇടക്കിടക്ക് കരയുന്നു 
+Answer: മേഘം
+
+
+Now, solve this riddle:
+Riddle : വട്ടത്തിൽ ചവിട്ടിയിൽ നീളത്തിലോടും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നദി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എനിക്ക് രൂപമില്ല, പക്ഷെ ഞാൻ കൂടെ വരും... നീ ജീവിച്ചിരിക്കുന്ന ഓരോ ദിവസവും ഞാൻ നിന്‍റെ കൂടെയുണ്ട്.
+Answer: പ്രായം
+
+Example 2:
+Riddle: ഞാൻ ഊർജ്ജം നൽകും, പലരെയും പ്രവർത്തിപ്പിക്കും, വെള്ളം തട്ടിയാൽ ചത്തും പോകും.
+Answer: ബാറ്ററി
+
+Example 3:
+Riddle: മുഖമുണ്ട്, കണ്ണുകളില്ല. കൈകളുണ്ട്, അടിക്കില്ല. എപ്പോഴും ഓടും, കാലുകളില്ല?
+Answer: ക്ലോക്ക്
+
+Example 4:
+Riddle: കുഴയ്ക്കുമ്പോൾ കുഴഞ്ഞുമറിഞ്ഞ്, അടുപ്പിൽ കയറിയാൽ ബലാബലൻ.
+Answer: മാവ്
+
+
+Now, solve this riddle:
+Riddle : വരുമ്പോൾ കറുത്തിട്ട്, പോകുമ്പോൾ വെളുത്തിട്ട്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നിലവിളക്ക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും കട്ടിയായി കാണപ്പെടുന്ന സാധനം ഏത്?
+Answer: കട്ടിൽ
+
+Example 2:
+Riddle: കണ്ണാടി നിങ്ങളെ കാണിക്കുമെങ്കിലും സംസാരിക്കാത്തത് എന്തുകൊണ്ട്?
+Answer: വാ ഇല്ലാത്തതുകൊണ്ട്
+
+Example 3:
+Riddle: വാഹനങ്ങൾക്കും സമയത്തിനും പൊതുവായുള്ളത് എന്താണ്?
+Answer: ഓട്ടം
+
+Example 4:
+Riddle: ജയിച്ചവനും തോറ്റവനും ഒരുപോലെ അനുഭവിക്കുന്ന ചൂട്?
+Answer: മത്സരച്ചൂട്
+
+
+Now, solve this riddle:
+Riddle : മുള്ളിനുള്ളിലെ സുന്ദരിക്കുട്ടി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തെങ്ങ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു കടലാസ് വെള്ളത്തിൽ ഇട്ടാൽ എന്തു പറ്റും?
+Answer: നനയും
+
+Example 2:
+Riddle: ഉള്ളിലേക്ക് വലിക്കും, പുറത്തേക്ക് തള്ളും.
+Answer: ശ്വാസം
+
+Example 3:
+Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന ഒരു ദാനം ഏതാണ്?
+Answer: വാഗ്ദാനം
+
+Example 4:
+Riddle: എളുപ്പത്തിൽ മുറിവേൽക്കുന്ന മാനം ഏതാണ്?
+Answer: അഭിമാനം
+
+
+Now, solve this riddle:
+Riddle : മുള്ളില്ലാത്ത പുറംകാട്ടിൽ എല്ലില്ലാത്ത ഒരെലിക്കുഞ്ഞ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഒരു തെങ്ങ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഉണ്ടാക്കുന്നവൻ അതിൽ വീഴുന്നില്ല, വീഴുന്നവൻ അറിയുന്നില്ല?
+Answer: കെണി
+
+Example 2:
+Riddle: ചെളിക്കുളത്തിൽ ഒരു സ്വർണ്ണക്കിരീടം?
+Answer: താമര
+
+Example 3:
+Riddle: ഞാൻ ഓടും, ഓടും... പക്ഷെ എവിടെയും എത്തില്ല.
+Answer: സമയം
+
+Example 4:
+Riddle: ഒരു വീട്ടിൽ ഒരുപാട് സഹോദരന്മാർ, എല്ലാവർക്കും ഒരേ തൊപ്പി.
+Answer: തീപ്പെട്ടിക്കൊള്ളികൾ
+
+
+Now, solve this riddle:
+Riddle : പുക തുപ്പുന്ന പാമ്പ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സിഗരറ്റ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: നൂലു പോലെ വളരും, മുകളിൽ കുട പോലെ കായ്ക്കും, കുടയ്ക്ക് താഴെ വീണ്ടും നൂലുകൾ
+Answer: കൂൺ
+
+Example 2:
+Riddle: ആരും കേൾക്കാൻ ആഗ്രഹിക്കാത്ത വാക്ക്?
+Answer: ദുർവാക്ക്
+
+Example 3:
+Riddle: ഒരു പുസ്തകം തുറക്കുമ്പോൾ ആദ്യം കാണുന്നത് എന്താണ്?
+Answer: ഒന്നാം പേജ്
+
+Example 4:
+Riddle: പ്രവർത്തിപ്പിക്കും നിർത്തും, ഒരു കുഞ്ഞൻ യന്ത്രം.
+Answer: സ്വിച്ച്
+
+
+Now, solve this riddle:
+Riddle : പൂട്ടാനെളുപ്പം തുറക്കാനാവില്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എളുപ്പത്തിൽ മുറിവേൽക്കുന്ന മാനം ഏതാണ്?
+Answer: അഭിമാനം
+
+Example 2:
+Riddle: ആനയെ നോക്കാത്ത പാപ്പൻ ആര്?
+Answer: ക്രിസ്മസ് പാപ്പൻ
+
+Example 3:
+Riddle: കർഷകർ ഏറ്റവും കൂടുതൽ ഭയക്കുന്ന വെള്ളം ഏതാണ്.?
+Answer: വെള്ളപ്പൊക്കം
+
+Example 4:
+Riddle: വായനക്കാരൻ പുസ്തകം തുറന്നിട്ടും ഒരക്ഷരം പോലും വായിക്കാത്തത് എപ്പോൾ?
+Answer: ഉറങ്ങിപോകുമ്പോൾ
+
+
+Now, solve this riddle:
+Riddle : പലകക്കീഴെ പച്ചയിറച്ചി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തെങ്ങ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: നിലത്തെ ഒരു ചെറിയ മണി ഒരു വലിയ തണലായി.
+Answer: മരം
+
+Example 2:
+Riddle: ചവയ്ക്കുമ്പോൾ കട്ടിയുള്ളതും, ചവച്ചു കഴിഞ്ഞാൽ മയമുള്ളതും എന്താണ്?
+Answer: ച്യൂയിംഗം
+
+Example 3:
+Riddle: ആയിരം വിളക്കുകൾ, ഒരൊറ്റ മേൽക്കൂര.
+Answer: നക്ഷത്രങ്ങൾ
+
+Example 4:
+Riddle: ആനയെ നോക്കാത്ത പാപ്പൻ ആര്?
+Answer: ക്രിസ്മസ് പാപ്പൻ
+
+
+Now, solve this riddle:
+Riddle : തുമ്പിക്കൈയില്ലാത്ത ആന.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കടൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ചുവന്ന പുരയ്ക്കുള്ളിൽ ഒരുപാട് കറുത്ത തൊപ്പിക്കാർ?
+Answer: തീപ്പെട്ടി
+
+Example 2:
+Riddle: കണ്ടാലൊരു വായ്, ഇറങ്ങിയാലൊരു ലോകം?
+Answer: കിണറ്
+
+Example 3:
+Riddle: ചിറകില്ല, വാലുണ്ട്, വാലിൽ തീയുണ്ട്.
+Answer: വാണം
+
+Example 4:
+Riddle: തമ്മിൽ ബന്ധിപ്പിക്കും, ഒരൊറ്റ വെട്ടിൽ വേർപെടും.
+Answer: നൂൽ
+
+
+Now, solve this riddle:
+Riddle : തെക്ക് നിന്ന് വന്ന കാളയ്ക്ക് പള്ളയ്ക്കൊരു കൊമ്പ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അരിപ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആയിരം കുട്ടികൾക്ക് ഒരു വളയം?
+Answer: താക്കോൽക്കൂട്ടം
+
+Example 2:
+Riddle: ഒരു വീട്ടിൽ രണ്ട് ജനലുകൾ.
+Answer: കണ്ണുകൾ
+
+Example 3:
+Riddle: അടിയിൽ വെള്ളം, നടുവിൽ കല്ല്, മീതെ വായ.
+Answer: കിണറ്
+
+Example 4:
+Riddle: ആരും വരാൻ ആഗ്രഹിക്കാത്ത സുഖം 
+Answer: അസുഖം
+
+
+Now, solve this riddle:
+Riddle : തേങ്ങാപ്പൂളൊരു തേങ്ങാമുറിയായ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പൂവൻകുഴി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു തവിട്ടു മതിലിനുള്ളിൽ രണ്ട് വെളുത്ത കട്ടകൾ.
+Answer: കപ്പലണ്ടി
+
+Example 2:
+Riddle: നിങ്ങളെ പിന്തുടരും, വലുതാകും, ചെറുതാകും, പക്ഷെ വെളിച്ചം വന്നാൽ ഓടിയൊളിക്കും.
+Answer: നിഴൽ
+
+Example 3:
+Riddle: താഴെ നിന്ന് വരവ്, മുകളിലേക്ക് പോക്ക്.
+Answer: പുക
+
+Example 4:
+Riddle: കാലമാകുന്ന പുഴയിൽ പന്ത്രണ്ടു കൈവഴികൾ.
+Answer: വർഷം
+
+
+Now, solve this riddle:
+Riddle : തൊട്ടാൽ ചൊറിയൻ തിന്നാൻ രസികൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പുഴുക്ക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അമർത്തുമ്പോൾ ചെറുതാകും, കൈവിട്ടാൽ വലുതാകും.
+Answer: സ്പ്രിംഗ്
+
+Example 2:
+Riddle: വിരിച്ചാൽ ഒരു മുറ്റം, ചുരുട്ടിയാൽ ഒരു തൂണ്?
+Answer: പായ്
+
+Example 3:
+Riddle: നിങ്ങളിത് ഉണ്ടാക്കുന്നു, പക്ഷെ ഇതിനെക്കുറിച്ച് സംസാരിക്കുന്നതും വിലയിരുത്തുന്നതും കൂടുതലും മറ്റുള്ളവരാണ്. എന്ത്?
+Answer: നിങ്ങളുടെ സൽപ്പേര്
+
+Example 4:
+Riddle: അങ്ങാടിയിൽ നിൽക്കും മൊട്ടത്തലയന് വയറ്റത്തൊരു പിളർപ്പ്.
+Answer: തപാൽപെട്ടി
+
+
+Now, solve this riddle:
+Riddle : തോളിൽ തൂങ്ങുന്ന തല്ലുകൊള്ളി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പെണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പപ്പടത്തിലുണ്ട് കടത്തിലില്ല, കുടത്തിലുണ്ട് കുളത്തിലില്ല. രണ്ടക്ഷരമുള്ള ഞാനാര്?
+Answer: പടം
+
+Example 2:
+Riddle: പാകം ചെയ്യുമ്പോൾ മൃദുലൻ, വെയിലിൽ ഉണങ്ങിയാൽ മുരിഞ്ഞു ബലവാൻ.
+Answer: കൊണ്ടട്ടം
+
+Example 3:
+Riddle: എന്നെ തുറക്കും, പക്ഷെ താക്കോലിട്ട് തുറക്കില്ല?
+Answer: പുസ്തകം
+
+Example 4:
+Riddle: നൂറു ഭടന്മാർക്ക് ഒരു വീട്.
+Answer: തീപ്പെട്ടി
+
+
+Now, solve this riddle:
+Riddle : ചത്ത പോത്ത് കോലെടുത്താലോടും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കടൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: സംഖ്യകൾ ഉണ്ട്, പക്ഷെ കാൽക്കുലേറ്റർ അല്ല. കൈകളുണ്ട്, അടിക്കില്ല. എപ്പോഴും ഓടും, കാലുകളില്ല.
+Answer: ക്ലോക്ക്
+
+Example 2:
+Riddle: എപ്പോഴും മധുരമായിരിക്കുന്ന സ്ഥലം ഏത്?
+Answer: മധുര
+
+Example 3:
+Riddle: കാലില്ലാ കസേര?
+Answer: ഊഞ്ഞാൽ
+
+Example 4:
+Riddle: നനഞ്ഞ കാട്ടിലെ എല്ലില്ലാത്ത പാമ്പ്.
+Answer: നാക്ക്
+
+
+Now, solve this riddle:
+Riddle : കിഴക്കൂന്ന് വരവ്, പടിഞ്ഞാട്ട് പോക്ക്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സൂര്യൻ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കണ്ടാലൊരു ഇല, ഊതിയാലൊരു പന്ത്?
+Answer: ബലൂൺ
+
+Example 2:
+Riddle: ഞെട്ടിനൊരു ഒടിക്കൽ, തോലിനൊരു പൊളിക്കൽ, കാമ്പിനൊരു കടി?
+Answer: പഴം
+
+Example 3:
+Riddle: കഴുത്തുണ്ട്, തലയില്ല. കൈകളുണ്ട്, പിടിക്കില്ല.
+Answer: കുപ്പായം (ഷർട്ട്)
+
+Example 4:
+Riddle: എപ്പോഴും കയ്യിലിരിക്കുന്ന സാധനം ഏതാണ്?
+Answer: വിരൽ
+
+
+Now, solve this riddle:
+Riddle : കുളിക്കാൻ പോകുമ്പോൾ കുഴഞ്ഞുമറിഞ്ഞ്, കുളിച്ചു വരുമ്പോൾ ബലാബലൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഉപ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എല്ലാവർക്കും ഇരിപ്പിടമൊരുക്കും, പക്ഷെ ഒരിക്കലും ഇരിക്കില്ല. അതാരാണ്?
+Answer: കസേര
+
+Example 2:
+Riddle: എന്നെ തൊട്ടാൽ കുത്തും.
+Answer: തേനീച്ചക്കൂട്
+
+Example 3:
+Riddle: പൊൻതല ചെത്തിയാൽ വെള്ളിവാൽ കാണാം?
+Answer: പെൻസിൽ
+
+Example 4:
+Riddle: മുറിയിലെ രാജാവിന് മൂന്നു ചിറകുകൾ.
+Answer: ഫാൻ
+
+
+Now, solve this riddle:
+Riddle : ഒരമ്മ എന്നും വെന്തും നീറിയും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അടിയിൽ പീഠം, നടുവിൽ തണ്ട്, മുകളിൽ പൂത്തിരി?
+Answer: നിലവിളക്ക്
+
+Example 2:
+Riddle: നിലത്ത് ഇഴഞ്ഞത് ആകാശത്ത് പാറിപ്പറന്നു.
+Answer: ശലഭം
+
+Example 3:
+Riddle: മനസ്സിൽ ഒളിച്ചിരിക്കും, പ്രകോപിപ്പിച്ചാൽ പുറത്തുചാടും.
+Answer: ദേഷ്യം
+
+Example 4:
+Riddle: പുറത്ത് കല്ല്, അകത്ത് പഞ്ഞി?
+Answer: പരുത്തിക്കായ
+
+
+Now, solve this riddle:
+Riddle : ഒരു തൊഴുത്തിൽ രണ്ടുവരി വെള്ളക്കുതിര.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അക്ഷരം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: താഴെ നിന്ന് വരവ്, മുകളിലേക്ക് പോക്ക്.
+Answer: പുക
+
+Example 2:
+Riddle: മുള്ളൻ പുറന്തോടിനുള്ളിലെ മധുരം.
+Answer: ചക്കപ്പഴം
+
+Example 3:
+Riddle: ഒരുടലിൽ രണ്ട് ജീവൻ?
+Answer: ഗർഭിണി
+
+Example 4:
+Riddle: ആരും വരാൻ ആഗ്രഹിക്കാത്ത സുഖം 
+Answer: അസുഖം
+
+
+Now, solve this riddle:
+Riddle : എന്നെ തൊട്ടാൽ തൊടുന്നവനെ തട്ടും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കടൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വരുമ്പോൾ ഒളിഞ്ഞിരിക്കും, പോകുമ്പോൾ പുറത്താകും.
+Answer: രഹസ്യം
+
+Example 2:
+Riddle: പല മുത്തിന് ഒരു നൂല്?
+Answer: മാല
+
+Example 3:
+Riddle: പുറത്ത് രണ്ട് വാതിലുകൾ, നടുവിൽ കറുത്ത മുത്ത്, ഉള്ളിൽ വെള്ളാരംകല്ല്?
+Answer: കണ്ണ്
+
+Example 4:
+Riddle: ഒരമ്മയുടെ മക്കൾക്കെല്ലാം നിരനിരയായി മഞ്ഞപ്പല്ലുകൾ?
+Answer: ചോളം
+
+
+Now, solve this riddle:
+Riddle : ആരോടും മല്ലടിക്കും, വെള്ളത്തോട് മാത്രമില്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അഗ്നി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പെറ്റമ്മയ്ക്ക് തലയില്ല, മക്കൾക്കെല്ലാം തലയുണ്ട്.
+Answer: തീപ്പെട്ടി
+
+Example 2:
+Riddle: എന്നും കുളിച്ച് മറ്റുള്ളവരെ വൃത്തിയാക്കുന്ന സാധനം ഏതാണ്?
+Answer: സോപ്പ്
+
+Example 3:
+Riddle: വാച്ച് ഓടുന്നത് എപ്പോൾ ?
+Answer: ബാറ്ററി ഉള്ളപ്പോൾ
+
+Example 4:
+Riddle: താഴെ നിന്ന് വരവ്, മുകളിലേക്ക് പോക്ക്.
+Answer: പുക
+
+
+Now, solve this riddle:
+Riddle : ആരാലും അടിക്കാത്ത മുറ്റം.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കാറ്റ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും പ്രശ്നമുണ്ടാക്കുന്ന ഒരു വാദം ഏതാണ്?
+Answer: വിവാദം
+
+Example 2:
+Riddle: പൊൻകൂട്ടിൽ വെള്ളി നൂൽക്കും?
+Answer: പട്ടുനൂൽ പുഴു
+
+Example 3:
+Riddle: ഒരു പുസ്തകം തുറക്കുമ്പോൾ ആദ്യം കാണുന്നത് എന്താണ്?
+Answer: ഒന്നാം പേജ്
+
+Example 4:
+Riddle: എന്നെ തുറക്കും, പക്ഷെ താക്കോലിട്ട് തുറക്കില്ല?
+Answer: പുസ്തകം
+
+
+Now, solve this riddle:
+Riddle : ആരും കാണാതെ വരും, ആരും കാണാതെ പോകും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കാറ്റ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആനയെ നോക്കാത്ത പാപ്പൻ ആര്?
+Answer: ക്രിസ്മസ് പാപ്പൻ
+
+Example 2:
+Riddle: ക്ലോക്കാണ്, പക്ഷേ സൂചികളില്ല കാണിക്കാൻ.
+Answer: ഡിജിറ്റൽ ക്ലോക്ക്
+
+Example 3:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത ഫലം ഏതാണ്?
+Answer: നിഷ്ഫലം
+
+Example 4:
+Riddle: വാഹനങ്ങൾക്കും സമയത്തിനും പൊതുവായുള്ളത് എന്താണ്?
+Answer: ഓട്ടം
+
+
+Now, solve this riddle:
+Riddle : അകത്ത് പോയപ്പോൾ പച്ച, പുറത്ത് വന്നപ്പോൾ ചുവപ്പ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അരിവാല്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കടലാസ് കടിക്കുന്ന ഞണ്ട്.
+Answer: കത്രിക
+
+Example 2:
+Riddle: എൻ്റെ പേര് പറഞ്ഞാൽ ഞാൻ ഇല്ലാതാകും.
+Answer: നിശ്ശബ്ദത
+
+Example 3:
+Riddle: അടി കിട്ടി കിട്ടി മുന്നോട്ട് പോകുന്നതെന്ത്?
+Answer: ആണി
+
+Example 4:
+Riddle: കറുത്തമ്മയുടെ പറമ്പിൽ ഒരുപാട് വെള്ളിക്കിണ്ണം.
+Answer: നക്ഷത്രങ്ങൾ
+
+
+Now, solve this riddle:
+Riddle : അടയ്ക്കും തുറക്കും കിങ്ങിണി പത്തായം.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കൂടെ വരുന്നവൻ, കൂടെ നിൽക്കുന്നവൻ, വെളിച്ചം പോയാൽ ഓടിമറയുന്നവൻ?
+Answer: നിഴൽ
+
+Example 2:
+Riddle: കല്ല് പോലുള്ള പുറം, ഉള്ളിൽ അമൃത്.
+Answer: തേങ്ങ
+
+Example 3:
+Riddle: കറുത്തമ്മയുടെ പറമ്പിൽ ഒരുപാട് വെള്ളിക്കിണ്ണം.
+Answer: നക്ഷത്രങ്ങൾ
+
+Example 4:
+Riddle: തീയിലേക്ക് പോകുമ്പോൾ മൃദുവായവൻ, തിരിച്ചെത്തുമ്പോൾ കടുപ്പമുള്ളവൻ.
+Answer: മൺപാത്രം
+
+
+Now, solve this riddle:
+Riddle : വായില്ല നാക്കുണ്ട്, നാക്കിന്മേൽ പല്ലുണ്ട്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പേന
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു വിദ്യാർത്ഥി സ്കൂളിൽ ആദ്യമായി ചേരുമ്പോൾ എന്ത് നേടുന്നു?
+Answer: പ്രവേശനം
+
+Example 2:
+Riddle: തീയിലേക്ക് പോകുമ്പോൾ മൃദുവായവൻ, തിരിച്ചെത്തുമ്പോൾ കടുപ്പമുള്ളവൻ.
+Answer: മൺപാത്രം
+
+Example 3:
+Riddle: വരുമ്പോൾ മുഴുവനായിട്ട്, പോകുമ്പോൾ പൊടിയായിട്ട്.
+Answer: ചോക്ക്
+
+Example 4:
+Riddle: ആരും കാണാതെ മനസ്സിൽ വരും, ആരും കാണാതെ മനസ്സിൽ നിന്ന് പോകും.
+Answer: ചിന്ത
+
+
+Now, solve this riddle:
+Riddle : പിടിച്ചാൽ പിടികിട്ടില്ല, വെട്ടിയാൽ വെട്ടേൽക്കില്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നിഴൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കാലുപിടിക്കുന്നവന് കുളിരു നൽകുന്നവൻ?
+Answer: വീശറി
+
+Example 2:
+Riddle: വെളുത്ത കോട്ടയ്ക്കുള്ളിൽ സ്വർണ്ണ കൊട്ടാരം.
+Answer: മുട്ട
+
+Example 3:
+Riddle: മനുഷ്യനും നാണയത്തിനും പൊതുവായിട്ടുള്ളത് എന്താണ്?
+Answer: തല
+
+Example 4:
+Riddle: തമ്മിൽ ബന്ധിപ്പിക്കും, ഒരൊറ്റ വെട്ടിൽ വേർപെടും.
+Answer: നൂൽ
+
+
+Now, solve this riddle:
+Riddle : കാലില്‍ പിടിച്ചാല്‍ തോളില്‍ കയറും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചപ്പല്‍
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആരും കാണാതെ മനസ്സിൽ വരും, ആരും കാണാതെ മനസ്സിൽ നിന്ന് പോകും.
+Answer: ചിന്ത
+
+Example 2:
+Riddle: അടച്ചിട്ടാൽ നിൽക്കില്ല, മുറിച്ചാൽ മുറിയുകയുമില്ല.
+Answer: വെളിച്ചം
+
+Example 3:
+Riddle: ആരും വരാൻ ആഗ്രഹിക്കാത്ത സുഖം 
+Answer: അസുഖം
+
+Example 4:
+Riddle: അഞ്ചു തൂണുകൾക്ക് ഒരൊറ്റ തറ?
+Answer: കൈപ്പത്തി
+
+
+Now, solve this riddle:
+Riddle : കറുത്ത പാറമേല്‍ വെളുത്ത വേര്‍
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പെന്‍
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു പച്ച മതിലിനുള്ളിൽ ഒരു ചുവന്ന പുഴ.
+Answer: തണ്ണിമത്തൻ
+
+Example 2:
+Riddle: ചിറകില്ലാതെ പറക്കും, കണ്ണീരില്ലാതെ കരയും, വെള്ളം തരും, കിണറുമല്ല.
+Answer: മേഘം
+
+Example 3:
+Riddle: തൊട്ടാൽ ആപത്ത്, അകത്ത് അമൃത്.
+Answer: തേനീച്ചക്കൂട്
+
+Example 4:
+Riddle: പപ്പടത്തിലുണ്ട് കടത്തിലില്ല, കുടത്തിലുണ്ട് കുളത്തിലില്ല. രണ്ടക്ഷരമുള്ള ഞാനാര്?
+Answer: പടം
+
+
+Now, solve this riddle:
+Riddle : കറുപ്പാണ് എന്‍റെ നിറം...നീ എവിടെ പോയലും നിന്‍റെ കൂടെ ഞാനും വരും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നിഴൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തലയിൽ തൂങ്ങി, വെട്ട് കൊള്ളും.
+Answer: മുടി
+
+Example 2:
+Riddle: മുഖത്ത് വെക്കുന്നവന് കാഴ്ചയെ തെളിയിക്കുന്നവൻ?
+Answer: കണ്ണട
+
+Example 3:
+Riddle: ഒരമ്മ ഇടക്കിടക്ക് കരയുന്നു 
+Answer: മേഘം
+
+Example 4:
+Riddle: പങ്കുവെക്കും തോറും വളരും ഞാൻ.
+Answer: അറിവ്
+
+
+Now, solve this riddle:
+Riddle : കൈയില്ല കാലില്ല, വാലുണ്ട് വയറുണ്ട്, നീരാടിപ്പോരുമ്പോള്‍ കൊല്ലും ഞാന്‍ നൂറാളെ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മഴ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വയലിലെ സുന്ദരിക്ക് തലനിറയെ മുത്ത്?
+Answer: നെൽക്കതിർ
+
+Example 2:
+Riddle: നഗരത്തിലെ കാവൽക്കാരന് മൂന്നുണ്ട് കണ്ണുകൾ.
+Answer: ട്രാഫിക് ലൈറ്റ്
+
+Example 3:
+Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന ഒരു തൃപ്തി ഏതാണ്?
+Answer: സംതൃപ്തി
+
+Example 4:
+Riddle: വെള്ളി വീട്ടിൽ ഒരൊറ്റക്കാലൻ.
+Answer: ഒച്ച്
+
+
+Now, solve this riddle:
+Riddle : ചത്തു കിടക്കുന്ന പാമ്പ് വടിയെടുത്തല്‍ ഓടും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പെൻ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വാതിലില്ലാത്ത വീട്ടിൽ അനങ്ങാതെ കിടക്കുന്ന ഒരൊറ്റ കുഞ്ഞ്.
+Answer: മുട്ട
+
+Example 2:
+Riddle: അടയ്ക്കും തുറക്കും മുത്തുപ്പത്തായം.
+Answer: വായ
+
+Example 3:
+Riddle: ഒരു തോട്ടിൽ നിരനിരയായി നിൽക്കുന്ന വെള്ളാരംകല്ലുകൾ?
+Answer: പല്ല്
+
+Example 4:
+Riddle: പാലത്തിലുണ്ട് കടലിലില്ല, തലയിലുണ്ട് കയ്യിലില്ല, കാക്കയിലുണ്ട് പൂച്ചയിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer: പലക
+
+
+Now, solve this riddle:
+Riddle : പഞ്ചപാണ്ഡവര്‍ക്ക് അഞ്ചുപേര്‍ക്കും കൂടി ഒരു മുറ്റമേയുള്ളൂ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കൈ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples of Malayalam riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: നൂറേക്കർ പാടത്തിൽ ഒരൊറ്റക്കാലൻ?
+Answer: നോക്കുകുത്തി
+
+Example 2:
+Riddle: നൃത്തം ചെയ്യും മത്സ്യം, നീന്തും മത്സ്യം, കര കണ്ടാൽ നില്ക്കും മത്സ്യം?
+Answer: ബോട്ട്
+
+Example 3:
+Riddle: മണ്ണിൽ പോകുമ്പോൾ കല്ലാണ്, പുറത്ത് വരുമ്പോൾ പച്ചപ്പാണ്.
+Answer: വിത്ത്
+
+Example 4:
+Riddle: പലതിനെയും വെട്ടിമുറിക്കും, പക്ഷേ നിഴലിനെ മാത്രം വെട്ടില്ല.
+Answer: വാൾ
+
+
+Now, solve this riddle:
+Riddle : എല്ലാം തിന്നും എല്ലാം ദഹിക്കും വെള്ളം കുടിച്ചാല്‍ ചത്തും പോകും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നെരുക്ക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 00:59:17 2025 ---

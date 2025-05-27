@@ -1,0 +1,3561 @@
+
+--- Starting New Generation Run at Sun May 25 23:55:23 2025 ---
+Model: gemini-2.5-flash-preview-04-17, Language: Malayalam, Prompt: 4_shot_method1_pattern_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Malayalam riddles.
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തൂണില്ലാ പന്തൽ?
+Answer: ആകാശം
+
+Example 2:
+Riddle: കാലില്ലാ കസേര?
+Answer: ഊഞ്ഞാൽ
+
+Example 3:
+Riddle: കഴുത്തുണ്ട്, തലയില്ല?
+Answer: കുപ്പി
+
+Example 4:
+Riddle: വാലില്ലാ കിണ്ടി?
+Answer: കിണർ
+
+Now, solve this riddle:
+Riddle : ഞെട്ടില്ല വട്ടേല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അടയ്ക്ക
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മുഖമുണ്ട്, കണ്ണുകളില്ല. കൈകളുണ്ട്, അടിക്കില്ല. എപ്പോഴും ഓടും, കാലുകളില്ല?
+Answer: ക്ലോക്ക്
+
+Example 2:
+Riddle: ചിറകില്ലാതെ പറക്കും, കണ്ണീരില്ലാതെ കരയും, വെള്ളം തരും, കിണറുമല്ല.
+Answer: മേഘം
+
+Example 3:
+Riddle: സംഖ്യകൾ ഉണ്ട്, പക്ഷെ കാൽക്കുലേറ്റർ അല്ല. കൈകളുണ്ട്, അടിക്കില്ല. എപ്പോഴും ഓടും, കാലുകളില്ല.
+Answer: ക്ലോക്ക്
+
+Example 4:
+Riddle: തലയുണ്ട് പക്ഷെ ആലോചിക്കില്ല. ശരീരമുണ്ട് പക്ഷെ അനങ്ങില്ല. തടവിയാൽ വെളിച്ചം തരും.
+Answer: തീപ്പെട്ടിക്കൊള്ളി
+
+Now, solve this riddle:
+Riddle : മുള്ളുണ്ട് മുരിക്കല്ല, കൊമ്പുണ്ട് കുത്തില്ല, പാലുണ്ട് പശുവല്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കള്ളിമുള്ള്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ശാന്തനായി കാണാമെങ്കിലും, ഉള്ളിൽ ക്രോധം തിളയ്ക്കും. എൻ വായിലൂടെ അത് പുറത്തു വരും.
+Answer: അഗ്നിപർവ്വതം
+
+Example 2:
+Riddle: നാദം, നാദത്തിന് കൂട്ടായി മറ്റൊരു നാദം, ആ രണ്ടാമനിലോ ആദ്യനാദം?
+Answer: പ്രതിധ്വനി
+
+Example 3:
+Riddle: തലയുണ്ട്, തലയ്ക്കൊരു ചുറ്റുണ്ട്, ചുറ്റിനൊരു തലയുണ്ട്?
+Answer: തലപ്പാവ്
+
+Example 4:
+Riddle: നൂലു പോലെ വളരും, മുകളിൽ കുട പോലെ കായ്ക്കും, കുടയ്ക്ക് താഴെ വീണ്ടും നൂലുകൾ
+Answer: കൂൺ
+
+Now, solve this riddle:
+Riddle : ചെടി ചെടിയിന്മേൽകായ് കയ്യിന്മേൽ ചെടി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കുരുമുളക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: നല്ലൊരു ചെറുക്കന് തലയിൽ പല്ല്?
+Answer: താക്കോൽ
+
+Example 2:
+Riddle: മഴയത്ത് വിടരും പൂവ്?
+Answer: കുട
+
+Example 3:
+Riddle: വായയില്ലാത്തൊരു വായാടി?
+Answer: പ്രതിധ്വനി
+
+Example 4:
+Riddle: ഒരുത്തന് തലയിൽ പല്ല്
+Answer: ചീർപ്പ്
+
+Now, solve this riddle:
+Riddle : നല്ല നായ്ക്ക് നാവിന്മേൽ പല്ല്
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അരം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പാടുന്ന ജീവിക്ക് തൊണ്ട പിന്നിലോ?
+Answer: ഉച്ചഭാഷിണി
+
+Example 2:
+Riddle: പറക്കാത്ത പക്ഷിക്ക് ചിറകുകൾ അകത്ത്?
+Answer: കുട
+
+Example 3:
+Riddle: കരയുന്ന കുഞ്ഞിന് തലയിൽ തീ?
+Answer: മെഴുകുതിരി
+
+Example 4:
+Riddle: അടിക്കുന്ന തലക്ക് പിന്നിൽ നഖം?
+Answer: ചുറ്റിക
+
+Now, solve this riddle:
+Riddle : കുത്തുന്ന കാളക്ക് പിന്നിൽ കണ്ണ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സൂചി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വരയിലുണ്ട് പുള്ളിയിലില്ല, കയ്യിലുണ്ട് കാലിലില്ല, നൂറിലുണ്ട് പത്തിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer: വയറ്
+
+Example 2:
+Riddle: പാലത്തിലുണ്ട് കടലിലില്ല, തലയിലുണ്ട് കയ്യിലില്ല, കാക്കയിലുണ്ട് പൂച്ചയിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer: പലക
+
+Example 3:
+Riddle: കഥയിലുണ്ട്, പാട്ടിലില്ല. വിരലിലുണ്ട്, കരളിലില്ല. തവളയിലുണ്ട്, പാമ്പിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer: കവിത
+
+Example 4:
+Riddle: മത്സ്യത്തിലുണ്ട് ഇറച്ചിയിലില്ല, കത്തിയിലുണ്ട് സ്പൂണിലില്ല, തേനിലുണ്ട് വെണ്ണയിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer: മത്തൻ
+
+Now, solve this riddle:
+Riddle : കരടിയിലുണ്ട് കുതിരയിലില്ല, ഉഴുന്നിലുണ്ട് ഉലുവയിലില്ല, ജനതയിലുണ്ട് ജനങ്ങളിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ത, ട, വ. Does വ fit {ഴ,തടം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കാലുപിടിക്കുന്നവന് കുളിരു നൽകുന്നവൻ?
+Answer: വീശറി
+
+Example 2:
+Riddle: എന്നെ തൊടുന്നവനെ ഇരുട്ടിൽ നിന്നകറ്റുന്നവൻ?
+Answer: സ്വിച്ച്
+
+Example 3:
+Riddle: മുഖത്ത് വെക്കുന്നവന് കാഴ്ചയെ തെളിയിക്കുന്നവൻ?
+Answer: കണ്ണട
+
+Example 4:
+Riddle: തലയിൽ അടി കൊണ്ടിട്ടും, മറ്റുള്ളവർക്ക് മധുരം നൽകുന്നവൻ?
+Answer: തേങ്ങ
+
+Now, solve this riddle:
+Riddle : കാലുപിടിക്കുന്നവനെ സംരക്ഷിക്കുന്നവൻ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പ്രതിഷ്ഠ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പുറത്ത് മുള്ളുണ്ട്, അകത്ത് തേനുണ്ട്?
+Answer: ചക്ക
+
+Example 2:
+Riddle: വെള്ളക്കോട്ടയ്ക്കുള്ളിൽ മഞ്ഞയുടുപ്പിട്ട സുന്ദരി?
+Answer: മുട്ട
+
+Example 3:
+Riddle: അകത്ത് വെള്ളം, പുറത്ത് കല്ല്?
+Answer: തേങ്ങ
+
+Example 4:
+Riddle: പുറത്ത് കല്ല്, അകത്ത് പഞ്ഞി?
+Answer: പരുത്തിക്കായ
+
+Now, solve this riddle:
+Riddle : അകത്തുരോമം പുറത്തിറച്ചി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഈന്തപ്പഴം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കണ്ടാലൊരു വായ്, ഇറങ്ങിയാലൊരു ലോകം?
+Answer: കിണറ്
+
+Example 2:
+Riddle: കണ്ടാലൊരു ഇല, ഊതിയാലൊരു പന്ത്?
+Answer: ബലൂൺ
+
+Example 3:
+Riddle: വിരിച്ചാൽ ഒരു മുറ്റം, ചുരുട്ടിയാൽ ഒരു തൂണ്?
+Answer: പായ്
+
+Example 4:
+Riddle: തുറന്നാൽ കൂണ്, അടച്ചാൽ വടി?
+Answer: കുട
+
+Now, solve this riddle:
+Riddle : കണ്ടാലൊരു വണ്ടി, തൊട്ടാലൊരു ചക്രം?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കളി വണ്ടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു തോട്ടിൽ നിരനിരയായി നിൽക്കുന്ന വെള്ളാരംകല്ലുകൾ?
+Answer: പല്ല്
+
+Example 2:
+Riddle: ഒരമ്മ പെറ്റതെല്ലാം കറുത്ത നേരിയ നൂലുകൾ?
+Answer: തലമുടി
+
+Example 3:
+Riddle: ഒരമ്മയുടെ മക്കൾക്കെല്ലാം നിരനിരയായി മഞ്ഞപ്പല്ലുകൾ?
+Answer: ചോളം
+
+Example 4:
+Riddle: ഒരമ്മയുടെ  ദേഹത്ത് മുഴുവൻ കൂർത്ത പട്ടാളം?
+Answer: റോസാച്ചെടിയുടെ മുള്ളുകൾ
+
+Now, solve this riddle:
+Riddle : ഒരമ്മ പെറ്റതെല്ലാം കറുത്ത പട്ടാളം?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഉറുമ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഉണ്ടാക്കുന്നവൻ അതിൽ വീഴുന്നില്ല, വീഴുന്നവൻ അറിയുന്നില്ല?
+Answer: കെണി
+
+Example 2:
+Riddle: വിധിക്കുന്നവൻ അനുഭവിക്കുന്നില്ല, അനുഭവിക്കുന്നവനോ പിന്നീട് ഒന്നും ഓർക്കുന്നില്ല.
+Answer: വധശിക്ഷ
+
+Example 3:
+Riddle: നിശ്ചയിക്കുന്നവർ എടുക്കുന്നില്ല, ആർക്കാണോ നിശ്ചയിച്ചത്, അയാൾ അതറിയുന്നില്ല.
+Answer: മരണാനന്തര ബഹുമതി
+
+Example 4:
+Riddle: പരത്തുന്നവർ അനുഭവിക്കുന്നില്ല, ആരെക്കുറിച്ചാണോ അയാൾ പലപ്പോഴും അറിയുന്നില്ല.
+Answer: അപവാദം
+
+Now, solve this riddle:
+Riddle : ഉണ്ടാക്കുന്നവൻ ഉപയോഗിക്കുന്നില്ല, ഉപയോഗിക്കുന്നവൻ അറിയുന്നില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ശവപ്പെട്ടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അമ്മ കരഞ്ഞപ്പോൾ മക്കൾ ചിതറിവീണു
+Answer: മേഘവും മഴയും
+
+Example 2:
+Riddle: അമ്മ കരയുമ്പോൾ മകൻ മെലിയുന്നു?
+Answer: മെഴുകുതിരി
+
+Example 3:
+Riddle: വൃത്തിയാക്കാൻ ഞാൻ എത്രത്തോളം ശ്രമിക്കുന്നുവോ, അത്രത്തോളം ഞാൻ ചെറുതാവുന്നു, ഒടുവിൽ ഇല്ലാതാകുന്നു.
+Answer: സോപ്പ്
+
+Example 4:
+Riddle: അമ്മയെ അമർത്തി മകൻ ഇല്ലാതായി?
+Answer: സ്റ്റേപ്ലർ പിൻ
+
+Now, solve this riddle:
+Riddle : അമ്മയെകുത്തി മകൻ മരിച്ചു?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ബലൂൺ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ചെളിക്കുളത്തിൽ ഒരു സ്വർണ്ണക്കിരീടം?
+Answer: താമര
+
+Example 2:
+Riddle: കൂരിരുട്ടിൽ ഒരു തരി പൊന്ന്?
+Answer: മിന്നാമിനുങ്ങ്
+
+Example 3:
+Riddle: നൂറേക്കർ പാടത്തിൽ ഒരൊറ്റക്കാലൻ?
+Answer: നോക്കുകുത്തി
+
+Example 4:
+Riddle: കറുത്ത കാട്ടിൽ ഒരു വെള്ളിരേഖ?
+Answer: നരച്ച മുടി
+
+Now, solve this riddle:
+Riddle : ആയിരം പറ അവളിൽ ഒരു നുള്ള് കൊട്ടത്തേങ്ങ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കല്ല്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പുറത്ത് രണ്ട് വാതിലുകൾ, നടുവിൽ കറുത്ത മുത്ത്, ഉള്ളിൽ വെള്ളാരംകല്ല്?
+Answer: കണ്ണ്
+
+Example 2:
+Riddle: അടി ഉറച്ച തൂൺ, നടു നീളമുള്ള കോൽ, തല വെള്ളം നിറച്ച കുടങ്ങൾ?
+Answer: തെങ്ങ്
+
+Example 3:
+Riddle: അടിയിൽ കിണ്ണം, നടുവിലൊരു തൂണ്, തലയിലൊരു പൊൻകിരീടം?
+Answer: നിലവിളക്ക്
+
+Example 4:
+Riddle: പുറത്ത് പച്ചക്കുടം, നടുവിൽ കയ്പുരസം, ഉള്ളിൽ ഉറച്ച കല്ല്?
+Answer: നെല്ലിക്ക
+
+Now, solve this riddle:
+Riddle : അടി മുള്ള്, നടു കാട്, തല പൂവ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+റോസാച്ചെടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരുപാടു മുറിയുണ്ട്, വാതിലില്ല.
+Answer: തേനീച്ചക്കൂട്
+
+Example 2:
+Riddle: ആകാശത്തിലെ അപ്പത്തിന് അരിയില്ല?
+Answer: അമ്പിളിമാമൻ
+
+Example 3:
+Riddle: കൂടെയുള്ള രൂപത്തിന് ശബ്ദമില്ല.
+Answer: നിഴൽ
+
+Example 4:
+Riddle: കരയുമെ പക്ഷെ കണ്ണുകളില്ല?
+Answer: മേഘം
+
+Now, solve this riddle:
+Riddle : മുറ്റത്തെ ചെപ്പിനു അടപ്പില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കിണർ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആയിരം കുട്ടികൾക്ക് ഒരു വളയം?
+Answer: താക്കോൽക്കൂട്ടം
+
+Example 2:
+Riddle: പല നക്ഷത്രങ്ങൾക്ക് ഒരു കൂടാരം?
+Answer: ആകാശം
+
+Example 3:
+Riddle: നൂറ് മക്കൾക്ക് ഒരൊറ്റ പിടി?
+Answer: വാഴക്കുല
+
+Example 4:
+Riddle: നൂറു ഭടന്മാർക്ക് ഒരു വീട്.
+Answer: തീപ്പെട്ടി
+
+Now, solve this riddle:
+Riddle : ആയിരം പോലീസുകാർക്ക് ഒരു ബെൽറ്റ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചങ്ങല
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തൊട്ടാൽ പൊട്ടും നിറക്കുടം?
+Answer: സോപ്പ് കുമിള
+
+Example 2:
+Riddle: തേച്ചാൽ മായും വെളുത്ത കളിക്കോപ്പ്?
+Answer: സോപ്പ്
+
+Example 3:
+Riddle: മണ്ണിലിട്ടാൽ ജീവൻ വെക്കും, നാളത്തെ അന്നദാതാവ്?
+Answer: വിത്ത്
+
+Example 4:
+Riddle: പിടിച്ചാൽ മായും നിഴൽ?
+Answer: പുക
+
+Now, solve this riddle:
+Riddle : ഇട്ടാൽ പൊട്ടും ഇംഗ്ലീഷ് മുട്ട?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വാക്ക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പപ്പടത്തിലുണ്ട് കടത്തിലില്ല, കുടത്തിലുണ്ട് കുളത്തിലില്ല. രണ്ടക്ഷരമുള്ള ഞാനാര്?
+Answer: പടം
+
+Example 2:
+Riddle: തലയിലുണ്ട് വലയിലില്ല, പറയിലുണ്ട് പനയിലില്ല. രണ്ടക്ഷരമുള്ള ഞാൻ ആര്?
+Answer: തറ
+
+Example 3:
+Riddle: കുടയിലുണ്ട് കുളത്തിലില്ല, ഡപ്പിയിലുണ്ട് മരത്തിലില്ല. രണ്ടക്ഷരമുള്ള വാക്ക്, ഞാനാരാണ്?
+Answer: കുപ്പി
+
+Example 4:
+Riddle: മാവിലുണ്ട് പ്ലാവിലില്ല, നിലാവിലുണ്ട് വെയിലിലില്ല. രണ്ടക്ഷരമുള്ള ഞാനാര്?
+Answer: മാല
+
+Now, solve this riddle:
+Riddle : ആനയിലുണ്ട് ചേനയിലില്ല, ഇമയിലുണ്ട് ഇഷ്ട്ടത്തിലില്ല. രണ്ട് അക്ഷരമുള്ള ഞാനാര്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ആമ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കൂടെ വരുന്നവൻ, കൂടെ നിൽക്കുന്നവൻ, വെളിച്ചം പോയാൽ ഓടിമറയുന്നവൻ?
+Answer: നിഴൽ
+
+Example 2:
+Riddle: നൃത്തം ചെയ്യും മത്സ്യം, നീന്തും മത്സ്യം, കര കണ്ടാൽ നില്ക്കും മത്സ്യം?
+Answer: ബോട്ട്
+
+Example 3:
+Riddle: ലോകം കാണിക്കുന്നവൻ, കഥകൾ പറയുന്നവൻ, നനഞ്ഞാൽ മിണ്ടാതാകുന്നവൻ?
+Answer: പുസ്തകം
+
+Example 4:
+Riddle: കൂടെ വരുന്നവൻ, കൂടെ നിൽക്കുന്നവൻ, വെളിച്ചം പോയാൽ ഓടിമറയുന്നവൻ?
+Answer: നിഴൽ
+
+Now, solve this riddle:
+Riddle : ഓടും കുതിര, ചാടും കുതിര, വെള്ളം കണ്ടാൽ നില്കും കുതിര?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തീപ്പെട്ടി കൊള്ളി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരച്ഛൻ്റെ മക്കൾക്ക് എല്ലാവർക്കും ഒരേ തിളക്കം.
+Answer: നക്ഷത്രങ്ങൾ
+
+Example 2:
+Riddle: ഒരു അമ്മ പെറ്റ മക്കളെല്ലാം ചുവന്ന തലയുള്ളവർ?
+Answer: തീപ്പെട്ടി
+
+Example 3:
+Riddle: ഒരമ്മയുടെ മക്കളെല്ലാം കറുത്ത പട്ടാളം?
+Answer: കട്ടുറുമ്പ്
+
+Example 4:
+Riddle: ഒരമ്മ പെറ്റ മക്കളെല്ലാം വെവ്വേറെ മുറികളിൽ താമസിക്കുന്നു.
+Answer: ഓറഞ്ച്
+
+Now, solve this riddle:
+Riddle : ഒരു അമ്മ പെറ്റതെല്ലാം തൊപ്പികുട്ടന്മാർ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഗ്രാമ്പൂ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അടിയിൽ പീഠം, നടുവിൽ തണ്ട്, മുകളിൽ പൂത്തിരി?
+Answer: നിലവിളക്ക്
+
+Example 2:
+Riddle: അടിയിൽ മായ്ക്കുന്നവൻ, നടുക്ക് മരം, മീതെ മൂർച്ച?
+Answer: പെൻസിൽ ()
+
+Example 3:
+Riddle: അടിക്ക് വേരില്ല, നടുക്ക് വടി, മീതെ കുട?
+Answer: കൂൺ
+
+Example 4:
+Riddle: അടിയിൽ വെള്ളം, നടുവിൽ കല്ല്, മീതെ വായ.
+Answer: കിണറ്
+
+Now, solve this riddle:
+Riddle : അടി പാറ, നാട് വടി, മീതെ കുട?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കാളാം കൂൺ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മുകളിലേക്കും താഴേക്കും പോകും, സമയം കൃത്യമായി പറയും?
+Answer: ഘടികാരം
+
+Example 2:
+Riddle: അങ്ങോട്ടും ഇങ്ങോട്ടും തിരിയും, ഒരിടത്ത് നിന്നാൽ കേൾക്കാം?
+Answer: റേഡിയോയുടെ ട്യൂണിംഗ്
+
+Example 3:
+Riddle: അങ്ങോട്ടും ഇങ്ങോട്ടും ചാഞ്ചാടും, നേരെനിന്ന് വഴി കാട്ടും?
+Answer: വടക്കുനോക്കിയന്ത്രം
+
+Example 4:
+Riddle: തുറക്കും അടയ്ക്കും, തുറന്നാൽ ലോകം കാണിക്കും.
+Answer: കണ്ണ്
+
+Now, solve this riddle:
+Riddle : അങ്ങോട്ടോടും, ഇങ്ങോട്ടോടും. നേരെനിന്ന് സത്യം പറയും?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തുലാസ്സ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഉപ്പുണ്ട് കടലല്ല, നനവുണ്ട് വെള്ളമല്ല?
+Answer: കണ്ണീർ
+
+Example 2:
+Riddle: കഴുത്തുണ്ട്, തലയില്ല. കൈകളുണ്ട്, പിടിക്കില്ല.
+Answer: കുപ്പായം (ഷർട്ട്)
+
+Example 3:
+Riddle: വെള്ളമുണ്ട് കിണറല്ല, കണ്ണുണ്ട് മനുഷ്യനല്ല?
+Answer: തേങ്ങ
+
+Example 4:
+Riddle: വാലുണ്ട്, മൃഗമല്ല. തലയുണ്ട്, മനുഷ്യനല്ല.
+Answer: നാണയം
+
+Now, solve this riddle:
+Riddle : മുള്ളുണ്ട് മുരിക്കല്ല, കൈപ്പുണ്ട് കാഞ്ഞിരമല്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പാവയ്ക്ക
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പുറത്തൊരു തല്ല്, അകത്തൊരു ചിരണ്ടൽ, നീരിനൊരു പിഴിച്ചിൽ?
+Answer: തേങ്ങ
+
+Example 2:
+Riddle: അടിക്കൊരു കുഴയ്ക്കൽ, നടുക്കൊരു തിരിക്കൽ, തലക്കൊരു ചുട്ടെടുക്കൽ?
+Answer: മൺപാത്ര നിർമ്മാണം
+
+Example 3:
+Riddle: ഞെട്ടിനൊരു ഒടിക്കൽ, തോലിനൊരു പൊളിക്കൽ, കാമ്പിനൊരു കടി?
+Answer: പഴം
+
+Example 4:
+Riddle: അടിക്കൊരു കുഴിക്കൽ, നടുക്കൊരു പടുക്കൽ, തലക്കൊരു മൂടൽ?
+Answer: വീട് നിർമ്മാണം
+
+Now, solve this riddle:
+Riddle : അടിക്കൊരുവെട്ടും നടുക്കൊരു കെട്ടും തലക്കൊരു ചവിട്ടും?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കറ്റ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പല മുത്തിന് ഒരു നൂല്?
+Answer: മാല
+
+Example 2:
+Riddle: ആയിരം ചുള്ളികൾക്ക് ഒറ്റപ്പിടി?
+Answer: ചൂല്
+
+Example 3:
+Riddle: പല രൂപങ്ങൾക്ക് ഒരു വളയം?
+Answer: താക്കോൽക്കൂട്ടം
+
+Example 4:
+Riddle: അഞ്ചു തൂണുകൾക്ക് ഒരൊറ്റ തറ?
+Answer: കൈപ്പത്തി
+
+Now, solve this riddle:
+Riddle : ആയിരം കിളികൾക്ക് ഒറ്റക്കൊക്ക്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സിബ്ബ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വായിക്കും, പക്ഷെ ലൈബ്രറിയിൽ തിരഞ്ഞാൽ എന്നെ കിട്ടില്ല.
+Answer: സംഗീതം
+
+Example 2:
+Riddle: എന്നെ പിഴിയും, പക്ഷെ തുണിയല്ല.
+Answer: നാരങ്ങ
+
+Example 3:
+Riddle: എന്നെ തുറക്കും, പക്ഷെ താക്കോലിട്ട് തുറക്കില്ല?
+Answer: പുസ്തകം
+
+Example 4:
+Riddle: ഞാൻ ഓടും, ഓടും... പക്ഷെ എവിടെയും എത്തില്ല.
+Answer: സമയം
+
+Now, solve this riddle:
+Riddle : എന്നെ തൊട്ടുകൂട്ടും, പക്ഷെ സദ്യക്ക് എടുക്കില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പരീക്ഷണം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു വാതിൽ, കാവലിരിക്കാനനേകം പേർ?
+Answer: പല്ല്
+
+Example 2:
+Riddle: ഒരു ദിവസത്തിൽ രണ്ടെണ്ണ?
+Answer: പകലും രാത്രിയും
+
+Example 3:
+Riddle: ഒരു തോടിനുള്ളിൽ രണ്ടെണ്ണം?
+Answer: നിലക്കടല
+
+Example 4:
+Riddle: ഒരുടലിൽ രണ്ട് ജീവൻ?
+Answer: ഗർഭിണി
+
+Now, solve this riddle:
+Riddle : ഒരു കുപ്പിയിൽ രണ്ടെണ്ണ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കിലുകിലാ ശബ്ദമുണ്ടാക്കും, പെട്ടിയിൽ ചത്തിരിക്കും?
+Answer: പെട്ടിയിലെ പൈസ
+
+Example 2:
+Riddle: ടിക് ടിക് ശബ്ദമുണ്ടാക്കും, ഭിത്തിയിൽ ഒരിടത്ത് നില്ക്കും?
+Answer: ക്ലോക്ക്
+
+Example 3:
+Riddle: തക തക മേളം കൊഴുപ്പിക്കും, അരങ്ങൊഴിഞ്ഞാൽ മൂലക്കിരിക്കും?
+Answer: ചെണ്ട
+
+Example 4:
+Riddle: ഡിം ഡിം എന്ന് ശബ്ദമുണ്ടാക്കും, അനങ്ങാതെ തൂങ്ങിക്കിടക്കും?
+Answer: മണി
+
+Now, solve this riddle:
+Riddle : കിക്കിലുക്കം, കിലുകിലുക്കം ഉത്തരത്തിൽ ചത്തിരിക്കും?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+താക്കോൽക്കൂട്ടം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഇതിനൊരു കണ്ണുണ്ട്, പക്ഷേ കാണില്ല. ഇതിനൊരു വായയുണ്ട്, പക്ഷേ മിണ്ടില്ല. ഇതിനൊരു കാതുണ്ട്, പക്ഷേ കേൾക്കില്ല. ഇതെന്താണ്?
+Answer: മുഖംമൂടി
+
+Example 2:
+Riddle: കൈകളുണ്ട്, വിരലുകളില്ല. കഴുത്തുണ്ട്, തലയില്ല. ഉടലുണ്ട്, ജീവനില്ല.
+Answer: ഷർട്ട്
+
+Example 3:
+Riddle: വഴിയുണ്ട് യാത്രയില്ല, പുഴയുണ്ട് വെള്ളമില്ല, നാടുണ്ട് ആളില്ല?
+Answer: ഭൂപടം
+
+Example 4:
+Riddle: കാലുകളുണ്ട്, പാദങ്ങളില്ല; പുറമുണ്ട്, നട്ടെല്ലില്ല; കൈകളുണ്ട്, വിരലുകളില്ല?
+Answer: കസേര
+
+Now, solve this riddle:
+Riddle : കാടുണ്ട് കടുവയില്ല, വീടുണ്ട് വീട്ടാറില്ല, കുളമുണ്ട് മീനില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചിത്രം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പച്ച തിന്ന് ചുവപ്പ് തുപ്പും?
+Answer: മുറുക്ക്
+
+Example 2:
+Riddle: പൊൻകൂട്ടിൽ വെള്ളി നൂൽക്കും?
+Answer: പട്ടുനൂൽ പുഴു
+
+Example 3:
+Riddle: പൊൻതല ചെത്തിയാൽ വെള്ളിവാൽ കാണാം?
+Answer: പെൻസിൽ
+
+Example 4:
+Riddle: വെളിച്ചത്തെ വിഴുങ്ങും, ചിത്രങ്ങളെ പുറത്തേക്ക് തുപ്പും.
+Answer: ക്യാമറ
+
+Now, solve this riddle:
+Riddle : പൊന്നുതിന്ന് വെള്ളിതുപ്പി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പൊടിമില്ല്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഇരുട്ടിലെ അമ്മക്ക് തലയിൽ തീ?
+Answer: വിളക്ക്
+
+Example 2:
+Riddle: ഒറ്റക്കാലിൽ നിൽക്കും തോട്ടക്കാരന് തലയിലൊരു കുട.
+Answer: കൂൺ
+
+Example 3:
+Riddle: അടുക്കളയിലെ രാജാവിന് തലയിൽ ചൂളം?
+Answer: പ്രഷർ കുക്കർ
+
+Example 4:
+Riddle: വയലിലെ സുന്ദരിക്ക് തലനിറയെ മുത്ത്?
+Answer: നെൽക്കതിർ
+
+Now, solve this riddle:
+Riddle : മലയിലെ അമ്മക്ക് നെറുകയിൽപൂവ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ക്ഷേത്രം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വാഹനങ്ങൾക്കും സമയത്തിനും പൊതുവായുള്ളത് എന്താണ്?
+Answer: ഓട്ടം
+
+Example 2:
+Riddle: മനുഷ്യനും നാണയത്തിനും പൊതുവായിട്ടുള്ളത് എന്താണ്?
+Answer: തല
+
+Example 3:
+Riddle: സ്നേഹത്തിനും കിണറിനും പൊതുവായുള്ളത് എന്താണ്?
+Answer: ആഴം
+
+Example 4:
+Riddle: ശരീരഭാഗത്തിനും നികുതിക്കും പൊതുവായുള്ളത് എന്ത്?
+Answer: കരം
+
+Now, solve this riddle:
+Riddle : മരങ്ങൾക്കും ബാങ്കുകൾക്കും പൊതുവായുള്ളത് എന്താണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ശാഖ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആസ്വദിക്കാൻ കഴിയാത്ത രസം ഏതാണ്?
+Answer: വിരസം
+
+Example 2:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത മാനം ഏതാണ്?
+Answer: അപമാനം
+
+Example 3:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത ശ്രദ്ധ ഏതാണ്?
+Answer: അശ്രദ്ധ
+
+Example 4:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത ഫലം ഏതാണ്?
+Answer: നിഷ്ഫലം
+
+Now, solve this riddle:
+Riddle : ആരും ഇഷ്ടപ്പെടാത്ത പണം ഏതാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നഷ്ടം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കണ്ണുള്ളവനും കണ്ണില്ലാത്തവനും ഒരുപോലെ അറിയുന്ന വെളിച്ചം?
+Answer: അറിവിൻ്റെ വെളിച്ചം
+
+Example 2:
+Riddle: എല്ലാവരും ഉണ്ടാക്കുന്ന കോട്ട
+Answer: മനക്കോട്ട
+
+Example 3:
+Riddle: പാവപ്പെട്ടവനും പണക്കാരനും ഒരുപോലെ കാണുന്ന കാഴ്ച?
+Answer: ഉൾകാഴ്ച
+
+Example 4:
+Riddle: ജയിച്ചവനും തോറ്റവനും ഒരുപോലെ അനുഭവിക്കുന്ന ചൂട്?
+Answer: മത്സരച്ചൂട്
+
+Now, solve this riddle:
+Riddle : ആൺകുട്ടികളും പെൺകുട്ടികളും ഒരുപോലെ ഉപയോഗിക്കുന്ന മാല ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പേരുമാല
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആരും തിരഞ്ഞെടുക്കാൻ ആഗ്രഹിക്കാത്ത വഴി?
+Answer: ദുർവ്വഴി
+
+Example 2:
+Riddle: ആരും വീഴാൻ ആഗ്രഹിക്കാത്ത വല?
+Answer: ചിലന്തിവല
+
+Example 3:
+Riddle: ആരും വരാൻ ആഗ്രഹിക്കാത്ത സുഖം 
+Answer: അസുഖം
+
+Example 4:
+Riddle: ആരും കേൾക്കാൻ ആഗ്രഹിക്കാത്ത വാക്ക്?
+Answer: ദുർവാക്ക്
+
+Now, solve this riddle:
+Riddle : ആരും പോകാൻ ആഗ്രഹിക്കാത്ത അറ ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തടവറ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മറ്റുള്ളവർക്കായി വാതിൽ തുറക്കും, പക്ഷെ ഞാൻ ഒരിക്കലും അകത്ത് കടക്കുന്നില്ല. ഞാൻ ആരാണ്?
+Answer: താക്കോൽ
+
+Example 2:
+Riddle: എല്ലാവരെയും ലക്ഷ്യസ്ഥാനത്ത് എത്തിക്കുകയും എന്നാൽ ഒരിടത്തും പോകാതിരിക്കുകയും ചെയ്യുന്നത് ആരാണ്?
+Answer: റോഡ്
+
+Example 3:
+Riddle: എല്ലാവർക്കും ഇരിപ്പിടമൊരുക്കും, പക്ഷെ ഒരിക്കലും ഇരിക്കില്ല. അതാരാണ്?
+Answer: കസേര
+
+Example 4:
+Riddle: എല്ലാവരെയും കാണിച്ചുതരും, പക്ഷെ സ്വന്തമായി രൂപമില്ല. അതാരാണ്?
+Answer: കണ്ണാടി
+
+Now, solve this riddle:
+Riddle : എല്ലാവർക്കും വിളമ്പി നൽകുകയും സ്വയം ഒന്നും കഴിക്കാതിരിക്കുകയും ചെയ്യുന്നത് ആരാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സ്പൂൺ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മണ്ണിനടിയിൽ പോയാൽ വലുതാകുന്നത് ആര് ?
+Answer: വിത്ത്
+
+Example 2:
+Riddle: ഓരോന്ന് എടുത്തുമാറ്റുമ്പോൾ വലുതാകുന്നത് ആര്?
+Answer: ദ്വാരം
+
+Example 3:
+Riddle: സംസാരിക്കാതിരുന്നാൽ കേൾക്കുന്നത് എന്ത്?
+Answer: നിശ്ശബ്ദത
+
+Example 4:
+Riddle: തലകുത്തി നിന്നാൽ ചെറുതാകുന്നത് ആര്?
+Answer: 9
+
+Now, solve this riddle:
+Riddle : തലകുത്തി നിന്നാൽ വലുതാകുന്നത് ആര് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+6
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തല വെട്ടുംതോറും ചെറുതാകുന്നവൻ?
+Answer: പെൻസിൽ
+
+Example 2:
+Riddle: അടി കിട്ടി കിട്ടി മുന്നോട്ട് പോകുന്നതെന്ത്?
+Answer: ആണി
+
+Example 3:
+Riddle: അടികിട്ടുംതോറും ശബ്ദം മധുരമാകുന്നതാര്?
+Answer: ചെണ്ട
+
+Example 4:
+Riddle: വെട്ടുന്തോറും താഴ്ചയിലേക്ക് പോകുന്നതെന്ത്?
+Answer: കിണർ
+
+Now, solve this riddle:
+Riddle : വെച്ചടി വെച്ചടി കയറ്റം കിട്ടുന്ന ജോലി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പൂജാരി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കഴിച്ചതിനെക്കുറിച്ച് പറയാൻ ഉപയോഗിക്കുന്ന നമ്പർ?
+Answer: 8
+
+Example 2:
+Riddle: കാണാൻ പറ്റുന്ന ഇംഗ്ലീഷ് അക്ഷരം?
+Answer: C
+
+Example 3:
+Riddle: പറക്കാൻ കഴിവുള്ള ഇംഗ്ലീഷ് അക്ഷരം?
+Answer: B
+
+Example 4:
+Riddle: നിങ്ങളാകുന്ന ഇഗ്ലീഷ് അക്ഷരം ?
+Answer: U
+
+Now, solve this riddle:
+Riddle : കുടിക്കാൻ പറ്റുന്ന ഇഗ്ലീഷ് അക്ഷരം ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+T
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എല്ലാവരും ആഗ്രഹിക്കുന്ന മാനം ഏത്..?
+Answer: സമ്മാനം
+
+Example 2:
+Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന ഒരു ദാനം ഏതാണ്?
+Answer: വാഗ്ദാനം
+
+Example 3:
+Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന അടി ഏത്?
+Answer: കൈയ്യടി
+
+Example 4:
+Riddle: എല്ലാവരും ഇഷ്ടപ്പെടുന്ന ഒരു തൃപ്തി ഏതാണ്?
+Answer: സംതൃപ്തി
+
+Now, solve this riddle:
+Riddle : എല്ലാവരും ഇഷ്ടപ്പെടുന്ന വാർഡ് ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+റിവാർഡ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ധൈര്യശാലികളെപ്പോലും കരയിക്കുന്ന സൂചി ഏതാണ്?
+Answer: ഇഞ്ചക്ഷൻ സൂചി
+
+Example 2:
+Riddle: കർഷകർ ഏറ്റവും കൂടുതൽ ഭയക്കുന്ന വെള്ളം ഏതാണ്.?
+Answer: വെള്ളപ്പൊക്കം
+
+Example 3:
+Riddle: വിദ്യാർത്ഥികൾക്ക് പേടിയുള്ള പേപ്പർ ഏതാണ്?
+Answer: ചോദ്യപേപ്പർ
+
+Example 4:
+Riddle: എല്ലാ യാത്രക്കാരും എത്തിച്ചേരുന്ന സ്ഥലം ഏതാണ്?
+Answer: ലക്ഷ്യസ്ഥാനം
+
+Now, solve this riddle:
+Riddle : കുറ്റവാളികൾ ഭയപ്പെടുന്ന മരം ഏതാണ്.?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തൂക്കുമരം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആകാശം ഇല്ലാത്ത മാനം ഏത്?
+Answer: അഭിമാനം
+
+Example 2:
+Riddle: മൃഗമല്ലാത്ത നായ ആര്?
+Answer: നായകൻ
+
+Example 3:
+Riddle: ആനയെ നോക്കാത്ത പാപ്പൻ ആര്?
+Answer: ക്രിസ്മസ് പാപ്പൻ
+
+Example 4:
+Riddle: വെള്ളം കുടിക്കാൻ പറ്റാത്ത കപ്പ് ഏത്?
+Answer: ലോകകപ്പ്
+
+Now, solve this riddle:
+Riddle : വണ്ടി ഓടാത്ത റൂട്ട് ഏത്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഡാറ്റാ റൂട്ട്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും പ്രശ്നമുണ്ടാക്കുന്ന ഒരു വാദം ഏതാണ്?
+Answer: വിവാദം
+
+Example 2:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത ശീലം ഏതാണ്?
+Answer: ദുശ്ശീലം
+
+Example 3:
+Riddle: ആരും ആഗ്രഹിക്കാത്ത മാനം ഏതാണ് ?
+Answer: അപമാനം
+
+Example 4:
+Riddle: എളുപ്പത്തിൽ മുറിവേൽക്കുന്ന മാനം ഏതാണ്?
+Answer: അഭിമാനം
+
+Now, solve this riddle:
+Riddle : ആരും ഇഷ്ടപ്പെടാത്ത ദേശം ഏതാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ദുർദ്ദേശം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഇത് നിങ്ങളുടെ മനസ്സിലുണ്ട്, പക്ഷെ പുറത്ത് കാണാൻ കഴിയില്ല. എന്താണത് ?
+Answer: ചിന്ത
+
+Example 2:
+Riddle: നിങ്ങളുടെ മുന്നിലുണ്ട് എന്നാൽ നിങ്ങൾക്ക് കാണാൻ കഴിയില്ല. എന്താണത് ?
+Answer: വായു
+
+Example 3:
+Riddle: നിങ്ങൾക്ക് ചുറ്റുമുണ്ട്, പക്ഷെ കാണാൻ കഴിയില്ല. എന്താണത് ?
+Answer: വായു
+
+Example 4:
+Riddle: ഇത് നിങ്ങളുടെ ഉള്ളിലുണ്ട്, മറ്റൊരാൾക്ക് കാണാൻ കഴിയില്ല. എന്താണത് ?
+Answer: രഹസ്യം
+
+Now, solve this riddle:
+Riddle : നിങ്ങളുടെ മുന്നിലുണ്ട് എന്നാൽ നിങ്ങൾക്ക് കാണാൻ കഴിയില്ല. എന്താണത് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വായു
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും അടി കൊള്ളുന്നവൻ, പക്ഷെ കുറ്റവാളിയല്ല.
+Answer: ചെണ്ട
+
+Example 2:
+Riddle: എപ്പോഴും കത്തുന്നതെന്താണ്?
+Answer: തീപ്പെട്ടി
+
+Example 3:
+Riddle: എപ്പോഴും കയ്യിലിരിക്കുന്ന സാധനം ഏതാണ്?
+Answer: വിരൽ
+
+Example 4:
+Riddle: എന്നും കുളിച്ച് മറ്റുള്ളവരെ വൃത്തിയാക്കുന്ന സാധനം ഏതാണ്?
+Answer: സോപ്പ്
+
+Now, solve this riddle:
+Riddle : എന്നും ഉപ്പിലിടുന്ന വസ്തു ഏതാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മീൻ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഭക്ഷണം കഴിക്കാനോ സംസാരിക്കാനോ അല്ലാതെ നിങ്ങളുടെ വായ തുറന്നു കിടക്കുന്നത് എപ്പോൾ?
+Answer: കോട്ടുവാ ഇടുമ്പോൾ
+
+Example 2:
+Riddle: വാച്ച് ഓടുന്നത് എപ്പോൾ ?
+Answer: ബാറ്ററി ഉള്ളപ്പോൾ
+
+Example 3:
+Riddle: വായനക്കാരൻ പുസ്തകം തുറന്നിട്ടും ഒരക്ഷരം പോലും വായിക്കാത്തത് എപ്പോൾ?
+Answer: ഉറങ്ങിപോകുമ്പോൾ
+
+Example 4:
+Riddle: ആളുകൾ ഒറ്റക്കണ്ണ് അടച്ചുപിടിക്കുന്നത് എപ്പോൾ?
+Answer: ഫോട്ടോ എടുക്കുമ്പോൾ
+
+Now, solve this riddle:
+Riddle : പോലീസുകാർ ഒറ്റക്കാലിൽ നിൽക്കുന്നത് എപ്പോൾ ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ട്രാഫിക് നിയന്ത്രിക്കുമ്പോൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും കയ്യിലൊരു പാൻ രാജ്യം ഏത്?
+Answer: ജപ്പാൻ
+
+Example 2:
+Riddle: ശരീരത്തിൽ എണ്ണമയമുള്ള രാജ്യം ഏത്?
+Answer: ഗ്രീസ്
+
+Example 3:
+Riddle: എപ്പോഴും മധുരമുള്ള നഗരം ഏത്?
+Answer: മധുര
+
+Example 4:
+Riddle: എപ്പോഴും ഐസുള്ള രാജ്യം ഏത്..?
+Answer: ഐസ്‌ലാന്റ്
+
+Now, solve this riddle:
+Riddle : എപ്പോഴും വിശപ്പുള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+റഷ്യ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എപ്പോഴും ജയിക്കുന്ന നഗരം ഏത്?
+Answer: ജയ്പൂർ
+
+Example 2:
+Riddle: ഏറ്റവും കൂടുതൽ വിശപ്പുള്ള രാജ്യം ഏത്?
+Answer: ഹംഗറി
+
+Example 3:
+Riddle: ആളുകൾ എപ്പോഴും ക്യൂ നിൽക്കുന്ന രാജ്യം ഏത്..?
+Answer: ക്യൂബ
+
+Example 4:
+Riddle: എപ്പോഴും മധുരമായിരിക്കുന്ന സ്ഥലം ഏത്?
+Answer: മധുര
+
+Now, solve this riddle:
+Riddle : ആളുകൾ എപ്പോഴും തെന്നിവീഴുന്ന രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഐസ്‌ലാൻഡ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഏറ്റവും കൂടുതൽ അടി കിട്ടിയ സ്ഥലം ഏത്?
+Answer: അടിമാലി
+
+Example 2:
+Riddle: എപ്പോഴും ഐസുള്ള രാജ്യം ഏത്..?
+Answer: ഐസ്‌ലാന്റ്
+
+Example 3:
+Riddle: എപ്പോഴും മധുരമുള്ള സ്ഥലം ഏത്?
+Answer: മധുര
+
+Example 4:
+Riddle: എപ്പോഴും കട്ടിയായി കാണപ്പെടുന്ന സാധനം ഏത്?
+Answer: കട്ടിൽ
+
+Now, solve this riddle:
+Riddle : എപ്പോഴും മഴയുള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മലേഷ്യ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഫ്രണ്ട്സ് കൂടുതൽ ഉള്ള രാജ്യം ഏത്?
+Answer: ഫ്രാൻസ്
+
+Example 2:
+Riddle: ഒരുപാട് അരി വിളയുന്ന സ്ഥലം ഏത്?
+Answer: അരിസോണ
+
+Example 3:
+Riddle: ഏത് ഊരിനാണ് കണ്ണ് ഉള്ളത്?
+Answer: കണ്ണൂർ
+
+Example 4:
+Riddle: ഏത് കോഴിക്കാണ് കൂടുതൽ നാടുള്ളത്?
+Answer: നാടൻകോഴി
+
+Now, solve this riddle:
+Riddle : ന്യൂസുകൾ കൂടുതൽ ഉള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ന്യൂസീലാൻഡ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഏറ്റവും കൂടുതൽ മധുരമുള്ള സ്ഥലം ഏതാണ്?
+Answer: മധുര
+
+Example 2:
+Riddle: ഏത് കാട്ടിലാണ് നിറയെ പാലുള്ളത്?
+Answer: പാലക്കാട്
+
+Example 3:
+Riddle: എപ്പോഴും ഐസ് ഉള്ള രാജ്യം ഏത്?
+Answer: ഐസ്‌ലാൻഡ്
+
+Example 4:
+Riddle: ഏറ്റവും കൂടുതൽ അടി കിട്ടിയ സ്ഥലം ഏത്?
+Answer: അടിമാലി
+
+Now, solve this riddle:
+Riddle : ഏറ്റവും കൂടുതൽ തിരക്കുള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തിരക്ക് രാജ്യം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരുപാട് ദൂരം നടന്നാൽ എന്തുപറ്റും?
+Answer: ദൂരം കുറയും
+
+Example 2:
+Riddle: ഒരു കടലാസ് വെള്ളത്തിൽ ഇട്ടാൽ എന്തു പറ്റും?
+Answer: നനയും
+
+Example 3:
+Riddle: പേന കൊണ്ട് പേപ്പറിൽ എഴുതിയാൽ എന്തു പറ്റും?
+Answer: മഷി പറ്റും
+
+Example 4:
+Riddle: ഒരു രഹസ്യം പലരുടെ ഇടയിൽ ഇട്ടാൽ എന്തുപറ്റും?
+Answer: രഹസ്യമല്ലാതാകും
+
+Now, solve this riddle:
+Riddle : ഒരു മീനിനെ പിടിച്ചു കരയ്ക്ക് ഇട്ടാൽ എന്തുപറ്റും ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചാകും
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഒരു വിദ്യാർത്ഥി സ്കൂളിൽ ആദ്യമായി ചേരുമ്പോൾ എന്ത് നേടുന്നു?
+Answer: പ്രവേശനം
+
+Example 2:
+Riddle: ഒരു ഗുരു ശിഷ്യന് ആദ്യമായി കൊടുക്കുന്നത് എന്താണ്?
+Answer: അറിവ്
+
+Example 3:
+Riddle: ഒരു പുസ്തകം തുറക്കുമ്പോൾ ആദ്യം കാണുന്നത് എന്താണ്?
+Answer: ഒന്നാം പേജ്
+
+Example 4:
+Riddle: തെറ്റ് ചെയ്യുന്ന ഒരാൾ ആദ്യം പഠിക്കുന്നത് എന്താണ്?
+Answer: പാഠം
+
+Now, solve this riddle:
+Riddle : വധൂവരന്മാർ ആദ്യമായി കഴിക്കുന്നത് എന്താണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മധുരം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കണ്ണാടി നിങ്ങളെ കാണിക്കുമെങ്കിലും സംസാരിക്കാത്തത് എന്തുകൊണ്ട്?
+Answer: വാ ഇല്ലാത്തതുകൊണ്ട്
+
+Example 2:
+Riddle: ഒരാൾ വരാൻ വൈകുമ്പോൾ എന്തിനാണ് കാത്തുനിൽക്കുന്നത്?
+Answer: അവർ വരാത്തതുകൊണ്ട്
+
+Example 3:
+Riddle: വഴി അറിയാത്തപ്പോൾ എന്തിനാണ് മറ്റൊരാളോട് ചോദിക്കുന്നത്?
+Answer: വഴി അറിയാത്തതുകൊണ്ട്
+
+Example 4:
+Riddle: ഇരുട്ടിൽ തപ്പിത്തടയുന്നത് എന്തുകൊണ്ട് ?
+Answer: വെളിച്ചമില്ലാത്തതുകൊണ്ട്
+
+Now, solve this riddle:
+Riddle : പിറകിൽ നിന്ന് ആരെങ്കിലും വിളിച്ചാൽ തിരിഞ്ഞു നോക്കുന്നത് എന്തുകൊണ്ട് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പുറകിൽ കാണാൻ പറ്റാത്തതുകൊണ്ട്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഈ ദിവസം നിങ്ങളുടേതാണ്, പക്ഷെ ഈ ദിവസം ആഘോഷിക്കുന്നത് കൂടുതലും മറ്റുള്ളവരാണ്. എന്ത് ?
+Answer: നിങ്ങളുടെ പിറന്നാൾ
+
+Example 2:
+Riddle: നിങ്ങളുടെ സ്വന്തം ആണെങ്കിലും, മറ്റുള്ളവർക്ക് നിങ്ങളെ കണ്ടെത്താനുള്ള വഴിയാണ് ഇത്. എന്ത്?
+Answer: വിലാസം
+
+Example 3:
+Riddle: നിങ്ങളുടെ കൈയ്യക്ഷരം ആണെങ്കിലും മറ്റുള്ളവർക്ക് വേണ്ടിയാണ് നിങ്ങൾ ഇത് എഴുതുന്നത്. എന്ത്?
+Answer: ഒപ്പ്
+
+Example 4:
+Riddle: നിങ്ങളിത് ഉണ്ടാക്കുന്നു, പക്ഷെ ഇതിനെക്കുറിച്ച് സംസാരിക്കുന്നതും വിലയിരുത്തുന്നതും കൂടുതലും മറ്റുള്ളവരാണ്. എന്ത്?
+Answer: നിങ്ങളുടെ സൽപ്പേര്
+
+Now, solve this riddle:
+Riddle : നിങ്ങളുടെ സ്വന്തം ആണെങ്കിലും ഇത് കൂടുതലും ഉപയോഗിക്കുന്നത് മറ്റുള്ളവരാണ്. എന്ത് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പേര്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അമർത്തുമ്പോൾ ചെറുതാകും, കൈവിട്ടാൽ വലുതാകും.
+Answer: സ്പ്രിംഗ്
+
+Example 2:
+Riddle: ആദ്യം കൂർത്ത മുനയാണ്, പിന്നെ ഉപയോഗിച്ചാൽ മൊണ്ണയാകും?
+Answer: പെൻസിൽ
+
+Example 3:
+Riddle: കടത്തുമ്പോൾ പ്രയാസമായിരിക്കും, കടന്നു കഴിഞ്ഞാൽ എളുപ്പമായിരിക്കും?
+Answer: നൂൽ
+
+Example 4:
+Riddle: ചവയ്ക്കുമ്പോൾ കട്ടിയുള്ളതും, ചവച്ചു കഴിഞ്ഞാൽ മയമുള്ളതും എന്താണ്?
+Answer: ച്യൂയിംഗം
+
+Now, solve this riddle:
+Riddle : ഇടുമ്പോൾ ടൈറ്റ് ആയിരിക്കും ഇട്ടു കഴിഞ്ഞാൽ ലൂസ് ആയിരിക്കും ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മോതിരം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മുള്ളൻ കോട്ടയ്ക്കുള്ളിൽ വെണ്ണപോലെ ഒരാൾ.
+Answer: ചക്കച്ചുള
+
+Example 2:
+Riddle: ചുവന്ന പുരയ്ക്കുള്ളിൽ ഒരുപാട് കറുത്ത തൊപ്പിക്കാർ?
+Answer: തീപ്പെട്ടി
+
+Example 3:
+Riddle: ഒരു കിണറ്റിനു ചുറ്റും ആയിരം പടയാളികൾ.
+Answer: ചോളം
+
+Example 4:
+Riddle: കറുത്തമ്മയുടെ പറമ്പിൽ ഒരുപാട് വെള്ളിക്കിണ്ണം.
+Answer: നക്ഷത്രങ്ങൾ
+
+Now, solve this riddle:
+Riddle : ആകാശത്തൊരു കൂട്ടിനുള്ളില്‍ മുപ്പത്തിരണ്ടു വെള്ളാന
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പല്ലുകൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ശരീരത്തിലെ പടത്തലവന് അഞ്ച് പടയാളികൾ.
+Answer: കൈയ്യും വിരലുകളും
+
+Example 2:
+Riddle: മുറിയിലെ രാജാവിന് മൂന്നു ചിറകുകൾ.
+Answer: ഫാൻ
+
+Example 3:
+Riddle: നഗരത്തിലെ കാവൽക്കാരന് മൂന്നുണ്ട് കണ്ണുകൾ.
+Answer: ട്രാഫിക് ലൈറ്റ്
+
+Example 4:
+Riddle: കാലമാകുന്ന പുഴയിൽ പന്ത്രണ്ടു കൈവഴികൾ.
+Answer: വർഷം
+
+Now, solve this riddle:
+Riddle : വീട്ടിലെ കോവിലിൽ മൂന്നുണ്ട് ദൈവങ്ങൾ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വിളക്ക്, മണി, ധൂപം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കുഴിക്കും തോറും വളരും ഞാൻ.
+Answer: കുഴി
+
+Example 2:
+Riddle: ചെലവാക്കും തോറും കൂടും ഞാൻ.
+Answer: കടം
+
+Example 3:
+Riddle: പറഞ്ഞു പരത്തും തോറും വലുതാകും ഞാൻ.
+Answer: വാർത്ത
+
+Example 4:
+Riddle: പങ്കുവെക്കും തോറും വളരും ഞാൻ.
+Answer: അറിവ്
+
+Now, solve this riddle:
+Riddle : വെട്ടും തോറും വളരും ഞാൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വഴി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മഞ്ഞയനെ മാറ്റിയിരുത്തി, വെള്ളയനെ കേറ്റിയിരുത്തി.
+Answer: പഴം തിന്നുന്നു
+
+Example 2:
+Riddle: പഴയൊരാളെ യാത്രയാക്കി, പുതിയൊരാളെ സ്വീകരിച്ചിരുത്തി.
+Answer: പുതുവർഷം
+
+Example 3:
+Riddle: കറുത്ത ചേലയെ മാറ്റിവച്ചു, പൊൻചേലയുടുത്ത് വന്നു.
+Answer: സൂര്യോദയം
+
+Example 4:
+Riddle: കറുത്ത വര മായ്ച്ചു നീക്കി, വെളുത്ത വഴി തെളിയിച്ചു.
+Answer: റബ്ബർ
+
+Now, solve this riddle:
+Riddle : വെള്ളച്ചാരെ മാറ്റിയിരുത്തി, ചോപ്പന്മാരെ കേറ്റിയിരുത്തി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മുറുക്ക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വെള്ളക്കോട്ടയ്ക്കുള്ളിൽ മഞ്ഞക്കൊട്ടാരം.
+Answer: മുട്ട
+
+Example 2:
+Riddle: മുള്ളൻ കോട്ടയ്ക്കുള്ളിൽ ഒരു തേൻകൂട്.
+Answer: ചക്കപ്പഴം
+
+Example 3:
+Riddle: ഒരു തവിട്ടു മതിലിനുള്ളിൽ രണ്ട് വെളുത്ത കട്ടകൾ.
+Answer: കപ്പലണ്ടി
+
+Example 4:
+Riddle: ഒരു പച്ച മതിലിനുള്ളിൽ ഒരു ചുവന്ന പുഴ.
+Answer: തണ്ണിമത്തൻ
+
+Now, solve this riddle:
+Riddle : വെള്ളമതിലിനുള്ളിൽ ഒരു വെള്ളിവടി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മെഴുകുതിരി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വെള്ളി വീട്ടിൽ ഒരൊറ്റക്കാലൻ.
+Answer: ഒച്ച്
+
+Example 2:
+Riddle: വെളുത്ത കോട്ടയ്ക്കുള്ളിൽ സ്വർണ്ണ കൊട്ടാരം.
+Answer: മുട്ട
+
+Example 3:
+Riddle: വെള്ളത്തളികയിൽ കറുത്ത വിത്തുകൾ
+Answer: അക്ഷരങ്ങൾ
+
+Example 4:
+Riddle: നീലപ്പരവതാനിയിൽ വെള്ളിമുത്തുകൾ.
+Answer: ആകാശവും നക്ഷത്രങ്ങളും
+
+Now, solve this riddle:
+Riddle : വെള്ളിക്കിണ്ണത്തിൽ ഞാവൽപ്പഴം.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഉണങ്ങിയൊരമ്മയ്ക്ക് പച്ചയായ മക്കൾ.
+Answer: വിത്ത്
+
+Example 2:
+Riddle: അമ്മ മിണ്ടാതെയിരിക്കും, മകൾ വന്നാൽ നാട് നടുങ്ങും.
+Answer: മേഘവും ഇടിയും
+
+Example 3:
+Riddle: ഇഴയുന്നൊരമ്മയ്ക്ക് പറക്കുന്ന മക്കൾ.
+Answer: ചിത്രശലഭം
+
+Example 4:
+Riddle: പെറ്റമ്മയ്ക്ക് തലയില്ല, മക്കൾക്കെല്ലാം തലയുണ്ട്.
+Answer: തീപ്പെട്ടി
+
+Now, solve this riddle:
+Riddle : വാലില്ലാത്തമ്മയ്ക്ക് വാലുള്ള മക്കൾ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തവള
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കാലുണ്ട്, പക്ഷേ നടക്കില്ല.
+Answer: കസേര
+
+Example 2:
+Riddle: നക്ഷത്രമാണ്, പക്ഷേ ആകാശത്തല്ല.
+Answer: കടൽനക്ഷത്രം
+
+Example 3:
+Riddle: സൂചിയുണ്ട് , പക്ഷെ കോർക്കാൻ പറ്റില്ല 
+Answer: ക്ലോക്കിലെ സൂചി
+
+Example 4:
+Riddle: ക്ലോക്കാണ്, പക്ഷേ സൂചികളില്ല കാണിക്കാൻ.
+Answer: ഡിജിറ്റൽ ക്ലോക്ക്
+
+Now, solve this riddle:
+Riddle : വില്ലാണ് പക്ഷേ ഞാണില്ല കെട്ടാൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മഴവില്ല്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പിറക്കുന്നത് ചെറുതായി, വളരുന്നത് വലുതായി.
+Answer: പുഴ
+
+Example 2:
+Riddle: തല വട്ടം ഞെക്കിയാൽ നീളത്തിലോടും.
+Answer: ടൂത്ത് പേസ്റ്റ്
+
+Example 3:
+Riddle: വട്ടത്തിൽ തിരിയുമ്പോൾ നേരെ മുന്നോട്ട് പോകും.
+Answer: സ്ക്രൂ
+
+Example 4:
+Riddle: എന്നെ വട്ടത്തിൽ തിരിച്ചാൽ, ഞാൻ താഴേക്ക് വഴി തുറക്കും.
+Answer: ടാപ്പ്
+
+Now, solve this riddle:
+Riddle : വട്ടത്തിൽ ചവിട്ടിയിൽ നീളത്തിലോടും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കാൽ പമ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വരുമ്പോൾ മുഴുവനായിട്ട്, പോകുമ്പോൾ പൊടിയായിട്ട്.
+Answer: ചോക്ക്
+
+Example 2:
+Riddle: വരുമ്പോൾ ഒളിഞ്ഞിരിക്കും, പോകുമ്പോൾ പുറത്താകും.
+Answer: രഹസ്യം
+
+Example 3:
+Riddle: വരുമ്പോൾ പച്ചയായിട്ട്, പോകുമ്പോൾ മഞ്ഞയായിട്ട്.
+Answer: ഇല
+
+Example 4:
+Riddle: വരുമ്പോൾ കറുത്തിട്ട്, പോകുമ്പോൾ വെളുത്തിട്ട്.
+Answer: രാത്രി
+
+Now, solve this riddle:
+Riddle : വരുമ്പോൾ കറുത്തിട്ട്, പോകുമ്പോൾ വെളുത്തിട്ട്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+രാത്രി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കല്ല് പോലുള്ള പുറം, ഉള്ളിൽ അമൃത്.
+Answer: തേങ്ങ
+
+Example 2:
+Riddle: പച്ച മതിലിനുള്ളിലെ ഒരു ചുവന്ന പുഴ.
+Answer: തണ്ണിമത്തൻ
+
+Example 3:
+Riddle: വെള്ളമതിലിനുള്ളിലെ സ്വർണ്ണക്കുടം.
+Answer: മുട്ട
+
+Example 4:
+Riddle: മുള്ളൻ പുറന്തോടിനുള്ളിലെ മധുരം.
+Answer: ചക്കപ്പഴം
+
+Now, solve this riddle:
+Riddle : മുള്ളിനുള്ളിലെ സുന്ദരിക്കുട്ടി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+റോസാപ്പൂ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വെള്ളമില്ലാത്ത ഒരു വലിയ കടലിൽ, തിരിയില്ലാത്ത വിളക്കുകൾ.
+Answer: നക്ഷത്രങ്ങൾ
+
+Example 2:
+Riddle: നനഞ്ഞ കാട്ടിലെ എല്ലില്ലാത്ത പാമ്പ്.
+Answer: നാക്ക്
+
+Example 3:
+Riddle: വാതിലില്ലാത്ത വീട്ടിൽ അനങ്ങാതെ കിടക്കുന്ന ഒരൊറ്റ കുഞ്ഞ്.
+Answer: മുട്ട
+
+Example 4:
+Riddle: നിലമില്ലാത്ത പാടത്ത് ചിറകില്ലാത്ത പക്ഷി.
+Answer: മത്സ്യം
+
+Now, solve this riddle:
+Riddle : മുള്ളില്ലാത്ത പുറംകാട്ടിൽ എല്ലില്ലാത്ത ഒരെലിക്കുഞ്ഞ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മാതളനാരങ്ങ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കടലാസ് കടിക്കുന്ന ഞണ്ട്.
+Answer: കത്രിക
+
+Example 2:
+Riddle: വെള്ളം കരയുന്ന കൊമ്പൻ.
+Answer: മേഘം
+
+Example 3:
+Riddle: നിർത്താതെ ഇഴയുന്ന പാമ്പ്.
+Answer: പുഴ
+
+Example 4:
+Riddle: തേങ്ങാപ്പീര തുപ്പുന്ന പല്ലൻ.
+Answer: ചിരവ
+
+Now, solve this riddle:
+Riddle : പുക തുപ്പുന്ന പാമ്പ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+എഞ്ചിൻ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പറയാനെളുപ്പം, തിരിച്ചെടുക്കാനാവില്ല.
+Answer: വാക്ക്
+
+Example 2:
+Riddle: പറയാനെളുപ്പം, തിരിച്ചെടുക്കാനാവില്ല.
+Answer: രഹസ്യം
+
+Example 3:
+Riddle: മുന്നോട്ട് കുതിക്കും, പിന്നോട്ട് മടങ്ങില്ല.
+Answer: സമയം
+
+Example 4:
+Riddle: തകർക്കാനെളുപ്പം, പഴയപോലാക്കാനാവില്ല.
+Answer: വിശ്വാസം
+
+Now, solve this riddle:
+Riddle : പൂട്ടാനെളുപ്പം തുറക്കാനാവില്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മനസ്സ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഇമക്കടിയിൽ കറുത്ത രത്നം.
+Answer: കൃഷ്ണമണി
+
+Example 2:
+Riddle: ഇലകൾക്കടിയിൽ നാളത്തെ പൂവ്.
+Answer: മൊട്ട്
+
+Example 3:
+Riddle: എല്ലിൻ കൂട്ടിൽ ഒളിപ്പിച്ചുവെച്ച വെണ്ണക്കട്ടി.
+Answer: തലച്ചോറ്
+
+Example 4:
+Riddle: കറുത്ത തളികയിൽ വെള്ളാരം കല്ല്.
+Answer: നക്ഷത്രം
+
+Now, solve this riddle:
+Riddle : പലകക്കീഴെ പച്ചയിറച്ചി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചേന
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മിന്നാത്ത നക്ഷത്രം.
+Answer: കടൽ നക്ഷത്രം.
+
+Example 2:
+Riddle: ഇഴയാത്ത പാമ്പ്.
+Answer: നാഗപ്പൂവ്
+
+Example 3:
+Riddle: വാലില്ലാത്ത കുതിര.
+Answer: കുതിരപ്പവൻ
+
+Example 4:
+Riddle: കറുപ്പില്ലാത്ത കാക്ക.
+Answer: കാക്കപ്പൂവ്
+
+Now, solve this riddle:
+Riddle : തുമ്പിക്കൈയില്ലാത്ത ആന.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ആനമയക്കി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തലയുടെ മുകളിലാണ് വായ.
+Answer: കിണർ
+
+Example 2:
+Riddle: അടുക്കളയിൽ ഉള്ള പന്നിയ്ക്ക് പുറത്തൊരു പല്ല്.
+Answer: ചിരവ
+
+Example 3:
+Riddle: അങ്ങാടിയിൽ നിൽക്കും മൊട്ടത്തലയന് വയറ്റത്തൊരു പിളർപ്പ്.
+Answer: തപാൽപെട്ടി
+
+Example 4:
+Riddle: വയറ്റിൽ എണ്ണയുമായി, തലയിൽ തീയിട്ട് നിൽക്കുന്നതാരാണ്?
+Answer: വിളക്ക്
+
+Now, solve this riddle:
+Riddle : തെക്ക് നിന്ന് വന്ന കാളയ്ക്ക് പള്ളയ്ക്കൊരു കൊമ്പ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തുഴ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: നിലത്ത് ഇഴഞ്ഞത് ആകാശത്ത് പാറിപ്പറന്നു.
+Answer: ശലഭം
+
+Example 2:
+Riddle: നിലത്തെ ഒരു ചെറിയ മണി ഒരു വലിയ തണലായി.
+Answer: മരം
+
+Example 3:
+Riddle: അടഞ്ഞിരുന്ന ഒരു ഞൊടി തുറന്നു, നിറയെ പുഞ്ചിരിയായി.
+Answer: പൂവ്
+
+Example 4:
+Riddle: വാലുള്ളൊരു കുഞ്ഞൻ, വാലില്ലാത്ത വല്യോനായി.
+Answer: തവള
+
+Now, solve this riddle:
+Riddle : തേങ്ങാപ്പൂളൊരു തേങ്ങാമുറിയായ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പൊങ്ങ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പുറത്ത് മുള്ളൻ, അകത്ത് മധുരം.
+Answer: കൈതച്ചക്ക
+
+Example 2:
+Riddle: തൊട്ടാൽ ആപത്ത്, അകത്ത് അമൃത്.
+Answer: തേനീച്ചക്കൂട്
+
+Example 3:
+Riddle: അഴുക്കായാൽ വെളുക്കും, വൃത്തിയായാൽ കറുക്കും.
+Answer: ബ്ലാക്ക്‌ബോർഡ്
+
+Example 4:
+Riddle: തൊട്ടാൽ മുള്ള് കൊള്ളും, കണ്ടാൽ ഭംഗി.
+Answer: റോസാച്ചെടി
+
+Now, solve this riddle:
+Riddle : തൊട്ടാൽ ചൊറിയൻ തിന്നാൻ രസികൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചേമ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തൂങ്ങിക്കിടക്കുന്ന, നാക്കുകൊണ്ട് സ്വയം അടികൊള്ളുന്നവൻ.
+Answer: മണി
+
+Example 2:
+Riddle: കാലിലിരുന്ന് ചവിട്ടുകൊള്ളുന്നവൻ.
+Answer: ചെരിപ്പ്
+
+Example 3:
+Riddle: കഴുത്തിൽ കിടന്ന് ഞെരിഞ്ഞമരുന്നത്.
+Answer: ടൈ
+
+Example 4:
+Riddle: തലയിൽ തൂങ്ങി, വെട്ട് കൊള്ളും.
+Answer: മുടി
+
+Now, solve this riddle:
+Riddle : തോളിൽ തൂങ്ങുന്ന തല്ലുകൊള്ളി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ബാഗ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: വാലിൽ തീ പിടിച്ചാൽ തല കറങ്ങും.
+Answer: ഓലപ്പടക്കം
+
+Example 2:
+Riddle: വാതിൽക്കൽ കാവൽക്കാരൻ, വിരൽ തൊട്ടാൽ ഒച്ചവെക്കും.
+Answer: കോളിംഗ് ബെൽ
+
+Example 3:
+Riddle: മിണ്ടാതിരിക്കും, കോലെടുത്തടിച്ചാൽ സംസാരിക്കും.
+Answer: ചെണ്ട
+
+Example 4:
+Riddle: അനങ്ങാതെ കിടക്കും, കാറ്റടിച്ചാൽ പറക്കും.
+Answer: പേപ്പർ
+
+Now, solve this riddle:
+Riddle : ചത്ത പോത്ത് കോലെടുത്താലോടും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പമ്പരം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മുകളിൽ നിന്ന് വരവ്, താഴേക്ക് പോക്ക്.
+Answer: മഴ
+
+Example 2:
+Riddle: ഉള്ളിലേക്ക് വലിക്കും, പുറത്തേക്ക് തള്ളും.
+Answer: ശ്വാസം
+
+Example 3:
+Riddle: താഴെ നിന്ന് വരവ്, മുകളിലേക്ക് പോക്ക്.
+Answer: പുക
+
+Example 4:
+Riddle: പുലരിയിൽ ജനനം, സന്ധ്യയിൽ മരണം.
+Answer: ദിവസം
+
+Now, solve this riddle:
+Riddle : കിഴക്കൂന്ന് വരവ്, പടിഞ്ഞാട്ട് പോക്ക്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സൂര്യൻ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: മണ്ണിലേക്ക് പോകുമ്പോൾ നിസ്സാരൻ, പുറത്തേക്ക് വരുമ്പോൾ ജീവസ്സുറ്റവൻ.
+Answer: വിത്ത്
+
+Example 2:
+Riddle: തീയിലേക്ക് പോകുമ്പോൾ മൃദുവായവൻ, തിരിച്ചെത്തുമ്പോൾ കടുപ്പമുള്ളവൻ.
+Answer: മൺപാത്രം
+
+Example 3:
+Riddle: പാകം ചെയ്യുമ്പോൾ മൃദുലൻ, വെയിലിൽ ഉണങ്ങിയാൽ മുരിഞ്ഞു ബലവാൻ.
+Answer: കൊണ്ടട്ടം
+
+Example 4:
+Riddle: കുഴയ്ക്കുമ്പോൾ കുഴഞ്ഞുമറിഞ്ഞ്, അടുപ്പിൽ കയറിയാൽ ബലാബലൻ.
+Answer: മാവ്
+
+Now, solve this riddle:
+Riddle : കുളിക്കാൻ പോകുമ്പോൾ കുഴഞ്ഞുമറിഞ്ഞ്, കുളിച്ചു വരുമ്പോൾ ബലാബലൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സിമൻറ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: സ്വന്തം ദേഹത്ത് മുറിവേൽപ്പിച്ച്, പലതിനെയും ഒന്നാക്കുന്നു.
+Answer: സൂചി
+
+Example 2:
+Riddle: ഒരു വയസ്സൻ എന്നും എന്തോ ചവച്ചരക്കുന്നു.
+Answer: ആട്ടുകല്ല്
+
+Example 3:
+Riddle: ഒരച്ഛനെ എന്നും ചവിട്ടി മെതിക്കുന്നു
+Answer: വഴി
+
+Example 4:
+Riddle: ഒരമ്മ ഇടക്കിടക്ക് കരയുന്നു 
+Answer: മേഘം
+
+Now, solve this riddle:
+Riddle : ഒരമ്മ എന്നും വെന്തും നീറിയും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അടുപ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കറുത്ത കട്ടിൽ വഴിവെട്ടാൻ പോകുന്ന നിരനിരയായി നിൽക്കുന്ന വാളുകൾ 
+Answer: ചീർപ്പ്
+
+Example 2:
+Riddle: ഒരു വീട്ടിൽ ഒരുപാട് സഹോദരന്മാർ, എല്ലാവർക്കും ഒരേ തൊപ്പി.
+Answer: തീപ്പെട്ടിക്കൊള്ളികൾ
+
+Example 3:
+Riddle: ഒരു വീട്ടിൽ രണ്ട് ജനലുകൾ.
+Answer: കണ്ണുകൾ
+
+Example 4:
+Riddle: ഒരു ചുവന്ന കോട്ടയ്ക്കുള്ളിൽ, മുത്തുമണികൾ അടുക്കി വെച്ചിരിക്കുന്നു.
+Answer: മാതളനാരങ്ങ
+
+Now, solve this riddle:
+Riddle : ഒരു തൊഴുത്തിൽ രണ്ടുവരി വെള്ളക്കുതിര.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പല്ലുകൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എന്നെ തൊട്ടാൽ ഒട്ടിപ്പിടിക്കും.
+Answer: പശ
+
+Example 2:
+Riddle: എന്നെ തൊട്ടാൽ തൊടുന്നവന് പൊള്ളും.
+Answer: തീ
+
+Example 3:
+Riddle: എന്നെ തൊട്ടാൽ കുത്തും.
+Answer: തേനീച്ചക്കൂട്
+
+Example 4:
+Riddle: എൻ്റെ പേര് പറഞ്ഞാൽ ഞാൻ ഇല്ലാതാകും.
+Answer: നിശ്ശബ്ദത
+
+Now, solve this riddle:
+Riddle : എന്നെ തൊട്ടാൽ തൊടുന്നവനെ തട്ടും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വൈദ്യുതി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ലോകം മുഴുവൻ കാണും, തന്നെ മാത്രം കാണില്ല.
+Answer: കണ്ണ്
+
+Example 2:
+Riddle: പലതിനെയും വെട്ടിമുറിക്കും, പക്ഷേ നിഴലിനെ മാത്രം വെട്ടില്ല.
+Answer: വാൾ
+
+Example 3:
+Riddle: തമ്മിൽ ബന്ധിപ്പിക്കും, ഒരൊറ്റ വെട്ടിൽ വേർപെടും.
+Answer: നൂൽ
+
+Example 4:
+Riddle: ഏത് ശബ്ദവും ഏറ്റുപാടും, പക്ഷേ സ്വന്തമായി ഒരക്ഷരം മിണ്ടില്ല.
+Answer: പ്രതിധ്വനി
+
+Now, solve this riddle:
+Riddle : ആരോടും മല്ലടിക്കും, വെള്ളത്തോട് മാത്രമില്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തീ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ആരും തൊടാതെ കൂടെ വരുന്നതാരാണ്?
+Answer: നിഴൽ
+
+Example 2:
+Riddle: കെട്ടിയിടാൻ പറ്റാത്ത ഒന്ന്.
+Answer: കാറ്റ്
+
+Example 3:
+Riddle: എണ്ണയില്ലാതെ കത്തുന്ന വിളക്ക്.
+Answer: സൂര്യൻ
+
+Example 4:
+Riddle: കാലില്ലാതെ ഓടുന്ന വണ്ടി.
+Answer: മേഘം
+
+Now, solve this riddle:
+Riddle : ആരാലും അടിക്കാത്ത മുറ്റം.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ആകാശം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഉള്ളിൽ അറിയാതെ വരും, അറിയാതെ തന്നെ മാഞ്ഞുപോകും.
+Answer: വികാരം
+
+Example 2:
+Riddle: ആരും കാണാതെ മനസ്സിൽ വരും, ആരും കാണാതെ മനസ്സിൽ നിന്ന് പോകും.
+Answer: ചിന്ത
+
+Example 3:
+Riddle: ആരും കാണാതെ ഉള്ളിൽ വരും, ആരും കാണാതെ പുറത്തേക്ക് പോകും.
+Answer: ശ്വാസം
+
+Example 4:
+Riddle: ആരും കാണാതെ വരും, ആരും കാണാതെ പോകും.
+Answer: സമയം
+
+Now, solve this riddle:
+Riddle : ആരും കാണാതെ വരും, ആരും കാണാതെ പോകും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സമയം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അകത്ത് പോകുമ്പോൾ പല നിറം, പുറത്ത് വരുമ്പോൾ ഒറ്റ കറുപ്പ്.
+Answer: കരി
+
+Example 2:
+Riddle: മണ്ണിൽ പോകുമ്പോൾ കല്ലാണ്, പുറത്ത് വരുമ്പോൾ പച്ചപ്പാണ്.
+Answer: വിത്ത്
+
+Example 3:
+Riddle: ഉള്ളിൽ പോയപ്പോൾ മണി, പുറത്ത് വന്നപ്പോൾ പൊടി.
+Answer: ധാന്യം പൊടിക്കുന്നത്
+
+Example 4:
+Riddle: ഇലയായിരിക്കുമ്പോൾ പച്ചനിറം, കയ്യിൽ പുരട്ടിയാൽ ചുവപ്പുനിറം.
+Answer: മൈലാഞ്ചി
+
+Now, solve this riddle:
+Riddle : അകത്ത് പോയപ്പോൾ പച്ച, പുറത്ത് വന്നപ്പോൾ ചുവപ്പ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മുളക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അടയ്ക്കും തുറക്കും അറിവിന്റെ പത്തായം.
+Answer: പുസ്തകം
+
+Example 2:
+Riddle: അടയ്ക്കും തുറക്കും മുത്തുപ്പത്തായം.
+Answer: വായ
+
+Example 3:
+Riddle: പ്രവർത്തിപ്പിക്കും നിർത്തും, ഒരു കുഞ്ഞൻ യന്ത്രം.
+Answer: സ്വിച്ച്
+
+Example 4:
+Riddle: രാത്രിയിൽ തിളങ്ങും, മാനത്തെ വെള്ളിക്കിണ്ണം.
+Answer: ചന്ദ്രൻ
+
+Now, solve this riddle:
+Riddle : അടയ്ക്കും തുറക്കും കിങ്ങിണി പത്തായം.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വായ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കൈയില്ല, കഴുത്തുണ്ട്. കഴുത്തിൽ ഒരു വായയുണ്ട്.
+Answer: കുപ്പി
+
+Example 2:
+Riddle: കാലുണ്ട്, നടക്കില്ല. ഭാരം ചുമക്കും.
+Answer: മേശ
+
+Example 3:
+Riddle: വായില്ല, കണ്ണുണ്ട്, വയറ്റിൽ പല്ലുണ്ട്.
+Answer: പൂട്ട്
+
+Example 4:
+Riddle: ചിറകില്ല, വാലുണ്ട്, വാലിൽ തീയുണ്ട്.
+Answer: വാണം
+
+Now, solve this riddle:
+Riddle : വായില്ല നാക്കുണ്ട്, നാക്കിന്മേൽ പല്ലുണ്ട്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+താക്കോൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: പിടിച്ചാൽ പിടികിട്ടില്ല, കൂടെ നിന്ന് ഒഴിവാക്കാനും ആകില്ല .
+Answer: നിഴൽ
+
+Example 2:
+Riddle: കൈയ്യിൽ ഒതുങ്ങില്ല, നിർത്താൻ ആവില്ല.
+Answer: സമയം
+
+Example 3:
+Riddle: പിടിച്ചാൽ പിടികിട്ടില്ല, മുറിച്ചാൽ മുറിയുകയുമില്ല.
+Answer: ശബ്ദം
+
+Example 4:
+Riddle: അടച്ചിട്ടാൽ നിൽക്കില്ല, മുറിച്ചാൽ മുറിയുകയുമില്ല.
+Answer: വെളിച്ചം
+
+Now, solve this riddle:
+Riddle : പിടിച്ചാൽ പിടികിട്ടില്ല, വെട്ടിയാൽ വെട്ടേൽക്കില്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ശബ്ദം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കാലില്‍ പിടിച്ചാല്‍ തോളില്‍ കയറും
+Answer: കാവടി
+
+Example 2:
+Riddle: വാലിൽ തീ കൊടുത്താൽ തല പുകയും.
+Answer: സിഗരറ്റ്
+
+Example 3:
+Riddle: താഴെ വെച്ചാൽ മുകളിൽ എത്താം.
+Answer: ഏണി
+
+Example 4:
+Riddle: കാലിൽ പിടിച്ചാൽ മൂക്കിൽ കയറും
+Answer: കണ്ണട
+
+Now, solve this riddle:
+Riddle : കാലില്‍ പിടിച്ചാല്‍ തോളില്‍ കയറും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കാവടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കറുത്ത മണ്ണിൽ വെളുത്ത കുട.
+Answer: കൂൺ
+
+Example 2:
+Riddle: വെള്ളക്കൊട്ടാരത്തിൽ മഞ്ഞ രാജകുമാരൻ.
+Answer: മുട്ട
+
+Example 3:
+Riddle: കറുത്ത ചുമരിൽ വെളുത്ത വര
+Answer: സ്ലേറ്റും ചോക്കും (അല്ലെങ്കിൽ ബ്ലാക്ക്ബോർഡും ചോക്കും)
+
+Example 4:
+Riddle: കറുത്ത ചുമരിൽ വെള്ളിപ്പൊട്ടുകൾ.
+Answer: രാത്രിയിലെ ആകാശം
+
+Now, solve this riddle:
+Riddle : കറുത്ത പാറമേല്‍ വെളുത്ത വേര്‍
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കക്ക
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: എന്‍റെ ശബ്ദം നിന്‍റെ ഉള്ളിലാണ്...നീ ജീവിച്ചിരിക്കുന്നിടത്തോളം കാലം ഞാനുണ്ട്.
+Answer: ഹൃദയമിടിപ്പ്
+
+Example 2:
+Riddle: എനിക്ക് രൂപമില്ല, പക്ഷെ ഞാൻ കൂടെ വരും... നീ ജീവിച്ചിരിക്കുന്ന ഓരോ ദിവസവും ഞാൻ നിന്‍റെ കൂടെയുണ്ട്.
+Answer: പ്രായം
+
+Example 3:
+Riddle: ഞാൻ നിൻ്റെ കൂടെ എപ്പോഴും ഉണ്ടാവും, പക്ഷെ എന്നെ ആരും കാണില്ല.
+Answer: രഹസ്യം
+
+Example 4:
+Riddle: ഞാൻ നിങ്ങളെ വിട്ടുപോവില്ല, പക്ഷെ എന്നെ പിടിച്ചുവെക്കാൻ കഴിയില്ല.
+Answer: സമയം
+
+Now, solve this riddle:
+Riddle : കറുപ്പാണ് എന്‍റെ നിറം...നീ എവിടെ പോയലും നിന്‍റെ കൂടെ ഞാനും വരും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നിഴൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: കൈയില്ല കാലില്ല, നീളൻ പുറമുണ്ട്, ദിവസവും ആയിരം പേരെ ചുമക്കും ഞാൻ.
+Answer: റോഡ്
+
+Example 2:
+Riddle: കൈയ്യുമില്ല കാലുമില്ല, മുഖമുണ്ട് കൈകളുമുണ്ട്, ഓടിക്കൊണ്ടിരിക്കുമ്പോൾ കൊല്ലും ഞാൻ നിമിഷങ്ങളെ
+Answer: ഘടികാരം
+
+Example 3:
+Riddle: കൈയില്ല, കാലില്ല, എങ്കിലും ഓടിനടക്കും ഞാൻ നാട്ടിലാകെ. വിവരങ്ങൾ നൽകും ലോകർക്ക്.
+Answer: പത്രം
+
+Example 4:
+Riddle: വായുണ്ട്, പല്ലുണ്ട്, പക്ഷേ തിന്നുകയുമില്ല കടിക്കുകയുമില്ല. അടഞ്ഞതിനെ തുറന്നു കൊടുക്കും.
+Answer: താക്കോൽ
+
+Now, solve this riddle:
+Riddle : കൈയില്ല കാലില്ല, വാലുണ്ട് വയറുണ്ട്, നീരാടിപ്പോരുമ്പോള്‍ കൊല്ലും ഞാന്‍ നൂറാളെ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വിഷൂചിക
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: തലയില്ലാത്തവൻ, വടികൊണ്ട് തലോടിയാൽ തീ തുപ്പും.
+Answer: തീപ്പെട്ടി
+
+Example 2:
+Riddle: നിലത്തു കിടക്കും, നൂലെടുത്താല്‍ ഓടും.
+Answer: പട്ടം
+
+Example 3:
+Riddle: മിണ്ടാതെ കിടക്കുന്നവൻ വടിയെടുത്താൽ സംസാരിക്കും.
+Answer: ചെണ്ട
+
+Example 4:
+Riddle: മനസ്സിൽ ഒളിച്ചിരിക്കും, പ്രകോപിപ്പിച്ചാൽ പുറത്തുചാടും.
+Answer: ദേഷ്യം
+
+Now, solve this riddle:
+Riddle : ചത്തു കിടക്കുന്ന പാമ്പ് വടിയെടുത്തല്‍ ഓടും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കയർ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: അഞ്ചുപേർക്ക് നിൽക്കാൻ ഒരൊറ്റ നിലം.
+Answer: പാദം
+
+Example 2:
+Riddle: ആയിരം വിളക്കുകൾ, ഒരൊറ്റ മേൽക്കൂര.
+Answer: നക്ഷത്രങ്ങൾ
+
+Example 3:
+Riddle: മുപ്പത്തിരണ്ട് പട്ടാളക്കാർക്ക്, എല്ലാവർക്കും കൂടി ഒരൊറ്റ കോട്ടയേയുള്ളൂ.
+Answer: വായ
+
+Example 4:
+Riddle: കൂട്ടമായി താമസിക്കുന്നവർക്ക്, കൂട് ഒന്നുമാത്രം.
+Answer: തേനീച്ചക്കൂട്
+
+Now, solve this riddle:
+Riddle : പഞ്ചപാണ്ഡവര്‍ക്ക് അഞ്ചുപേര്‍ക്കും കൂടി ഒരു മുറ്റമേയുള്ളൂ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മുറ്റം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Malayalam riddle with its answer, followed by one or more 'context-reconstructed' Malayalam riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ഞാൻ ഊർജ്ജം നൽകും, പലരെയും പ്രവർത്തിപ്പിക്കും, വെള്ളം തട്ടിയാൽ ചത്തും പോകും.
+Answer: ബാറ്ററി
+
+Example 2:
+Riddle: നിങ്ങളെ പിന്തുടരും, വലുതാകും, ചെറുതാകും, പക്ഷെ വെളിച്ചം വന്നാൽ ഓടിയൊളിക്കും.
+Answer: നിഴൽ
+
+Example 3:
+Riddle: പടർന്ന് പന്തലിക്കും, പലരെയും ദ്രോഹിക്കും, പക്ഷെ സത്യം കേട്ടാൽ ചത്തൊടുങ്ങും.
+Answer: അപവാദം
+
+Example 4:
+Riddle: എല്ലാറ്റിനെയും മൂടും, എല്ലാം മറയ്ക്കും. വെളിച്ചം വീണാൽ ഇല്ലാതാകും.
+Answer: ഇരുട്ട്
+
+Now, solve this riddle:
+Riddle : എല്ലാം തിന്നും എല്ലാം ദഹിക്കും വെള്ളം കുടിച്ചാല്‍ ചത്തും പോകും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തീയ്യ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Mon May 26 00:19:57 2025 ---

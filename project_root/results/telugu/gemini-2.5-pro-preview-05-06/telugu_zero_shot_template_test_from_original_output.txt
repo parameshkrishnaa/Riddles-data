@@ -1,0 +1,1839 @@
+
+--- Starting New Generation Run at Mon May 26 17:28:20 2025 ---
+Model: gemini-2.5-pro-preview-05-06, Language: Telugu, Prompt: zero_shot_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Telugu riddles.
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+మొగ్గ కాని మొగ్గ, ఏమి మొగ్గ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చెవి మొగ్గ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఒకరు పొడుస్తారు, ఒకరు విడుస్తారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సూది, దారం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కడుపు లోన పిల్లలు, కంఠము లోన నిప్పులు! అరుపేమో ఉరుము, ఎరుపంటే భయము!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+టపాకాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+సన్నని స్తంభం, ఎక్కలేరు, దిగలేరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పొగ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కిరీటము ఉంటుంది కాని రాజును కాదు, నాట్యము చేస్తాను కాని మయూరిని కాదు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కోడిపుంజు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+తోలు న‌లుపు, తింటే పులుపు, ఏంటో అది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చింతపండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కాటుక రంగు, కమలము హంగు! విప్పిన పొంగు, ముడిచిన క్రుంగు!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గొడుగు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కాయలు కాని కాయలు, ఏమి కాయలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+టపాకాయలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కార్డు కాని కార్డు, ఏమి కార్డు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+రికార్డు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+చింపిరి గుడ్డలు! బంగారం లాంటి బిడ్డలు!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మొక్కజొన్న కంకి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+పొంగ బోడ‌ది రాంగ జుట్టుది ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మొక్కజొన్న కంకి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఎముకలు లేని జీవము, ఏటికి పోయింది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+జలగ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అందరికి చెప్పి వొచ్చేది, చెప్పకుండా వెళ్ళేది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నిద్ర
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+స‌న్న‌టి స్థంభం, ఎవ్వ‌రూ ఎక్క‌లేరు, దిగ‌లేరు ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సూది
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+రాజాధి రాజులు కూడా ఒకరిముందు తల వంచుకుంటారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మంగలి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఇళ్ళు లేని పట్నాలు, నీళ్లు లేని సముద్రాలు ఎక్కడ ఉంటాయి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పటంలో
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఒకటి పట్టుకుంటే రెండు ఊగుతాయి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+లోలాకులు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కాయ, పువ్వు లేని పంట?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఉప్పు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అందరూ నన్ను పట్టుకుంటారు కాని నేనే ఎవరిని పట్టుకొను, అందరూ నాతో మాట్లాడతారు కాని నేనే ఎవరితో మాట్లాడను?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఫోన్
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఇవ్వకుండా తీసుకో లేనిది! తీసుకోకుండా ఇవ్వ లేనిది!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ముద్దు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+మేకల్ని తోలేసి తడకలకి పాలు పిండుతారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+తేనెపట్టు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఇల్లంతా తిరిగి మూలకు కూర్చుంటుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చీపురు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కలి కాని కలి, ఏమి కలి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+తంగేడు కలి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+చీకటి ఇంటిలో జడల దయ్యము?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చీపురు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+మూత తెరిస్తే, ముత్యాల పేరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మొక్కజొన్న కంకి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+జాన కాని జాన, ఏమి జాన?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+యజమాన
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఎనమిది ఎముకలు! తట్టెడు ప్రేగులు!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మంచం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఈగ ముసరని పండు! ఇంటిలో నుండు!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దీపం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+వీధిరాజుకు కొప్పుది కానీ జుట్టు లేదు, క‌ళ్ళున్నాయి కానీ చూపులేదు ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కొబ్బరికాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఏది పెడితే అరిగి పోతుంది?, ఏది పెడితే కలకాలం ఉంటుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+అప్పు, దానం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కడుపు నిండా రాగాలు, వంటి నిండా గాయాలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పిల్లనగ్రోవి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+గీత కాని గీత, ఏమి గీత?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+well known, is a specific text. "సంగీత" is also plausible.
+But "తలరాత" has that inherent duality of being "lines" (రతలరాత
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఈ ప్ర‌పంచ‌లోని వారంద‌రూ నా బిడ్డ‌లే కాని అమ్మా! అని న‌న్నెవ‌రు పిల‌వ‌రు ఏం చేయాల‌న్నా ఏమి పొందాల‌న్నా నాలోనే ఎటూ పోవాల‌న్నా ఎక్క‌డికి వెళ్లాల‌న్నా నా మీదే..నేనెవ‌ర్ని?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+భూమి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అది లేకపోతే ఎవ్వరూ ఏమీ తినరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఆకలి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఇద్దరు అక్క చెల్లెల్లు, ప్రపంచం మొత్తం తిరిగి చూసినా, ఒకరినొకరు చూసుకోరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కళ్ళు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+చెట్టుకు కాయ‌ని కాయ కర‌క‌ర‌లాడే కాయ‌? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వడియం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఇల్లు మొత్తం వెలుగు, బల్ల కింద చీకటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దీపం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఇంట్లో మొగ్గ బ‌య‌ట‌కొస్తే పువ్వు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గొడుగు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఆడవారు తక్కువగా మాట్లాడే నెల?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఫిబ్రవరి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+నాలుగు క‌ర్ర‌ల మ‌ద్య న‌ల్ల‌రాయి? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కన్ను
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఆడదానికి పుట్టినింట ఒకటి, మెట్టినింట ఒకటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఇంటిపేరు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అడవిలో చిన్న గని, గనికి చాలా గదులు, గదికొక్క సిపాయి, సిపాయికొక్క తుపాకి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+తేనెపట్టు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఎర్రగా ఉంటాను కాని నేనెవరితో సరసాలాడను, నన్ను ముట్టుకుంటే ఊరుకోను.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నిప్పు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఇష్టంగా తెచ్చుకుంటారు, చంపి ఏడుస్తారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఉల్లిపాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఇంటిలో ఉంటే ప్రమోదము, ఒంటిలో ఉంటే ప్రమాదము?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నిప్పు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అన్నదమ్ములు ఇద్దరు, ఒకరంటే మరొకరికి పడదు, ఎప్పుడూ కొట్టుకుంటూనే ఉంటారు. వారి మధ్యకు ఎవరైనా వొస్తే పచ్చడి పచ్చడే?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+రోలు, రోకలి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+సముద్రంలో పుట్టిపెరిగి ఊరిలో అరుస్తుంది, ఏమిటది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+శంఖం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అడ‌విలో పుట్టాను అడ‌విలో పెరిగాను వంటినిండా గాయాలు క‌డుపునిండా రాగాలు
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మురళి / పిల్లనగ్రోవి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కోడి కాని కోడి, ఏమి కోడి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పకోడి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+చారల పాపకి దూది కుచ్చు!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మొక్కజొన్న పొత్తు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+నీళ్లు నుంచి వ‌స్తుంది. నీకు నాకూ రుచిస్తుంది? ఇంత‌కీ ఏమిట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఉప్పు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+పొద్దుటూరి చెట్లలో పొదిలింది చెళవాయి, చూసే వారే కాని పట్టే వారు లేరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సూర్యుడు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అన్నదమ్ములు ముగ్గురు, తిరిగితే ముగ్గురూ తిరుగుతారు, మానితే ముగ్గురూ మానుతారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఫ్యాన్
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కీచు కీచు పిట్ట! నేలకేసి కొట్ట!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చీపురు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+రెండు కొడతాయి, ఒకటి పెడుతుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గొళ్ళెం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+గారు కాని గారు, ఏమిగారు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+బంగారు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఇంట్లో మొగ్గ, వీధిలో పువ్వు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గొడుగు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+తెల్ల‌టి శ‌న‌గ‌ల‌లో ఒక‌టేరాయి, చేతితో చ‌ల్ల‌డం నోటితో ఏరుకోవ‌డం ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+) chickpeas (letters written on it) with one stone (full stop/punctuation).
+Sowing with hand (writing). Picking with mouth (reading).
+
+Let's consider other items.
+Toothpaste and toothbrush?
+- Tellati shanagaluఅక్షరాలు (Aksharaalu)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+తెలిసేలా పూస్తుంది, తెలియకుండా కాస్తుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+వేరుశనగ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కర్రలతో అతి చిన్న కర్ర?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+అగ్గిపుల్ల
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఊరంతా కదిలిన, ఊరగాయ కుండ కదలదు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దృష్టి
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఉరికంత ఒక్కటే దుప్పటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఆకాశం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+చ‌క్క‌న‌మ్మ చిక్కినా అందంగా ఉంటుంది? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నెలవంక
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అడ‌విలో పుట్టింది అడ‌విలో పెరిగింది మా ఇంటికొచ్చింది తైత‌క్క లాడింది.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కవ్వం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ప‌చ్చ‌ని పాముకు తెల్ల‌ని చార‌లు? ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పొట్లకాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ముళ్ల కంచెలో మిఠాయి పొట్లం?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పనసపండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఎర్రనిచెట్టు! నీళ్లు పోస్తే చస్తుంది!!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నిప్పు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కొక లేదు, సీత కాదు! రామ చిలుక కానేకాదు!! అదేమిటి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సీతాకోకచిలుక
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఆడవారికి ఉండనిది, మగవారికి ఉండేది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మీసాలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+పెద్ద ఇంటిలో పొట్టివాన్ని నిలబెడితే నిండా నేనే?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దీపం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అగ్గిపెట్టెలో ఇద్ద‌రు పోలీసులు ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+అగ్గిపుల్లలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+జీడివారి కోడ‌లు సిరిగ‌ల వారికి ఆడ‌ప‌డుచు వ‌య‌సులో కులికే వ‌య్యారి వైశాఖ‌మాసంలో వ‌స్తుంది.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+జీడిపండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కిరు కిరు త‌లుపులు కిటారు త‌లుపులు వెయ్యంగ వెయ్య‌స్త‌వి గాని తియ్యంగా తియ్య‌రావు ఏంట‌వి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కనురెప్పలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+మొదట చప్పన, నడుమ పుల్లన, కొస కమ్మన?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మామిడి పండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+చీక‌టింట్లో జ‌డ‌ల ద‌య్యం ఏమిట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చీపురు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అన్నింటికన్నా విలువైనది, అందరికి అవసరమైనది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సమయం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+చిన్న చిట్టిలో కమ్మని కూర?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+చింతపండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అడవిలో పుట్టాను, నల్లగా అయ్యాను, ఇంటికి వచ్చాను, ఎర్రగా మారాను, తొట్టిలో పడ్డాను తెల్లగా మారాను?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+బొగ్గు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కొనే టప్పుడు నలుపు, తినేటప్పుడు ఎరుపు, పారేసేటప్పుడు తెలుపు ఏమిటది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+పుచ్చకాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+రాళ్ల అడుగున విల్లు, విల్లు కోనలో ముళ్లు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+తేలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+నల్ల స్తంభం పైన నలుగురు దొంగలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+లవంగాలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+రాజుగారి తోట‌లో రోజాపూలు చూచేవారేగాని లెక్క‌వేసేవారు కాదు ఏమిట‌వి?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నక్షత్రాలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+గట్టుమీద రాయి! మినుకు మినుకు రాయి!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+మిణుగురు పురుగు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అందమైన గిన్నెలో ఎర్రని పిట్ట తోకతో నీళ్లు త్రాగుతుంది
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దీపం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+చిన్న పాపకు చాలా చీరలు. ఏమిటది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ఉల్లిపాయ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఎర్రవాడొస్తే తెల్లవాడు, పారిపోయి దాక్కుంటాడు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సూర్యుడు, చంద్రుడు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+గాలిలో ఎగిరే అద్దము పట్టుకుంటే పలిగి పోవు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+సబ్బు బుడగ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అబ్బాయి గారి దొడ్లో పెద్ద పండు పడితే, పరుగెత్తలేక పది మంది చచ్చారు.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+తేనెపట్టు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+నూరు పళ్ళు ఒకటే నోరు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దానిమ్మ పండు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+గోళము కాని గోళము, ఏమి గోళము?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గందరగోళము
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+గోడకు గొలుసు పండు!?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+గడియారం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అందమైన చిన్నది, అందాల చిన్నది, నువ్వు చుస్తే నిన్ను చూస్తుంది, నేను చుస్తే నన్ను చూస్తుంది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+అద్దం
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+అడుగులున్నా, కాళ్ళులేనిది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+నిచ్చెన
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+కిట కిట తలుపులు! కిటారు తలుపులు!! ఎప్పుడు తీసినా చప్పుడు కాదు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కనురెప్పలు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఆకులు లేని అడ‌విలో జీవం లేని జంతువు జీవాల‌ను వేటాడుతుంది ఏంట‌ది?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+దువ్వెన
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Your task is to analyze the following Telugu riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Telugu Riddle :
+ఈత చెట్టుకు ఇద్దరు బిడ్డలు?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+కల్లు, పండ్లు
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Mon May 26 18:13:29 2025 ---

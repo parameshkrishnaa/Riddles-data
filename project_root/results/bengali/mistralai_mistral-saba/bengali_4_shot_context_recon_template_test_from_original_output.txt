@@ -1,0 +1,3657 @@
+
+--- Starting New Generation Run at Tue May 27 15:03:33 2025 ---
+Model: mistralai/mistral-saba, Language: Bengali, Prompt: 4_shot_context_recon_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Bengali riddles.
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাটির নিচের কুটুরি, তাতে দুটি সুন্দরী।
+Answer: চিনেবাদাম
+
+Example 2:
+Riddle: নিজের শরীর ক্ষয় করে পরের ময়লা দূর করি।
+Answer: সাবান
+
+Example 3:
+Riddle: চোখ আছে কিন্তু দেখে না, ধারালো মুখ তবু খায় না, অন্যের সাহায্য ছাড়া চলে না।
+Answer: সুঁচ
+
+Example 4:
+Riddle: দু'অক্ষরে নাম তার, লোকে খায়। শেষের অক্ষর বাদ দিলে সেটা ভালো না।
+Answer: কুল
+
+
+Now, solve this riddle:
+Riddle : কাঁচাতে যেই ফল সর্বজনে খায়, পাঁকলে সেই ফল গড়াগড়ি যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ডুমুর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরের নাম আমার, ডাক দেয় কেউ আমায়। প্রথম অক্ষর বাদ দিলে, আমি তোমার ভেতর রয়। মাঝের অক্ষর বাদ দিলে, চলে যায় সময়। শেষের অক্ষর বাদ দিলে, দুজনে সমান হয়।
+Answer: সমন
+
+Example 2:
+Riddle: আমি শূন্য, কিন্তু পূর্ণ বস্তুর কারণে আমার জন্ম। আমি কে?
+Answer: গর্ত
+
+Example 3:
+Riddle: সারাজীবনের অর্জিত খ্যাতি, জ্বলজ্বল করে। একটুখানি কলঙ্ক লাগলে, মাটিতে যায় পড়ে।
+Answer: সম্মান
+
+Example 4:
+Riddle: ডোর ছিঁড়ে আকাশে থাকা ছেড়ে মাটিতে এসে পড়ে, মানুষ কুড়িয়ে নিয়ে যায় ঘরে।
+Answer: ঘুড়ি
+
+
+Now, solve this riddle:
+Riddle : জল ছাড়া নদী, পাথর ছাড়া পাহাড় এবং মানুষ ছাড়া শহর কোথায় পাওয়া যায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানচিত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জীব নয় তবুও চলে, পা নেই তবুও পথ চলে।
+Answer: গাড়ি
+
+Example 2:
+Riddle: আমি দেখতে ঠিক তোমার মতো, কিন্তু তুমি ছাড়া আমার অস্তিত্ব নেই। আমি কে?
+Answer: প্রতিবিম্ব
+
+Example 3:
+Riddle: আমি সবকিছু দেখাতে পারি, কিন্তু আমার নিজের কোনো রূপ নেই। সামনে কিছু না থাকলে, আমি শূন্য। আমি কে?
+Answer: আয়না
+
+Example 4:
+Riddle: উৎসব নয়, পরব নয়, আমাতে শুভ কী? দিনের শুরুতে আসে, বলবে সেটি কী?
+Answer: শুভ সকাল
+
+
+Now, solve this riddle:
+Riddle : যদি থাকে বুদ্ধি বলো দেখি কোন সুখে সুখ নেই?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দুঃখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: নিজে খায় না, কিন্তু অন্যদের খাওয়ায়।
+Answer: চামচ
+
+Example 2:
+Riddle: সাদা যখন থাকি বুকেতে, কত কথাই না ধরে। কালি কলমে ভরে গেলে, ছিঁড়তে পারো দেখি কেমন করে।
+Answer: কাগজ
+
+Example 3:
+Riddle: শুয়ে থাকে, কিন্তু অনেক দূরে নিয়ে যায়।
+Answer: রাস্তা
+
+Example 4:
+Riddle: হাত আছে, কিছু ধরে না। পা আছে, চলতে পারে না। মানুষকে বসতে দেয়।
+Answer: চেয়ার
+
+
+Now, solve this riddle:
+Riddle : কালিদাস পন্ডিতের ফাঁকি, আড়াইশো থেকে পাঁচ পঞ্চাশ গেলে আর কত থাকে বাকী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+২০০
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এক শরীরে শতেক সেনা, সবার গায়ে একই নিশানা, শরীরে নেইকো লোমকূপ, জ্ঞানেতে তার আসল রূপ।
+Answer: বই
+
+Example 2:
+Riddle: এক ঘণ্টা সময় থেকে যদি বারোটি পাঁচ মিনিট কেটে যায়, আর কত মিনিট বাকি থাকে?
+Answer: শূন্য
+
+Example 3:
+Riddle: জলেতে বসে থাকে ভাই, লাল চেলিটা গায়ে তাই।
+Answer: লাল পদ্ম
+
+Example 4:
+Riddle: তিন অক্ষরে নাম তার কামড় দিতে পারে, মাঝের অক্ষর বাদ দিলে বসতে কাজে লাগে।
+Answer: পিঁপড়া
+
+
+Now, solve this riddle:
+Riddle : বাঘের মত লাফ দেয়, কুকুর হয়ে বসে, পানির মধ্যে ছেড়ে দিলে, ছোলা হয়ে ভাসে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+করপাতা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমার নেই হাত পা, নেই মুখ বা শরীর, তবু কত কথা বলতে পারি, ভাঙতে পারি নীর।
+Answer: গোপন কথা
+
+Example 2:
+Riddle: হেথা দিলাম শব্দ, হয়ে গেল ভাষা। নেই তার দেহ, নেই তার সুর, সবই তার অক্ষর।
+Answer: লেখা
+
+Example 3:
+Riddle: বড়ো একটা ঘর, তাতে কয়েকটি জানালা আর একটি দরজা। অনেক ছেলেমেয়ে বসে থাকে সার বেঁধে, একজন কথা বলে সবার মাঝে।
+Answer: শ্রেণিকক্ষ
+
+Example 4:
+Riddle: পা নেই, তবু চলে যায় বহুদূর। মুখ নেই, তবু কত কথা কয় বন্ধুর।
+Answer: চিঠি
+
+
+Now, solve this riddle:
+Riddle : শহর থেকে এল সাহেব কোর্ট প্যান্ট পরে, কোর্ট প্যান্ট খোলার পরে চোখ জ্বালা করে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পেঁয়াজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আকাশ ভরা হাজার লিপি, পড়তে পারে কোন গুণী?
+Answer: ভাগ্য
+
+Example 2:
+Riddle: দু চাকার উপর বসি, চার পায়ে চলি। নিজে জীব নই, বোঝা বয়ে বেড়াই।
+Answer: গরুর গাড়ি।
+
+Example 3:
+Riddle: চিনি মিষ্টি, গুড়ও মিষ্টি, আর মিষ্টি কী? ফুলের ভেতর থাকি, মৌচাকে জমা হই, আমায় চেনো কি?
+Answer: মধু
+
+Example 4:
+Riddle: এক ডজন কলা থেকে বারোটা কলা খেলে, আর ক'টা থাকে?
+Answer: শূন্য
+
+
+Now, solve this riddle:
+Riddle : ৩ অক্ষরের নাম তার পেট ভরে পানি খায় মাঝের অক্ষর বাদ দিলে আলোয় ভরে যায়,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাতি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সবুজ রঙের বড়ো বুড়ি, গায়ে জড়ানো অনেক জামা।
+Answer: বাঁধাকপি
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার, পেটে গেলে শান্তি। প্রথম অক্ষর বাদ দিলে, দিনে দিনে সে আসে।
+Answer: খাবার
+
+Example 3:
+Riddle: তিন অক্ষরের নাম আমার, জ্ঞানের আলো ছড়াই,
+Answer: কলম
+
+Example 4:
+Riddle: তিন অক্ষরে নাম তার কামড় দিতে পারে, মাঝের অক্ষর বাদ দিলে বসতে কাজে লাগে।
+Answer: পিঁপড়া
+
+
+Now, solve this riddle:
+Riddle : কান নাই মাথা নাই, পেট ভরে খায়, কাম নাই কাজ নাই, মাথা নিয়ে ঘুমায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বালিশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: নামেতে আছে ফুল, কিন্তু সে তো ফুল নয়। সবজির রাজা সে, বলো তো কী পরিচয়?
+Answer: ফুলকপি
+
+Example 2:
+Riddle: নিজে এক ফোঁটাও জল খায় না, কিন্তু সবার তৃষ্ণা মেটায়।
+Answer: কুয়ো
+
+Example 3:
+Riddle: যতক্ষণ আস্ত থাকি, জ্ঞান বিলাই। গুঁড়ো হলে, বাতাসে মিলাই।
+Answer: চক (খড়ি)
+
+Example 4:
+Riddle: এপারে ধার, ওপারে ধার। মাঝখানে পড়লে, নাই পার।
+Answer: কাঁচি।
+
+
+Now, solve this riddle:
+Riddle : আমি কাদাঁই, আমি হাসাই, নই আমি প্রাণি, আমায় দেখে সবাই ক্ষনিক ভোলে ব্যাথার বানী।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চলচ্চিত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শক্ত হলে তার উপর হাঁটা যায়, নরম হলে ডুবে মরে যায়।
+Answer: জল/বরফ
+
+Example 2:
+Riddle: মাথায় ঝুঁটি, পেটে জল ভরা, বাইরে কঠিন, ভেতরে মিষ্টি স্বাদের ঝোরা। কে সে?
+Answer: নারকেল
+
+Example 3:
+Riddle: তিন অক্ষরে নাম, জ্ঞানের প্রদীপ জ্বালে। অধ্যক্ষর গেলে পশমকে বোঝায়, মধ্য গেলে কমে যায় কালে, শেষেরটা গেলে যন্ত্র বা জলের নালে।
+Answer: কলম
+
+Example 4:
+Riddle: রাতে আকাশে আলো ছড়াই, কখনো গোল কখনো বাঁকা; আমার মায়ায় জোয়ার আসে, কবিরা লেখে কত কাব্য। শিশুরা আমায় মামা ডাকে, আকাশের রানী যেন আমি; স্নিগ্ধ আলোয় ভুবন ভরি, তাই তো নাম মোর শশী।
+Answer: চাঁদ
+
+
+Now, solve this riddle:
+Riddle : আন্ধার ঘরে থাকি আমি নড়াচড়া করি, একটুখানি খাবার পেলে খাবলে তাকে ধরি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাকড়সা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জীবন নেই তবু চেহারা আছে, তুমি যা করো তাই করিছে। শান্ত জলে বা আয়নাতে, দেখা পাবে আমার তাতে।
+Answer: প্রতিবিম্ব
+
+Example 2:
+Riddle: দুই অক্ষরের নাম মোর, চোখ দিয়ে গড়িয়ে পড়ি। শেষের অক্ষর ছেড়ে দিলে, শুনি যে কত স্বর।
+Answer: কান্না
+
+Example 3:
+Riddle: তিন অক্ষরের নাম আমার, জ্ঞানের আলো ছড়াই,
+Answer: কলম
+
+Example 4:
+Riddle: রাত হলে আকাশে ফোটে দলে দলে, মানুষ তার দিকে তাকিয়ে গল্প বলে।
+Answer: তারা
+
+
+Now, solve this riddle:
+Riddle : হাঁড়ির ভিতর, বালির ভিতর হাজার ছেলে নাচে, একটু পরই হয় সে খাবার তপ্ত চুলার আঁচে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পপকর্ন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম তার, বিশ্রাম নাও যবে, মাঝের অক্ষর বাদ দিলে সুর ওঠে তবে।
+Answer: বিছানা
+
+Example 2:
+Riddle: এ গাছ, বাঁট নাই তবু মিষ্টি রস হয় রাশি রাশি। দোহন করে মানুষ, বাছুর থাকে না পাশাপাশি।
+Answer: আখ।
+
+Example 3:
+Riddle: একটি হলে কাটে না, দুটি হলে সব কেটে যায়।
+Answer: কাঁচি
+
+Example 4:
+Riddle: বইয়ের পাতা আছে, খাতার পাতা আছে, আর পাতা আছে কার যে রোজ তারিখ বলে আমায় চেন কি?
+Answer: ক্যালেন্ডার
+
+
+Now, solve this riddle:
+Riddle : এতো বড় আঙিনা ঝাড় দিয়েও কুলোয় না। কতো ফুল ফুটে আছে নাই তার তুলনা!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম তার এক মনমরা ভাব, প্রথম অক্ষর বাদ দিলে হয় সে কারো সেবক। বল কি?
+Answer: উদাস
+
+Example 2:
+Riddle: দু’অক্ষরে নাম, রক্ত চুষে গান গাই।
+Answer: মশা
+
+Example 3:
+Riddle: জীব নয় তবু আকাশ থেকে ঝরে, চোখ নেই তবু কাঁদে।
+Answer: বৃষ্টি
+
+Example 4:
+Riddle: রূপ নেই, আকার নেই, পাত্রে নিই যে রূপ; পিপাসা মেটাই সবার, জীবন রক্ষার ঝর্ণারূপ?
+Answer: জল
+
+
+Now, solve this riddle:
+Riddle : চার পায়ে বসি মোরা, আট পায়ে চলি। বাঘও নই ভাল্লুকও নই আস্ত কাঁধে ঝুলি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঁধ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: চোখে দেখা যায় না, হাতেও ধরা যায় না, একবার গেলে আর, ফিরে পাওয়া যায় না।
+Answer: সময়
+
+Example 2:
+Riddle: থান থেকে জন্ম তার, লতার মতো সরু। ফুল ফল কিছুই নাহি, শুধু কাপড় বুনো।
+Answer: সুতো
+
+Example 3:
+Riddle: তিন অক্ষরে নাম তার এক মনমরা ভাব, প্রথম অক্ষর বাদ দিলে হয় সে কারো সেবক। বল কি?
+Answer: উদাস
+
+Example 4:
+Riddle: নিজে যায় না কোথাও, কিন্তু মানুষকে পৌঁছে দেয় নানান ঠাঁই।
+Answer: রাস্তা
+
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম তার সর্ব অঙ্গে কালো, মাঝের অক্ষর বাদ দিলে খেতে লাগে ভাল
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাগজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছোটকালে লম্বা হয়, বড়কালে ছোট হয়। লেখার সময় তীরের মত ছোটে, বসে থাকে চুপ করে, যেন কোন পাহারাদার।
+Answer: পেন্সিল
+
+Example 2:
+Riddle: এমন কী জিনিস যা সবার আছে, শোনা যায় কিন্তু দেখা যায় না, আর প্রত্যেকেরই স্বতন্ত্র?
+Answer: কণ্ঠস্বর
+
+Example 3:
+Riddle: মাথায় ঝুঁটি, পেটে জল ভরা, বাইরে কঠিন, ভেতরে মিষ্টি স্বাদের ঝোরা। কে সে?
+Answer: নারকেল
+
+Example 4:
+Riddle: বস্তা ভরে আসে ঘরে, সাদা গুঁড়ো শরীর। জল মেখে তাপে সেঁকলে, পেট ভরায় হাজির।
+Answer: রুটি
+
+
+Now, solve this riddle:
+Riddle : আশ্চর্য এক কথা শুনলে হাসি পায় নিজে দেখতে পায় না কিন্তু অপরকে দেখায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আয়না
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: লম্বা সে এক বীর जवान, বাইরেরটা কঠিন কাজের, ভেতরটা ফাঁকা ময়দান।
+Answer: বাঁশ
+
+Example 2:
+Riddle: সাদা আমার দেহখানি, লেখাজোকার কাজে আসি। শেষের অক্ষর বাদ দিলে, উড়ন্ত প্রাণী রাশি রাশি।
+Answer: কাগজ
+
+Example 3:
+Riddle: গলা আছে যার, মাথা নেই। হাতা আছে যার, হাত নেই। শরীর আছে যার, প্রাণ নেই। মানুষ আমায় গায়ে পরে, আমি কে সেই?
+Answer: জামা
+
+Example 4:
+Riddle: সবুজ রঙের বড়ো বুড়ি, গায়ে জড়ানো অনেক জামা।
+Answer: বাঁধাকপি
+
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরের নাম তার সবাই খায়, প্রথম অক্ষর ছেড়ে দিলে মেয়েদের হাতে যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সাদা আমার দেহখানি, লেখাজোকার কাজে আসি। শেষের অক্ষর বাদ দিলে, উড়ন্ত প্রাণী রাশি রাশি।
+Answer: কাগজ
+
+Example 2:
+Riddle: অনেক পা, তবু চলে লোহার পথে, মুখ দিয়ে ধোঁয়া ছাড়ে জোরে জোরে।
+Answer: রেলগাড়ি/ট্রেন
+
+Example 3:
+Riddle: যখন নরম ছিলাম, আঘাত সয়েছি নীরবে। আজ হলাম শক্ত কঠিন, মারো দেখি ভাঙবে কে আগে?
+Answer: পোড়া ইট
+
+Example 4:
+Riddle: তিন অক্ষরে নাম তার এক মনমরা ভাব, প্রথম অক্ষর বাদ দিলে হয় সে কারো সেবক। বল কি?
+Answer: উদাস
+
+
+Now, solve this riddle:
+Riddle : চোখ আছে, কান নাই, হাত আছে, প্রাণ নাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ঘড়ি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: হাত আছে, কিছু ধরে না। পা আছে, চলতে পারে না। মানুষকে বসতে দেয়।
+Answer: চেয়ার
+
+Example 2:
+Riddle: মাঠে থাকে এক সাদা সাপ, মাথায় সবুজ টোপর।
+Answer: মুলো
+
+Example 3:
+Riddle: অনেক পা, তবু চলে লোহার পথে, মুখ দিয়ে ধোঁয়া ছাড়ে জোরে জোরে।
+Answer: রেলগাড়ি/ট্রেন
+
+Example 4:
+Riddle: মাটিতে শুয়ে থাকি একটি, তাতে ট্রেন চলতে পারে না। কিন্তু যখন দুটি ভাই পাশাপাশি শুয়ে থাকি, তখন ট্রেন চলে ছুটে। আমি কে?
+Answer: রেল লাইন
+
+
+Now, solve this riddle:
+Riddle : এক বাড়িতে চার ভাই, তাদের গায়ে একই সাজ, কারো মুখে কেশ নাই, দিন শেষে বাড়ায় রাজ।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দিন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দু চাকার উপর বসি, দু পায়ে ঘুরি। নিজে পা নেই, তবু পথ চিনি।
+Answer: সাইকেল।
+
+Example 2:
+Riddle: উৎসব অনুষ্ঠানে পরিধান করি সবে, অন্য সময় থাকি বন্দি সিন্দুকেতে নীরবে।
+Answer: গয়না
+
+Example 3:
+Riddle: জলেতে বসে থাকে ভাই, লাল চেলিটা গায়ে তাই।
+Answer: লাল পদ্ম
+
+Example 4:
+Riddle: স্বাদহীন খাবার, রস ছাড়া ফল কোথায় লেখা থাকে?
+Answer: রান্নার বইয়ে বা মেনুতে
+
+
+Now, solve this riddle:
+Riddle : এক পায়ে দাঁড়িয়ে আছে, হাত দিয়ে ঠেলে দিলে, দৌড়ে পালিয়ে যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পানি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দুই বর্ণের শব্দ আমি, মনের মাঝে রই। দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Answer: মান
+
+Example 2:
+Riddle: একটি জগতের দুটি দরজা, অসংখ্য জ্ঞানের পাতা, একটি চিহ্ন তাতে রাখা।
+Answer: বই
+
+Example 3:
+Riddle: তিন অক্ষরে নাম তার, সব লোকে খায়। প্রথম অক্ষর বদ দিলে, আসবাব গড়ে দেয়।
+Answer: বেগুন
+
+Example 4:
+Riddle: এমন এক অঙ্গন, যার সীমা নেই, গোছানো যায় না। কতো ভাবনার পাখি উড়ে বেড়ায়, ধরা যায় না।
+Answer: মন।
+
+
+Now, solve this riddle:
+Riddle : সাদা দুটি পুকুরে কালো হিরে চকচক করে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এক ঘর যার দরজা নেই, জানলাও নেই। কেউ ঢুকতে বা বেরোতে পারে না।
+Answer: মন।
+
+Example 2:
+Riddle: তিন অক্ষরের নাম, শোবার কাজে লাগে। প্রথম অক্ষর বাদ দিলে, দুধ থেকে যা ভাগে।
+Answer: বিছানা
+
+Example 3:
+Riddle: মাথায় সোনালী কেশ, গায়ে সারি সারি চোখ।
+Answer: ভুট্টা
+
+Example 4:
+Riddle: সূর্য আলো দেয়, জোনাকিও আলো দেয়, আর আলো দেয় কে, যে নিজে জ্বলে শেষ হয়ে যায়? বলো দেখি আমি কে?
+Answer: মোমবাতি
+
+
+Now, solve this riddle:
+Riddle : দিনের বেলায় ঘুমিয়ে থাকে রাতের বেলায় জাগে ঘর-বাড়ি নেই আকাশেতে থাকে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাঁদ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এক চোখে দেখে, কিন্তু দৃষ্টিশক্তি নাই তার, শরীর আছে চিকন, তবু নেই কোনো হাড়। হাত নেই, তবু সেলাই করে যায় অবিরত, ছেঁড়া জিনিস জুড়ে দেওয়াই তার ব্রত।
+Answer: সুই
+
+Example 2:
+Riddle: ছোটকালে লম্বা হয়, বড়কালে ছোট হয়। লেখার সময় তীরের মত ছোটে, বসে থাকে চুপ করে, যেন কোন পাহারাদার।
+Answer: পেন্সিল
+
+Example 3:
+Riddle: মুখে মুখে ফেরে, কিন্তু কেউ তা ধরে না। দেখা যায় না, ছোঁয়া যায় না, কিন্তু ভাঙা যায়।
+Answer: কথা ( প্রতিশ্রুতি)
+
+Example 4:
+Riddle: যত তাকে ব্যবহার করো, ততই সে ছোট হয়ে যায়।
+Answer: পেন্সিল
+
+
+Now, solve this riddle:
+Riddle : চাঁদ নয় সূর্য নয় আলো দেয় রাতে গাছে গাছে উড়ে বেড়ায় টিমটিম আলোতে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জোনাকি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম তার, আকাশ জুড়ে খেলা। অধ্যক্ষর গেলে একসাথে চলে, মধ্য গেলে শক্তির মেলা, শেষেরটা গেলে বিবাদ আনে অবহেলা।
+Answer: বাদল
+
+Example 2:
+Riddle: ছিদ্র ভরা শরীর তার, জল টানে সে বারংবার।
+Answer: স্পঞ্জ
+
+Example 3:
+Riddle: দুই দিঘিতে মুক্তো টলমল করে, ধরতে গেলেই শুকিয়ে যায়।
+Answer: চোখের জল
+
+Example 4:
+Riddle: দু’অক্ষরের নাম তার, গন্ধ শুঁকে চলে।
+Answer: নাক
+
+
+Now, solve this riddle:
+Riddle : গলা আছে মাথা নেই হাত আছে পা নেই এটি কি বলবে আমায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ঘড়ি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাথা আছে, মগজ নাই। শরীর আছে, জীবন নাই।
+Answer: পেরেক
+
+Example 2:
+Riddle: অনেক চোখ আছে তার, তবুও সে দেখতে পায় না।
+Answer: আলু
+
+Example 3:
+Riddle: তিন অক্ষরে নাম আমার, আঁধার করি দূর,
+Answer: মশাল
+
+Example 4:
+Riddle: তিন অক্ষরে নাম যার, বিশাল জলরাশি।
+Answer: সাগর
+
+
+Now, solve this riddle:
+Riddle : বাঘ নয় তবে মানুষ খায় পাখি নয় তবে উড়ে যায় বোলতা নয় তবে শুং আছে জন্তু নয় তবে পা আছে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমি শান্ত, কিন্তু শব্দ থেমে গেলেই আমার অনুভব। আমি কে?
+Answer: নীরবতা
+
+Example 2:
+Riddle: আমি শূন্য, কিন্তু পূর্ণ বস্তুর কারণে আমার জন্ম। আমি কে?
+Answer: গর্ত
+
+Example 3:
+Riddle: মুখ নেই, জিভ নেই, কিন্তু সবকিছু বলে দেয়।
+Answer: আয়না
+
+Example 4:
+Riddle: সবুজ ঘরের ভেতরটা লাল, তাতে কালো কালো দানা লুকানো।
+Answer: তরমুজ
+
+
+Now, solve this riddle:
+Riddle : মাথার উপর রাখে আমায় রোদ-বর্ষার দিনে বাকি সময় পড়ে থাকি শুধু ঘরের কোনে৷
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছাতা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরের নাম তার, সবার মাথায় থাকে। প্রথম অক্ষর ছেড়ে দিলে পশুরা জোট বাঁধে।
+Answer: কপাল
+
+Example 2:
+Riddle: শব্দ শুনে জেগে ওঠে, আলো দেখলে ছবি ধরে, কথা বলা শেষ হলে আবার চুপ করে যায়।
+Answer: মোবাইল ফোন
+
+Example 3:
+Riddle: কে আসে রে হুস হুস করে? গাছের পাতা নাচে থর থর। হাতে তাকে ধরতে পারো না, শরীর জুড়ায় তার ছোঁয়াতে।
+Answer: বাতাস
+
+Example 4:
+Riddle: শরীর নেই তবু জামা পরে, সে কে?
+Answer: হ্যাঙ্গার
+
+
+Now, solve this riddle:
+Riddle : দাদু বুড়ো, ঠাকুমা বুড়ি আমাতে বুড়ো কী? পাঁচ আঙুলে রয়েছে সেটি বলবে সেটি কী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঁচি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কার হাত আছে কিন্তু ধরতে পারে না, পা আছে কিন্তু চলতে পারে না, পিঠ আছে কিন্তু হেলান দেওয়া যায় না?
+Answer: চেয়ার
+
+Example 2:
+Riddle: তিন অক্ষরে নাম মোর, শরীরে আনে স্বস্তি।
+Answer: আরাম
+
+Example 3:
+Riddle: তিন অক্ষরে নাম তার কামড় দিতে পারে, মাঝের অক্ষর বাদ দিলে বসতে কাজে লাগে।
+Answer: পিঁপড়া
+
+Example 4:
+Riddle: বল কি সেই চাবি, যার না আছে দাঁত বা শরীর ; কিন্তু খুলে দেয় জ্ঞানের দুয়ার।
+Answer: প্রশ্ন
+
+
+Now, solve this riddle:
+Riddle : উপরে থেকে পড়ল হাঁড়ি হাঁড়ির ভেতরে একশো কড়ি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আগুনের কোলে জন্ম যার, বড় হলে সে আর থাকে না। নাচের মত পাক খেতে খেতে ওঠে, কোথাও স্থির হয়ে থাকে না।
+Answer: ধোঁয়া
+
+Example 2:
+Riddle: গলা আছে, মাথা নেই, পেট ভরে জল খায়, কিন্তু নিজে তৃষ্ণার্ত রয়।
+Answer: বোতল
+
+Example 3:
+Riddle: ছোট্ট সে এক কোঠা, ভরা থাকে সৈনিকে, একটি যদি তেড়ে আসে, ব্যথা দেয় সে কিযে!
+Answer: মৌমাছি
+
+Example 4:
+Riddle: এমন কী জিনিস যা সবার আছে, শোনা যায় কিন্তু দেখা যায় না, আর প্রত্যেকেরই স্বতন্ত্র?
+Answer: কণ্ঠস্বর
+
+
+Now, solve this riddle:
+Riddle : ঘরের ভেতরে ঘর সেখানে গিয়ে শুয়ে পড়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+শয্যা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: পায়ের নিচে কোনটি? আর কোনটি তুমি পান করো?
+Answer: মাটি, জল
+
+Example 2:
+Riddle: ঘাসের ওপর ছড়িয়ে আছে হাজারো মুক্তা, কিন্তু কোনো জহুরি তাকে গাঁথতে পারে না।
+Answer: শিশির।
+
+Example 3:
+Riddle: টিয়া পাখি নয়, কিন্তু নকল করে। জল নয়, কিন্তু রূপ দেখায়। সাক্ষী নয়, কিন্তু সবই দেখে। বিচারক নয়, কিন্তু সত্যিটা বলে দেয়।
+Answer: আয়না
+
+Example 4:
+Riddle: সারাজীবনের অর্জিত খ্যাতি, জ্বলজ্বল করে। একটুখানি কলঙ্ক লাগলে, মাটিতে যায় পড়ে।
+Answer: সম্মান
+
+
+Now, solve this riddle:
+Riddle : এক থালা সুপারি গুণতে না পারি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: গাছে হয়, ঘরে আনি, খাওয়ার সময় ছাড়িয়ে ফেলি, নিজে খাই না।
+Answer: কলার খোসা
+
+Example 2:
+Riddle: দুই অক্ষরে নাম তার, অনেক মানুষ থাকে। প্রথম অক্ষর বদলে দিলে, অন্য রূপ ডাকে।
+Answer: দেশ
+
+Example 3:
+Riddle: স্বাদহীন খাবার, রস ছাড়া ফল কোথায় লেখা থাকে?
+Answer: রান্নার বইয়ে বা মেনুতে
+
+Example 4:
+Riddle: পেট তার অক্ষর ভরা, মুখ নেই তবু বলে কথা। জগৎটাকে চিনিয়ে দেয়, মেটায় মনের আকুলতা।
+Answer: বই
+
+
+Now, solve this riddle:
+Riddle : জটা ভরা মাথায় হাজার চোখে তাকায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ধান
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তরল দেহে জন্ম আমার, কঠিনও হতে পারি। গরমে উড়ে যাই আকাশে, রূপেতে আমি ভারি।
+Answer: জল
+
+Example 2:
+Riddle: জল থেকে জন্ম নিয়ে আকাশেতে ভাসে, কঠিন হয়ে নিচে পড়ে, গলে গিয়ে কাঁদে।
+Answer: শিলাবৃষ্টি
+
+Example 3:
+Riddle: সাদা যখন থাকি বুকেতে, কত কথাই না ধরে। কালি কলমে ভরে গেলে, ছিঁড়তে পারো দেখি কেমন করে।
+Answer: কাগজ
+
+Example 4:
+Riddle: এক জায়গায় দাঁড়িয়ে থাকে, তবুও সে বহুদূর যায়। নিজে চলে না, কিন্তু অন্যকে চালায়। সে কে?
+Answer: রাস্তা
+
+
+Now, solve this riddle:
+Riddle : থাকি গভীর জলে মাঝের বর্ণ ছেড়ে দিলে আকাশে যাই উড়ে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এপারে ধার, ওপারে ধার। মাঝখানে পড়লে, নাই পার।
+Answer: কাঁচি।
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার, স্পর্শে জ্বালা দেয়। প্রথম অক্ষর ছেড়ে দিলে, গুণের কথা কয়।
+Answer: আগুন
+
+Example 3:
+Riddle: মুখ বন্ধ করে শুয়ে থাকে, খুললেই কত কথা পাকে। বেশি পড়লে চোখ জ্বালা করে।
+Answer: বই
+
+Example 4:
+Riddle: ঘর বানাতে লাগে তারে, কাজ শেষে আর সে ঘরে রয় না।
+Answer: ভারা
+
+
+Now, solve this riddle:
+Riddle : প্রজাপতি, প্রজাপতি বলছি শোন কী তিনটি মাথা, দশটি ঠ্যাং দেখেছ তুমি কি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+হাতি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: যতক্ষণ আস্ত থাকি, জ্ঞান বিলাই। গুঁড়ো হলে, বাতাসে মিলাই।
+Answer: চক (খড়ি)
+
+Example 2:
+Riddle: সাপ নয়, কিন্তু এঁকেবেঁকে চলে। গায়ক নয়, কিন্তু গান গায়। রাস্তা নয়, কিন্তু যাত্রী বহন করে। মানুষ নয়, কিন্তু মুখ আছে।
+Answer: নদী
+
+Example 3:
+Riddle: আমার শরীর আছে, পরনে নেই বস্ত্র। পোশাক খুলে নিলেই লোকে, আমাকে খায় সত্র।
+Answer: কলা
+
+Example 4:
+Riddle: হাত আছে দুটো, তালি দিই না। মুখ আছে একটা, কথা কই না। পা নেইকো তবু চলি অবিরাম। কী আমার নাম, বলতে পারবে না?
+Answer: ঘড়ি
+
+
+Now, solve this riddle:
+Riddle : লেবু টক, জলপাই টক আর টক কী পাতার আড়ালে ঝুলে থাকি আমায় চেন কি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: একটি ফলের পেটে, অজস্র দানা সেঁটে।
+Answer: ডালিম
+
+Example 2:
+Riddle: অদৃশ্য এক বিরাট খাতা, ঝাড়ু দিয়েও যায় না মোছা পাতা। কত স্মৃতি ঘটনা আঁকা, দেয় না তো কেউ গুনে হদিসটা।
+Answer: সময় ও ঘটনা।
+
+Example 3:
+Riddle: চোখ আছে একটি, পলক তো পড়েই না। পথ দেখিয়ে নিয়ে চলে, তবু নিজে কিছুই দেখে না।
+Answer: সূঁচ
+
+Example 4:
+Riddle: দুটি ভাই, থাকে এপার ওপার। দেখা হলেই, মারে পিটাপিটি।
+Answer: হাততালি।
+
+
+Now, solve this riddle:
+Riddle : লম্বা কেশর ফুলিয়ে তোলা গম্ভীর মেজাজ; রাজার মতো চেহারা তাই নামটি পশুরাজ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+সিংহ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জীব নয় তবু আকাশ থেকে ঝরে, চোখ নেই তবু কাঁদে।
+Answer: বৃষ্টি
+
+Example 2:
+Riddle: পা আছে চলতে পারে না, পিঠ আছে শুতে পারে না, মানুষকে কোলে বসায়।
+Answer: চেয়ার
+
+Example 3:
+Riddle: তিন অক্ষরে নাম তার, লেখায় লাগে কাজে। প্রথম অক্ষর বাদ দিলে, গায়ে দেখতে সাজে।
+Answer: কলম
+
+Example 4:
+Riddle: আমার নেই হাত পা, নেই মুখ বা শরীর, তবু কত কথা বলতে পারি, ভাঙতে পারি নীর।
+Answer: গোপন কথা
+
+
+Now, solve this riddle:
+Riddle : আয় আয় তু তু খেতে দেব দু দু! ল্যজটি তুলে নাচবি সুখে, হাসবে সোনার খুকু!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+খেলা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম মোর, শরীরে আনে স্বস্তি।
+Answer: আরাম
+
+Example 2:
+Riddle: জীব নয় তবুও চলে, পা নেই তবুও পথ চলে।
+Answer: গাড়ি
+
+Example 3:
+Riddle: শূন্যে আমার বাড়ি, সুতো ছিঁড়লে আমি পড়ি।
+Answer: ঘুড়ি
+
+Example 4:
+Riddle: গাছ নয় পাতা নয়, ধরে সে লাল ফল। ফলের ভেতর মানিক জ্বলে করে টলমল।
+Answer: ডালিম
+
+
+Now, solve this riddle:
+Riddle : গাছে হয় ঘরে আনি রান্না হয় খাওয়ার সময় ফেলা হয় ।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পাতা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: বাবাঠাকুর থেকে বাবা বাদ দিলে কি থাকবে?
+Answer: ঠাকুর
+
+Example 2:
+Riddle: আমি শূন্য, কিন্তু পূর্ণ বস্তুর কারণে আমার জন্ম। আমি কে?
+Answer: গর্ত
+
+Example 3:
+Riddle: দাঁত আছে শত শত, কামড়াতে পারে না। জিনিসটা কী বলতো?
+Answer: চিরুনি
+
+Example 4:
+Riddle: তিন অক্ষরের নাম তার, মানুষে মানুষে গড়া। প্রথম অক্ষর বাদ দিলে, থাকে সে মাঝামাঝি ভরা। মাঝের অক্ষর বাদ দিলে, সাজসজ্জার রূপ ধরে। শেষের অক্ষর বাদ দিলে, সমান সমান অর্থ করে।
+Answer: সমাজ
+
+
+Now, solve this riddle:
+Riddle : পাখা আছে মোর না পারি উড়তে, আঁখি আছে মোর না পারি মুদতে। পা নাই মোর তবুও ঘুরি। জীবন কাটাই জলে চরি। যদি তুমি আমায় চিনতে পারো তবে মোর নামটি মনে করো।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জাহাজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শক্ত হলে তার উপর হাঁটা যায়, নরম হলে ডুবে মরে যায়।
+Answer: জল/বরফ
+
+Example 2:
+Riddle: দুই অক্ষরে নাম, জলে ভেসে চলি। প্রথম অক্ষর বাদ দিলে সঙ্গীতের স্বরলিপি। শেষের অক্ষর বাদ দিলে হয় একটি অব্যয়।
+Answer: তরী
+
+Example 3:
+Riddle: জিভ নেই, তবু বলে কত কথা, গান শোনায়, দূর করে মনের ব্যথা।
+Answer: রেডিও
+
+Example 4:
+Riddle: তিন অক্ষরে নাম তার, দুধে জীবন পায়। শেষের অক্ষর বাদ দিলে, গায়েতে সবাই লাগায়।
+Answer: মাখন
+
+
+Now, solve this riddle:
+Riddle : তিন বর্ণের নামটি আমার আরাম করে শুই প্রথম বর্ণ কেটে দিলে দুধের থেকে হই মাঝের বর্ণ কেটে দিলে ছাড়া পেয়ে যাই শেষের বর্ণ কেটে দিলে ভীষণ ভয় পাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলাস
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জোড়ায় আসি জোড়ায় যাই, পথে পথে ধুলো মেখে বেড়াই।
+Answer: জুতো
+
+Example 2:
+Riddle: কোনো আওয়াজ নেই, কোনো শব্দ নেই, তবু তাকে অনুভব করা যায়। সব কোলাহলকে সে গ্রাস করে নেয়।
+Answer: নীরবতা
+
+Example 3:
+Riddle: জ্বালানি পেলে জীবন পায়, জল পেলে সে মরে যায়। আলো দেয় সে আঁধারে, তবু স্পর্শে জ্বালা ধরে।
+Answer: আগুন।
+
+Example 4:
+Riddle: সবার হাতে ঘুরি ফিরি, নিজের কোনো হাত নাই। কত কিছু কিনে দিই, নিজে কিছুই খাই না ভাই।
+Answer: টাকা
+
+
+Now, solve this riddle:
+Riddle : দুই বর্ণের শব্দ আমি জলের মাঝে রই দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দুই অক্ষরের নাম আমার, দেবতার গলে রই। প্রথমটি বাদ দিলে এক আনাজ আমি হই। শেষেরটি বাদ দিলে মায়ের আঁচল ছুঁই।
+Answer: মালা
+
+Example 2:
+Riddle: আন্ধার কোণায় থাকি আমি, জাল বুনে নড়ি। একটুখানি পোকা পেলে, খাবলে তাকে ধরি।
+Answer: মাকড়সা
+
+Example 3:
+Riddle: দু চাকার উপর বসি, দু পায়ে ঘুরি। নিজে পা নেই, তবু পথ চিনি।
+Answer: সাইকেল।
+
+Example 4:
+Riddle: আমার নেই হাত পা, নেই মুখ বা শরীর, তবু কত কথা বলতে পারি, ভাঙতে পারি নীর।
+Answer: গোপন কথা
+
+
+Now, solve this riddle:
+Riddle : ফরসা সাহেবেরা কালো টুপি পরে, একবার ঘসে দিলে উঠে যে জ্বলে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মোমবাতি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শীতের রাতে শরীর ঢাকে যত্নে, গরম এলে বাক্সবন্দী থাকে চুপে চুপে।
+Answer: লেপ
+
+Example 2:
+Riddle: কোনো আওয়াজ নেই, কোনো শব্দ নেই, তবু তাকে অনুভব করা যায়। সব কোলাহলকে সে গ্রাস করে নেয়।
+Answer: নীরবতা
+
+Example 3:
+Riddle: সবাই জেগে আছে, আমি ঘুমিয়ে। আমার ঘুমটা কেমন? একটু শব্দে ভেঙে যায় যেটা, বলবে সেটা কী?
+Answer: কাঁচা ঘুম
+
+Example 4:
+Riddle: চোখ আছে দেখতে পায় না, চুল আছে মাথা নেই। জল ভরা পেটে, বলো তো কে সেই?
+Answer: নারকেল
+
+
+Now, solve this riddle:
+Riddle : বড়ো একটি পুকুরের ছোটো দুটি ঘাট, বত্রিশটি কলাগাছ, একটি পাতা তাতে ৷
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দাঁত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: বলো তো কী সেটা? মাথায় মারলে ভিতরে যায়, না মারলে যায় না।
+Answer: পেরেক
+
+Example 2:
+Riddle: তিন অক্ষরে নাম পেটে যায়, শক্তি যোগায়। প্রথম বাদ দিলে দিন বোঝায়, সময়ের হিসেব বোঝায়। শেষের দুটি গেলে খেতে লাগে, নইলে কষ্ট লাগে।
+Answer: খাবার
+
+Example 3:
+Riddle: যখন আমি গোটা ছিলাম, তুমি ধরতে পারতে। এখন আমি ভেঙে গেছি, ধরে দেখাও দেখি কেমন বেটা তুমি!
+Answer: ভাঙা কাঁচ
+
+Example 4:
+Riddle: দু’অক্ষরের নাম তার, গন্ধ শুঁকে চলে।
+Answer: নাক
+
+
+Now, solve this riddle:
+Riddle : ওপার থেকে এলো বুড়ি সাদা কাপড় পরে মহানন্দে বসল খেতে ঘাড় নেড়ে নেড়ে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ডানা আছে যার, আকাশে ওড়ে বিনা যন্ত্রে।
+Answer: পাখি
+
+Example 2:
+Riddle: দুই বর্ণের শব্দ আমি, মনের মাঝে রই। দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Answer: মান
+
+Example 3:
+Riddle: ছেলেবেলার মধ্যে বেলা বাদ দিলে কি থাকবে?
+Answer: ছেলে
+
+Example 4:
+Riddle: আমি বড়ও হই, আমি ছোটও হই, নই আমি জীবন্ত, তবু রোদ পড়লেই আমার হয় আবির্ভাব।
+Answer: ছায়া
+
+
+Now, solve this riddle:
+Riddle : কোন দেশ বাজে কোন দেশ বলো দেখি তেল ঘিতে ভাজে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাংলাদেশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এমন কোন প্রশ্ন, যার উত্তরে প্রত্যেকের নিজস্ব পছন্দের প্রতিফলন ঘটে, তাই উত্তর ভিন্ন হলেও কারোরটাই ভুল বলা যায় না?
+Answer: তোমার প্রিয় রং কোনটি?
+
+Example 2:
+Riddle: কাঁচের ঘরে বন্দী আলো, ঝুলে আছে সে উঁচুতে। আঁধার রাতে পথ দেখায়, কে সে জিনিষ বলতে পারো?
+Answer: লণ্ঠন
+
+Example 3:
+Riddle: এমন জিনিস যেটা সবাই করে। ছোটরা করলে ছটফট করে, যুবকরা করলে ঘড়ি দেখে বা ফোন ঘাঁটে, বুড়োরা করলে চুপচাপ বসে থাকে।
+Answer: অপেক্ষা
+
+Example 4:
+Riddle: তিন অক্ষরে নাম তার, আকাশেতে দেখা যায়। মাঝের অক্ষর বাদ দিলে, শরীরেতে তা লাগায়।
+Answer: কাজল
+
+
+Now, solve this riddle:
+Riddle : জলের জন্তু নয় তবুও জলেই  বাস করে হাত নেই পা নেই তবু সাঁতার কাটে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+নৌকা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মুখ নেই, পেটও নেই, তবু সে সবকিছু খায়, জল দিলে নিভে যায়, ভয়েতে পালায়।
+Answer: আগুন
+
+Example 2:
+Riddle: তিন অক্ষরে নাম পেটে যায়, শক্তি যোগায়। প্রথম বাদ দিলে দিন বোঝায়, সময়ের হিসেব বোঝায়। শেষের দুটি গেলে খেতে লাগে, নইলে কষ্ট লাগে।
+Answer: খাবার
+
+Example 3:
+Riddle: বড়ো একটা ঘর, তাতে কয়েকটি জানালা আর একটি দরজা। অনেক ছেলেমেয়ে বসে থাকে সার বেঁধে, একজন কথা বলে সবার মাঝে।
+Answer: শ্রেণিকক্ষ
+
+Example 4:
+Riddle: তিন অক্ষরের নাম আমার, ডাক দেয় কেউ আমায়। প্রথম অক্ষর বাদ দিলে, আমি তোমার ভেতর রয়। মাঝের অক্ষর বাদ দিলে, চলে যায় সময়। শেষের অক্ষর বাদ দিলে, দুজনে সমান হয়।
+Answer: সমন
+
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম যার সবার ঘরে রয় প্রথম অক্ষর বাদ দিলে সর্ব লোকে খায়। পেট তার কেটে দিলে মধুর গান গায় শেষ অক্ষর বাদ দিলে খুব কামরায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বই
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দুই অক্ষরে নাম, জলে ভেসে চলি। প্রথম অক্ষর বাদ দিলে সঙ্গীতের স্বরলিপি। শেষের অক্ষর বাদ দিলে হয় একটি অব্যয়।
+Answer: তরী
+
+Example 2:
+Riddle: কোন জিনিসের পাতা আছে কিন্তু গাছ নয়, গল্প বলে কিন্তু গলা নেই?
+Answer: একটি বই
+
+Example 3:
+Riddle: শক্ত হলে তার উপর হাঁটা যায়, নরম হলে ডুবে মরে যায়।
+Answer: জল/বরফ
+
+Example 4:
+Riddle: জীব নয় তবু বয়ে চলে। পা নেই তবু কখনও থামে না।
+Answer: সময়
+
+
+Now, solve this riddle:
+Riddle : দু’অক্ষরে নাম তার বহু লোকে খায় শেষের অক্ষর বাদ দিলে হেঁটে চলে যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: অসুখ নয়, আলস্যও নয়, তবু শরীর অবশ করে। রাজা থেকে প্রজা, সকলেই তার কোলে ঢলে পড়ে।
+Answer: ঘুম
+
+Example 2:
+Riddle: শীতকালে গায়ে চাপাই আদর করে, বাকি সময় শুয়ে থাকি চুপটি করে ঘরের ভিতরে।
+Answer: কম্বল
+
+Example 3:
+Riddle: খামের ভেতরে বন্দী, দেশ-বিদেশে ঘোরে সে নিরবধি।
+Answer: চিঠি
+
+Example 4:
+Riddle: তলে পাতা উপরে পাতা, তার মধ্যে বিশ্ব দেখা যায়।
+Answer: চোখ
+
+
+Now, solve this riddle:
+Riddle : দু’অক্ষরে নাম লজ্জা নিবারণী প্রথম অক্ষর বাদ দিলে হয় আমার জননী শেষের অক্ষর বাদ দিলে ভাশুর ঘরণী
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বস্ত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এক চোখে দেখে, কিন্তু দৃষ্টিশক্তি নাই তার, শরীর আছে চিকন, তবু নেই কোনো হাড়। হাত নেই, তবু সেলাই করে যায় অবিরত, ছেঁড়া জিনিস জুড়ে দেওয়াই তার ব্রত।
+Answer: সুই
+
+Example 2:
+Riddle: একটি জগতের দুটি দরজা, অসংখ্য জ্ঞানের পাতা, একটি চিহ্ন তাতে রাখা।
+Answer: বই
+
+Example 3:
+Riddle: বলো তো কী সেটা? মাথায় মারলে ভিতরে যায়, না মারলে যায় না।
+Answer: পেরেক
+
+Example 4:
+Riddle: আমি সবকিছু দেখাতে পারি, কিন্তু আমার নিজের কোনো রূপ নেই। সামনে কিছু না থাকলে, আমি শূন্য। আমি কে?
+Answer: আয়না
+
+
+Now, solve this riddle:
+Riddle : প্রাণ নেই বন্ধু নয়, চলে সাথে সাথে আলো পেলে তবে চলে দিনে কিংবা রাতে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এমন একটি জিনিস যা দেখে ছোটরা ভয় পায়, চোর পালায়, আর ভালো লোক নিশ্চিন্ত হয়।
+Answer: পুলিশ
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার এক মনমরা ভাব, প্রথম অক্ষর বাদ দিলে হয় সে কারো সেবক। বল কি?
+Answer: উদাস
+
+Example 3:
+Riddle: কোন বিচারে বিচার হয় না?
+Answer: অবিচার
+
+Example 4:
+Riddle: আমি দেখতে ঠিক তোমার মতো, কিন্তু তুমি ছাড়া আমার অস্তিত্ব নেই। আমি কে?
+Answer: প্রতিবিম্ব
+
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম তার প্রতি ঘরে পাবে অধ্যক্ষর বাদ দিলে বৎসর বুঝাবে মধ্য অক্ষর গেলে সবার ক্ষতি করে শেষের অক্ষর গেলে সবাই অবস্থান করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাড়ি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমি বড়ও হই, আমি ছোটও হই, নই আমি জীবন্ত, তবু রোদ পড়লেই আমার হয় আবির্ভাব।
+Answer: ছায়া
+
+Example 2:
+Riddle: সূর্য আলো দেয়, জোনাকিও আলো দেয়, আর আলো দেয় কে, যে নিজে জ্বলে শেষ হয়ে যায়? বলো দেখি আমি কে?
+Answer: মোমবাতি
+
+Example 3:
+Riddle: বাতাসে আমি ভরি প্রাণ, ছোট্ট আঘাতে আমার মরণ।
+Answer: বেলুন
+
+Example 4:
+Riddle: একটি ফলের পেটে, অজস্র দানা সেঁটে।
+Answer: ডালিম
+
+
+Now, solve this riddle:
+Riddle : দুই অক্ষরের নাম যার সব যায়গায় রায় প্রথম অক্ষর বাদ দিলে খাবার জিনিস হয়, শেষের অক্ষর বাদ দিলে আপনজন হয়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সারা গায়ে ছিদ্র, তবু জল ধরে। বলো তো কী?
+Answer: স্পঞ্জ
+
+Example 2:
+Riddle: সকালে জন্ম নেয়, দুপুরে তেজ দেখায়, সন্ধ্যায় মরে যায়। বলো তো সে কে?
+Answer: সূর্য
+
+Example 3:
+Riddle: পা নেই, তবু চলে যায় বহুদূর। মুখ নেই, তবু কত কথা কয় বন্ধুর।
+Answer: চিঠি
+
+Example 4:
+Riddle: মুখ আছে কথা বলেনা, পা নেই তবু চলে যায় বহুদূর।
+Answer: নদী
+
+
+Now, solve this riddle:
+Riddle : একলা তারে যায় না দেখা, সঙ্গী গেলে বাঁচে। আধার দেখে ভয়ে পালায়, আলোয় ফিরে আসে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জ্বালানি পেলে জীবন পায়, জল পেলে সে মরে যায়। আলো দেয় সে আঁধারে, তবু স্পর্শে জ্বালা ধরে।
+Answer: আগুন।
+
+Example 2:
+Riddle: একটি হলে কাটে না, দুটি হলে সব কেটে যায়।
+Answer: কাঁচি
+
+Example 3:
+Riddle: দোলা খেতে খেতে এপার ওপার করিস খেলা, আর তাতে খুকুমনি হাসে সারাবেলা।
+Answer: ঝুলনা
+
+Example 4:
+Riddle: এক ঝুড়ি ডিমের মজা ভারি, দুই ডজন ডিম ছিল, তা থেকে ছয় হালি নিলে পরে, আর কটা থাকে বলো তো ঝুড়ির ভিতরে?
+Answer: শূন্য
+
+
+Now, solve this riddle:
+Riddle : একটুখানি পুস্কনি, পানি টলমল করে। রাজার ছেলের সাধ্য নেই, জাল ফেলতে পারে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম পেটে যায়, শক্তি যোগায়। প্রথম বাদ দিলে দিন বোঝায়, সময়ের হিসেব বোঝায়। শেষের দুটি গেলে খেতে লাগে, নইলে কষ্ট লাগে।
+Answer: খাবার
+
+Example 2:
+Riddle: জোড়ায় আসি জোড়ায় যাই, পথে পথে ধুলো মেখে বেড়াই।
+Answer: জুতো
+
+Example 3:
+Riddle: রঙিন পোশাক পরা এক সাদা সমুদ্র, তার উপর কালো পোকারা হেঁটে বেড়ায়।
+Answer: বই
+
+Example 4:
+Riddle: ৩ অক্ষরের নাম তার, বুকে ধারণ করে জল। মাঝের অক্ষর বাদ দিলে, গাছে জোগায় বল।
+Answer: সাগর
+
+
+Now, solve this riddle:
+Riddle : একটি গাছের বাঁট নাই, তবু দুগ্ধ হয় প্রচুর। দোহনকালে থাকে নাকো, তার নিকটে বাছুর।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+উন্মুক্ত পাহাড়
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: এক সারিতে বসে রয়, চোখ নেই, দেখে না কিছু, সবার গঠন একই হয়, তবুও পোশাক ধরে রাখে পিছু পিছু।
+Answer: বোতাম
+
+Example 2:
+Riddle: এক ঘণ্টা সময় থেকে যদি বারোটি পাঁচ মিনিট কেটে যায়, আর কত মিনিট বাকি থাকে?
+Answer: শূন্য
+
+Example 3:
+Riddle: নিজে খায় না, কিন্তু অন্যদের খাওয়ায়।
+Answer: চামচ
+
+Example 4:
+Riddle: গলা আছে, মাথা নাই, পেট আছে, প্রাণ নাই।
+Answer: বোতল
+
+
+Now, solve this riddle:
+Riddle : একটি হলে কাজ হবে না, দুটি কিন্তু চাই। দুটি পেলে, হবে চাষী ভাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+হাত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মলাটের ভেতরে বাস, জ্ঞানের কথা কয় বারোমাস।
+Answer: বই
+
+Example 2:
+Riddle: মুখ নেই, পেটও নেই, তবু সে সবকিছু খায়, জল দিলে নিভে যায়, ভয়েতে পালায়।
+Answer: আগুন
+
+Example 3:
+Riddle: পায়ের তলা মাটিতে পোঁতা, গা তার খাড়া পথ গড়া; মাথা তার মেঘেতে মিশে, বুকে তার রত্নরা হাসে।
+Answer: পাহাড়
+
+Example 4:
+Riddle: নিজে খায় না, কিন্তু অন্যদের খাওয়ায়।
+Answer: চামচ
+
+
+Now, solve this riddle:
+Riddle : এপার ঝাটি, ওপার ঝাটি। ঝাটিতে করে, পিটা পিটি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কোন মানে মান থাকে না?
+Answer: অপমান
+
+Example 2:
+Riddle: সোনা ঝকঝক, রূপো ঝকঝক, আর ঝকঝকে কে রাতে আকাশে মিটমিট করে জ্বলে আমায় চেন কি?
+Answer: তারা
+
+Example 3:
+Riddle: আকাশেতে জন্ম, মাটিতে মরণ, কান্নায় জগৎ ভাসায়, তবু নিজের চোখে জল নেই।
+Answer: বৃষ্টি
+
+Example 4:
+Riddle: গাছের আমি বংশধর, ছোট্ট বাক্সে আমার ঘর। জ্বলে উঠি ক্ষণেক তরে, ফেলে দাও যে তার পরে।
+Answer: দেশলাই কাঠি
+
+
+Now, solve this riddle:
+Riddle : "তিন অক্ষরে নাম যার, যাতে তৈরি তাতেই ভেসে, শেষের অক্ষর বাদ দিলে সোজা বিয়ের পিঁড়িতে বসে" বল কি সেই মাল??
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তেল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিনটি অক্ষর আছে তার, যা থেকে জন্ম, তাতেই সে বাস করে সার, শেষের অক্ষরটি যদি ফেলে দাও দূরে, তাহলে সে হবে সবকিছুর মূলে। বলো কী সে?
+Answer: জলজ
+
+Example 2:
+Riddle: দুই অক্ষরে নাম তার, অনেক মানুষ থাকে। প্রথম অক্ষর বদলে দিলে, অন্য রূপ ডাকে।
+Answer: দেশ
+
+Example 3:
+Riddle: আমার শরীর আছে, পরনে নেই বস্ত্র। পোশাক খুলে নিলেই লোকে, আমাকে খায় সত্র।
+Answer: কলা
+
+Example 4:
+Riddle: আগুনের কোলে জন্ম যার, বড় হলে সে আর থাকে না। নাচের মত পাক খেতে খেতে ওঠে, কোথাও স্থির হয়ে থাকে না।
+Answer: ধোঁয়া
+
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম তার পানিতে বাস করে, প্রথম অক্ষর বাদ দিলে স্বাদে মিষ্টি করে। বল কি তার নাম?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সাদা আমার দেহখানি, লেখাজোকার কাজে আসি। শেষের অক্ষর বাদ দিলে, উড়ন্ত প্রাণী রাশি রাশি।
+Answer: কাগজ
+
+Example 2:
+Riddle: কোনো আওয়াজ নেই, কোনো শব্দ নেই, তবু তাকে অনুভব করা যায়। সব কোলাহলকে সে গ্রাস করে নেয়।
+Answer: নীরবতা
+
+Example 3:
+Riddle: শরীর নেই তবু রোগা হয়, জল পেলে মোটা হয়।
+Answer: ছাতা
+
+Example 4:
+Riddle: কার শরীর নেই তবু কাপড় পরে, কার গাছ নেই তবু শিকড় ধরে?
+Answer: পুতুলডাঙা, শিকড়পুর
+
+
+Now, solve this riddle:
+Riddle : বল কি সেই জালের নাম, যার না আছে কোনো সুতা, ফিতা, তার ; কিন্তু নিমিষেই তোমায় দেবে শেরা সম্পদের সন্ধান।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ইন্টারনেট
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছেলেবেলার মধ্যে বেলা বাদ দিলে কি থাকবে?
+Answer: ছেলে
+
+Example 2:
+Riddle: একটি পরলে কাজ হবে না, দুটি পায়েতে চাই। দুটি পায়ে পরলে তবেই পথে হাঁটা যায়।
+Answer: জুতো
+
+Example 3:
+Riddle: গাছের আমি বংশধর, ছোট্ট বাক্সে আমার ঘর। জ্বলে উঠি ক্ষণেক তরে, ফেলে দাও যে তার পরে।
+Answer: দেশলাই কাঠি
+
+Example 4:
+Riddle: তিন অক্ষরে নাম তার, আকাশেতে দেখা যায়। মাঝের অক্ষর বাদ দিলে, শরীরেতে তা লাগায়।
+Answer: কাজল
+
+
+Now, solve this riddle:
+Riddle : এমন একটি জিনিস যেটা সব লোকই খায় ছোট ছেলেরা খেলেপরে মায়ের কাছে যায় বৃদ্ধ লোকে খেলেপরে মাথায় দেয় হাত যুবক যুবতীরা খেলে এদিক ওদিক তাকায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ধাঁধা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছেলেবেলার মধ্যে বেলা বাদ দিলে কি থাকবে?
+Answer: ছেলে
+
+Example 2:
+Riddle: তিন অক্ষরে নাম আমার, আঁধার করি দূর,
+Answer: মশাল
+
+Example 3:
+Riddle: এপারে ধার, ওপারে ধার। মাঝখানে পড়লে, নাই পার।
+Answer: কাঁচি।
+
+Example 4:
+Riddle: আমি এক জিনিস, সকলেরই প্রয়োজন।
+Answer: টাকা
+
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে জিনিসটা কি নাম তার বলনা মাথা কাটলে চলে আর মাথা না কাটলে চলে না।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পেন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: যখন আমি গোটা ছিলাম, তুমি ধরতে পারতে। এখন আমি ভেঙে গেছি, ধরে দেখাও দেখি কেমন বেটা তুমি!
+Answer: ভাঙা কাঁচ
+
+Example 2:
+Riddle: মুখ আছে, কথা কয় না, শরীর আছে, প্রাণ নাই। মানুষ আসে যায় তার পাশ দিয়ে, সে দাঁড়িয়েই থাকে ঠাঁই।
+Answer: দরজা
+
+Example 3:
+Riddle: কারখানায় তৈরি হয়, ঘরে আনি, গরম জলে ডুবিয়ে চা বানাই, তারপর তুলে ফেলে দিই।
+Answer: টি ব্যাগ
+
+Example 4:
+Riddle: বল কি সেই চাবি, যার না আছে দাঁত বা শরীর ; কিন্তু খুলে দেয় জ্ঞানের দুয়ার।
+Answer: প্রশ্ন
+
+
+Now, solve this riddle:
+Riddle : মেঘের ডাকে জল ছেড়ে ডাঙায় উঠে পড়ে মানুষ তার মাঠে পেলে নিয়ে যায় ঘরে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জীব নয় তবু আকাশ থেকে ঝরে, চোখ নেই তবু কাঁদে।
+Answer: বৃষ্টি
+
+Example 2:
+Riddle: আমি শান্তি আনি, আমি অশান্তিও আনি, নই আমি দেবতা, তবু আমার জন্যেই কত হানাহানি।
+Answer: টাকা
+
+Example 3:
+Riddle: দু’অক্ষরের নাম তার, সেখানে লোকে মেশে।
+Answer: হাট
+
+Example 4:
+Riddle: দুই অক্ষরে নাম, জলে ভেসে চলি। প্রথম অক্ষর বাদ দিলে সঙ্গীতের স্বরলিপি। শেষের অক্ষর বাদ দিলে হয় একটি অব্যয়।
+Answer: তরী
+
+
+Now, solve this riddle:
+Riddle : হাত আছে পা নেয় মাথা তার কাটা আস্ত মানুষ গিলে খায় বুক তার ফাটা।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কুমির
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছোট্ট গাছে মুক্তোর হার দোলে, ধরতে গেলে জ্বালায় মারে।
+Answer: লঙ্কা
+
+Example 2:
+Riddle: দুই অক্ষরের নাম মোর, চোখ দিয়ে গড়িয়ে পড়ি। শেষের অক্ষর ছেড়ে দিলে, শুনি যে কত স্বর।
+Answer: কান্না
+
+Example 3:
+Riddle: জলের ধারে তার বাস, দুই অক্ষরের নাম। শেষ অক্ষর বাদ দিলে, হয় এক ক্ষত।
+Answer: ঘাট
+
+Example 4:
+Riddle: শূন্যে আমার বাড়ি, সুতো ছিঁড়লে আমি পড়ি।
+Answer: ঘুড়ি
+
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম তার সব লোকে খায় প্রথম অক্ষর বদ দিলে ঘর ছাওয়া যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পিঠা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম, জ্ঞানের প্রদীপ জ্বালে। অধ্যক্ষর গেলে পশমকে বোঝায়, মধ্য গেলে কমে যায় কালে, শেষেরটা গেলে যন্ত্র বা জলের নালে।
+Answer: কলম
+
+Example 2:
+Riddle: দুই অক্ষরে নাম তার, অনেক মানুষ থাকে। প্রথম অক্ষর বদলে দিলে, অন্য রূপ ডাকে।
+Answer: দেশ
+
+Example 3:
+Riddle: তিন অক্ষরে নাম তার এক মনমরা ভাব, প্রথম অক্ষর বাদ দিলে হয় সে কারো সেবক। বল কি?
+Answer: উদাস
+
+Example 4:
+Riddle: ছেলেবেলার মধ্যে বেলা বাদ দিলে কি থাকবে?
+Answer: ছেলে
+
+
+Now, solve this riddle:
+Riddle : একই প্রশ্ন কিন্তু সবাই আলাদা আলাদা উত্তর দেয় অথচ সবার উত্তরই ঠিক প্রশ্নটি কি ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তুমি কেমন আছো
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: প্রথমে সে থাকে সাদা, নীরব ও শান্ত। তারপরে সে ভরে ওঠে কালো অক্ষরে, দেয় কত জ্ঞান অনন্ত। শেষে সে পুরনো হয়, তবুও তার দাম কমে না কভু। বলো তো সে কে?
+Answer: বই
+
+Example 2:
+Riddle: চোখ আছে একটি, পলক তো পড়েই না। পথ দেখিয়ে নিয়ে চলে, তবু নিজে কিছুই দেখে না।
+Answer: সূঁচ
+
+Example 3:
+Riddle: এতে দিন আছে কিন্তুু সময় বয়ে যায়না, বছর আছে কিন্তুু বয়স বাড়েনা, ছুটির তালিকা আছে কিন্তুু ছুটি পায়না।
+Answer: পঞ্জিকা বা ক্যালেন্ডার
+
+Example 4:
+Riddle: এমন জিনিস যেটা সবাই করে। ছোটরা করলে ছটফট করে, যুবকরা করলে ঘড়ি দেখে বা ফোন ঘাঁটে, বুড়োরা করলে চুপচাপ বসে থাকে।
+Answer: অপেক্ষা
+
+
+Now, solve this riddle:
+Riddle : আমি অন্ধকার কিন্তু আলো ছাড়া আমার অস্তিত্ব নেই আমি কে ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমি ছলনা করি, স্নেহও দেখাই, মাঝের বর্ণ ছেড়ে দিলে আমিই জীবনের উৎস।
+Answer: মায়া
+
+Example 2:
+Riddle: আন্ধার কোণায় থাকি আমি, জাল বুনে নড়ি। একটুখানি পোকা পেলে, খাবলে তাকে ধরি।
+Answer: মাকড়সা
+
+Example 3:
+Riddle: হাত আছে দুটো, তালি দিই না। মুখ আছে একটা, কথা কই না। পা নেইকো তবু চলি অবিরাম। কী আমার নাম, বলতে পারবে না?
+Answer: ঘড়ি
+
+Example 4:
+Riddle: এখান থেকে ওখানে যাই, জলে ভিজে আছাড় খাই।
+Answer: কাপড়
+
+
+Now, solve this riddle:
+Riddle : কোথায় নদী আছে কিন্তুু জল নেই পাহাড় আছে কিন্তু পাথর নেই দেশ আছে কিন্তু লোক নেই ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানচিত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাটির নিচে ঘুমিয়ে থাকে, জল পেলে সে জীবন আঁকে। নিজে মরে জন্ম দেয়, সবুজ পাতায় জগৎ ছেয়ে যায়।
+Answer: বীজ।
+
+Example 2:
+Riddle: আলো জ্বললে ছুটে আসে অন্ধকার ছেড়ে, দেওয়ালে বা আলোয় বসে থাকে ঘুরে ফিরে। মানুষ তাকে দেখলে হাতে ধরে।
+Answer: পতঙ্গ
+
+Example 3:
+Riddle: মানুষ নয়, তবু কাঁদে। পাখি নয়, তবু উড়ে যায়। সিংহ নয়, তবু গর্জন করে। পাহাড় নয়, তবু আকাশ ঢেকে রাখে।
+Answer: মেঘ
+
+Example 4:
+Riddle: বুক চিরে দিই জল, তবু নিজে থাকি তৃষ্ণার্ত। গরমে শীতল করি প্রাণ, ফেটে গেলে যাই অকেজো।
+Answer: মাটির কলসি
+
+
+Now, solve this riddle:
+Riddle : সমুদ্রে জন্য আমার থাকি সবার ঘরে একটু জলের স্পশ্র পেলে যায় আমি মরে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লবণ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: গোলগাল এক শরীর নিয়ে, এখানে যাই ওখানে যাই, শুধু লাথির গুঁতো খাই।
+Answer: বল
+
+Example 2:
+Riddle: শূন্যে আমার বাড়ি, সুতো ছিঁড়লে আমি পড়ি।
+Answer: ঘুড়ি
+
+Example 3:
+Riddle: তিন অক্ষরের নাম তার, দিনের শুরু জানায়। প্রথম অক্ষর বাদ দিলে, সে যে সময় বোঝায়। বল কি তার নাম?
+Answer: সকাল
+
+Example 4:
+Riddle: শব্দ শুনে জেগে ওঠে, আলো দেখলে ছবি ধরে, কথা বলা শেষ হলে আবার চুপ করে যায়।
+Answer: মোবাইল ফোন
+
+
+Now, solve this riddle:
+Riddle : কত,র মধ্যে কত বাদ দিলে কত থাকবে ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তিন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরের নাম তার, মানুষে মানুষে গড়া। প্রথম অক্ষর বাদ দিলে, থাকে সে মাঝামাঝি ভরা। মাঝের অক্ষর বাদ দিলে, সাজসজ্জার রূপ ধরে। শেষের অক্ষর বাদ দিলে, সমান সমান অর্থ করে।
+Answer: সমাজ
+
+Example 2:
+Riddle: বুকের ভিতর চুপটি করে থাকি, কাউকেই না বলি। যদি বলি ফেটে যায়, নইলে মনে জ্বলি।
+Answer: গোপন কথা
+
+Example 3:
+Riddle: একটি পরলে কাজ হবে না, দুটি পায়েতে চাই। দুটি পায়ে পরলে তবেই পথে হাঁটা যায়।
+Answer: জুতো
+
+Example 4:
+Riddle: রাতের ডাকে আড়ালে ছিল, বাইরে এসে আলো জ্বালে। মানুষ হাতে পেলে ধরে আনে ঘরে।
+Answer: জোনাকি
+
+
+Now, solve this riddle:
+Riddle : বন থেকে বেরোলো টিয়ে, সোনার টোপর মাথায় দিয়া
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ময়ূর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমার চোখ আছে, কিন্তু দেখতে পাই না। আমাকে কাটলে সবাই কাঁদে, আমি কাঁদি না।
+Answer: পেঁয়াজ
+
+Example 2:
+Riddle: গাছের আমি বংশধর, ছোট্ট বাক্সে আমার ঘর। জ্বলে উঠি ক্ষণেক তরে, ফেলে দাও যে তার পরে।
+Answer: দেশলাই কাঠি
+
+Example 3:
+Riddle: আমি বড়ও হই, আমি ছোটও হই, নই আমি জীবন্ত, তবু রোদ পড়লেই আমার হয় আবির্ভাব।
+Answer: ছায়া
+
+Example 4:
+Riddle: ঝড় জল রোদ মাথায় নিয়ে একা দাঁড়িয়ে থাকি, দূর থেকে পথিক আমায় দেখে পথ খুঁজে পায়।
+Answer: বাতিঘর
+
+
+Now, solve this riddle:
+Riddle : এই ঘরে যাই, ওই ঘরে যাই, দুমদুমি এ আছাড় খাই
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দরজা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কাঠ খায়, গুঁড়ো ফেলে দেয়।
+Answer: করাত
+
+Example 2:
+Riddle: দু’অক্ষরের নাম তার, গন্ধ শুঁকে চলে।
+Answer: নাক
+
+Example 3:
+Riddle: দুই বর্ণের শব্দ আমি, মনের মাঝে রই। দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Answer: মান
+
+Example 4:
+Riddle: এমন একটি জিনিস যা দেখে ছোটরা ভয় পায়, চোর পালায়, আর ভালো লোক নিশ্চিন্ত হয়।
+Answer: পুলিশ
+
+
+Now, solve this riddle:
+Riddle : লাল টুকটুক ছোটমামা, গায়ে পড়ে অনেক জামা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পেয়ারা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: একটিই জিজ্ঞাসা করি আমি সবার কাছে, উত্তর মেলে নানান রকম, তবু সবই সাচ্চা। বলো তো, কী সেই জিজ্ঞাসা?
+Answer: এখন ক’টা বাজে?
+
+Example 2:
+Riddle: দুই দিঘিতে মুক্তো টলমল করে, ধরতে গেলেই শুকিয়ে যায়।
+Answer: চোখের জল
+
+Example 3:
+Riddle: তিন অক্ষরে নাম তার এক মনমরা ভাব, প্রথম অক্ষর বাদ দিলে হয় সে কারো সেবক। বল কি?
+Answer: উদাস
+
+Example 4:
+Riddle: রাতের ডাকে আড়ালে ছিল, বাইরে এসে আলো জ্বালে। মানুষ হাতে পেলে ধরে আনে ঘরে।
+Answer: জোনাকি
+
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরে নাম চোরের বুক কাঁপে, শেষ দুটি ছেড়ে দিলে কাটে এক কোপে। কিন্তু যদি প্রথম ছাড়ো দেখে লাগে দুঃখ, মাংস কম, শীর্ণকায়, চেহারাটি সূক্ষ্ম
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পুলিশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরে নাম তার, বিশ্রাম নাও যবে, মাঝের অক্ষর বাদ দিলে সুর ওঠে তবে।
+Answer: বিছানা
+
+Example 2:
+Riddle: গলা আছে, মাথা নেই তার। পেটভর্তি জল ধরে, তবু খায় না আহার। ছিপি আঁটা থাকলে চুপ, খুললেই বকবক করে।
+Answer: বোতল
+
+Example 3:
+Riddle: গাছের আমি বংশধর, ছোট্ট বাক্সে আমার ঘর। জ্বলে উঠি ক্ষণেক তরে, ফেলে দাও যে তার পরে।
+Answer: দেশলাই কাঠি
+
+Example 4:
+Riddle: গাছে হয়, ঘরে আনি, খাওয়ার সময় ছাড়িয়ে ফেলি, নিজে খাই না।
+Answer: কলার খোসা
+
+
+Now, solve this riddle:
+Riddle : হেতা দিলাম থান হয়ে গেল লতা, ফুল নাই ফল নাই সবই তার পাতা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বই
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাথা আছে, মগজ নাই। শরীর আছে, জীবন নাই।
+Answer: পেরেক
+
+Example 2:
+Riddle: হাত আছে, কিছু ধরে না। পা আছে, চলতে পারে না। মানুষকে বসতে দেয়।
+Answer: চেয়ার
+
+Example 3:
+Riddle: প্রাণ নেই সঙ্গী আমি, তুমি যা বলো তাই বলি। ফাঁকা জায়গায় আমার দেখা মেলে।
+Answer: প্রতিধ্বনি
+
+Example 4:
+Riddle: আগুন লুকিয়ে থাকে যার পেটে, উঁচু করে টাঙিয়ে রাখে লোকে তাকে।
+Answer: আলো
+
+
+Now, solve this riddle:
+Riddle : গা করে তার খসর-মসর, পাত করে তার ফেনী; ফুল করে তার লাল-তামাসা, ফল করে কুস্তনি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+Lata (Indian gooseberry)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: শুঁড় দিয়ে জল ছিটিয়ে, করে সে স্নান। কান দুটো কুলোর মতো, মারে মাছি তাড়ান। দাঁত দুটো সাদা ধবধবে, ভারী মূল্যবান। পাগুলো থামের মতো, চলে সে দুলান।
+Answer: হাতি
+
+Example 2:
+Riddle: হাত নেই পা নেই, শুধু ধারালো মুখ, কাটাকুটি করে করাই তার সুখ।
+Answer: কাঁচি
+
+Example 3:
+Riddle: আমার প্রাণ নেই, শরীরও নেই। আমি চলে গেছি বহু আগে, তবু তুমি ডাকলে আমি ফিরে আসি।
+Answer: স্মৃতি
+
+Example 4:
+Riddle: কোথায় রাজা রাজ্য ছাড়া, সৈনিক অস্ত্র ছাড়া এবং যুদ্ধ রক্তপাত ছাড়া পাওয়া যায়?
+Answer: বইয়ের পাতায়
+
+
+Now, solve this riddle:
+Riddle : সাগরে জন্ম তার আকাশে উড়ে, পর্বতের কাছে মার খেয়ে কেঁদে কেঁদে মড়ে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মেঘ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মুখ নেই তবু খায়, পা নেই তবু নাচে, ঘরবাড়ি নেই তবু আলো ছড়ায়।
+Answer: আগুন
+
+Example 2:
+Riddle: দু’অক্ষরের নাম তার, শুনতে সে লাগে।
+Answer: কান
+
+Example 3:
+Riddle: তিন অক্ষরের নাম, শোবার কাজে লাগে। প্রথম অক্ষর বাদ দিলে, দুধ থেকে যা ভাগে।
+Answer: বিছানা
+
+Example 4:
+Riddle: দুটি ভাই, থাকে এপার ওপার। দেখা হলেই, মারে পিটাপিটি।
+Answer: হাততালি।
+
+
+Now, solve this riddle:
+Riddle : তলে মাটি উপরে মাটি, তার মধ্যে সুন্দর বেটি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পিঁয়াজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: বিছানা আছে, কিন্তু ঘুমায় না। মুখ আছে, কিন্তু কথা বলে না। সব সময় বয়ে চলে।
+Answer: নদী
+
+Example 2:
+Riddle: একটা বড় বাক্সের ভেতর ছোট ছোট ঘর, তাতে নিয়ে যাই খাবার দুপুর ভর।
+Answer: টিফিন বক্স
+
+Example 3:
+Riddle: সাদা আমার দেহখানি, লেখাজোকার কাজে আসি। শেষের অক্ষর বাদ দিলে, উড়ন্ত প্রাণী রাশি রাশি।
+Answer: কাগজ
+
+Example 4:
+Riddle: জলে জন্ম, জলেই নাশ, তবু জল পেলে হয় সর্বনাশ।
+Answer: নুন
+
+
+Now, solve this riddle:
+Riddle : জল নয়, বৃষ্টিও নয় কিন্তু ভিজে সারা, বাড়িঘর ডুবল, ডুবল পাহাড়েরও চূড়া
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কুয়াশা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: গলা আছে, মাথা নেই তার। পেটভর্তি জল ধরে, তবু খায় না আহার। ছিপি আঁটা থাকলে চুপ, খুললেই বকবক করে।
+Answer: বোতল
+
+Example 2:
+Riddle: ঘর বানাতে লাগে তারে, কাজ শেষে আর সে ঘরে রয় না।
+Answer: ভারা
+
+Example 3:
+Riddle: দূর দেশ থেকে আসে, জামা পরা গায়ে, জামা খুললেই খবর জানা যায়।
+Answer: চিঠি
+
+Example 4:
+Riddle: আকাশেতে জন্ম, মাটিতে মরণ, কান্নায় জগৎ ভাসায়, তবু নিজের চোখে জল নেই।
+Answer: বৃষ্টি
+
+
+Now, solve this riddle:
+Riddle : হাত আছে পা নেই বুক তার ফাটা, জ্যান্ত মানুষ গিলে খায় নেই তার মাথা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+শার্ট
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তিন অক্ষরের নাম, মাথায় সবার থাকে, মাঝের অক্ষর বাদ দিলে, জল পড়ে অবিরাম ডাকে।
+Answer: কপাল
+
+Example 2:
+Riddle: সবুজ বা লাল রঙের দেখতে ছোটখাটো, মুখে দিলে পরেই কিন্তু লাগে ঝাঁঝালো।
+Answer: লঙ্কা
+
+Example 3:
+Riddle: শুয়ে থাকে, কিন্তু অনেক দূরে নিয়ে যায়।
+Answer: রাস্তা
+
+Example 4:
+Riddle: তিন অক্ষরে নাম তার, আকাশ জুড়ে খেলা। অধ্যক্ষর গেলে একসাথে চলে, মধ্য গেলে শক্তির মেলা, শেষেরটা গেলে বিবাদ আনে অবহেলা।
+Answer: বাদল
+
+
+Now, solve this riddle:
+Riddle : জলের মাঝে জন্ম হলো দুই অক্ষরের প্রাণী, শেষের অক্ষর বাদ দিলে হয় মহারাণী
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: নিজে এক ফোঁটাও জল খায় না, কিন্তু সবার তৃষ্ণা মেটায়।
+Answer: কুয়ো
+
+Example 2:
+Riddle: দুই অক্ষরের নাম, লেখায় ছেদ টানে। প্রথম অক্ষর বাদ দিলে প্রিয়জন পাবে, শেষের অক্ষর বাদ দিলে পাবে বর্ণমালার প্রথম ব্যঞ্জনে।
+Answer: কমা
+
+Example 3:
+Riddle: ছোট্ট এক মাঠ, তাতে কতো ফসল ফলে। গুনতে গেলে দিনের আলো নিভে যায়।
+Answer: মাথা ও চুল।
+
+Example 4:
+Riddle: গোল মায়ের আঁচলের নিচে অনেক ছেলেপিলে ঝুলে থাকে।
+Answer: চাবির গোছা
+
+
+Now, solve this riddle:
+Riddle : তিন অক্ষরের নাম তার সবার ঘরে রয়, প্রথম অক্ষর বাদ দিলে খাদ্যবস্তু হয়। মাঝের অক্ষর বাদ দিলে হয় গানের শোভা, শেষের অক্ষর বাদ দিলে ভয় তুমি পাবা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মোম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: মাথায় ঝুঁটি, চোখে জল, কিন্তু সে তো নয় পাগল। পেটে মিষ্টি অমৃত তার, বাইরে কঠিন আবরণ। আছাড় খেলে ভাঙে নাকো, মারে যে জন, সেই খায় আরও।
+Answer: নারকেল
+
+Example 2:
+Riddle: পঞ্চাশজন সৈন্যের একটি দল থেকে যদি দশজন করে পাঁচটি ছোট দল বেরিয়ে যায়, মূল দলে আর কতজন সৈন্য থাকবে?
+Answer: শূন্য
+
+Example 3:
+Riddle: কঠিন খোলের পেটেতে জল, ঝর্ণা বা কূপ নয়। মাথায় ঝুঁটি সন্ন্যাসী নয়, ভাঙলে মিষ্টি রস দেয়।
+Answer: নারকেল
+
+Example 4:
+Riddle: আমি সবকিছু দেখাতে পারি, কিন্তু আমার নিজের কোনো রূপ নেই। সামনে কিছু না থাকলে, আমি শূন্য। আমি কে?
+Answer: আয়না
+
+
+Now, solve this riddle:
+Riddle : জনম গেল দুখে, বুকে আমার আগুন দিয়ে থাকো অনেক সুখে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তামাক
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দু চাকার উপর বসি, দু পায়ে ঘুরি। নিজে পা নেই, তবু পথ চিনি।
+Answer: সাইকেল।
+
+Example 2:
+Riddle: কারখানাতে জন্ম হলেও, নরম আমার প্রাণ, গরমে গলে যাই আমি, কেঁদে করি স্নান।
+Answer: আইসক্রিম
+
+Example 3:
+Riddle: শরীর আছে কিন্তু প্রাণ নাই, ডানা আছে কিন্তু ওড়ে না।
+Answer: টেবিল
+
+Example 4:
+Riddle: বইটা সহজ, কঠিন নয়, আমাতে কঠিন কী? পড়ার সময় লাগে, বলবে সেটি কী?
+Answer: কঠিন শব্দ
+
+
+Now, solve this riddle:
+Riddle : কাল আমাকে মেরে ছিলে সয়ে ছিলাম আমি, আজ আমায় মারো দেখি কেমন বেটা তুমি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ধান
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: লম্বা শরীর, বহু তার পা। মানুষ নিয়ে ছোটে, মুখে নেই রা।
+Answer: রেলগাড়ি
+
+Example 2:
+Riddle: ছোট্ট এক সাহেব, মাথায় তার টুপি লাল। দেওয়ালে মাথা ঠুকলেই, জ্বলে ওঠে তার চাল।
+Answer: দেশলাই কাঠি
+
+Example 3:
+Riddle: মুখ বন্ধ করে শুয়ে থাকে, খুললেই কত কথা পাকে। বেশি পড়লে চোখ জ্বালা করে।
+Answer: বই
+
+Example 4:
+Riddle: বড়ো একটা ঘর, তাতে কয়েকটি জানালা আর একটি দরজা। অনেক ছেলেমেয়ে বসে থাকে সার বেঁধে, একজন কথা বলে সবার মাঝে।
+Answer: শ্রেণিকক্ষ
+
+
+Now, solve this riddle:
+Riddle : কুল কুল কুলেরি, ভাদ্র মাসে ধুলোরি, কাঁচায়-পাকায় সবাই খায়, নেংটো হয়ে হাটে যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: চোখে দেখা যায় না, হাতেও ধরা যায় না, একবার গেলে আর, ফিরে পাওয়া যায় না।
+Answer: সময়
+
+Example 2:
+Riddle: কোণে কোণে ঘর বাঁধে, হাত ছাড়াই জাল বোনে যায়।
+Answer: মাকড়সা
+
+Example 3:
+Riddle: হাওয়ার উপর তার ঘর, ছুঁলেই হয় শেষ। একা একা বাঁচতে পারে না, দল পেলে হয় বেশ।
+Answer: বুদবুদ।
+
+Example 4:
+Riddle: জীবন নেই তবু চেহারা আছে, তুমি যা করো তাই করিছে। শান্ত জলে বা আয়নাতে, দেখা পাবে আমার তাতে।
+Answer: প্রতিবিম্ব
+
+
+Now, solve this riddle:
+Riddle : রাজার বেটা রাম দাস, খায় খোলা তার ফেলায় শাঁস
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমার চোখ আছে, কিন্তু দেখতে পাই না। আমাকে কাটলে সবাই কাঁদে, আমি কাঁদি না।
+Answer: পেঁয়াজ
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার, দুধে জীবন পায়। শেষের অক্ষর বাদ দিলে, গায়েতে সবাই লাগায়।
+Answer: মাখন
+
+Example 3:
+Riddle: নামেতে আছে ফুল, কিন্তু সে তো ফুল নয়। সবজির রাজা সে, বলো তো কী পরিচয়?
+Answer: ফুলকপি
+
+Example 4:
+Riddle: তার নেই কোনো শব্দ, তবু সে সবখানে যায়। কোলাহল তাকে তাড়িয়ে দেয়, নিস্তব্ধতায় সে ফিরে আসে।
+Answer: নীরবতা।
+
+
+Now, solve this riddle:
+Riddle : ইকরের তলে তলে ভিকমতির ছানি, কোন দেশে দেখিয়াছ গাছের আগায় পানি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দুটো মাথা, ছ'টা পা, পিঠে চড়ে যায় চলে। বলো তো দেখি, কে তারা, এমন আজব কলে?
+Answer: ঘোড়সওয়ার ও ঘোড়া
+
+Example 2:
+Riddle: মাটির নিচের কুটুরি, তাতে দুটি সুন্দরী।
+Answer: চিনেবাদাম
+
+Example 3:
+Riddle: গলা আছে, মাথা নেই তার। পেটভর্তি জল ধরে, তবু খায় না আহার। ছিপি আঁটা থাকলে চুপ, খুললেই বকবক করে।
+Answer: বোতল
+
+Example 4:
+Riddle: মুখ আছে, কথা কয় না, শরীর আছে, প্রাণ নাই। মানুষ আসে যায় তার পাশ দিয়ে, সে দাঁড়িয়েই থাকে ঠাঁই।
+Answer: দরজা
+
+
+Now, solve this riddle:
+Riddle : এক থালা সুপারী গুণতে পারে কোন ব্যাপারী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+গুনিন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: কাঁচের ঘরে বাস করি, এক ফোঁটা জল দেখলে মরি।
+Answer: নুন
+
+Example 2:
+Riddle: তিন অক্ষরে নাম তার, বিশ্রাম নাও যবে, মাঝের অক্ষর বাদ দিলে সুর ওঠে তবে।
+Answer: বিছানা
+
+Example 3:
+Riddle: তিন অক্ষরে নাম আমার, ঘরে আলো বাতাস ঢালে। শেষ দুটি ফেলে দিলে, জন্ম বোঝায় কালে কালে। প্রথমটি ফেলে দিলে, জল বয়ে যায় তার খালে।
+Answer: জানালা
+
+Example 4:
+Riddle: বল কি সেই চাবি, যার না আছে দাঁত বা শরীর ; কিন্তু খুলে দেয় জ্ঞানের দুয়ার।
+Answer: প্রশ্ন
+
+
+Now, solve this riddle:
+Riddle : সফেদ শয্যা পড়ে আছে কেউ তাতে না শোয়, ভিতর থেকে খোলাম কুচি আঙিনাতে থোয়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বই
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: জীব নয় তবু বয়ে চলে। পা নেই তবু কখনও থামে না।
+Answer: সময়
+
+Example 2:
+Riddle: শুয়ে থাকে, কিন্তু অনেক দূরে নিয়ে যায়।
+Answer: রাস্তা
+
+Example 3:
+Riddle: গোল মায়ের আঁচলের নিচে অনেক ছেলেপিলে ঝুলে থাকে।
+Answer: চাবির গোছা
+
+Example 4:
+Riddle: মাথায় ঝুঁটি, চোখে জল, কিন্তু সে তো নয় পাগল। পেটে মিষ্টি অমৃত তার, বাইরে কঠিন আবরণ। আছাড় খেলে ভাঙে নাকো, মারে যে জন, সেই খায় আরও।
+Answer: নারকেল
+
+
+Now, solve this riddle:
+Riddle : সকালে চার পায়ে হাঁটে, দুপুরে দুই পায়ে। সন্ধায় তিন পায়ে হাঁটে বলো তো কে যায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানুষ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: বিশাল এক আকাশের দুই প্রান্তে দুয়ার, অসংখ্য তারা জ্বলে, একটি চাঁদ আলো দেয়।
+Answer: রাত
+
+Example 2:
+Riddle: গাছে যখন থাকে, সবাই আদর করে। ঝরে গেলে, পায়ে দলে মাটিতে মরে।
+Answer: ফুল
+
+Example 3:
+Riddle: ছিদ্র ভরা শরীর তার, জল টানে সে বারংবার।
+Answer: স্পঞ্জ
+
+Example 4:
+Riddle: এখান থেকে ওখানে যাই, জলে ভিজে আছাড় খাই।
+Answer: কাপড়
+
+
+Now, solve this riddle:
+Riddle : ইটে গুরুগুরু বৈঠা নাগর, বিনা বৈঠায় বায় সে সাগর
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+নদী
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: তার নেই কোনো শব্দ, তবু সে সবখানে যায়। কোলাহল তাকে তাড়িয়ে দেয়, নিস্তব্ধতায় সে ফিরে আসে।
+Answer: নীরবতা।
+
+Example 2:
+Riddle: খোলার ভেতরে পাখি, সময় হলে দেয় উঁকি।
+Answer: ডিম
+
+Example 3:
+Riddle: বল কি সেই চাবি, যার না আছে দাঁত বা শরীর ; কিন্তু খুলে দেয় জ্ঞানের দুয়ার।
+Answer: প্রশ্ন
+
+Example 4:
+Riddle: একটিই জিজ্ঞাসা করি আমি সবার কাছে, উত্তর মেলে নানান রকম, তবু সবই সাচ্চা। বলো তো, কী সেই জিজ্ঞাসা?
+Answer: এখন ক’টা বাজে?
+
+
+Now, solve this riddle:
+Riddle : জ্বলছে তবু পুড়ছে না, কোন সে প্রাণী বলো তা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জোনাকি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: রাত হলে আকাশে ফোটে দলে দলে, মানুষ তার দিকে তাকিয়ে গল্প বলে।
+Answer: তারা
+
+Example 2:
+Riddle: একটি ডানা দিয়ে ওড়ে না, দুটি ডানা হলে আকাশে ঘোরে।
+Answer: ডানা
+
+Example 3:
+Riddle: মাথা আছে, মুন্ডু নাই, হাত পা কিছু নাই, ধাক্কা খেয়ে দেওয়ালে সেঁধিয়ে যায়।
+Answer: পেরেক।
+
+Example 4:
+Riddle: তিন অক্ষরে নাম আমার, আঁধার করি দূর,
+Answer: মশাল
+
+
+Now, solve this riddle:
+Riddle : একটুখানি পুষ্পরিণী টলমল করে, একটুখানি কুটা পাড়লে সর্বনাশ করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: দিনের বেলা চুপচাপ থাকে, রাতের বেলা আলো জ্বালে। ঘরবাড়ি নেই, থাকে ঝোপেঝাড়ে।
+Answer: জোনাকি
+
+Example 2:
+Riddle: কোন জ্ঞানে জ্ঞান থাকে না?
+Answer: অজ্ঞান
+
+Example 3:
+Riddle: একটিই জিজ্ঞাসা করি আমি সবার কাছে, উত্তর মেলে নানান রকম, তবু সবই সাচ্চা। বলো তো, কী সেই জিজ্ঞাসা?
+Answer: এখন ক’টা বাজে?
+
+Example 4:
+Riddle: শিশুকালে থাকে খালি, যৌবনে সবুজ পোশাক পরে। বৃদ্ধকালে সব ঝরিয়ে ফেলে দাঁড়ায়।
+Answer: গাছ
+
+
+Now, solve this riddle:
+Riddle : আাঁধার পুকুর, গড়ান মাঠ, বত্রিশ কলাগাছ, একখানি পাট
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দাঁত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: অদৃশ্য এক বিরাট খাতা, ঝাড়ু দিয়েও যায় না মোছা পাতা। কত স্মৃতি ঘটনা আঁকা, দেয় না তো কেউ গুনে হদিসটা।
+Answer: সময় ও ঘটনা।
+
+Example 2:
+Riddle: দিনের বেলায় আসে না কাছে, রাতের বেলায় মন জুড়ে থাকে। ঘরবাড়ি নেই, ঘুমের ঘোরে ভাসে।
+Answer: স্বপ্ন
+
+Example 3:
+Riddle: খোলার ভেতরে পাখি, সময় হলে দেয় উঁকি।
+Answer: ডিম
+
+Example 4:
+Riddle: আমি দেখতে ঠিক তোমার মতো, কিন্তু তুমি ছাড়া আমার অস্তিত্ব নেই। আমি কে?
+Answer: প্রতিবিম্ব
+
+
+Now, solve this riddle:
+Riddle : ছোট ছোট গাছখানি তার কত ফল ধরে, একটা যদি খায় তবে আহা-উহু করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঁটা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: সাদা যখন থাকি বুকেতে, কত কথাই না ধরে। কালি কলমে ভরে গেলে, ছিঁড়তে পারো দেখি কেমন করে।
+Answer: কাগজ
+
+Example 2:
+Riddle: কালি নেই, কলম নয়, তবুও লিখে যায়; কাগজে চলে অবিরাম, আঁকে রেখা আর ছবি পায়।
+Answer: পেন্সিল
+
+Example 3:
+Riddle: নিজে খায় না, কিন্তু অন্যদের খাওয়ায়।
+Answer: চামচ
+
+Example 4:
+Riddle: অনেক পা, তবু চলে লোহার পথে, মুখ দিয়ে ধোঁয়া ছাড়ে জোরে জোরে।
+Answer: রেলগাড়ি/ট্রেন
+
+
+Now, solve this riddle:
+Riddle : ছোট কালে লেজ হয়, বড় কালে খসে, বাঘের মত লাফ দেয়, কুকেুরের মত বসে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ব্যাঙ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ছোট্ট দেহে আলো জ্বেলে, নিজে যায় ক্ষয়ে, অন্ধকারে পথ দেখায় সে নির্ভয়ে।
+Answer: মোমবাতি
+
+Example 2:
+Riddle: মলাটের ভেতরে বাস, জ্ঞানের কথা কয় বারোমাস।
+Answer: বই
+
+Example 3:
+Riddle: বুকের ভিতর চুপটি করে থাকি, কাউকেই না বলি। যদি বলি ফেটে যায়, নইলে মনে জ্বলি।
+Answer: গোপন কথা
+
+Example 4:
+Riddle: হেথা দিলাম শব্দ, হয়ে গেল ভাষা। নেই তার দেহ, নেই তার সুর, সবই তার অক্ষর।
+Answer: লেখা
+
+
+Now, solve this riddle:
+Riddle : একটুখানি জলে মাছ কিলবিল করে, কারো বাবার সাধ্য নাই হাত দিয়ে তা ধরে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples of Bengali riddles and their answers.
+Study these examples carefully.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: আমি শূন্য, কিন্তু পূর্ণ বস্তুর কারণে আমার জন্ম। আমি কে?
+Answer: গর্ত
+
+Example 2:
+Riddle: থান থেকে জন্ম তার, লতার মতো সরু। ফুল ফল কিছুই নাহি, শুধু কাপড় বুনো।
+Answer: সুতো
+
+Example 3:
+Riddle: তিন অক্ষরে নাম তার ফুলেরই অংশ, প্রথম অক্ষর বাদ দিলে হয় মনের এক ভাব। বল কি?
+Answer: পরাগ
+
+Example 4:
+Riddle: আমার নেই হাত পা, নেই মুখ বা শরীর, তবু কত কথা বলতে পারি, ভাঙতে পারি নীর।
+Answer: গোপন কথা
+
+
+Now, solve this riddle:
+Riddle : মেটো গোয়াল, কাঠের গাই বাঁছুর ছাড়াই দুধ পাই
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কূপ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 15:07:32 2025 ---

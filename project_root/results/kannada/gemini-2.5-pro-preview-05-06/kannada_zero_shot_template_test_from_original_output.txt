@@ -1,0 +1,1834 @@
+
+--- Starting New Generation Run at Sun May 25 20:55:22 2025 ---
+Model: gemini-2.5-pro-preview-05-06, Language: Kannada, Prompt: zero_shot_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Kannada riddles.
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕರಿ ಗುಡ್ಡಬಿಳಿ ನೀರು ಅದ್ರಾಗೆ ಕುಂತವಳೇ ಚಂಪರಾಣಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಬೆಳ್ಳಿ ಸಮುದ್ರದಲ್ಲಿ ಕಪ್ಪು ಸೂರ್ಯ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದೋಸೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕಾಲಿಲ್ಲ ಹುಡುಗಿಗೆ ಮಾರುದ್ದ ಕಡಿವಾಣ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬಾವಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹಾರಾಡುತ್ತಿದೆ ಗಾಳಿಪತವಲ್ಲ, ಬಣ್ಣ ಮೂರಿರುವುದು ಕಾಮನಬಿಲ್ಲಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ತಿರಂಗ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಒಂದು ಮಡಕೆ, ಮಡಕೆಯೊಳಗೆ, ಕುಡಿಕೆ, ಕುಡಿಕೆಯಲ್ಲಿ ಸಾಗರ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ತೆಂಗಿನಕಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ನೀಲಿ ಸಾಗರದಲ್ಲಿ ಬೆಳ್ಳನೇ ಮೀನುಗಳು ನಾನ್ಯಾರು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ರಾತ್ರಿ ಆಕಾಶ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ನೀನಿಲ್ಲದೆ ಊಟವಿಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಉಪ್ಪು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಕ್ಕ ಓದುತ್ತಾಳೆ ತಂಗಿ ನಡೀತ್ತಾಳೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಾಗದ ಮತ್ತು ಲೇಖನಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಮೂರು ಕಾಸಿನ ಕುದುರೆಗೆ ಮುನ್ನೂರು ರೂಪಾಯಿನ ಹಗ್ಗ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೂಜಿ ದಾರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಒಂದು ಹಸ್ತಕ್ಕೆ ನೂರೆಂಟು ಬೆರಳು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಪೊರಕೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಗುಡುಗು, ಗುಡುಗಿದರೆ ಸಾವಿರ ನಯನಗಳು ಅರಳುವುದು.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಅಣಬೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಆಕಾಶದಲ್ಲಿ ಕೊಡಲಿಗಳು ತೇಲಾಡುತ್ತವೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬಾವಲಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಮ್ಮನ ಆಕಾಶವಾಣಿ ನಾನು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ತೊಟ್ಟಿಲು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕೂಗಿದರೆ ರಾವಣ, ಹಾರಿದರೆ ಹನುಮಂತ, ಕೂತರೆ ಮುಸಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಪ್ಪೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹಗ್ಗ ಹಾಸಿದೆ, ಹಸು ಮಲಗಿದೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೂದುಗುಂಬಳಕಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಸಾವಿರ ತರುತ್ತೆ ಲಕ್ಷ ತರುತ್ತೆ ನೀರಿನಲ್ಲಿ ಹಾಕಿದರೆ ಸಾಯುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಂಕಿಕಡ್ಡಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಬಾ ಅಂದರೆ ಬರೋಲ್ಲ, ಹೋಗು ಅಂದರೆ ಹೋಗೋಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ನೆರಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕೆಂಪು ಕುದುರೆಗೆ ಲಗಾಮು, ಓಬ್ಬ ಹತ್ತುತ್ತಾನೆ, ಇನ್ನೊಬ್ಬ ಇಳಿತಾನೇ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+This is also excellent. "ಇನ್ನೊಬ್ಬ" = ash.
+    4.  **Griddle/Tawa (ಹೆಂಚು/ಕಾವದೀಪ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹೊಂಚು ಹಾಕಿದ ದೆವ್ವ, ಬೇಡ ಬೇಡ ಎಂದರೂ ಜೂತೆಯೇ ಬರುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ನೆರಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕೆಂದ ಕುದುರೆ,ಬಿಳಿ ತಡಿ, ಕರೆ ಲಗಾಮು, ಅಣ್ಣ ಅತ್ತಾನೆ, ತಮ್ಮ ಇಳಿತ್ತಾನೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದೋಸೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕೆಂಪು ಕುದುರೆ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಒಬ್ಬ ಇಳಿಯುತ್ತಾನೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದೋಸೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕೋಳಿ ಕುಗುತ್ತದೆ, ಮುಲ್ಲ ಚೂರಿ ಹಾಕುತ್ತಾನೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೂರ್ಯೋದಯ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಒಂದು ಮನೆಗೆ ಒಂದೇ ತೊಲೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಅಣಬೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹೋಗುತ್ತಾ, ಬರುತ್ತಾ ಇರುವುದು ಎರಡು,ಹೋದ ಮೇಲೆ ಬರಲಾರವು ಎರಡು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೂರ್ಯ-ಚಂದ್ರ, ತಂದೆ-ತಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕಡ್ಲೆ ಕಾಳಷ್ಟು ಹಿಂಡಿ 32 ಮನೆ ಸಾರಿಸಿ ಬಚ್ಚಲ ಪಾಲು ಆಗುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹಲ್ಲುಪುಡಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಗಿರಗಿರ ತಿರುಗುತ್ತೆ, ಸುಸ್ತಾಗಿ ಬೀಳುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬಗುರಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಒಂದು ಹಪ್ಪಳ ಊರಿಗೆಲ್ಲ ಊಟ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಚಂದ್ರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಶತ್ತಗಿಂಡಿ, ಶಾರಾಗಿಂಡಿ, ನೀರಾಗಿ ಹಕ್ಕಿದರೆ ಮುಳುಗದು ಮುತ್ತಿನ ಗಿಂಡಿ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ತೆಂಗಿನಕಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹಸಿರು ಕೋಲಿಗೆ ಮುತ್ತಿನ ತುರಾಯಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೆಕ್ಕೆ ಜೋಳ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ನೀಲಿ ಕೆರೆಯಲಿ ಬಿಳಿ ಮೀನು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಚಂದ್ರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಬಂಗಾರದ ಗುಬ್ಬಿ ಬಾಲದಲ್ಲೇ ನೀರನ್ನು ಕುಡಿಯುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದೀಪ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಮರನು ಮರನೇರಿ ಮತ್ತೆ ಮರನೇರಿ ಬಸವನಾ ಕತ್ತೇರಿ ತಿರುಗುತ್ತಿದೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಡಗೋಲು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹಸಿರು ಹಾವರಾಣಿ, ತುಂಬಿದ ತತ್ರಾಣಿ, ಹೇಳದಿದ್ದರೆ ನಿಮ್ಮ ದೇವರಾಣಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೆಣಸಿನಕಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+೨೧. ಮೋಟು ಗೋಡೆ ಮೇಲೆ, ದೀಪ ಉರೀತಿದೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಉಗುರು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕರಿ ಗುಡ್ಡ-ಬಿಳಿ ನೀರು ಅದ್ರಾಗೆ ಕುಂತವಳೇ ಚಂಪರಾಣಿ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಇದ್ದಲು ನುಂಗುತ್ತ, ಗದ್ದಲ ಮಾಡುತ್ತಾ, ಉದ್ದಕ್ಕೂ ಓಡುತ್ತಾ ಮುಂದಕ್ಕೆ ಸಾಗುವ ನಾನ್ಯಾರು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹೊಗೆಬಂಡಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+೪೬. ಕೆಂಪು ಕುದುರೆ ಮೇಲೆ ಒಬ್ಬ ಏರುತ್ತಾನೆ, ಒಬ್ಬ ಇಳಿಯುತ್ತಾನೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದೋಸೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕಾಸಿನ ಕುದುರೆಗೆ ಬಾಲದ ಲಗಾಮು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೂಜಿ ದಾರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ವನದಲ್ಲಿ ಹುಟ್ಟಿ,ವನದಲ್ಲಿ ಬೆಳೆದು,ವನದಿಂದ ಹೊರಟು ವನಜಲೊನೆ ಶಿರಕ್ಕೆರುವರು.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹೂವು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಂಗಳದಲ್ಲಿ ಹುಟ್ಟುವುದು, ಅಂಗಳದಲ್ಲಿ ಬೆಳೆಯುವುದು, ತನ್ನ ಮಕ್ಕಳ ಹಂಗಿಸಿ ಮಾತಾಡುವುದು ಇದು ಏನು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಒನಕೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಕ್ಕ ಪಕ್ಕ ಚದುರಂಗ,ಅದರ ಹೂವು ಪದುರಂಗ ಅದರ ಹೆಸರು ಅಯ್ಯಯ್ಯಪ್ಪ ಇದು ಏನು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಅನಾನಸ್
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕತ್ತಲೆ ಮನೆಯಲಿ ಕಾಳವ್ವ ಕುಂತವೈ ಕುಯ್ಯೋ, ಮರ್ರೋ ಅಂತವಳೇ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ರಾಗಿ ಕಲ್ಲು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಂಗೈ ಕೊಟ್ಟರೆ ಮುಂಗೈನೂ ನುಂಗುತ್ತದೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಂಕಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಒಂದು ಮರ, ಮರದಾಗ ಅಲ್ಲ, ಅಲ್ಲಿನಾಗ ಕೊಬ್ರಿ ಗುಂಡ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ತೆಂಗಿನಕಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ತಕ್ಕಡೀಲಿ ಇಟ್ಟು ಮಾರೋ ಹಾಗಿಲ್ಲ, ಅದಿಲ್ಲದೆ ಹಬ್ಬ ಅಗೋ ಹಾಗಿಲ್ಲ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದಿನಾಂಕ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕಡ್ಲೆ ಕಾಳಷ್ಟು ಹಿಂಡಿ೩೨ ಮನೆ ಸಾರಿಸಿ ಬಚ್ಚಲ ಪಾಲು ಆಗುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬೆಳದಿಂಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅನ್ನ ಮಾಡಲಿಕ್ಕೆ ಬಾರದಂತಹ ಅಕ್ಕಿ ಯಾವುದು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೂಗಕ್ಕಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಊಟಕ್ಕೆ ಕುಳಿತವರು ಹನ್ನೆರಡು ಜನರು, ಬಡಿಸುವವರು ಇಬ್ಬರು, ಒಬ್ಬನು ಒಬ್ಬರಿಗೆ ಬಡಿಸುವಸ್ಟರಲ್ಲಿ ಇನ್ನೊಬ್ಬನು ಹನ್ನೆರಡು ಜನಕ್ಕೂ ಬಡಿಸಿರುತ್ತಾನೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಗಡಿಯಾರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕಂದ ಬಂದ ಕೊಂದ ತಂದ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಈರುಳ್ಳಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ದಾಸ್‌ ಬುರುಡೆ ದೌಲಥ ಬುರುಡೆ, ಲೋಕಕ್ಕೆಲ್ಲ ಎರಡೇ ಬುರುಡೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೂರ್ಯ ಮತ್ತು ಚಂದ್ರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಬೆಳ್ಳಿ ಬಟ್ಟಲಲ್ಲಿ ಮುತ್ತಿನ ಬಿಂದು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹಸಿರು ಕೋಲಿಗೆ ಮುತ್ತಿನ ತುರಾಯಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಜೋಳ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹಾರಿದರೆ ಹನುಮಂತ, ಕೂತರೆ ಮುನಿ, ಕೂಗಿದರೆ ಕಾಡಿನ ಒಡೆಯ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಪ್ಪೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಂಗಣ್ಣ ಮಂಗಣ್ಣ ಅಂಗಿ ಬಿಚ್ಚಿಕೊಂಡು ನುಂಗಣ್ಣ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬಾಳೆಹಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕಿರೀಟ ಇದೆ ರಾಜ ಅಲ್ಲ, ಕಲ ತಿಳಿಸುತ್ತೆ ಗಡಿಯಾರವಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹುಂಜ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹಲ್ಲಿಲ್ಲದ ಹಕ್ಕಿಗೆ ಗೂಡು ತುಂಬ ಮರಿಗಳು.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬಾಚಣಿಗೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಒಂಟಿಕಾಲಿನ ಕುಂಟ. ನಾನ್ಯಾರು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಅಣಬೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+೧೩.ಒಂದು ರುಮಾಲು ನಮ್ಮಪ್ಪನೂ ಸುತ್ತಲಾರ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಆಕಾಶ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯಲ್ಲಿ ಟೋಪಿ ಹಾಕಿರುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಲವಂಗ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ನೀರಿರೋತಾವ ನಿಲ್ಲಲೇ ಕೋಣ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಪ್ಪೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹಸಿರು ಗಿಡದ ಮೇಲೆ ಮೊಸರು ಚೆಲ್ಲಿದೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮಲ್ಲಿಗೆ ಹೂವು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಂಗೈ ಅಗಲದ ರೊಟ್ಟಿಗೆ ಲೆಕ್ಕವಿಲ್ಲದಷ್ಟು ಉಪ್ಪಿನಕಾಯಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಚಂದ್ರ ಮತ್ತು ನಕ್ಷತ್ರಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಮನೆ, ಮನೆಗೆರಡು ಬಾಗಿಲು, ಬಾಗಿಲ ಮುಂದೆ, ಮುಚ್ಚಿದರೆ ಹಾನಿ ಇದೇನು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಣ್ಣುರೆಪ್ಪೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಸಾವಿರಾರು ಹಕ್ಕಿಗಳು, ಒಂದೇ ಬಾರಿಗೆ ನೀರಿಗಿಳಿತವೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಇಡ್ಲಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಸುತ್ತ ಮುತ್ತ ಸುಣ್ಣದ ಗೋಡೆ, ಎತ್ತ ನೋಡಿದರೂ ಬಾಗಿಲಿಲ್ಲ ಇದು ಏನು ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೊಟ್ಟೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಗಲವಾದ ಮಾಳಿಗೆಗೆ ಒಂದೇ ಕಂಬ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕೊಡೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಸುಟ್ಟ ಹೆಣ ಮತ್ತೆ ಸುಡ್ತಾರೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಇದ್ದಲು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಚಿಕ್ಕ ಮನೆಗೆ ಚಿನ್ನದ ಬೀಗ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಏಲಕ್ಕಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಗಿಡ ಕೊಡಲಾರದು, ಮರ ಬೆಳೆಸಲಾರದು ಅದಿಲ್ಲದೆ ಊಟ ಸೇರಲಾರದು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಉಪ್ಪು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಲಟಪಟ ಲೇಡಿಗೆ ಒಂದೇ ಕಣ್ಣು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೂಜಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಮುಳ್ಳುಗಳಿವೆ ಅಪಾಯವಿಲ್ಲ, ಸಂಖ್ಯೆಗಳಿವೆ ಲೆಕ್ಕದ ಪುಸ್ತಕವಲ್ಲ, ಗಂಟೆ ಹೊಡೆಯುತ್ತದೆ, ದೇವಾಲಯವಲ್ಲ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಗಡಿಯಾರ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹುಟ್ಟುತ್ತಲೇ ಹುಡುಗ ತಲೆಯಲ್ಲಿ ಟೋಪಿ ಹಾಕಿರುತ್ತೆ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಲವಂಗ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಸಾಗರ ಪುತ್ರ, ಸಾರಿನ ಮಿತ್ರ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಉಪ್ಪು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಎರಡು ಗವಿಗಳಿಗೆ ಒಂದೇ ಗೋಡೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೂಗು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕಣ್ಣಿಲ್ಲ, ಕಾಲಿಲ್ಲ,ಆದರು ಚಲಿಸುತಿದೆ ಯಾವುದು ಎಲ್ಲಿದೆ ಬಲ್ಲಿದನ ಹೇಳಿರಲ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಮೋಡ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಚಿಕ್ಕಕ್ಕನಿಗೆ ಪುಕ್ಕುದ್ದ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಪೊರಕೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಎಲ್ಲರ ಮನೆ ಅಜ್ಜಿಗೆ ಮೈಯೆಲ್ಲಾ ಕಜ್ಜಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹಲಸಿನ ಹಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹಲ್ಲು ಹಾಕಿದರೆ ಹಾಲು ಕೆಡೋಲ್ಲ ಕಲ್ಲು ಹಾಕಿದರೆ ಕೆಡುತ್ತೇ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹೆಪ್ಪು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕಲ್ಲಿಲ್ಲದ ಬೆಟ್ಟ ಮರಳಿಲ್ಲದ ಮರುಭೂಮಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹುತ್ತ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಒಂದು ಹಣ್ಣಿಗೆ ಹನ್ನೆರಡು ತೊಳೆ ಮತ್ತೂ ಮೂವತ್ತು ಬೀಜ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ವರ್ಷ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಕ್ಕನ ಮೇಲೆ ಛತ್ರಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಅಣಬೆ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಬ್ಬಬ್ಬ ಹಬ್ಬ ಬಂತು, ಸಿಹಿಕಹಿ ಎರಡೂ ತಂತು.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಯುಗಾದಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹೋದ ನೆಂಟ, ಬಂದ ದಾರಿ ಗೊತ್ತಿಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕನಸು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಗುಂಡಾಕಾರ ಮೈಯೆಲ್ಲಾ ತೂತು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಜರಡಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಜ್ಜಿಯ ಸೀರೆ ಮಡಚೋಕೆ ಆಗಲ್ಲ, ಅಜ್ಜನ ರೊಕ್ಕ ಎಣಿಸೋಕೆ ಆಗಲ್ಲ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಆಕಾಶ, ನಕ್ಷತ್ರಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ನೀಲಿ ಸಾಗರದಲ್ಲಿ ಬೆಳ್ಳನೆ ಮೀನುಗಳು ನಾನ್ಯಾರು?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ನಕ್ಷತ್ರಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಮರದೊಳಗೆ ಮರ ಹುಟ್ಟಿ ಮರ ಚಕ್ರ ಕಾಯಾಗಿ ತಿನ್ನಬಾರದ ಹಣ್ಣು ಬಲು ರುಚಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹಲಸಿನ ಹಣ್ಣು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕೈಲಿದ್ದಾಗ ಗುದಿಸಾಡುತ್ತೇನೆ, ಕೈ ಬಿಟ್ಟಾಗ ಗೊರಕೆ ಒಡೆಯುತ್ತೇನೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಬುಗುರಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಪ್ಪ ಆಕಾಶಕ್ಕೆ ಅವ್ವ ಪಾತಾಳಕ್ಕೆ ಮಗ ವ್ಯಾಪಾರಕ್ಕೆ ಮಗಳು ಮದುವೆಗೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ತೆಂಗಿನಕಾಯಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಹೊಕ್ಕಿದ್ದು ಒಂದಾಗಿ ಹೊರಟಿದ್ದು ಅದು ನೂರಾಗಿ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ರಾಗಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಚಿಣಿಮಿನಿ ಎನ್ನುವ ಕೆರೆ, ಚಿಂತಾಮಣಿ ಎನ್ನುವ ಹಕ್ಕಿ, ಕೆರೆ ಬತ್ತಿದರೆ ಹಕ್ಕಿಗೆ ಮರಣ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ದೀಪ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಅಂಗಡಿಯಿಂದ ತರೋದು ಮುಂದಿಟ್ಟುಕೊಂಡು ಅಳೋದು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಈರುಳ್ಳಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ನಾ ಇರುವಾಗ ಬರುತ್ತೆ, ನಾ ಹೋದ ಮೇಲೂ ಇರುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಹೆಸರು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಗೂಡ್ನಲ್ಲಿರೋ ಜೋಡಿ ಪಕ್ಷಿ ಊರೆಲ್ಲ ನೋಡುತ್ತೆ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಕಣ್ಣುಗಳು
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಲಟಪಟ ಲೇಡಿಗೆ ಒಂದೇ ಕಣ್ಣು
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಸೂಜಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Your task is to analyze the following Kannada riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Kannada Riddle :
+ಕುತ್ತಿಗೆ ಇದೆ ತಲೆ ಇಲ್ಲ, ತೋಳಿದೆ ಬೆರಳಿಲ್ಲ, ದಡಾ ಇದೆ, ಕಾಲಿಲ್ಲ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ಅಂಗಿ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Sun May 25 21:39:38 2025 ---

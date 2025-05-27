@@ -1,0 +1,1834 @@
+
+--- Starting New Generation Run at Mon May 26 15:25:37 2025 ---
+Model: meta-llama/llama-4-maverick, Language: Malayalam, Prompt: zero_shot_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Malayalam riddles.
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഞെട്ടില്ല വട്ടേല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മുട്ട
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+മുള്ളുണ്ട് മുരിക്കല്ല, കൊമ്പുണ്ട് കുത്തില്ല, പാലുണ്ട് പശുവല്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വാഴ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ചെടി ചെടിയിന്മേൽകായ് കയ്യിന്മേൽ ചെടി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഉത്തരം : കുട.
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+നല്ല നായ്ക്ക് നാവിന്മേൽ പല്ല്
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കത്തി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കുത്തുന്ന കാളക്ക് പിന്നിൽ കണ്ണ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+സൂചി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കരടിയിലുണ്ട് കുതിരയിലില്ല, ഉഴുന്നിലുണ്ട് ഉലുവയിലില്ല, ജനതയിലുണ്ട് ജനങ്ങളിലില്ല. മൂന്നക്ഷരമുള്ള ഞാനാര്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നത്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കാലുപിടിക്കുന്നവനെ സംരക്ഷിക്കുന്നവൻ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഉപ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+അകത്തുരോമം പുറത്തിറച്ചി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കടല മുത്തു
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കണ്ടാലൊരു വണ്ടി, തൊട്ടാലൊരു ചക്രം?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കുമിള
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഒരമ്മ പെറ്റതെല്ലാം കറുത്ത പട്ടാളം?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കരിയില
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഉണ്ടാക്കുന്നവൻ ഉപയോഗിക്കുന്നില്ല, ഉപയോഗിക്കുന്നവൻ അറിയുന്നില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ശവപ്പെട്ടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+അമ്മയെകുത്തി മകൻ മരിച്ചു?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പാമ്പും മുട്ടയും
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആയിരം പറ അവളിൽ ഒരു നുള്ള് കൊട്ടത്തേങ്ങ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അടയ്ക്കപൂവ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+അടി മുള്ള്, നടു കാട്, തല പൂവ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തേങ്ങ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+മുറ്റത്തെ ചെപ്പിനു അടപ്പില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആയിരം പോലീസുകാർക്ക് ഒരു ബെൽറ്റ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചീപ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഇട്ടാൽ പൊട്ടും ഇംഗ്ലീഷ് മുട്ട?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+Egg
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആനയിലുണ്ട് ചേനയിലില്ല, ഇമയിലുണ്ട് ഇഷ്ട്ടത്തിലില്ല. രണ്ട് അക്ഷരമുള്ള ഞാനാര്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഇയൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഓടും കുതിര, ചാടും കുതിര, വെള്ളം കണ്ടാൽ നില്കും കുതിര?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കുട്ടിയും കുട്ടിയും കൂടിയാൽ ഉണ്ടാകുന്നതും ഓടും, ചാടും പക്ഷേ വെള്ളം ആയാൽ നിൽക്കും.  ഉത്തരം : കുളി (കുട്ടി + കുട്ടി = കുളി)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഒരു അമ്മ പെറ്റതെല്ലാം തൊപ്പികുട്ടന്മാർ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മുട്ടകൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+അടി പാറ, നാട് വടി, മീതെ കുട?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഉത്തരം: കുടക്ക parasol, അടി പാറ - പാറയുടെ അടിയിൽ (നിലത്ത്) വടി - നാട്ടിൽ (നാട്ടുവഴിയിൽ/നാട്ടിൽ സഞ്ചരിക്കുമ്പോൾ) കുട - മീതെ (തലയ്ക്ക് മുകളിൽ)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+അങ്ങോട്ടോടും, ഇങ്ങോട്ടോടും. നേരെനിന്ന് സത്യം പറയും?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തുലാസ്സ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+മുള്ളുണ്ട് മുരിക്കല്ല, കൈപ്പുണ്ട് കാഞ്ഞിരമല്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വഴുതനങ്ങ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+അടിക്കൊരുവെട്ടും നടുക്കൊരു കെട്ടും തലക്കൊരു ചവിട്ടും?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കുടക്കോൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആയിരം കിളികൾക്ക് ഒറ്റക്കൊക്ക്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഛത്രം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+എന്നെ തൊട്ടുകൂട്ടും, പക്ഷെ സദ്യക്ക് എടുക്കില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഉപ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഒരു കുപ്പിയിൽ രണ്ടെണ്ണ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കിക്കിലുക്കം, കിലുകിലുക്കം ഉത്തരത്തിൽ ചത്തിരിക്കും?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കോഴി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കാടുണ്ട് കടുവയില്ല, വീടുണ്ട് വീട്ടാറില്ല, കുളമുണ്ട് മീനില്ല?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അക്ഷരം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+പൊന്നുതിന്ന് വെള്ളിതുപ്പി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തീപ്പെട്ടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+മലയിലെ അമ്മക്ക് നെറുകയിൽപൂവ്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പാർവ്വതി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+മരങ്ങൾക്കും ബാങ്കുകൾക്കും പൊതുവായുള്ളത് എന്താണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ശാഖകൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആരും ഇഷ്ടപ്പെടാത്ത പണം ഏതാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കൈവിട്ടുപോയപണം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആൺകുട്ടികളും പെൺകുട്ടികളും ഒരുപോലെ ഉപയോഗിക്കുന്ന മാല ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പൂമാല
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആരും പോകാൻ ആഗ്രഹിക്കാത്ത അറ ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തടുക്കറ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+എല്ലാവർക്കും വിളമ്പി നൽകുകയും സ്വയം ഒന്നും കഴിക്കാതിരിക്കുകയും ചെയ്യുന്നത് ആരാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പാചകക്കാരൻ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+തലകുത്തി നിന്നാൽ വലുതാകുന്നത് ആര് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നഖം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വെച്ചടി വെച്ചടി കയറ്റം കിട്ടുന്ന ജോലി?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പടിക്കെട്ട്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കുടിക്കാൻ പറ്റുന്ന ഇഗ്ലീഷ് അക്ഷരം ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ടീ (T)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+എല്ലാവരും ഇഷ്ടപ്പെടുന്ന വാർഡ് ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+എന്റെ വാർഡ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കുറ്റവാളികൾ ഭയപ്പെടുന്ന മരം ഏതാണ്.?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തൂക്കുമരം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വണ്ടി ഓടാത്ത റൂട്ട് ഏത്?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മൂത്രനാളം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആരും ഇഷ്ടപ്പെടാത്ത ദേശം ഏതാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അനിഷ്ടദേശം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+നിങ്ങളുടെ മുന്നിലുണ്ട് എന്നാൽ നിങ്ങൾക്ക് കാണാൻ കഴിയില്ല. എന്താണത് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഭാവി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+എന്നും ഉപ്പിലിടുന്ന വസ്തു ഏതാണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണുനീര്‌
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+പോലീസുകാർ ഒറ്റക്കാലിൽ നിൽക്കുന്നത് എപ്പോൾ ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഒറ്റക്കാലിൽ നിൽക്കുമ്പോൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+എപ്പോഴും വിശപ്പുള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ദന്ത്യം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആളുകൾ എപ്പോഴും തെന്നിവീഴുന്ന രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മലേഷ്യ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+എപ്പോഴും മഴയുള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഇംഗ്ലണ്ട്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ന്യൂസുകൾ കൂടുതൽ ഉള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വാർത്തകൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഏറ്റവും കൂടുതൽ തിരക്കുള്ള രാജ്യം ഏത്..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കണ്ണാടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഒരു മീനിനെ പിടിച്ചു കരയ്ക്ക് ഇട്ടാൽ എന്തുപറ്റും ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഇത് വരണ്ടും
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വധൂവരന്മാർ ആദ്യമായി കഴിക്കുന്നത് എന്താണ് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പന്ത്രണ്ട് മണി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+പിറകിൽ നിന്ന് ആരെങ്കിലും വിളിച്ചാൽ തിരിഞ്ഞു നോക്കുന്നത് എന്തുകൊണ്ട് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മുന്നിൽ കണ്ണില്ലാത്തതുകൊണ്ട്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+നിങ്ങളുടെ സ്വന്തം ആണെങ്കിലും ഇത് കൂടുതലും ഉപയോഗിക്കുന്നത് മറ്റുള്ളവരാണ്. എന്ത് ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പേര്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഇടുമ്പോൾ ടൈറ്റ് ആയിരിക്കും ഇട്ടു കഴിഞ്ഞാൽ ലൂസ് ആയിരിക്കും ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ടയർ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആകാശത്തൊരു കൂട്ടിനുള്ളില്‍ മുപ്പത്തിരണ്ടു വെള്ളാന
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പല്ലുകൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വീട്ടിലെ കോവിലിൽ മൂന്നുണ്ട് ദൈവങ്ങൾ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അടുപ്പിലെ മൂന്ന് കല്ലുകൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വെട്ടും തോറും വളരും ഞാൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തീപ്പൊള്ളി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വെള്ളച്ചാരെ മാറ്റിയിരുത്തി, ചോപ്പന്മാരെ കേറ്റിയിരുത്തി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പല്ലുകുത്തി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വെള്ളമതിലിനുള്ളിൽ ഒരു വെള്ളിവടി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പല്ല്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വെള്ളിക്കിണ്ണത്തിൽ ഞാവൽപ്പഴം.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചന്ദ്രൻ, നക്ഷത്രം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വാലില്ലാത്തമ്മയ്ക്ക് വാലുള്ള മക്കൾ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അരക്കിട്ടിയും കുരുമുളകും
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വില്ലാണ് പക്ഷേ ഞാണില്ല കെട്ടാൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വില്ല് (ചക്രം)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വട്ടത്തിൽ ചവിട്ടിയിൽ നീളത്തിലോടും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഇടിത്തീ \ വൈദ്യുതി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വരുമ്പോൾ കറുത്തിട്ട്, പോകുമ്പോൾ വെളുത്തിട്ട്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തീപ്പെട്ടി.
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+മുള്ളിനുള്ളിലെ സുന്ദരിക്കുട്ടി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മുരിക്കിൻ പൂവ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+മുള്ളില്ലാത്ത പുറംകാട്ടിൽ എല്ലില്ലാത്ത ഒരെലിക്കുഞ്ഞ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തേങ്ങ, ഇലയിലംകാവ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+പുക തുപ്പുന്ന പാമ്പ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തീവണ്ടി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+പൂട്ടാനെളുപ്പം തുറക്കാനാവില്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+മുട്ട.
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+പലകക്കീഴെ പച്ചയിറച്ചി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഇലക്കറി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+തുമ്പിക്കൈയില്ലാത്ത ആന.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പല്ലി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+തെക്ക് നിന്ന് വന്ന കാളയ്ക്ക് പള്ളയ്ക്കൊരു കൊമ്പ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഉത്തരം : തൂക്കുവിളക്ക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+തേങ്ങാപ്പൂളൊരു തേങ്ങാമുറിയായ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കൂമ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+തൊട്ടാൽ ചൊറിയൻ തിന്നാൻ രസികൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കൈതച്ചോളം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+തോളിൽ തൂങ്ങുന്ന തല്ലുകൊള്ളി.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചാട്ടവാർ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ചത്ത പോത്ത് കോലെടുത്താലോടും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തൂക്കുവിളക്ക്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കിഴക്കൂന്ന് വരവ്, പടിഞ്ഞാട്ട് പോക്ക്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ക്ലോക്ക് /  പന്ത് /  സൂചി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കുളിക്കാൻ പോകുമ്പോൾ കുഴഞ്ഞുമറിഞ്ഞ്, കുളിച്ചു വരുമ്പോൾ ബലാബലൻ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തോർത്ത്‌ / Umbrella / ചൂടി / തുവർത്ത് (The answer can be any one of the above in different contexts, but the most likely answer is തോർത്ത് or തുവർത്ത്) 
+തോർത്ത്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഒരമ്മ എന്നും വെന്തും നീറിയും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഇരുമ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ഒരു തൊഴുത്തിൽ രണ്ടുവരി വെള്ളക്കുതിര.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പല്ല്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+എന്നെ തൊട്ടാൽ തൊടുന്നവനെ തട്ടും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വൈദ്യുതി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആരോടും മല്ലടിക്കും, വെള്ളത്തോട് മാത്രമില്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തീയ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആരാലും അടിക്കാത്ത മുറ്റം.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പന്ത് മുറ്റം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ആരും കാണാതെ വരും, ആരും കാണാതെ പോകും.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ഉറക്കം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+അകത്ത് പോയപ്പോൾ പച്ച, പുറത്ത് വന്നപ്പോൾ ചുവപ്പ്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചെമ്പരത്തി
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+അടയ്ക്കും തുറക്കും കിങ്ങിണി പത്തായം.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കുട.
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+വായില്ല നാക്കുണ്ട്, നാക്കിന്മേൽ പല്ലുണ്ട്.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+അരിവാൾ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+പിടിച്ചാൽ പിടികിട്ടില്ല, വെട്ടിയാൽ വെട്ടേൽക്കില്ല.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നിഴൽ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കാലില്‍ പിടിച്ചാല്‍ തോളില്‍ കയറും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചെരിപ്പ്
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കറുത്ത പാറമേല്‍ വെളുത്ത വേര്‍
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+പല്ലും നാക്കും
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കറുപ്പാണ് എന്‍റെ നിറം...നീ എവിടെ പോയലും നിന്‍റെ കൂടെ ഞാനും വരും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+നിഴല്‍
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+കൈയില്ല കാലില്ല, വാലുണ്ട് വയറുണ്ട്, നീരാടിപ്പോരുമ്പോള്‍ കൊല്ലും ഞാന്‍ നൂറാളെ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+വല (Fishing Net)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+ചത്തു കിടക്കുന്ന പാമ്പ് വടിയെടുത്തല്‍ ഓടും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ചക്രം
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+പഞ്ചപാണ്ഡവര്‍ക്ക് അഞ്ചുപേര്‍ക്കും കൂടി ഒരു മുറ്റമേയുള്ളൂ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+കൈ വിരലുകള്‍
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Your task is to analyze the following Malayalam riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Malayalam Riddle :
+എല്ലാം തിന്നും എല്ലാം ദഹിക്കും വെള്ളം കുടിച്ചാല്‍ ചത്തും പോകും
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+തീ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Mon May 26 15:30:30 2025 ---

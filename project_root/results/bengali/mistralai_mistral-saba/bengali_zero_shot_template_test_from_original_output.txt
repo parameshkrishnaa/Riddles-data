@@ -1,0 +1,3666 @@
+
+--- Starting New Generation Run at Tue May 27 14:47:26 2025 ---
+Model: mistralai/mistral-saba, Language: Bengali, Prompt: zero_shot_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Bengali riddles.
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কাঁচাতে যেই ফল সর্বজনে খায়, পাঁকলে সেই ফল গড়াগড়ি যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জল ছাড়া নদী, পাথর ছাড়া পাহাড় এবং মানুষ ছাড়া শহর কোথায় পাওয়া যায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানচিত্রে
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+যদি থাকে বুদ্ধি বলো দেখি কোন সুখে সুখ নেই?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মৃত্যু
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কালিদাস পন্ডিতের ফাঁকি, আড়াইশো থেকে পাঁচ পঞ্চাশ গেলে আর কত থাকে বাকী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+শূন্য
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বাঘের মত লাফ দেয়, কুকুর হয়ে বসে, পানির মধ্যে ছেড়ে দিলে, ছোলা হয়ে ভাসে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+শহর থেকে এল সাহেব কোর্ট প্যান্ট পরে, কোর্ট প্যান্ট খোলার পরে চোখ জ্বালা করে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পিঁয়াজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+৩ অক্ষরের নাম তার পেট ভরে পানি খায় মাঝের অক্ষর বাদ দিলে আলোয় ভরে যায়,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পানি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কান নাই মাথা নাই, পেট ভরে খায়, কাম নাই কাজ নাই, মাথা নিয়ে ঘুমায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পাথর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আমি কাদাঁই, আমি হাসাই, নই আমি প্রাণি, আমায় দেখে সবাই ক্ষনিক ভোলে ব্যাথার বানী।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চিত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আন্ধার ঘরে থাকি আমি নড়াচড়া করি, একটুখানি খাবার পেলে খাবলে তাকে ধরি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাকড়সা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+হাঁড়ির ভিতর, বালির ভিতর হাজার ছেলে নাচে, একটু পরই হয় সে খাবার তপ্ত চুলার আঁচে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পপকর্ন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এতো বড় আঙিনা ঝাড় দিয়েও কুলোয় না। কতো ফুল ফুটে আছে নাই তার তুলনা!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+চার পায়ে বসি মোরা, আট পায়ে চলি। বাঘও নই ভাল্লুকও নই আস্ত কাঁধে ঝুলি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+গাধা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম তার সর্ব অঙ্গে কালো, মাঝের অক্ষর বাদ দিলে খেতে লাগে ভাল
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কালো
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আশ্চর্য এক কথা শুনলে হাসি পায় নিজে দেখতে পায় না কিন্তু অপরকে দেখায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চশমা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরের নাম তার সবাই খায়, প্রথম অক্ষর ছেড়ে দিলে মেয়েদের হাতে যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পোস্ত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+চোখ আছে, কান নাই, হাত আছে, প্রাণ নাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পুতুল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এক বাড়িতে চার ভাই, তাদের গায়ে একই সাজ, কারো মুখে কেশ নাই, দিন শেষে বাড়ায় রাজ।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দিন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এক পায়ে দাঁড়িয়ে আছে, হাত দিয়ে ঠেলে দিলে, দৌড়ে পালিয়ে যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পেন্সিল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সাদা দুটি পুকুরে কালো হিরে চকচক করে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দিনের বেলায় ঘুমিয়ে থাকে রাতের বেলায় জাগে ঘর-বাড়ি নেই আকাশেতে থাকে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাঁদ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+চাঁদ নয় সূর্য নয় আলো দেয় রাতে গাছে গাছে উড়ে বেড়ায় টিমটিম আলোতে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জোনাকি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+গলা আছে মাথা নেই হাত আছে পা নেই এটি কি বলবে আমায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বাঘ নয় তবে মানুষ খায় পাখি নয় তবে উড়ে যায় বোলতা নয় তবে শুং আছে জন্তু নয় তবে পা আছে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মশা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+মাথার উপর রাখে আমায় রোদ-বর্ষার দিনে বাকি সময় পড়ে থাকি শুধু ঘরের কোনে৷
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছাতা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দাদু বুড়ো, ঠাকুমা বুড়ি আমাতে বুড়ো কী? পাঁচ আঙুলে রয়েছে সেটি বলবে সেটি কী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+নখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+উপরে থেকে পড়ল হাঁড়ি হাঁড়ির ভেতরে একশো কড়ি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+করা (Potato)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ঘরের ভেতরে ঘর সেখানে গিয়ে শুয়ে পড়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এক থালা সুপারি গুণতে না পারি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাঁদ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জটা ভরা মাথায় হাজার চোখে তাকায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+থাকি গভীর জলে মাঝের বর্ণ ছেড়ে দিলে আকাশে যাই উড়ে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+প্রজাপতি, প্রজাপতি বলছি শোন কী তিনটি মাথা, দশটি ঠ্যাং দেখেছ তুমি কি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+গরু
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+লেবু টক, জলপাই টক আর টক কী পাতার আড়ালে ঝুলে থাকি আমায় চেন কি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জিহ্বা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+লম্বা কেশর ফুলিয়ে তোলা গম্ভীর মেজাজ; রাজার মতো চেহারা তাই নামটি পশুরাজ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+সিংহ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আয় আয় তু তু খেতে দেব দু দু! ল্যজটি তুলে নাচবি সুখে, হাসবে সোনার খুকু!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+হাত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+গাছে হয় ঘরে আনি রান্না হয় খাওয়ার সময় ফেলা হয় ।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পাতা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+পাখা আছে মোর না পারি উড়তে, আঁখি আছে মোর না পারি মুদতে। পা নাই মোর তবুও ঘুরি। জীবন কাটাই জলে চরি। যদি তুমি আমায় চিনতে পারো তবে মোর নামটি মনে করো।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন বর্ণের নামটি আমার আরাম করে শুই প্রথম বর্ণ কেটে দিলে দুধের থেকে হই মাঝের বর্ণ কেটে দিলে ছাড়া পেয়ে যাই শেষের বর্ণ কেটে দিলে ভীষণ ভয় পাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আরাম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দুই বর্ণের শব্দ আমি জলের মাঝে রই দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+নদী
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ফরসা সাহেবেরা কালো টুপি পরে, একবার ঘসে দিলে উঠে যে জ্বলে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ম্যাচ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বড়ো একটি পুকুরের ছোটো দুটি ঘাট, বত্রিশটি কলাগাছ, একটি পাতা তাতে ৷
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দাঁত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ওপার থেকে এলো বুড়ি সাদা কাপড় পরে মহানন্দে বসল খেতে ঘাড় নেড়ে নেড়ে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাঁদ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কোন দেশ বাজে কোন দেশ বলো দেখি তেল ঘিতে ভাজে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাংলাদেশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জলের জন্তু নয় তবুও জলেই  বাস করে হাত নেই পা নেই তবু সাঁতার কাটে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পাতিল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম যার সবার ঘরে রয় প্রথম অক্ষর বাদ দিলে সর্ব লোকে খায়। পেট তার কেটে দিলে মধুর গান গায় শেষ অক্ষর বাদ দিলে খুব কামরায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাতাস
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দু’অক্ষরে নাম তার বহু লোকে খায় শেষের অক্ষর বাদ দিলে হেঁটে চলে যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পোলা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দু’অক্ষরে নাম লজ্জা নিবারণী প্রথম অক্ষর বাদ দিলে হয় আমার জননী শেষের অক্ষর বাদ দিলে ভাশুর ঘরণী
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বস্ত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+প্রাণ নেই বন্ধু নয়, চলে সাথে সাথে আলো পেলে তবে চলে দিনে কিংবা রাতে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম তার প্রতি ঘরে পাবে অধ্যক্ষর বাদ দিলে বৎসর বুঝাবে মধ্য অক্ষর গেলে সবার ক্ষতি করে শেষের অক্ষর গেলে সবাই অবস্থান করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লতাগুড়
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দুই অক্ষরের নাম যার সব যায়গায় রায় প্রথম অক্ষর বাদ দিলে খাবার জিনিস হয়, শেষের অক্ষর বাদ দিলে আপনজন হয়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একলা তারে যায় না দেখা, সঙ্গী গেলে বাঁচে। আধার দেখে ভয়ে পালায়, আলোয় ফিরে আসে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটুখানি পুস্কনি, পানি টলমল করে। রাজার ছেলের সাধ্য নেই, জাল ফেলতে পারে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটি গাছের বাঁট নাই, তবু দুগ্ধ হয় প্রচুর। দোহনকালে থাকে নাকো, তার নিকটে বাছুর।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+নদী
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটি হলে কাজ হবে না, দুটি কিন্তু চাই। দুটি পেলে, হবে চাষী ভাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লাঙল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এপার ঝাটি, ওপার ঝাটি। ঝাটিতে করে, পিটা পিটি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+খাটি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+"তিন অক্ষরে নাম যার, যাতে তৈরি তাতেই ভেসে, শেষের অক্ষর বাদ দিলে সোজা বিয়ের পিঁড়িতে বসে" বল কি সেই মাল??
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তেল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম তার পানিতে বাস করে, প্রথম অক্ষর বাদ দিলে স্বাদে মিষ্টি করে। বল কি তার নাম?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বল কি সেই জালের নাম, যার না আছে কোনো সুতা, ফিতা, তার ; কিন্তু নিমিষেই তোমায় দেবে শেরা সম্পদের সন্ধান।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ইন্টারনেট
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এমন একটি জিনিস যেটা সব লোকই খায় ছোট ছেলেরা খেলেপরে মায়ের কাছে যায় বৃদ্ধ লোকে খেলেপরে মাথায় দেয় হাত যুবক যুবতীরা খেলে এদিক ওদিক তাকায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ঘুম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে জিনিসটা কি নাম তার বলনা মাথা কাটলে চলে আর মাথা না কাটলে চলে না।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লোহা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+মেঘের ডাকে জল ছেড়ে ডাঙায় উঠে পড়ে মানুষ তার মাঠে পেলে নিয়ে যায় ঘরে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+হাত আছে পা নেয় মাথা তার কাটা আস্ত মানুষ গিলে খায় বুক তার ফাটা।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঁকড়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম তার সব লোকে খায় প্রথম অক্ষর বদ দিলে ঘর ছাওয়া যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একই প্রশ্ন কিন্তু সবাই আলাদা আলাদা উত্তর দেয় অথচ সবার উত্তরই ঠিক প্রশ্নটি কি ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তুমি আমার নাম কি?
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আমি অন্ধকার কিন্তু আলো ছাড়া আমার অস্তিত্ব নেই আমি কে ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কোথায় নদী আছে কিন্তুু জল নেই পাহাড় আছে কিন্তু পাথর নেই দেশ আছে কিন্তু লোক নেই ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানচিত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সমুদ্রে জন্য আমার থাকি সবার ঘরে একটু জলের স্পশ্র পেলে যায় আমি মরে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লবণ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কত,র মধ্যে কত বাদ দিলে কত থাকবে ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+এক
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বন থেকে বেরোলো টিয়ে, সোনার টোপর মাথায় দিয়া
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দিরিকাজ।
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এই ঘরে যাই, ওই ঘরে যাই, দুমদুমি এ আছাড় খাই
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কোদাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+লাল টুকটুক ছোটমামা, গায়ে পড়ে অনেক জামা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পেঁয়াজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম চোরের বুক কাঁপে, শেষ দুটি ছেড়ে দিলে কাটে এক কোপে। কিন্তু যদি প্রথম ছাড়ো দেখে লাগে দুঃখ, মাংস কম, শীর্ণকায়, চেহারাটি সূক্ষ্ম
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+হাতুড়ি (Haturi)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+হেতা দিলাম থান হয়ে গেল লতা, ফুল নাই ফল নাই সবই তার পাতা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পান
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+গা করে তার খসর-মসর, পাত করে তার ফেনী; ফুল করে তার লাল-তামাসা, ফল করে কুস্তনি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঁঠাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সাগরে জন্ম তার আকাশে উড়ে, পর্বতের কাছে মার খেয়ে কেঁদে কেঁদে মড়ে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মেঘ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তলে মাটি উপরে মাটি, তার মধ্যে সুন্দর বেটি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আলু
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জল নয়, বৃষ্টিও নয় কিন্তু ভিজে সারা, বাড়িঘর ডুবল, ডুবল পাহাড়েরও চূড়া
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মেঘ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+হাত আছে পা নেই বুক তার ফাটা, জ্যান্ত মানুষ গিলে খায় নেই তার মাথা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কবর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জলের মাঝে জন্ম হলো দুই অক্ষরের প্রাণী, শেষের অক্ষর বাদ দিলে হয় মহারাণী
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরের নাম তার সবার ঘরে রয়, প্রথম অক্ষর বাদ দিলে খাদ্যবস্তু হয়। মাঝের অক্ষর বাদ দিলে হয় গানের শোভা, শেষের অক্ষর বাদ দিলে ভয় তুমি পাবা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ইদুর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জনম গেল দুখে, বুকে আমার আগুন দিয়ে থাকো অনেক সুখে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+সজনেদার মুখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কাল আমাকে মেরে ছিলে সয়ে ছিলাম আমি, আজ আমায় মারো দেখি কেমন বেটা তুমি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঁঠাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কুল কুল কুলেরি, ভাদ্র মাসে ধুলোরি, কাঁচায়-পাকায় সবাই খায়, নেংটো হয়ে হাটে যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+রাজার বেটা রাম দাস, খায় খোলা তার ফেলায় শাঁস
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ইকরের তলে তলে ভিকমতির ছানি, কোন দেশে দেখিয়াছ গাছের আগায় পানি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এক থালা সুপারী গুণতে পারে কোন ব্যাপারী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মহাজন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সফেদ শয্যা পড়ে আছে কেউ তাতে না শোয়, ভিতর থেকে খোলাম কুচি আঙিনাতে থোয়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সকালে চার পায়ে হাঁটে, দুপুরে দুই পায়ে। সন্ধায় তিন পায়ে হাঁটে বলো তো কে যায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানুষ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ইটে গুরুগুরু বৈঠা নাগর, বিনা বৈঠায় বায় সে সাগর
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাতাস
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জ্বলছে তবু পুড়ছে না, কোন সে প্রাণী বলো তা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটুখানি পুষ্পরিণী টলমল করে, একটুখানি কুটা পাড়লে সর্বনাশ করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আাঁধার পুকুর, গড়ান মাঠ, বত্রিশ কলাগাছ, একখানি পাট
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দাঁত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ছোট ছোট গাছখানি তার কত ফল ধরে, একটা যদি খায় তবে আহা-উহু করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মরিচ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ছোট কালে লেজ হয়, বড় কালে খসে, বাঘের মত লাফ দেয়, কুকেুরের মত বসে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাঁদর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটুখানি জলে মাছ কিলবিল করে, কারো বাবার সাধ্য নাই হাত দিয়ে তা ধরে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+মেটো গোয়াল, কাঠের গাই বাঁছুর ছাড়াই দুধ পাই
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলস
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 14:51:19 2025 ---
+
+--- Starting New Generation Run at Tue May 27 16:06:11 2025 ---
+Model: mistralai/mistral-saba, Language: Bengali, Prompt: zero_shot_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Bengali riddles.
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কাঁচাতে যেই ফল সর্বজনে খায়, পাঁকলে সেই ফল গড়াগড়ি যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঁঠাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জল ছাড়া নদী, পাথর ছাড়া পাহাড় এবং মানুষ ছাড়া শহর কোথায় পাওয়া যায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানচিত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+যদি থাকে বুদ্ধি বলো দেখি কোন সুখে সুখ নেই?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দুঃখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কালিদাস পন্ডিতের ফাঁকি, আড়াইশো থেকে পাঁচ পঞ্চাশ গেলে আর কত থাকে বাকী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তেত্রিশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বাঘের মত লাফ দেয়, কুকুর হয়ে বসে, পানির মধ্যে ছেড়ে দিলে, ছোলা হয়ে ভাসে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাঁদর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+শহর থেকে এল সাহেব কোর্ট প্যান্ট পরে, কোর্ট প্যান্ট খোলার পরে চোখ জ্বালা করে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পেঁয়াজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+৩ অক্ষরের নাম তার পেট ভরে পানি খায় মাঝের অক্ষর বাদ দিলে আলোয় ভরে যায়,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চশমা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কান নাই মাথা নাই, পেট ভরে খায়, কাম নাই কাজ নাই, মাথা নিয়ে ঘুমায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আগুন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আমি কাদাঁই, আমি হাসাই, নই আমি প্রাণি, আমায় দেখে সবাই ক্ষনিক ভোলে ব্যাথার বানী।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চিত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আন্ধার ঘরে থাকি আমি নড়াচড়া করি, একটুখানি খাবার পেলে খাবলে তাকে ধরি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+হাঁড়ির ভিতর, বালির ভিতর হাজার ছেলে নাচে, একটু পরই হয় সে খাবার তপ্ত চুলার আঁচে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পপকর্ন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এতো বড় আঙিনা ঝাড় দিয়েও কুলোয় না। কতো ফুল ফুটে আছে নাই তার তুলনা!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+চার পায়ে বসি মোরা, আট পায়ে চলি। বাঘও নই ভাল্লুকও নই আস্ত কাঁধে ঝুলি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পালকি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম তার সর্ব অঙ্গে কালো, মাঝের অক্ষর বাদ দিলে খেতে লাগে ভাল
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কালো
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আশ্চর্য এক কথা শুনলে হাসি পায় নিজে দেখতে পায় না কিন্তু অপরকে দেখায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চশমা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরের নাম তার সবাই খায়, প্রথম অক্ষর ছেড়ে দিলে মেয়েদের হাতে যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চিনি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+চোখ আছে, কান নাই, হাত আছে, প্রাণ নাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পুতুল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এক বাড়িতে চার ভাই, তাদের গায়ে একই সাজ, কারো মুখে কেশ নাই, দিন শেষে বাড়ায় রাজ।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এক পায়ে দাঁড়িয়ে আছে, হাত দিয়ে ঠেলে দিলে, দৌড়ে পালিয়ে যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পাম্প
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সাদা দুটি পুকুরে কালো হিরে চকচক করে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দিনের বেলায় ঘুমিয়ে থাকে রাতের বেলায় জাগে ঘর-বাড়ি নেই আকাশেতে থাকে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তারা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+চাঁদ নয় সূর্য নয় আলো দেয় রাতে গাছে গাছে উড়ে বেড়ায় টিমটিম আলোতে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জোনাকি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+গলা আছে মাথা নেই হাত আছে পা নেই এটি কি বলবে আমায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বাঘ নয় তবে মানুষ খায় পাখি নয় তবে উড়ে যায় বোলতা নয় তবে শুং আছে জন্তু নয় তবে পা আছে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জাহাজ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+মাথার উপর রাখে আমায় রোদ-বর্ষার দিনে বাকি সময় পড়ে থাকি শুধু ঘরের কোনে৷
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছাতা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দাদু বুড়ো, ঠাকুমা বুড়ি আমাতে বুড়ো কী? পাঁচ আঙুলে রয়েছে সেটি বলবে সেটি কী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+হাত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+উপরে থেকে পড়ল হাঁড়ি হাঁড়ির ভেতরে একশো কড়ি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বৃষ্টি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ঘরের ভেতরে ঘর সেখানে গিয়ে শুয়ে পড়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এক থালা সুপারি গুণতে না পারি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাঁদ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জটা ভরা মাথায় হাজার চোখে তাকায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+নারিকেল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+থাকি গভীর জলে মাঝের বর্ণ ছেড়ে দিলে আকাশে যাই উড়ে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+প্রজাপতি, প্রজাপতি বলছি শোন কী তিনটি মাথা, দশটি ঠ্যাং দেখেছ তুমি কি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+গরু
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+লেবু টক, জলপাই টক আর টক কী পাতার আড়ালে ঝুলে থাকি আমায় চেন কি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+জিহ্বা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+লম্বা কেশর ফুলিয়ে তোলা গম্ভীর মেজাজ; রাজার মতো চেহারা তাই নামটি পশুরাজ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+সিংহ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আয় আয় তু তু খেতে দেব দু দু! ল্যজটি তুলে নাচবি সুখে, হাসবে সোনার খুকু!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পাখি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+গাছে হয় ঘরে আনি রান্না হয় খাওয়ার সময় ফেলা হয় ।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পাতা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+পাখা আছে মোর না পারি উড়তে, আঁখি আছে মোর না পারি মুদতে। পা নাই মোর তবুও ঘুরি। জীবন কাটাই জলে চরি। যদি তুমি আমায় চিনতে পারো তবে মোর নামটি মনে করো।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন বর্ণের নামটি আমার আরাম করে শুই প্রথম বর্ণ কেটে দিলে দুধের থেকে হই মাঝের বর্ণ কেটে দিলে ছাড়া পেয়ে যাই শেষের বর্ণ কেটে দিলে ভীষণ ভয় পাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আরাম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দুই বর্ণের শব্দ আমি জলের মাঝে রই দ্বিতীয় বর্ণ কাটলে পরে আপন আমি হই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+নদী
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ফরসা সাহেবেরা কালো টুপি পরে, একবার ঘসে দিলে উঠে যে জ্বলে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ম্যাচ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বড়ো একটি পুকুরের ছোটো দুটি ঘাট, বত্রিশটি কলাগাছ, একটি পাতা তাতে ৷
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দাঁত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ওপার থেকে এলো বুড়ি সাদা কাপড় পরে মহানন্দে বসল খেতে ঘাড় নেড়ে নেড়ে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+শকুন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কোন দেশ বাজে কোন দেশ বলো দেখি তেল ঘিতে ভাজে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাজে দেশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জলের জন্তু নয় তবুও জলেই  বাস করে হাত নেই পা নেই তবু সাঁতার কাটে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঠাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম যার সবার ঘরে রয় প্রথম অক্ষর বাদ দিলে সর্ব লোকে খায়। পেট তার কেটে দিলে মধুর গান গায় শেষ অক্ষর বাদ দিলে খুব কামরায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বই
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দু’অক্ষরে নাম তার বহু লোকে খায় শেষের অক্ষর বাদ দিলে হেঁটে চলে যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পান
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দু’অক্ষরে নাম লজ্জা নিবারণী প্রথম অক্ষর বাদ দিলে হয় আমার জননী শেষের অক্ষর বাদ দিলে ভাশুর ঘরণী
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বিভুক্তি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+প্রাণ নেই বন্ধু নয়, চলে সাথে সাথে আলো পেলে তবে চলে দিনে কিংবা রাতে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম তার প্রতি ঘরে পাবে অধ্যক্ষর বাদ দিলে বৎসর বুঝাবে মধ্য অক্ষর গেলে সবার ক্ষতি করে শেষের অক্ষর গেলে সবাই অবস্থান করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বৎসর
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+দুই অক্ষরের নাম যার সব যায়গায় রায় প্রথম অক্ষর বাদ দিলে খাবার জিনিস হয়, শেষের অক্ষর বাদ দিলে আপনজন হয়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+রাম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একলা তারে যায় না দেখা, সঙ্গী গেলে বাঁচে। আধার দেখে ভয়ে পালায়, আলোয় ফিরে আসে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটুখানি পুস্কনি, পানি টলমল করে। রাজার ছেলের সাধ্য নেই, জাল ফেলতে পারে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটি গাছের বাঁট নাই, তবু দুগ্ধ হয় প্রচুর। দোহনকালে থাকে নাকো, তার নিকটে বাছুর।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লাউ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটি হলে কাজ হবে না, দুটি কিন্তু চাই। দুটি পেলে, হবে চাষী ভাই।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লাঙ্গল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এপার ঝাটি, ওপার ঝাটি। ঝাটিতে করে, পিটা পিটি।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঠাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+"তিন অক্ষরে নাম যার, যাতে তৈরি তাতেই ভেসে, শেষের অক্ষর বাদ দিলে সোজা বিয়ের পিঁড়িতে বসে" বল কি সেই মাল??
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তেল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম তার পানিতে বাস করে, প্রথম অক্ষর বাদ দিলে স্বাদে মিষ্টি করে। বল কি তার নাম?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চিংড়ি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বল কি সেই জালের নাম, যার না আছে কোনো সুতা, ফিতা, তার ; কিন্তু নিমিষেই তোমায় দেবে শেরা সম্পদের সন্ধান।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ইন্টারনেট
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এমন একটি জিনিস যেটা সব লোকই খায় ছোট ছেলেরা খেলেপরে মায়ের কাছে যায় বৃদ্ধ লোকে খেলেপরে মাথায় দেয় হাত যুবক যুবতীরা খেলে এদিক ওদিক তাকায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+খাবার
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে জিনিসটা কি নাম তার বলনা মাথা কাটলে চলে আর মাথা না কাটলে চলে না।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পেন
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+মেঘের ডাকে জল ছেড়ে ডাঙায় উঠে পড়ে মানুষ তার মাঠে পেলে নিয়ে যায় ঘরে।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+হাত আছে পা নেয় মাথা তার কাটা আস্ত মানুষ গিলে খায় বুক তার ফাটা।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কুলা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম তার সব লোকে খায় প্রথম অক্ষর বদ দিলে ঘর ছাওয়া যায়।
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একই প্রশ্ন কিন্তু সবাই আলাদা আলাদা উত্তর দেয় অথচ সবার উত্তরই ঠিক প্রশ্নটি কি ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+তোমার নাম কি?
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আমি অন্ধকার কিন্তু আলো ছাড়া আমার অস্তিত্ব নেই আমি কে ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ছায়া
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কোথায় নদী আছে কিন্তুু জল নেই পাহাড় আছে কিন্তু পাথর নেই দেশ আছে কিন্তু লোক নেই ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানচিত্র
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সমুদ্রে জন্য আমার থাকি সবার ঘরে একটু জলের স্পশ্র পেলে যায় আমি মরে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লবণ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কত,র মধ্যে কত বাদ দিলে কত থাকবে ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+করম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+বন থেকে বেরোলো টিয়ে, সোনার টোপর মাথায় দিয়া
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+সূর্য
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এই ঘরে যাই, ওই ঘরে যাই, দুমদুমি এ আছাড় খাই
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মুড়ি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+লাল টুকটুক ছোটমামা, গায়ে পড়ে অনেক জামা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+লঙ্কা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরে নাম চোরের বুক কাঁপে, শেষ দুটি ছেড়ে দিলে কাটে এক কোপে। কিন্তু যদি প্রথম ছাড়ো দেখে লাগে দুঃখ, মাংস কম, শীর্ণকায়, চেহারাটি সূক্ষ্ম
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পুলিশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+হেতা দিলাম থান হয়ে গেল লতা, ফুল নাই ফল নাই সবই তার পাতা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বাঁশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+গা করে তার খসর-মসর, পাত করে তার ফেনী; ফুল করে তার লাল-তামাসা, ফল করে কুস্তনি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আম
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সাগরে জন্ম তার আকাশে উড়ে, পর্বতের কাছে মার খেয়ে কেঁদে কেঁদে মড়ে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মেঘ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তলে মাটি উপরে মাটি, তার মধ্যে সুন্দর বেটি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাটির পুতুল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জল নয়, বৃষ্টিও নয় কিন্তু ভিজে সারা, বাড়িঘর ডুবল, ডুবল পাহাড়েরও চূড়া
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মেঘ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+হাত আছে পা নেই বুক তার ফাটা, জ্যান্ত মানুষ গিলে খায় নেই তার মাথা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বই
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জলের মাঝে জন্ম হলো দুই অক্ষরের প্রাণী, শেষের অক্ষর বাদ দিলে হয় মহারাণী
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+তিন অক্ষরের নাম তার সবার ঘরে রয়, প্রথম অক্ষর বাদ দিলে খাদ্যবস্তু হয়। মাঝের অক্ষর বাদ দিলে হয় গানের শোভা, শেষের অক্ষর বাদ দিলে ভয় তুমি পাবা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বই
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জনম গেল দুখে, বুকে আমার আগুন দিয়ে থাকো অনেক সুখে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ধূমপান
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কাল আমাকে মেরে ছিলে সয়ে ছিলাম আমি, আজ আমায় মারো দেখি কেমন বেটা তুমি
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পানি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+কুল কুল কুলেরি, ভাদ্র মাসে ধুলোরি, কাঁচায়-পাকায় সবাই খায়, নেংটো হয়ে হাটে যায়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কলা
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+রাজার বেটা রাম দাস, খায় খোলা তার ফেলায় শাঁস
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+কাঁঠাল
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ইকরের তলে তলে ভিকমতির ছানি, কোন দেশে দেখিয়াছ গাছের আগায় পানি?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+আকাশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+এক থালা সুপারী গুণতে পারে কোন ব্যাপারী?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চাষী
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সফেদ শয্যা পড়ে আছে কেউ তাতে না শোয়, ভিতর থেকে খোলাম কুচি আঙিনাতে থোয়
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+পান
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+সকালে চার পায়ে হাঁটে, দুপুরে দুই পায়ে। সন্ধায় তিন পায়ে হাঁটে বলো তো কে যায়?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মানুষ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ইটে গুরুগুরু বৈঠা নাগর, বিনা বৈঠায় বায় সে সাগর
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+নদী
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+জ্বলছে তবু পুড়ছে না, কোন সে প্রাণী বলো তা
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মোমবাতি
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটুখানি পুষ্পরিণী টলমল করে, একটুখানি কুটা পাড়লে সর্বনাশ করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+চোখ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+আাঁধার পুকুর, গড়ান মাঠ, বত্রিশ কলাগাছ, একখানি পাট
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+দাঁত
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ছোট ছোট গাছখানি তার কত ফল ধরে, একটা যদি খায় তবে আহা-উহু করে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মরিচ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+ছোট কালে লেজ হয়, বড় কালে খসে, বাঘের মত লাফ দেয়, কুকেুরের মত বসে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+খরগোশ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+একটুখানি জলে মাছ কিলবিল করে, কারো বাবার সাধ্য নাই হাত দিয়ে তা ধরে
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+মাছ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Your task is to analyze the following Bengali riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Bengali Riddle :
+মেটো গোয়াল, কাঠের গাই বাঁছুর ছাড়াই দুধ পাই
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+বটার।
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 16:10:08 2025 ---

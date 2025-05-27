@@ -1,0 +1,2806 @@
+
+--- Starting New Generation Run at Tue May 27 07:36:27 2025 ---
+Model: meta-llama/llama-4-maverick, Language: Gujarati, Prompt: 2_shot_method1_pattern_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Gujarati riddles.
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એક જીવ જે મોઢેથી પાણી પીને ચાલે.
+Answer: પેન
+
+Example 2:
+Riddle: એક જનાવર જેની પૂંછડી એની આંખમાંથી પસાર થાય.
+Answer: સોય અને દોરો
+
+Now, solve this riddle:
+Riddle : એક જનાવર ઈતું પૂંછડે પાણી પીતું
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+કૂવો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એક લાંબા ઘરમાં ઘણા ભાઈઓ ખભેખભા મિલાવી ઊભા છે.
+Answer: કાંસકો
+
+Example 2:
+Riddle: ચાલે છે પણ પગ નથી, મુખ છે પણ બોલતો નથી, સૌને સમયસર જગાડે છે.
+Answer: ઘડિયાળ
+
+Now, solve this riddle:
+Riddle : નાની નાની ઓરડી માં બત્રીસ બાવા
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દાંત
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એક ફળની સુણો કથા, જે ઉપરથી કઠણ છે સદા, પણ અંદર રસ ભરેલો છે તાજો.
+Answer: દાડમ
+
+Example 2:
+Riddle: ઉપરથી કઠણ પથ્થર જેવો, અંદર અમૃતનો સાગર.
+Answer: નાળિયેર
+
+Now, solve this riddle:
+Riddle : એક લાકડીની સાંભળો કહાણી, તેમાં ભરેલું છે મીઠું પાણી
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+કાકડી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: છોડું એક પછી એક, ના વહે લોહી, ના થાય રડારડ.
+Answer: કુટેવો
+
+Example 2:
+Riddle: પાન પર પાન ફાડી સૌ ફેંકે, પણ ના રડે એ, ના આંસુ ટપકે.
+Answer: કેલેન્ડર
+
+Now, solve this riddle:
+Riddle : વીસ વીસનાં ઉતારી લીધા શીશ, ના વહ્યું લોહી, ના ચઢી રીસ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+જૂતા
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: રાત્રે આવે ને દિવસે જાય, બંધ આંખે દુનિયા દેખાડાય. ના શરીર, ના વાસ્તવિકતા, જાગતાં જ એ તો થઈ જાય ગુમ સદા.
+Answer: સપનું
+
+Example 2:
+Riddle: ના જીવ, ના દેહ, ના માથું, જ્યાં મૂળ અવાજ, ત્યાં એનો વાસ. શાંતિથી એ બહુ ડરે, અવાજ બંધ થતાં છુપાય નિજ વાસ.
+Answer: પડઘો
+
+Now, solve this riddle:
+Riddle : ના જીવ, ના ખાય, ના પીએ, રહે ‘મૂળ’ ત્યાં લગી જીવે, અંધારાથી એ બહુ ડરે, જોતાં જ છુપે નિજ ઘરે.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+છાયા
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એક છે વસ્તુ, બાજુ બે, એકે કાંટો બીજે છાપ રહે. બંને ભેગા કાયમ રહે. કહો જોઉં કોણ છે એ?
+Answer: સિક્કો
+
+Example 2:
+Riddle: એક જ થેલી, ને દાણા બે, કદી ના ભળે, સદા લડે એ, એક જાય તો બીજો આવે, ખાલી ન રહે એ. બોલો શું છે એ?
+Answer: શ્વાસ-ઉચ્છવાસ
+
+Now, solve this riddle:
+Riddle : ઘર એક, રહેનારા બે, સવારે-સાંજે ઝઘડે એ, રહે ના ખાલી ઘર કદી. તો કહો એનું નામ જલદી.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દિવો અને તવતવો/દિવો અને વાતો/ઝાંખો દિવો અને દીવડો 
+or more specifically 
+દિવો અને વાતો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: સતત વહે છે, નીચે તરફ દોડે છે પણ પગ નથી, જીવન આપે છે અને દૂર સુધી મુસાફરી કરે છે, પર્વતો/વરસાદથી શરૂ થાય છે.
+Answer: નદી
+
+Example 2:
+Riddle: ઉપરથી લીલું ને કઠણ કાય, માથે છે ચોટલી, પણ પૂજારી ન થાય, પેટમાં મીઠું પાણી ભરાય, ત્રણ આંખો છતાં, જોઈ ન શકાય.
+Answer: નાળિયેર
+
+Now, solve this riddle:
+Riddle : અંધકારઊંચું છે એક પ્રાણી, એની પીઠ છે ત્રિકોણી, છે રણનું જહાજ-ગાડી, એને જોઈએ થોડુંક પાણી.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ઊંટ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: હું આગળ નહીં, પણ પાછળ ચાલું, જેવો અવાજ તેવો જ હું સાથ આપું.
+Answer: પડઘો
+
+Example 2:
+Riddle: તું જ્યાં જાય, ત્યાં હું તારી સાથે જ રહું, ક્યારેય તને એકલો ન મૂકું.
+Answer: રહસ્ય
+
+Now, solve this riddle:
+Riddle : આમ જાઉં તેમ જાઉં જ્યાં જાઉં ત્યાં પાછળ સંતાવું
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+પડછાયો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: કાળી વાડી, ધોળા ફૂલ
+Answer: આકાશ અને તારા
+
+Example 2:
+Riddle: કાળા પાટિયા પર ધોળા દાણા
+Answer: ચોકથી લખેલા અક્ષરો
+
+Now, solve this riddle:
+Riddle : ધોળા ખેતરમાં કાળા દાણા
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+પાનામાં શાહીના ડાઘા
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: કડક કિલ્લો, અંદર નરમ રૈયત.
+Answer: ઇંડું
+
+Example 2:
+Riddle: બહાર લીલી છાલ, ને અંદર લાલ રસ.
+Answer: તરબૂચ
+
+Now, solve this riddle:
+Riddle : ચારે બાજુ ભીંત અને વચ્ચે પાણી
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+કૂંવો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: માં લીલી ને બચ્ચાં લાલ-કાળા.
+Answer: તરબૂચ
+
+Example 2:
+Riddle: માં છે ધોળી, બચ્ચાં એના કાળા.
+Answer: કપાસ
+
+Now, solve this riddle:
+Riddle : માં ધોળી અને બચ્ચાં કાળા
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+લખોટી અને તેનાં બીજ (or simply) લખોટી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: જામ છે પણ જમાય ન, નગર છે પણ રહેવાય ન.
+Answer: જામનગર
+
+Example 2:
+Riddle: સુર કોઈ ગાય નહીં, રત કોઈ રાખે નહીં.
+Answer: સુરત
+
+Now, solve this riddle:
+Riddle : રાજા કરે રાજ ન દરજી સીવે કોટ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+રાજકોટ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: મહાદેવના નામે ઓળખાય છે જે નગર.
+Answer: મહાદેવનગર
+
+Example 2:
+Riddle: વીરે વસાવ્યું ગામ, શું છે તેનું નામ?
+Answer: વીરપુર
+
+Now, solve this riddle:
+Riddle : રાજા જામે વસાવ્યું નગર
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+જામનગર
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવી કઈ વસ્તુ છે જેને પગ નથી છતાં દોડે છે?
+Answer: ઘડિયાળ
+
+Example 2:
+Riddle: એવી કઈ વસ્તુ છે જેને દાંત છે પણ કરડી શકતી નથી?
+Answer: કાંસકો
+
+Now, solve this riddle:
+Riddle : એવી કઈ વસ્તુ છે જેને પાંખ નથી તો પણ ઉડે છે?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+હવા
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવી કઈ વસ્તુ છે જેમાં પોસ્ટ અને કાર્ડ બંને આવે છે?
+Answer: પોસ્ટકાર્ડ
+
+Example 2:
+Riddle: એવી કઈ વસ્તુ છે જેમાં 'દિવો' પણ છે અને 'સળી' પણ છે?
+Answer: દિવાસળી
+
+Now, solve this riddle:
+Riddle : એવી કઈ શાકભાજી છે જેમાં તાળું અને ચાવી બંને આવે છે?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મૂળા
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવું તો કોણ છે જે તમારા કાંડા પર બેસીને તમને સમય બતાવે છે?
+Answer: ઘડિયાળ
+
+Example 2:
+Riddle: એવું તો કોણ છે જે તમારી પીઠ પર બેસીને તમારા ખભા ને પકડે છે?
+Answer: બેગ (બેકપેક)
+
+Now, solve this riddle:
+Riddle : એવું તો કોણ છે જે તમારા નાક પર બેસીને તમારા કાન ને પકડે છે?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ચશ્મા
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: લીલું મકાન, લાલ ઓરડો, તેમાં બેઠા કાળા રાજા.
+Answer: તરબૂચ
+
+Example 2:
+Riddle: સફેદ ભૂત લખીને ભાગી જાય, કાળા ખેતરમાં દેખાઈ જાય.
+Answer: ચોક અને કાળું પાટિયું
+
+Now, solve this riddle:
+Riddle : લીલું ઝાડ, પીળું મકાન તેમાં બેઠા કલ્લુરામ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+કેળ અને કાગડો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: કાગળ કાયા, અક્ષર શણગાર, જ્ઞાનનો સાગર, પેટમાં અપાર, મૌન રહીને, વાતો હજાર કરે, સાથ આપે સૌને, જે કોઈ હાથ ધરે.
+Answer: ચોપડી (અથવા પુસ્તક)
+
+Example 2:
+Riddle: ધોળા ધોળા રાજા, પેટમાં રાખે દાણા, વળી બધે ઠેકાણે મળે, એને ખાય રંક ને રાણા.
+Answer: મીઠું
+
+Now, solve this riddle:
+Riddle : રાતા રાતા રાતનજી, પેટમાં રાખે પણાં, વળી ગામે ગામે થાય, એને ખાય રંક ને રાણા!!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ટામેટાં
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: વાણી નથી પણ વાતો કરે, પગ નથી પણ આખી દુનિયા ફરે, હાથ નથી પણ ધક્કો મારે, એના વગર જીવી ન શકાય!
+Answer: પવન
+
+Example 2:
+Riddle: આંખ નથી પણ રડે છે, પગ નથી પણ ચાલે છે, મોઢું નથી પણ ગડગડાટ કરે છે.
+Answer: નદી
+
+Now, solve this riddle:
+Riddle : વાણી નહીં પણ બોલી શકે, પગ નથી પણ ચાલી શકે, વાગે છે પણ કાંટા નહીં, એના ઈશારે દુનિયા ચાલે!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ઘડિયાળ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: પરીક્ષામાં વિદ્યાર્થીને અપાય, રમતમાં ખેલાડીને અપાય, જીવવા માટે વપરાય.
+Answer: સમય
+
+Example 2:
+Riddle: લખવા માટે વપરાય, પુસ્તકોમાં જોવા મળે, પૈસા બનાવવા વપરાય.
+Answer: કાગળ
+
+Now, solve this riddle:
+Riddle : ઘરમાં મહેમાનોને દેવાય, વોટમાં નેતાઓને દેવાય, આરામ કરવામાં વપરાય!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ખુરશી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: સફેદ કે લાલ છે શરીર, પેટમાં રાખે તીખાશનો ભંડાર. આંખોમાંથી પાણી કઢાવે સૌની, ભલે ના હોય કોઈ બીમાર.
+Answer: ડુંગળી
+
+Example 2:
+Riddle: લાલ પીળી જ્વાળા બતાવે દેખાવ, અંદર ભરેલો અગ્નિનો ભાવ. અડો જો એને ભૂલથી તો ત્વચાનો આવે લાવ!
+Answer: અગ્નિ
+
+Now, solve this riddle:
+Riddle : પીળા પીળા પદ્મસી ને પેટમાં રાખે રસ થોડા ટીપાં વધુ પડે તો દાંતનો કાઢે કસ!
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+લીંબુ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવું શું છે જે તમારી પાસે હોય ત્યારે તમે તેને વહેંચી શકતા નથી, પણ જો તમે તેને વહેંચો તો તે તમારી પાસે રહેતું નથી?
+Answer: રહસ્ય
+
+Example 2:
+Riddle: એવું શું છે જેને તમે જોઈ શકો છો, પણ પકડી શકતા નથી?
+Answer: પ્રતિબિંબ
+
+Now, solve this riddle:
+Riddle : એવું શું છે જે પાણીમાં પડે તો પણ ભીનું ના થાય?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+પડછાયો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવી કઈ વસ્તુ જે બેસવા માટે લઈએ પણ તેના પર બેસીએ નહીં?
+Answer: ખુરશી
+
+Example 2:
+Riddle: એવી કઈ વસ્તુ જે કપડાં પહેરવા માટે ખરિદિયે પણ તેને પહેરતા નથી?
+Answer: હેંગર
+
+Now, solve this riddle:
+Riddle : એવી કઈ વસ્તુ જે ખાવા માટે ખરિદિયે પણ તેને ખાતા નથી?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+છરી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવું શું છે જે વગર પગે ભાગે છે અને એકવાર બુઝાઈ જાય પછી પાછું આવતું નથી?
+Answer: જ્યોત
+
+Example 2:
+Riddle: એવું શું છે જે વગર પગે દોડે છે અને એકવાર નીચે પડ્યા પછી પાછું ઉપર ચડતું નથી?
+Answer: વરસાદનું ટીપું
+
+Now, solve this riddle:
+Riddle : એવું શું છે જે વગર પગે ભાગે છે અને ક્યારેય પાછો નથી આવતો?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+વ્યય થયેલું સમય
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવી કઈ વસ્તુ છે જેને તમે પૂરી ન કરો તો તૂટી જાય?
+Answer: વચન
+
+Example 2:
+Riddle: એવી કઈ વસ્તુ છે જે પ્રકાશ આવતા જ ગાયબ થઇ જાય?
+Answer: અંધકાર
+
+Now, solve this riddle:
+Riddle : એવી કઈ વસ્તુ છે જે તમે કઈ બોલો તો તૂટી જાય?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મૌન
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: છે ખાલી ખોખું પણ, અંદર ભરાય તો દુનિયા ફેરવી નાખે. ખોખા કરતાં અંદર રહેલી વસ્તુનું મૂલ્ય વધારે.
+Answer: પાકીટ
+
+Example 2:
+Riddle: કપડાં કરતાં એના વિચારોનું મૂલ્ય વધારે.
+Answer: પુસ્તક
+
+Now, solve this riddle:
+Riddle : લીલી માછલીના ઈંડા લીલા પણ, માછલી કરતાં ઈંડાનું મૂલ્ય વધારે.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દ્રાક્ષ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એ તો ભાઈ શરીર નથી, જીવ નથી, પણ બધે સાથે ફરે. અજવાળાનો એ સાચો સાથી, ને અંધારામાં ગાયબ થાય.
+Answer: પડછાયો
+
+Example 2:
+Riddle: એ તો ભાઈ પૂંછડી પટપટાવે, ઘરની ચોકી કરે. માણસનો સાચો મિત્ર કહેવાય, ને જો કોઈ આવે તો ભસતો આવે.
+Answer: કૂતરો
+
+Now, solve this riddle:
+Riddle : એ તો ભાઈ તો છે ભારે બીકણ, કાતરી ખાતા પાન ઉંદરભાઈના મામા એ તો, એને છે લાંબા કાન.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ઘેટાં/ઘેબર/ઘોડો નહિ, એ તો 'ખરગોશ' છે. 
+
+The answer is: ખરગોશ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: નાના ટીપાં ભેગા મળીને, ધરતીની તરસ છીપાવે; આવે ત્યારે રોકાય નહીં, સતત વરસી જાય.
+Answer: વરસાદ
+
+Example 2:
+Riddle: નાના પણ ફરે છે સતત, આરામ એમને નથી. એકબીજાનો સાથ છોડતા નથી, સમયની નિશાની છે એ બધી.
+Answer: ઘડિયાળના કાંટા
+
+Now, solve this riddle:
+Riddle : નાના શરીરમાં નાની ગાંઠ, જે દિવસભર કરે કામ પરસ્પર મળીને સંગે રહેતી, આરામનું એને નહીં નામ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દાંત
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: શરીર છે ભારે મોટું, પણ આંખો સાવ નાની, મોટા મોટા કાન હલાવે, સૂંઢે પીએ પાણી.
+Answer: હાથી
+
+Example 2:
+Riddle: ઊંચે ઝાડે એનું રહેઠાણ, પણ અંદરથી મીઠો સ્વભાવ, ત્રણ આંખો ને માથે ચોટલી, પવિત્ર પ્રસંગે સૌને ભાવે.
+Answer: નારિયેળ
+
+Now, solve this riddle:
+Riddle : એ તો ભાઈ તો ભારે ઊંચા, પણ લાગે છે સાવ બૂચા, નાની પૂછડી ને ટૂંકા કાન, ને ઊંચી ડોકે ચાવે પાન.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ગિરગિટ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ખરબચડી કાયા, જમીનમાંથી આવે બહાર, ધીમે ધીમે વધે, જાણે માટીનો પથ્થર.
+Answer: બટાકું
+
+Example 2:
+Riddle: લોખંડી કાયા, મશીન પર ચાલે, ધીમે ધીમે આગળ વધે, જાણે ધરતીને ચાવે.
+Answer: ટ્રેક
+
+Now, solve this riddle:
+Riddle : કદરૂપી કાયા લઈને જળઘોડો પાણીમાંથી આવે દોડતો ત્યારે લાગે જાણે પથ્થર કોઇ ગબડાવે.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+હિપ્પોપોટેમસ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: નાના ઝરણાંથી શરૂ થાઉં, પાણીનો પ્રવાહ બની વહેતો જાઉં.
+Answer: નદી
+
+Example 2:
+Riddle: નાનેથી મોટું થાઉં, મારે પાંખો નથી છતાં આકાશમાં ઉડું, હવામાં તરતું ફરું, ધરતીની તરસ છીપાવું.
+Answer: વાદળ
+
+Now, solve this riddle:
+Riddle : નાનેથી મોટું થાઉં, રંગબેરંગી પાંખો લગાવું હવાની લહેરોમાં તરતું જાઉં, ફૂલો સંગે વાતો કરતું જાઉં.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ભમરો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: બીમાર હોઈએ ત્યારે મારી જરૂર, દર્દને દૂર ભગાવે. તંદુરસ્ત હોઈએ તો એ નકામી, યાદ પણ ન કરીએ.
+Answer: દવા
+
+Example 2:
+Riddle: ઉનાળાની કાળઝાળ ગરમીમાં સૌનું મન લલચાવે;
+Answer: આઇસક્રીમ
+
+Now, solve this riddle:
+Riddle : વર્ષાઋતુને સહન કરતી, ગરમીને ઘોળી પી જાતી બધાને આરામ આપતી જાતી, પણ ઠંડીમાં નકામી બની જાતી.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ઉમંગભેર ફરતી પંખો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: હંમેશા તમારી સાથે ચાલે, પણ ક્યારેય બોલતો નથી. કોલસા જેવો કાળો છે, છતાં તમને ક્યારેય છોડતો નથી.
+Answer: પડછાયો
+
+Example 2:
+Riddle: ઉપરથી પથ્થર જેવો કઠણ, પણ અંદર પાણીનો મીઠો સાગર ભરેલો. ત્રણ આંખો ધરાવે છે, પણ જોઈ શકતો નથી.
+Answer: નાળિયેર
+
+Now, solve this riddle:
+Riddle : બાગબગીચે ગાતી રહેતી, પણ પોતાનું ઘર ક્યારેય ન બનાવતી કોલસાથી વધુ કાળી છે પણ સૌની મનભાવન છે.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+કોયલ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: રંગે લાલ કે લીલું દેખાય, દેખાવે નાનું ને મનમોહક, પણ જીભ પર મૂકતાં જ કરાવે કિકિયારી, આંખમાં આંસુ લાવી દે ભારી.
+Answer: મરચું
+
+Example 2:
+Riddle: વાદળી દેખાય, પણ વરસે જળ. વીજળી ચમકે, ને ગર્જના કરે.
+Answer: વાદળ
+
+Now, solve this riddle:
+Riddle : નાકે નકશે એ નમણું દેખાય, પણ ભરતું લાંબી ફાળ આંખો એની ચમકીલી ને ઝડપી એની ચાલ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+તીરકામણ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: મને પગ નથી, બોલી શકું નહીં. મારે રસ્તા છે, પણ તેના પર ચાલી શકું નહીં. તોયે હું લોકોને તેમની મંજિલ બતાવું.
+Answer: નકશો
+
+Example 2:
+Riddle: બોલી ન શકું, આંખ છે પણ દેખી ન શકું, બે વસ્તુઓને એક કરી દઉં.
+Answer: સોય
+
+Now, solve this riddle:
+Riddle : ન તો હું સાંભળી શકું, ન તો હું બોલી શકું આંખ તો મારે છે પણ નહીં તોયે જગ આખાને ભણાવતી જાઉં.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+પુસ્તક
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ગું ગું ગું ગું ગીત ગાય છે, ફૂલો પર બેસી મધ ભેગું કરાય છે.
+Answer: મધમાખી
+
+Example 2:
+Riddle: મ્યાઉં મ્યાઉં બોલી સૌનું મન મોહું, ઉંદરડીનો પછેડો લઉં, દૂધ અને રોટલી ખાઈને જીવું, બોલો હું કોણ છું?
+Answer: બિલાડી
+
+Now, solve this riddle:
+Riddle : ટર ટર ટર ટર કરતાં ગાય છે, જાણે પોતાનું ગીત સંભળાવે છે, જ્યારે તેઓ તળાવે તરે છે ત્યારે લાંબી પતવાર બનાવે છે.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+તડકિયું/ હંસ / બતક
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: વર્ષોથી એક જ જગ્યાએ અડગ ઊભો છું, ઘણા પશુ પક્ષીઓનું આશ્રયસ્થાન છું, મારા ખોળામાંથી ઝરણાં નીકળે છે. હું કોણ છું?
+Answer: પર્વત
+
+Example 2:
+Riddle: ગરમીમાં ઠંડક આપું છું, તરસ્યાની તરસ છીપાવું છું, જીવનનો આધાર બની, પૃથ્વી પર હું વહેતો રહું છું.
+Answer: પાણી
+
+Now, solve this riddle:
+Riddle : આંધી વર્ષામાં છાતી પહોળી કરી ઠાઠથી હું ઊભો છું, જીવોની હું રક્ષા કરી , ફળ ફૂલનું દાન આપું છું.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+વૃક્ષ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ફૂલો પર ફરે, પાંખોથી ઉડે, છંછેડતા ડંખ મારે, દુશ્મનને ભગાડી દે.
+Answer: મધમાખી
+
+Example 2:
+Riddle: જમીનમાં રહે છે, લાંબો છે તેનો દેહ, ભય લાગે ત્યારે ફૂંફાડો મારે, ઝેરથી બચાવ કરે.
+Answer: સાપ
+
+Now, solve this riddle:
+Riddle : પાણી તો પોતાનું ઘર, ધીમી જેની ચાલ ભય જોઈને કોકડું વળતો, બની જાતો ખુદની ઢાલ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+કાચબો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: દેખાતું નથી પણ ચાલે છે,
+Answer: સમય
+
+Example 2:
+Riddle: પાંખ વિના એ ઉડે ગગનમાં, રૂપ બદલે પળપળમાં. કદીક ગર્જે, કદીક વરસે, ધરતીની તરસ છીપાવે હરખે.
+Answer: વાદળ
+
+Now, solve this riddle:
+Riddle : કાન મોટા ને કાયા નાની, ને કોમળ એના વાળ કોઈ એને પકડી નાં શકે તેવી છે તેજી એની ચાલ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+સસલું
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ભલે હોય નાની, પણ હારબંધ ચાલે, ઘરમાં જમીન પર બધે મળી જાય.
+Answer: કીડી
+
+Example 2:
+Riddle: કાગળ પર વસવાટ, પુસ્તકોમાં મારું ઘર, મોઢા વિના બોલું, બહેરાને પણ સમજાવું સર.
+Answer: અક્ષર
+
+Now, solve this riddle:
+Riddle : છતથી લઈને ખૂણેખાંચરે મળી જાતી છ પગવાળી નાર લાળથી વણતું મલમલ જેવુ કપડું જાળીદાર.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+રેશમની કીડા દ્વારા બનાવેલ પાતળું કપડું જે જાળીદાર હોય છે, તેને કોકિલ અથવા કોકી કહેવામાં આવે છે, પરંતુ વધુ યોગ્ય ઉત્તર આપેલ રચના પ્રમાણે "જાળીદાર કોકિલ/મલમલ" અથવા ફક્ત "કોકિલ" નહિં પણ "જાળુ" અથવા સ્પષ્ટ રીતે "રેશમની જાળુ" અથવા ટૂંકમાં "જાળુ" એટલે કે ચોક્કસપણે "મકડીનું જાળું" એ જવાબ છે.
+
+મકડી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: પાતળી કાયા, અંધારામાં બહુમાન પામે, પણ પોતાને બાળીને આંસુ પાડે.
+Answer: મીણબત્તી
+
+Example 2:
+Riddle: પાતળી કાયા, પગ વગર દોડું, કાન કાનમાં વાત જોડું.
+Answer: વાત / અફવા
+
+Now, solve this riddle:
+Riddle : મંદિર, મસ્જિદ ગુરુદ્વારે જે પાતી બહુમાન પાતળી કાયા હોવા છતાં મહેંક દ્વારા કરે પાન પાન.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+અગરબત્તી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: જેવા તમે હતા, તેવા જ દેખાશો, ભલે વર્ષો વીત્યા હોય. મારી અંદર જોઈ લેજો, તમારી પળવારની છબી સચવાય.
+Answer: ફોટો
+
+Example 2:
+Riddle: જેવો સ્વાદ હશે, તેવો જ હું કહીશ. કડવું, ખાટું કે ગળ્યું, સાચું જ જણાવીશ.
+Answer: જીભ
+
+Now, solve this riddle:
+Riddle : જેવા છો તેવા દેખાશો, માટે મારી અંદર ઝાંકો જલ્દીથી દઈ દો જવાબ ખુદને ઓછા ન આંકો.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+અરસી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: થાક્યા વગર કાગળ પર ફરતી રહું છું, ક્યારેક વાર્તા તો ક્યારેક જ્ઞાન આપું છું. મારા વગર શબ્દો મૂંગા રહી જાય.
+Answer: પેન
+
+Example 2:
+Riddle: પગ નથી છતાં વહેતી જાઉં, મોઢું છે પણ બોલી ન શકું. જીવન આપું છું સૌને, છતાં ક્યારેક બધું લઈ જાઉં. બોલો હું કોણ?
+Answer: નદી
+
+Now, solve this riddle:
+Riddle : થાકવાનું ન મારે નામ, રાત દિવસ હું ચાલતી રહેતી જ્યારે પૂછો ત્યારે સમય બતાવતી, આગળ વધવાનો સંદેશો હું જાતી.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ઘડિયાળ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: વાદળોના ઘરથી આવું છું, ધરતી પર પોઢી જાઉં છું, સફેદ મોતી જેવી કાયા છે, આસમાનની હું દીકરી છું.
+Answer: બરફનો ટુકડો
+
+Example 2:
+Riddle: રૂપ નથી, રંગ નથી, પણ સંભળાઉં છું, કાન વગર કોઈ મને જાણી ન શકે, સંગીતનો હું પ્રાણ છું.
+Answer: અવાજ
+
+Now, solve this riddle:
+Riddle : ખુલ્લા આસમાનમાંથી જનમું છું, લીલા ઘાસ પર સૂઈ જાઉં છું, મોતી જેવી સૂરત મારી વાદળોની પૌત્રી છું.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ઓસકણા ટીપા
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ન ખાય છે ન પીવે છે, બસ ઊંઘની સંગાથે આવે છે, પણ જાગૃતિને જોઈને મરી જાય છે.
+Answer: સ્વપ્ન
+
+Example 2:
+Riddle: નથી ખાતું નથી પીતું, બસ બોલીને બંધાયેલું રહે છે, પણ જો તોડી નાખો તો મરી જાય છે.
+Answer: વચન
+
+Now, solve this riddle:
+Riddle : ન ખાય છે ન પીવે છે, બસ અજવાળાને સાથે લઈને ચાલે છે, પણ છાયાને અને અંધારાને જોઈને મરી જાય છે.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દિવો/જ્યોત/પ્રકાશ/દીવો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: કરાવું છું પીડા, પાડું છું પરસેવો, પણ શરીરને બનાવું તંદુરસ્ત, મારું નામ શું?
+Answer: વ્યાયામ / કસરત
+
+Example 2:
+Riddle: દેખાવે હું લાલ કે લીલું, પણ જીભ બાળી દઉં પલમાં; રસોઈમાં સ્વાદ લાવું અનેરો, ને શરીર માટે પણ છું ગુણકારી. મારું નામ જણાવો.
+Answer: મરચું
+
+Now, solve this riddle:
+Riddle : શાકભાજીમાં હું છું સૌથી કડવો, પણ ગુણ મારા અપાર રોગોને હું ઝટથી કાપું, મારું નામ બતાવો ચતુર સુજાણ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+કડવું કળીંજું
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: અજવાળું આવે તો ઊભો થાઉં, અંધારું આવે તો મરી જાઉં.
+Answer: પડછાયો
+
+Example 2:
+Riddle: લાગણીની ગરમી લાગે તો આવું, મનની શાંતિ આવે તો જતું રહું. જો કોઈ ફરીથી દુઃખી થાય તો પાછું આવું, હવા લાગે કે લૂછી નાખો તો મટી જાઉં.
+Answer: આંસુ
+
+Now, solve this riddle:
+Riddle : તડકો લાગે તો ઊભો થાતો, છાયોં આવે તો મરી જાતો જો કોઈ મહેનત કરે તો ફરી પાછો ઊભો થાતો, હવા આપો તો મરી જાતો.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ધુમાડો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: જો તે જાય તો પાછી ન આવે, પણ આવતી કે જતી નજર ન આવે, આખી દુનિયામાં લોકો તેની શોધમાં છે, તે ભાગ્ય બદલી શકે છે.
+Answer: તક
+
+Example 2:
+Riddle: એક એવી વસ્તુ જે એક વાર આવે તો કોઈ પાછું ન આવે, આવતી હોય તોય નજર ન આવે, આખી દુનિયા જેનાથી ડરે, એ તો સૌથી બળવાન ગણાય.
+Answer: મૃત્યુ
+
+Now, solve this riddle:
+Riddle : જો તે જાય તો પાછો ન આવે, પણ જઈ રહ્યો હોય તોય નજર ન આવે, આખી દુનિયામાં ચર્ચા એની એ તો સૌથી બળવાન ગણાતો.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મૃત્યુ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એક ઘરમાં ઘણા સુસ્ત પડેલા છે, ને તેમનો એક વાપરનાર. વાપરનાર જ્યારે આવે ઘરમાં, ત્યારે જીવંત થઇ જાય બધા.
+Answer: રમકડાં અને બાળક
+
+Example 2:
+Riddle: એક મેદાન મોટું, ને તેમાં ફરે છે અનેક ગોળા. તે ગોળાઓનો છે એક રાજા, રાજાની ફરતે ફરે ગોળા આખા.
+Answer: સૂર્ય અને ગ્રહો
+
+Now, solve this riddle:
+Riddle : એક બગીચામાં અનેક ફૂલ, ને તે ફૂલોનો છે એક રાજા રાજા જ્યારે આવે બગીચામાં ત્યારે નાચતાં ફૂલો આખા.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+સૂર્યમુખી અને સૂર્ય
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ફૂલોની વાડીએ આવે નાનો ચોર, મીઠો રસ ચૂસી, થેલી ભરી પરાગ લઈ, ઊડી જાય કરી શોર.
+Answer: મધમાખી
+
+Example 2:
+Riddle: દરેક ઘર પાસે આવીને ઊભો રહે, બંધ ડબ્બાનું ઢાંકણું ખોલી, અંદરનો બધો સામાન ભરી જાય.
+Answer: કચરાવાળો
+
+Now, solve this riddle:
+Riddle : ભરી બજારે થેલો લઈને આવ્યો ચોર બંધ ડબ્બાનું તાળું ખોલી, સામાન સઘળો લઈ જાતો.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ખરીદદાર
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: રોજ સવારે આવું છું, અજવાળું લાવું છું. કોઈનો દાદો નથી છતાં બાળકોનો વ્હાલો દાદા કહવાઉં છું.
+Answer: સૂરજ દાદા
+
+Example 2:
+Riddle: પાનાં પાનાં પર વાતો લખી છે, પણ જીભ નથી. મને વાંચીને જ્ઞાન મળે છે, પણ કોઈનો ગુરુ નથી. બાળકોનો સારો મિત્ર કહેવાઉં છું.
+Answer: પુસ્તક
+
+Now, solve this riddle:
+Riddle : રૂડો ને રૂપાળો ને ગોરો ગોરો માખણ જેવો છું મા નો તો ભાઈ નહીં પણ બાળકોનો વ્હાલો મામો છું.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ચાંદામામા
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: જેમ જેમ હું પ્રકાશ આપું છું, તેમ તેમ હું ઓગળતો જાઉં છું. અંધારામાં મારો વાસ છે, છતાં પ્રકાશ ફેલાવું છું.
+Answer: મીણબત્તી
+
+Example 2:
+Riddle: જેમ જેમ ઠંડક આપું છું તેમ તેમ ઓગળતો જાઉં છું, છું તો પાણી પણ મને પકડી શકાતો નથી.
+Answer: બરફ
+
+Now, solve this riddle:
+Riddle : જેમ જેમ સેવા કરતો જાઉં છું તેમ તેમ મારું કદ ઘટતું જાય છે, રંગબેરંગી મારો સ્વભાવ હોવા છતાં પાણી સાથે મળી જાઉં છું.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+સાબુ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: વહેલી સવારે એક કળી ખીલે, આખી દુનિયા જાગી ઉઠે..
+Answer: કૂકડો
+
+Example 2:
+Riddle: આભે ખીલે સોનેરી ફૂલ, રાતનું અંધારું થાય દૂર.
+Answer: સૂરજ
+
+Now, solve this riddle:
+Riddle : જાંબુખિલે એક ફૂલ, થાય અંધારું ડૂલ..
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ચાંદા (ચંદ્ર)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: હાથી, ઘોડા, ઊંટ ફર્યા કરે, પણ પગ એમના જાતે ચાલે ના. રાજા રાણી ઘૂમ્યા કરે, ને રમતની મજા લીધા કરે.
+Answer: ચેસ
+
+Example 2:
+Riddle: ગોળ ગોળ ફર્યા કરે, પણ પગ એના ચાલે ના. એના આધારે જ વાહનો, દૂર દૂર પહોંચી જાય.
+Answer: પૈડું
+
+Now, solve this riddle:
+Riddle : હાથી ઘોડા ફર્યા કરે પણ, પગ એમના ચાલે ના સવાર પીઠે ઘૂમ્યા કરે, ને ફરવાની મજા લીધા કરે
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ચકડોળ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એપ્લિકેશનની છે કાયા, ગ્રાફિક્સની છે આંખ, જ્યારે પ્લે થાય, કાલ્પનિક દુનિયાની સહેલ કરાવે.
+Answer: વિડીયો ગેમ
+
+Example 2:
+Riddle: કાગળનું છે ધડ, લીટીઓ છે આંખ દુનિયાની સફર કરાવે, ખોલતાં જ રસ્તા દેખાય
+Answer: નકશો
+
+Now, solve this riddle:
+Riddle : કાગળની છે કાયા, અક્ષરની છે આંખ અલકમલકની સહેલ કરાવે, ખૂલે છે જ્યારે પાંખ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+પુસ્તક
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: દિવસ રાત ફરતા જાય, પોતાની ધરી પર નાચતા જાય,
+Answer: ઘડિયાળના કાંટા
+
+Example 2:
+Riddle: ક્યારેક છલકાઈ જાય, ક્યારેક સાવ સુકાઈ જાય, વરસાદ અને પર્વતની લે સહાય, સૌની તરસ છીપાવતી જાય.
+Answer: નદી
+
+Now, solve this riddle:
+Riddle : પંદર દિવસ વધતો જાય, પંદર દિવસ ઘટતો જાય સૂરજની તો લઈને સહાય, રાત્રીભર પ્રકાશ પાથરતો જાય
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ચાંદા
+
+is rewritten as 
+
+ચાંદો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: મને થોડું પાણી મળે તો જીવું, વધારે મળે તો મરી જાઉં.
+Answer: છોડ
+
+Example 2:
+Riddle: હું બોલું તો સંભળાય. થોડું વોલ્યુમ રાખો તો ચોખ્ખું સંભળાવું. વધુ વોલ્યુમ રાખો તો ફાટી જાઉં.
+Answer: લાઉડસ્પીકર
+
+Now, solve this riddle:
+Riddle : રંગે બહુ રૂપાળો છું થોડું ખાઉં તો ધરાઇ જાઉં વધુ ખાઉં તો ફાટી જાઉં
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+સાબુન
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: આકાશમાં રહું, આકાશમાં ફરું. પવનના સથવારે નાચું, હવામાં ઊડવું મારૂ કામ.
+Answer: પક્ષી
+
+Example 2:
+Riddle: હું આકાશનો એક ભાગ છું, આકાશમાં જ રહીને ફરું છું, પવનના તાલે નાચું છું, આકાશમાં તરવું મારું કામ છે.
+Answer: વાદળ
+
+Now, solve this riddle:
+Riddle : પાણીનું અબૂકલું ઢબૂકલું છું, પાણીમાં જ રહીને ફરું છું પાણીના તરંગોમાં નાચું છું, પાણીમાં જ તરવું મારૂ કામ છે
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+માછલી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: લાલ ઘરમાં સફેદ દીવાલો, દીવાલોમાં લાલ મોતી.
+Answer: દાડમ
+
+Example 2:
+Riddle: બહારથી લાલ, અંદરથી સફેદ, પેટમાં કાળા પથ્થરો લઈને બેઠું છે.
+Answer: સફરજન
+
+Now, solve this riddle:
+Riddle : લાલ કિલ્લામાં કાળા સિપાઈ લીલી દીવાલમાં ગયા સમાઈ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મરી મસાલો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: દિવસના ઘોંઘાટમાં સંતાઈ જાય, રાત્રે સૌને ભેટી પડે.
+Answer: શાંતિ
+
+Example 2:
+Riddle: આટલીક જ્યોત, રાત્રે તે ઝગમગે દિવસે ક્યાંય ના મળે, રાત્રે જ તે જડે.
+Answer: જુગનુ
+
+Now, solve this riddle:
+Riddle : આટલીક દડી ને હીરે તે જડી દિવસે ખોવાણી તે રાત્રે જડી
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ટોપી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: પગ છે કુરૂપ, માથે છે કલગી, પીંછામાં છે આંખો.
+Answer: મોર
+
+Example 2:
+Riddle: મોઢું સોય જેવું, પાંખો કાગળ જેવી, અવાજ વિમાન જેવો, પણ લોહી પીએ.
+Answer: મચ્છર
+
+Now, solve this riddle:
+Riddle : વડ જેવા પાન ને શેરડી જેવી પેરી મોગરા જેવા ફૂલ ને આંબા જેવી કેરી
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+પાનકવાડીનું પાન
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ચાલે છે પણ પગ નથી, બધું ખાય છે પણ ધરાતો નથી, ક્યારેય ઊભો રહેતો નથી...
+Answer: સમય
+
+Example 2:
+Riddle: મોઢું નથી પણ બધું ખાય છે, પેટ નથી પણ હંમેશા ભૂખ્યું રહે છે, પાણી પીવડાવો તો મરી જાય છે...
+Answer: અગ્નિ
+
+Now, solve this riddle:
+Riddle : ચાલે છે પણ જીવ નથી, હલે છે પણ પગ નથી ખવાય છે પણ ખૂટતો નથી, બેઠક છે પણ બાજઠ નથી…
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દીવો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: અદ્રશ્ય ખેતર, સૂરના દાણા, હોઠેથી વાવ્યા, ને કાનેથી લણ્યા.
+Answer: ગીત
+
+Example 2:
+Riddle: થાળી એ ખેતર, ને કોળિયા એ બીજ, હાથે પીરસાય, ને મોઢે રમે જીભ.
+Answer: ભોજન
+
+Now, solve this riddle:
+Riddle : ધોળું ખેતરને કાળા ચણા હાથે વાવ્યાં ને મોં એ લણ્યા
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દાંત અને જીભ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: લાંબો છે પણ માણસ નથી, ઉપર ચાલે પણ જીવ નથી, ગામડે ગામડે લઈ જાય, સીધો જાય પણ સાપ નથી.
+Answer: રસ્તો
+
+Example 2:
+Riddle: રડે પણ માણસ નહિ, ગરજે પણ સિંહ નહિ, જમીનને પાણી પાય, સફેદ કપડાં પહેરે પણ સાધુ નહિ.
+Answer: વાદળ
+
+Now, solve this riddle:
+Riddle : પઢતો પણ પંડિત નહિ, પાંજરે પૂર્યો પણ ચોર નહિ ચતુર હોય તેઓ ચેતજો, મધુરો પણ મોર નહિ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મુગ્ધ બોલે તે મધુર હોય અને તે ચતુર પણ હોય છે. મોર મધુર બોલે છે પણ ચતુર નથી હોતો. મુગ્ધ પાંજરે પણ પુરાય, ચોર પણ પાંજરે પુરાય પણ ચોર ચતુર હોય તે જરૂરી નથી. પંડિત પઢે પણ મુગ્ધ પણ પઢે. 
+મુગ્ધ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: દિવસ રાત ચાલ્યા જ કરે, સમય કોને પૂછ્યા વગર કહ્યા જ કરે.
+Answer: ઘડિયાળ
+
+Example 2:
+Riddle: રાત આખી સુગંધ વેર્યા કરે, દિવસ ચઢે પાછી સુઈ જાય
+Answer: રાતરાણી
+
+Now, solve this riddle:
+Riddle : સૂરજ સામે મન ભરીને જોયા કરે સુવે ડાળીમાં સાંજ પડે થાકી જઈને
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ને કોયલ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: જમીનમાં જન્મે, ઉપર લીલો ચોટલો રાખે, કાપો તો આંખમાં પાણી લાવે, શાકમાં એનો સંગ તો સ્વાદ આવે.
+Answer: ડુંગળી
+
+Example 2:
+Riddle: સાગર કિનારે મળે, ગોળાકાર એનો આકાર. મોઢેથી ફૂંકતા અવાજ આવે, પૂજામાં વગાડવામાં આવે. વિષ્ણુજીના હાથમાં શોભે, બોલો એ શું કહેવાય?
+Answer: શંખ
+
+Now, solve this riddle:
+Riddle : વનવગડે વસ્તી વગર ઊગી નીકળે, સફેદ ને જાંબલી રંગે સોહાતો રહેતો એના ફૂલની માળા પહેરી હનુમાનજી મલકાતા રહેતા
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+કેસૂડો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: સાત રંગની કમાન છું, વરસાદ ગયા પછી આકાશમાં આવું છું, મને જોઈ સૌ ખુશ થાય છે.
+Answer: મેઘધનુષ્ય
+
+Example 2:
+Riddle: સફેદ પાતળું શરીર, પોતે ઓગળી બીજાને અજવાળું આપે, અંધારું થાય ત્યારે કામ આવે ને અજવાળું થાય ત્યારે ઓલવી નાખે. હું કોણ?
+Answer: મીણબત્તી
+
+Now, solve this riddle:
+Riddle : સફેદ ફૂલ ને કેસરી દાંડી વાતાવરણને મહેકાવતા જાય રાત જતી ને સુવાસ લઈને નવી સવાર આવતી જાય
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મોગરો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ભારે વરસાદ પછી આકાશે પથરાય, જાણે કુદરત રંગોનો ફુવારો ઉડાડે.
+Answer: મેઘધનુષ્ય
+
+Example 2:
+Riddle: શિયાળામાં મીઠી સુગંધ ફેલાવે, નારંગી રંગના ગોળા લટકાવે.
+Answer: સંતરા
+
+Now, solve this riddle:
+Riddle : ધોમધકતા ઉનાળામાં લાલ ચટ્ટાક ખિલતો જાય જાણે લાલ રંગી ફૂવારો ઉડતો જાય
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+કેસૂડો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ઘરમાં એક જગ્યાએ બેઠો, વાતો કરતો જાય. દુનિયાભરના ગીત-સમાચાર, કાનમાં રેડતો જાય.
+Answer: રેડિયો
+
+Example 2:
+Riddle: એક ટેબલ પર શાંતિથી બેઠું, પણ તેની અંદર આખી દુનિયા સમાવી. ક્લિક કરો ને દુનિયાભરની વાતો, ચિત્રો, બધું બતાવે.
+Answer: કમ્પ્યુટર
+
+Now, solve this riddle:
+Riddle : ઘરના ખૂણે એકલું બેસીને બોલતું જાય દુનિયાભરની અવનવી વાતોનો ખજાનો આપણી પાસે ખોલતું જાય
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ટેલિવિઝન
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ચાર દીવાલો વચ્ચે, જ્યાં સૌને આરામ મળે.
+Answer: ઓરડો
+
+Example 2:
+Riddle: ઘણા મિત્રો ફરતે ગોઠવાયા, વચ્ચે મોટું મેદાન જમવા.
+Answer: ટેબલ અને ખુરશીઓ
+
+Now, solve this riddle:
+Riddle : પાંચ પાડોશી અને વચ્ચ માં અગાશી
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+પંચાયતન શિવલિંગ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: જોવા અને દેખાડવા બંનેમાં કામ લાગે, આંખ કે પડદો નહીં, બોલો શું છે મારું નામ?
+Answer: અરીસો
+
+Example 2:
+Riddle: ચાલવા અને દોડવા બંનેમાં કામ લાગે છે, રસ્તો નહીં, જમીન નહીં બોલો શું છે મારું નામ?
+Answer: પગરખાં
+
+Now, solve this riddle:
+Riddle : વાંચવા અને લખવા બંનેમાં કામ લાગે છે, કાગળ નહીં, કલમ નહીં બોલો શું છે મારું નામ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દીવો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવું શું છે જે બનતા ની સાથે જ સંભળાવા લાગે છે?
+Answer: અવાજ
+
+Example 2:
+Riddle: એવું શું છે જે મુખેથી જન્મે ને તરત દૂર દૂર પહોંચી જાય?
+Answer: વાણી / શબ્દ
+
+Now, solve this riddle:
+Riddle : એવું શું છે જે પેદા થતા ની સાથે જ ઉડવા નું શરૂ કરી દે છે?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+છોડ/પાંદડા
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવું શું છે જેને આંખ છે પણ જોઈ શકતું નથી?
+Answer: સોય
+
+Example 2:
+Riddle: એવું શું છે જેને જીભ છે પણ સ્વાદ લઈ કે બોલી શકતી નથી?
+Answer: ઘંટ
+
+Now, solve this riddle:
+Riddle : એવું શું છે જેને ચાર પગ હોવા છતાં પણ ચાલી શકતું નથી?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ટેબલ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એ કઈ વસ્તુ છે જે અવાજ કરતા જ મરી જાય છે?
+Answer: શાંતિ
+
+Example 2:
+Riddle: એ કઈ વસ્તુ છે જે પ્રકાશ પીતા જ મરી જાય છે?
+Answer: અંધારું
+
+Now, solve this riddle:
+Riddle : એ કઈ વસ્તુ છે જે પાણી પીતા જ મરી જાય છે?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+આગ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એ શું છે જેની આંખોમાં અનાજ નાખો તો તે પોતાનું મોઢું ખોલીને દળી દે છે?
+Answer: ઘંટી
+
+Example 2:
+Riddle: એ શું છે જેની આંખોમાં તમે સિક્કો કે કાર્ડ નાખો તો તે પોતાનું મોઢું ખોલીને વસ્તુ બહાર કાઢે છે?
+Answer: વેન્ડિંગ મશીન
+
+Now, solve this riddle:
+Riddle : એ શું છે જેની આંખોમાં જો આંગળી નાખો તો તે પોતાનું મોઢું ખોલી દે છે?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ઝીણીખીંટી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: પીળો ઝંડો, લાલ કમાન, માણસ ભાગવા માંડે.
+Answer: આગ
+
+Example 2:
+Riddle: શાંતિથી બેઠું હોય, અચાનક ઘૂંઘરો વગાડે, સાંભળીને ઉંઘ ઉડી જાય.
+Answer: એલાર્મ
+
+Now, solve this riddle:
+Riddle : લીલો ઝંડો, લાલ કમાન, તોબા તોબા કરે માણસ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મરચું
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એ શું છે જે પોતે ફરે છે પણ પોતાની જગ્યા છોડતું નથી?
+Answer: પંખો
+
+Example 2:
+Riddle: હું લોકોને ઉપર-નીચે કરું છું, પણ હું પોતે તો સ્થિર રહું છું.
+Answer: હિંચકો
+
+Now, solve this riddle:
+Riddle : એ કઈ વસ્તુ છે જે ઉપર-નીચે થાય છે પણ પોતાની જગ્યાએ જ રહે છે?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+લિફ્ટ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: હાથ છે પણ માણસ નથી, મોઢું છે પણ બોલતો નથી, પગ નથી પણ ચાલ્યા કરે, સમય બતાવે છે સૌને.
+Answer: ઘડિયાળ
+
+Example 2:
+Riddle: આકાશમાંથી આવે છે પણ પંખી નથી, ખેતીમાં મદદ કરે છે પણ ખેડૂત નથી, ટીપાં પાડે છે પણ આંખ નથી.
+Answer: વરસાદ
+
+Now, solve this riddle:
+Riddle : ઉડું છું પણ પંખી નહીં, સૂંઢ છે પણ હાથી નહી, છ પગ પણ માખી નહી, ગીત ગાઉં છું પણ ભમરો નહીં.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+છોકટો ઝીલી લે છે બોલને , કાન છે , મોઢું છે પણ માણસ નથી , રડે પણ છે . 
+The pattern of the given riddles suggests an answer related to something that mimics certain characteristics of living beings but is not actually alive.
+The answer is: વાંસળી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ગળું છે પણ માથું નહીં, પાણી ભરાય પણ કૂવો નહીં, માટીનો બને પણ ઈંટ નહીં, ફૂલ શોભાવે પણ બગીચો નહીં.
+Answer: ફૂલદાની
+
+Example 2:
+Riddle: પાંદડા છે પણ ઝાડ નથી, પાના છે પણ ચોપડી નથી, કવર છે પણ વાસણ નથી.
+Answer: કોબીજ
+
+Now, solve this riddle:
+Riddle : ત્રણ નેત્ર પણ શંકર નહીં, વાળ ઘણા પણ ઘેટું નહીં, પાણી છે પણ ઘડો નહીં, સન્યાસી છે પણ ભગવાન નહીં.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+શિવલિંગ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: કાગળનો છે ટુકડો એ, વાતો કરે વાટની, સમજે નહીં વાત. સૌ દેશની ભાષા જાણે એ, જેને પગલે દુનિયા ફરે સાત.
+Answer: નકશો
+
+Example 2:
+Riddle: કાળા-ધોળા રંગની છે કતાર, બોલે સરગમ ગીતોના સાર, હસે રડે પણ સમજે ન લગાર, વાગે ત્યાં મીઠી લાગે લ્હાર.
+Answer: હાર્મોનિયમ
+
+Now, solve this riddle:
+Riddle : રંગ બેરંગી લકડક નાર, વાત કરે ન સમજે સાર, સૌ ભાષામાં બોલે એ, ચાલે ત્યાં આંસુની ધાર.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+સંગીતવાદ્ય પખાવજ ( ઢોલક,ઢોલ )
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ઊભું ઊભું રડે, અંધારું દુર કરે, પણ પોતે ઓછું થતું જાય.
+Answer: દીવો/મીણબત્તી
+
+Example 2:
+Riddle: ગોળ ગોળ ફરતું જાય, ઘૂમરા મારતું ગાતું જાય, પાણીને પીતું જાય, અંદર બધું ખેંચી જાય, તોય એનું પેટ ન ભરાય.
+Answer: વમળ
+
+Now, solve this riddle:
+Riddle : ગોળ ગોળ ફરતી જાય, ફરતી ફરતી ગાતી જાય, દાણો દાણો ખાતી જાય, તોય એનુ પેટ ન ભરાય.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ચકલી/ચકચકિયું
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: રૂપ નાનું, શાંતિથી બેઠેલું. મનમાં હોય તે લખાવે, ક્યારેક ક્રાંતિ લાવે, ક્યારેક બદનામ કરાવે.
+Answer: કલમ
+
+Example 2:
+Riddle: ઉપર આકાશે શાંતિથી ફરે, રીસાય ત્યારે ગર્જના કરે, ધરતીની તરસ એ છીપાવે, તોય લોકો એનાથી ડરી જાય.
+Answer: વાદળ
+
+Now, solve this riddle:
+Riddle : આમ તો નીચી નજરે ચાલે, રીસાય ત્યારે પગ પછાડે, લોકોનો એ ભાર વેંઢારે, તોય કોઇ સારો ન માને.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ઘોડાગાડી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: પૂઠાં અને પ્લાસ્ટિકનું બનેલું, ખૂણામાં ગોઠવાઉં, જ્યારે કાગળ આવે, બધાને ભેગા કરી રાખું.
+Answer: ફાઈલ
+
+Example 2:
+Riddle: કાચ અને ફ્રેમનો મારો સાથ, નાક-કાન પર કરું છું વાસ. જ્યારે દ્રષ્ટિ ઝાંખી થાય, દુનિયા દેખાડું હું સાફ.
+Answer: ચશ્મા
+
+Now, solve this riddle:
+Riddle : તણખલા રૂના સંગાથે, ઝૂલું ડાળે ડાળ, જ્યારે પંખી ઊડી જાતા, બચ્ચાની રાખું સંભાળ.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+માળો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: ખોલો તો મોં ફરે, કરે રહસ્યોની વાતો, ઘરમાં પડ્યું રહે પણ જ્ઞાનનો ખજાનો.
+Answer: પુસ્તક
+
+Example 2:
+Riddle: જૂનું પુરાણું શરીર, પણ વાતો કહે દુનિયાભરની. ખૂણામાં ચુપચાપ પડ્યું હોય, ગીતોનો ખજાનો.
+Answer: રેડિયો
+
+Now, solve this riddle:
+Riddle : બોખું બોખું મોં ફરે, કરે મઝાની વાતો, આખા ઘરમાં ખુલ્લો મુકે, વાર્તાનો ખજાનો.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ટીવી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: કાયા મારી રંગીન, હૃદય મારું કાળું. હૃદય બાળો તો, અંધારું થાય ઉજાળું.
+Answer: મીણબત્તી
+
+Example 2:
+Riddle: માટીની કાયા, અગ્નિમાં તપીને બને લાલ, પાણી ભરીને શીતળતા આપે, ગરીબનો એ ફ્રીજ કહેવાય.
+Answer: માટલું
+
+Now, solve this riddle:
+Riddle : મા ગોરી રૂપકડી, ને બચ્ચા કાળાં મેશ, મા મરે, બચ્ચા જો ભળે, દૂધ-ચામાં સુગંધ પ્રસરે.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+એલચી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: લાગે ગોળ દડો, હવામાં તરતો જાઉં, દેહ મારો રંગબેરંગી, આંગળી અડકે ને ફૂટી જાઉં.
+Answer: પરપોટો
+
+Example 2:
+Riddle: લાગે મારો આકાર, પણ નથી મારો ભાર,
+Answer: પડછાયો
+
+Now, solve this riddle:
+Riddle : લાગે ઢમઢોલ શરીર, પણ નથી મારો કંઇ ભાર, દેહ છે મારો રંગબેરંગી, બાળકોનો છું હું સંગી.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મેઘધનुष्य
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: હું જન્મુ છું લાંબો, કામ કરતા થાઉં નાનો, માથું ઘસીને કરું કામ, બોલો મારું શું છે નામ?
+Answer: પેન્સિલ
+
+Example 2:
+Riddle: ફ્રીજમાં હોઉં ત્યારે કઠણ ને સફેદ, બહાર આવું ને પાણી થવા માંડુ, જેટલો ઓગળું એટલો ઓછો થતો જાઉં. બોલો હું કોણ?
+Answer: બરફ
+
+Now, solve this riddle:
+Riddle : આખો દિવસ ઊંધ્યા કરું, રાત પડે ને રડ્યા કરું, જેટલું રડું એટલું ગુમાવું ? તો બોલો મિત્રો કોણ હું ?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દીવો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: બે ભાઈ સામસામે બેઠા છે, વચ્ચે એક પિતાજી ઊભા છે. બે બહેનો પાછળ કાન પર બેઠી છે.
+Answer: ચશ્માં
+
+Example 2:
+Riddle: ઘણા સળિયા આડા, ઘણા સળિયા ઉભા, બનાવે એક ગોળ કે ચોરસ કાયા, અંદર બે પંખી મીઠું ગાયા.
+Answer: પક્ષીનું પાંજરું
+
+Now, solve this riddle:
+Riddle : ચાર ભાઇ આડા ચાર ભાઈ ઉભા એક એકના અંગમાં બબ્બે જણ બેઠા.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+દોરજાળીવાળું પલંગ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: અડધો ચંદ્ર ને અડધો પથ્થર, આકાશમાં ના હોઉં હું, છું હું કઠણ પણ પ્રકાશ પાથરું, તો ઝટપટ કહો હું કોણ..?
+Answer: ચંદ્રકાંત
+
+Example 2:
+Riddle: અડધો બરફ ને અડધી મલાઈ, ફ્રીઝરમાં જ ના રહું હું, ઠંડુ રહે ત્યારે કઠણ, પણ ગરમી મળતા પીગળી જાય, તો ઝટપટ કહો હું કોણ..?
+Answer: આઈસ્ક્રીમ
+
+Now, solve this riddle:
+Riddle : અડધું ફળ ને અડધું ફૂલ, જોવા મળું ના બાગમાં, રંગે કાળું પણ મધ મીઠું તો ઝટપટ કહો હું કોણ..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+જામફળ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: શરીર છે, પણ નથી જીવ, સૂતું રહે છે, પણ ક્યારેય ઊંઘતું નથી, માણસને આરામ આપે છે, રાણી પૂછે દાસીને, આ કોણ છે આરામ દેનાર?
+Answer: પલંગ / ખાટલો
+
+Example 2:
+Riddle: ગોળ છે, પણ નથી થાળી, આખી દુનિયા ફેરવે છે, રાજા પૂછે રાણીને, આ શું છે ભારી?
+Answer: પૃથ્વી
+
+Now, solve this riddle:
+Riddle : ચાર ખૂણાનું ચોકઠું, આભે ઉડ્યુ જાય, રાજા પૂછે રાણીને, આ ક્યુ જનાવર જાય.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+પતંગ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: બે હાથ ને પેટ એક, પણ ખાય સોપારી અનેક, જે કોઈ આવે એની પકડમાં, ચૂરેચૂરા થાય પલકમાં. બોલો એ શું?
+Answer: સૂડી
+
+Example 2:
+Riddle: મારે બે દરવાજા છે, જે ખોલ્યા વગર બોલી ના શકું. અંદર બેઠેલા સૈનિકો, આવેલાને ચગદી નાખે. બોલો એ શું..?
+Answer: મોં (અને દાંત)
+
+Now, solve this riddle:
+Riddle : બે માથાં અને બે પગ, જાણે એને આખું જગ, જે કોઈ આવે એની વચમાં, કપાઈ જાય એની કચ કચ માં બોલો એ શું..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+છીણી
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: લીલોછમ મારો દેહ, ખેતરમાં મારો જન્મ સદેહ, કપાઈને રસ આપું મીઠો, ગોળ બનું ને ખાંડ પણ દીઠો. બોલો હું કોણ?
+Answer: શેરડી
+
+Example 2:
+Riddle: ખેતરમાં ધરું જન્મ, સૌની ભૂખ સંતોષું રોજ. કણ કણ છે મારી કાયા, દામ મારા ઓછા. બોલો હું કોણ?
+Answer: ચોખા
+
+Now, solve this riddle:
+Riddle : ખારા જળમાં બાંધી કાયા રસોઈમાં રોજ મારી માયા જન્મ ધર્યાને પારા છોડા, મારા દામ તો ઉપજે થોડા બોલો હું કોણ..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મીઠું
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: જો તમારી પાસે ત્રણ ગાડી અને બે બાઈક છે તો તમારી પાસે કેટલી આંખો છે?
+Answer: બે
+
+Example 2:
+Riddle: એક વર્ષમાં ૫૨ અઠવાડિયા અને ૧૨ મહિના હોય, તો તમારા મગજ કેટલા છે?
+Answer: એક
+
+Now, solve this riddle:
+Riddle : જો તમારી પાસે ચાર ગાય અને બે બકરી છે તો તમારી પાસે કેટલા પગ છે..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+બે
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: એવું શું છે જે જેની પાસે હોય, તે જ તેને જોઈ શકે અને તે દ્રશ્ય જીવનમાં ફક્ત એક જ વાર જોવા મળે?
+Answer: સમજણનો પહેલો ચમકારો
+
+Example 2:
+Riddle: એવું શું છે જે જેનું હોય એ જ અનુભવે, અને જીવનમાં માત્ર એક જ વાર થાય?
+Answer: જન્મ
+
+Now, solve this riddle:
+Riddle : એવું શું છે જે જેનું હોય એ જ જોઈ શકે અને માત્ર એક જ વાર જોઈ શકે..?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+મોત
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: પાંખ નથી પણ ઊડે છે, આંખ નથી પણ રડે છે. કાળો થઈને વરસે જ્યારે, ધરતી લીલીછમ કરે છે.
+Answer: વાદળ
+
+Example 2:
+Riddle: વહે છે પણ નદી નથી, અવાજ કરે છે પણ બોલતું નથી.
+Answer: ધોધ
+
+Now, solve this riddle:
+Riddle : ફાળ ભરે પણ મૃગ નહી, નહી સસલો નહી શ્વાન. મો ઉચુ પણ મોર નહી, ચતુર કરો વિચાર.
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ઘોડો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Below are some examples. Each example consists of an original Gujarati riddle with its answer, followed by one or more 'context-reconstructed' Gujarati riddles. These reconstructed riddles share the same underlying reasoning pattern as the original but are set in a different context, and their answers are also provided.
+Study these examples carefully to understand how the reasoning pattern is maintained across different contexts.
+For the final riddle presented, provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Examples:
+Example 1:
+Riddle: મોઢું છે પણ બોલે નહીં, પીઠ છે પણ હલે નહીં. જ્ઞાનનો ભંડાર છે, વાંચવાથી ઉઘડે.
+Answer: પુસ્તક
+
+Example 2:
+Riddle: એક ફ્રેમમાં જડ્યું, ખોલો ને આવજા થાય. રાત પડે ને ચોકીદાર થાય.
+Answer: બારણું
+
+Now, solve this riddle:
+Riddle : ચાર પાયા પર ઉપર આડી છત, કરો તેના ઉપર બસ લખ લખ લખ
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ચાકડો
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 07:42:33 2025 ---

@@ -1,0 +1,1834 @@
+
+--- Starting New Generation Run at Tue May 27 15:15:28 2025 ---
+Model: mistralai/mistral-saba, Language: Hindi, Prompt: zero_shot_template_test_from_original
+Retries: 1
+--------------------------------------------------
+
+--- Riddle Index: 0 ---
+
+Prompt:
+You are an expert in solving Hindi riddles.
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा कौन सा शब्द है, जिसे लिखते तो है, पर पढ़ते नही है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नहीं
+
+------------------------------
+
+--- End of Processing for Riddle Index: 0 ---
+
+--- Riddle Index: 1 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+अगर स्कूटी स्पीड से चला रही महिला के सामने पति और भाई खड़े है, तो सबसे पहले वो किसे मारेगी?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+स्कूटी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 1 ---
+
+--- Riddle Index: 2 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+कौन सी चीज है जो अगर चलते चलते थक जाए तो उसकी गर्दन काटने पर वह दोबारा चलने लग जाती है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पेंसिल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 2 ---
+
+--- Riddle Index: 3 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+वह क्या चीज है जिसे आदमी छुपा कर और औरत दिखा कर चलती है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पर्स
+
+------------------------------
+
+--- End of Processing for Riddle Index: 3 ---
+
+--- Riddle Index: 4 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+खुद कभी वह कुछ न खाए,\nलेकिन सब को खूब खिलाए |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चम्मच (Chammach)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 4 ---
+
+--- Riddle Index: 5 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+वह क्या है, जो है तो सोने की, मगर सोने से बहुत सस्ती है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+सोने की चिड़िया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 5 ---
+
+--- Riddle Index: 6 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+वह कौन है, जो जितना भी बूढ़ा हो जाए, मगर फिर भी वह जवान हीं रहता है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पुस्तक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 6 ---
+
+--- Riddle Index: 7 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+उसे दिन भर उठाते व रखते हैं। बिना उसके कहीं जा नहीं सकते हैं।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पैर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 7 ---
+
+--- Riddle Index: 8 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+शुरुआत में वो हरा रहता है, बाद में वो पिला हो जाए, बच्चे हो या बूढ़े सभी उसे मजे से खाएं।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मटर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 8 ---
+
+--- Riddle Index: 9 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+काला मुंह लाल शरीर, कागज को वह खाता, रोज शाम को पेट फाड़कर कोई उन्हें ले जाता।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+लेटरबॉक्स
+
+------------------------------
+
+--- End of Processing for Riddle Index: 9 ---
+
+--- Riddle Index: 10 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+रात में है, दिन में नहीं, दीया के नीचे, ऊपर नहीं, बूझो मेरा नाम सही ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तारे
+
+------------------------------
+
+--- End of Processing for Riddle Index: 10 ---
+
+--- Riddle Index: 11 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+आगे ‘प’ है मध्य में भी ‘प’, अंत में इसके ‘ह’ है, कटी पतंग नहीं यह भैया, न बिल्ली चूहा है, वन में पेड़ों पर रहता है; सुर में रहकर कुछ कहता है| बताओ क्या ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पपीहा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 11 ---
+
+--- Riddle Index: 12 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+डिब्बा देखा एक निराला, ना ढकना न ताला, न पेंदा नाही कोना, बंद है उसमें चांदी सोना।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+प्याज़
+
+------------------------------
+
+--- End of Processing for Riddle Index: 12 ---
+
+--- Riddle Index: 13 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा शब्द बताइए कि, जिससे फूल, मिठाई और फल बन जाए ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गुल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 13 ---
+
+--- Riddle Index: 14 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+वह कौन – सा फूल है, जिसके पास कोई रंग और महक नहीं है ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कागज का फूल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 14 ---
+
+--- Riddle Index: 15 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा रूम, जिसकी खिड़की ना दरवाजा तो बताओ क्या ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कब्र
+
+------------------------------
+
+--- End of Processing for Riddle Index: 15 ---
+
+--- Riddle Index: 16 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन – सी जगह है, जहाँ पर सड़क है पर गाड़ी नहीं, जंगल है पर पेड़ नहीं और शहर है पर घर नहीं ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नक्शा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 16 ---
+
+--- Riddle Index: 17 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+कमर बांधे घर में रहता, सुबह-शाम जरूरत है पड़ती। बताओ क्या?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चिमटा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 17 ---
+
+--- Riddle Index: 18 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+हरी झंडी लाल कमान, तोबा तोबा करे इंसान।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+बन्दूक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 18 ---
+
+--- Riddle Index: 19 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+नाक पर चढ़कर कान पकड़कर, लोगों को है पढ़ाती।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+Chashma (Glasses)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 19 ---
+
+--- Riddle Index: 20 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+हरे हरे से है दिखे पक्के हो या कच्चे, भीतर से यह लाल मलाई जैसे ठंडे मीठे लच्छे।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तरबूज
+
+------------------------------
+
+--- End of Processing for Riddle Index: 20 ---
+
+--- Riddle Index: 21 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+सफेद तन हरी पूंछ, न बुझे तो नानी से पूछ ॥,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मूली
+
+------------------------------
+
+--- End of Processing for Riddle Index: 21 ---
+
+--- Riddle Index: 22 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+कान हैं पर बहरी हूँ, मुँह है पर मौन हूँ । आँखें हैं पर अंधी हूँ, बताओ मैं कौन हूँ ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पुतला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 22 ---
+
+--- Riddle Index: 23 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+काला घोडा सफ़ेद की सवारी, एक उतरा तो दूसरे की बरी ॥,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रात और दिन
+
+------------------------------
+
+--- End of Processing for Riddle Index: 23 ---
+
+--- Riddle Index: 24 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+बूझो भैया एक पहेली, जब काटो तो नई नवेली ।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पेन्सिल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 24 ---
+
+--- Riddle Index: 25 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+हरी है उसकी काया, लाल मकान में, काला शैतान समाया।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मिर्च
+
+------------------------------
+
+--- End of Processing for Riddle Index: 25 ---
+
+--- Riddle Index: 26 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+चौकी पर बैठी एक रानी, सिर पर आग बदन में पानी।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+दीपक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 26 ---
+
+--- Riddle Index: 27 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+जल से भरा एक मटका, जो है सबसे ऊँचा लटका। पी लो पानी है मीठा, ज़रा नहीं है खट्टा।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नारियल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 27 ---
+
+--- Riddle Index: 28 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+लाल हूँ, खाती हूँ मैं सूखी घास। पानी पीकर मर जाऊँ, जल जाए जो आए मेरे पास।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 28 ---
+
+--- Riddle Index: 29 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+बिन खाए, बिन पिए, सबके घर में रहता हूँ । ना हँसता हूँ, ना रोता हूँ, घर की रखवाली करता हूँ।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ताला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 29 ---
+
+--- Riddle Index: 30 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन – सी चीज है, जो फ्रीज़ में रखने के बाद भी गरम रहती है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गरम मसाला
+
+------------------------------
+
+--- End of Processing for Riddle Index: 30 ---
+
+--- Riddle Index: 31 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+वह कौन है, जो हमेशा पीटने के लिए हीं बना है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ढोल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 31 ---
+
+--- Riddle Index: 32 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन – सी चीज है, जिसके पास रिंग तो है मगर पहनने के लिए ऊँगली नहीं है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+घंटी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 32 ---
+
+--- Riddle Index: 33 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन – सी ड्रेस है जिसे हम कभी पहन नहीं सकते हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+Hair
+(केस)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 33 ---
+
+--- Riddle Index: 34 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा कौन – सा सवाल है, जिसका जवाब हर वक्त बदलता रहता है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+क्या समय हुआ है?
+
+------------------------------
+
+--- End of Processing for Riddle Index: 34 ---
+
+--- Riddle Index: 35 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+पानी से पैदा होता है, पानी में मर जाता है,भोजन से तो मेरा गहरा नाता है।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+अग्नि
+
+------------------------------
+
+--- End of Processing for Riddle Index: 35 ---
+
+--- Riddle Index: 36 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+रबड़ मुझे हराता है, लोहा मुझे खींच पाता है बताओ क्या?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चुंबक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 36 ---
+
+--- Riddle Index: 37 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+वह कौन सा पक्षी है, जो पानी में तैरता भी है, आकाश में उड़ता भी है और जमीन पर चलता भी है?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+बत्तख
+
+------------------------------
+
+--- End of Processing for Riddle Index: 37 ---
+
+--- Riddle Index: 38 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन – सी चीज है, जिसे हम पानी के अंदर खाते हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गोता
+
+------------------------------
+
+--- End of Processing for Riddle Index: 38 ---
+
+--- Riddle Index: 39 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन – सी चीज है, जिसकी आँखों में ऊँगली डालो तो वह अपना मुँह खोल देती है!,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कुंजी, when inserted into a lock is referred to as putting a "finger" (uṅgali) into its "eyes" (ā̃khō̄), causing the lock to "open its mouth" (khōl dēti hāi).
+
+------------------------------
+
+--- End of Processing for Riddle Index: 39 ---
+
+--- Riddle Index: 40 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+संजना की चार बेटियां हैं, चारों बेटियों के एक-एक भाई, बताओ संजना को कितने बच्चे हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पांच
+
+------------------------------
+
+--- End of Processing for Riddle Index: 40 ---
+
+--- Riddle Index: 41 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+मैं एक बार मुडूंगा तो सबको रोक दूंगा, एक बार मुडूंगा तो सब कुछ खोल दूंगा, मैं क्या हूँ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चाबी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 41 ---
+
+--- Riddle Index: 42 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+एक जिससे आप डरते हैं, जिससे आप डरते वो उजाले से डरता हैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+छाया
+
+------------------------------
+
+--- End of Processing for Riddle Index: 42 ---
+
+--- Riddle Index: 43 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+आदमी ने ऊंगली से 6 लोगों को 6 सैकंड में उपर पहुचा दिया. वो स्पाइडरमैन नही था, सुपरमैन भी नही था और मैंन भी नही था, तो बताओं कौन था.,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ट्रैफिक सिग्नल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 43 ---
+
+--- Riddle Index: 44 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+हमेशा आपके सामने रहता हूँ लेकिन दिखाई नहीं देता, बताओ कौन हूँ मैं?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+Hawa (हवा)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 44 ---
+
+--- Riddle Index: 45 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+मेरी शाखाएँ हैं, लेकिन मैं पेड़ नहीं हूँ. बध्ताहूँ घटता हूँ लेकिन कोई फल, तना या पत्तियाँ नहीं हैं। बताओ, मैं क्या हूँ?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+घड़ी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 45 ---
+
+--- Riddle Index: 46 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज है, जिसके पास अनेक चाबियां होती हैं लेकिन एक भी ताला नहीं खुल सकता?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पियानो
+
+------------------------------
+
+--- End of Processing for Riddle Index: 46 ---
+
+--- Riddle Index: 47 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+एक बैंड, जिससे कभी कोई संगीत नहीं निकलता?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रबर बैंड
+
+------------------------------
+
+--- End of Processing for Riddle Index: 47 ---
+
+--- Riddle Index: 48 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+कटोरे पे कटोरा बेटा बाप से भी गोरा।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नारियल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 48 ---
+
+--- Riddle Index: 49 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+एक किले के दो हीं द्वार,\nउनमें सैनिक लकड़ीदार |\nटकराए जब दीवारों से,\nख़त्म हो जाए उनका संसार |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+माचिस
+
+------------------------------
+
+--- End of Processing for Riddle Index: 49 ---
+
+--- Riddle Index: 50 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+रंग बिरंगा बदन है इसका, कुदरत का वरदान मिला,\nइतनी सुंदरता पाकर भी, दो अक्षर का नाम मिला,\nये वन में करता शोर, इसके चर्चे हैं हर ओर।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मोर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 50 ---
+
+--- Riddle Index: 51 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+पंख नहीं पर उड़ती हूँ,\nहाथ नहीं पर लड़ती हूँ |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पतंग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 51 ---
+
+--- Riddle Index: 52 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+डब्बे पर डब्बा, डब्बे का गाँव,\nचलती फिरती बस्ती है, लोहे के पाँव |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रेलगाड़ी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 52 ---
+
+--- Riddle Index: 53 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+कमर पतली है, पैर सुहाने,\nकहीं गए होंगे बीन बजाने |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+लट्ठ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 53 ---
+
+--- Riddle Index: 54 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+बच्चों! एक लाठी की सुनो कहानी,\nछुपा है जिसमें मीठा – मीठा पानी |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गन्ना
+
+------------------------------
+
+--- End of Processing for Riddle Index: 54 ---
+
+--- Riddle Index: 55 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+आपकों सुखाता, खुद को भीगाता,\nमेरा नाम बताओ लाला?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तोता
+
+------------------------------
+
+--- End of Processing for Riddle Index: 55 ---
+
+--- Riddle Index: 56 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+मेरे नाम के दो मतलब हैं, दोनों के हैं अर्थ निराले, एक अर्थ में सब्जी हूं मैं, एक अर्थ में पालने वाले।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पालक
+
+------------------------------
+
+--- End of Processing for Riddle Index: 56 ---
+
+--- Riddle Index: 57 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+घर के ऊपर में रहता, धूप से तुझे बचाता, बारिश में मैं खुद भीगता, आंच न तुझ पर आने देता।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+छत
+
+------------------------------
+
+--- End of Processing for Riddle Index: 57 ---
+
+--- Riddle Index: 58 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+तीन पंख का ऐसा पक्षी, सबके घर में रहता, वर्षा और सर्दी में सोता, बस गर्मी में उड़ता।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पंखा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 58 ---
+
+--- Riddle Index: 59 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+सरस्वती की सफेद सवारी, मोती जिसको भाते, करके अलग दूध से पानी, बोलो कौन कहलाते?,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मोर
+
+------------------------------
+
+--- End of Processing for Riddle Index: 59 ---
+
+--- Riddle Index: 60 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+अगर नाक पर मैं चढ़ जाऊँ,\nतो कान पकड़कर खूब पढ़ाऊँ |,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चश्मा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 60 ---
+
+--- Riddle Index: 61 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+कल बनू धड़ के बिन, मल बनू सिर हीन, पैर कटे तो थोड़ा रहूं, अक्षर है कुल तीन।,
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कमल
+
+------------------------------
+
+--- End of Processing for Riddle Index: 61 ---
+
+--- Riddle Index: 62 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो जितना बढ़ती है, उतनी ही छोटी होती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+उम्र
+
+------------------------------
+
+--- End of Processing for Riddle Index: 62 ---
+
+--- Riddle Index: 63 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा कौन सा कमरा है जिसमें दरवाजा, खिड़की कुछ भी नहीं होता?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मशरूम
+
+------------------------------
+
+--- End of Processing for Riddle Index: 63 ---
+
+--- Riddle Index: 64 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा कौन सा सवाल है जिसका जवाब हमेशा अलग होता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+"क्या समय हुआ है?"
+
+------------------------------
+
+--- End of Processing for Riddle Index: 64 ---
+
+--- Riddle Index: 65 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो ऊपर जाती है लेकिन कभी नीचे नहीं आती?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+उम्र
+
+------------------------------
+
+--- End of Processing for Riddle Index: 65 ---
+
+--- Riddle Index: 66 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो रात में दिखाई देती है लेकिन दिन में नहीं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+तारा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 66 ---
+
+--- Riddle Index: 67 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जिसे जितना खींचोगे, उतनी छोटी होती जाएगी?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+सिगरेट
+
+------------------------------
+
+--- End of Processing for Riddle Index: 67 ---
+
+--- Riddle Index: 68 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जिसे जितना ज्यादा भरते हो, उतनी ज्यादा खाली होती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+कुआँ
+
+------------------------------
+
+--- End of Processing for Riddle Index: 68 ---
+
+--- Riddle Index: 69 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा क्या है जिसे बिना छुए तोड़ सकते हैं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+वादा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 69 ---
+
+--- Riddle Index: 70 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो खुद गिरती है और दूसरों को उठाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+बारिश
+
+------------------------------
+
+--- End of Processing for Riddle Index: 70 ---
+
+--- Riddle Index: 71 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा क्या है जो सूरज की रोशनी में गायब हो जाता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+परछाई
+
+------------------------------
+
+--- End of Processing for Riddle Index: 71 ---
+
+--- Riddle Index: 72 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा क्या है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ज्ञान
+
+------------------------------
+
+--- End of Processing for Riddle Index: 72 ---
+
+--- Riddle Index: 73 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो एक जगह से दूसरी जगह बिना हिले चली जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रोशनी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 73 ---
+
+--- Riddle Index: 74 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जिसका कोई शरीर नहीं, फिर भी हड्डियाँ होती हैं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+चाबी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 74 ---
+
+--- Riddle Index: 75 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो खुद भी हंसती है और दूसरों को भी हंसाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+हंसी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 75 ---
+
+--- Riddle Index: 76 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो खुद भी चलती है और दूसरों को भी चलाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+घड़ी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 76 ---
+
+--- Riddle Index: 77 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जिसे हाथ से पकड़ सकते हैं लेकिन देख नहीं सकते?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+हवा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 77 ---
+
+--- Riddle Index: 78 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जिसे इंसान जितना निकालता है, उतनी ही बढ़ती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गड्ढा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 78 ---
+
+--- Riddle Index: 79 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा क्या है जो जितना ज्यादा गर्म होता है, उतना ही ठंडा लगता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पसीना
+
+------------------------------
+
+--- End of Processing for Riddle Index: 79 ---
+
+--- Riddle Index: 80 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा कौन सा पक्षी है जो बिना पंखों के उड़ सकता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+पतंग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 80 ---
+
+--- Riddle Index: 81 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो सूरज की रोशनी में गायब हो जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+परछाई
+
+------------------------------
+
+--- End of Processing for Riddle Index: 81 ---
+
+--- Riddle Index: 82 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा क्या है जिसे काट सकते हैं लेकिन पकड़ नहीं सकते?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+समय
+
+------------------------------
+
+--- End of Processing for Riddle Index: 82 ---
+
+--- Riddle Index: 83 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो खुद भी गिरती है और दूसरों को उठाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+बारिश (Barrish)
+
+------------------------------
+
+--- End of Processing for Riddle Index: 83 ---
+
+--- Riddle Index: 84 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जिसे जितना ज्यादा बांटोगे, उतना ही बढ़ता जाएगा?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+ज्ञान
+
+------------------------------
+
+--- End of Processing for Riddle Index: 84 ---
+
+--- Riddle Index: 85 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो बिना देखे काम कर सकती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+दिमाग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 85 ---
+
+--- Riddle Index: 86 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो बिना बिजली के भी जल सकती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आग
+
+------------------------------
+
+--- End of Processing for Riddle Index: 86 ---
+
+--- Riddle Index: 87 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जिसे लोग सुनते हैं पर देख नहीं सकते?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आवाज
+
+------------------------------
+
+--- End of Processing for Riddle Index: 87 ---
+
+--- Riddle Index: 88 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो कागज की होती है लेकिन सोने से भी महंगी होती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+नोट
+
+------------------------------
+
+--- End of Processing for Riddle Index: 88 ---
+
+--- Riddle Index: 89 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो जितनी काटो उतनी लंबी होती जाती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+रस्सी
+
+------------------------------
+
+--- End of Processing for Riddle Index: 89 ---
+
+--- Riddle Index: 90 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जिसे जितना ज्यादा डालो, उतना हल्का हो जाता है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+गड्ढा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 90 ---
+
+--- Riddle Index: 91 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो सिर्फ आगे बढ़ सकती है, पीछे नहीं जा सकती?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+उम्र
+
+------------------------------
+
+--- End of Processing for Riddle Index: 91 ---
+
+--- Riddle Index: 92 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो किसी का भी पीछा नहीं छोड़ती?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+परछाई
+
+------------------------------
+
+--- End of Processing for Riddle Index: 92 ---
+
+--- Riddle Index: 93 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जो देखने में बहुत छोटी होती है लेकिन पूरी दुनिया उसमें समा सकती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+आँख
+
+------------------------------
+
+--- End of Processing for Riddle Index: 93 ---
+
+--- Riddle Index: 94 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसा क्या है जिसे हम छू नहीं सकते लेकिन महसूस कर सकते हैं?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+हवा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 94 ---
+
+--- Riddle Index: 95 ---
+
+Prompt:
+Your task is to analyze the following Hindi riddle.
+Provide ONLY the answer. Do not include any explanations, introductions, or any text other than the answer itself.
+
+Hindi Riddle :
+ऐसी कौन सी चीज़ है जिसे जितना ज्यादा खाओ उतनी ज्यादा भूख लगती है?
+Answer :
+
+-- Attempt 1 --
+
+Generated Output:
+मीठा
+
+------------------------------
+
+--- End of Processing for Riddle Index: 95 ---
+
+
+--- Generation Run Finished at Tue May 27 15:19:23 2025 ---
