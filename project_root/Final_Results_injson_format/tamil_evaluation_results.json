@@ -1,0 +1,227 @@
+{
+    "language": "Tamil",
+    "metrics": "accuracy, bertscore, exactmatch",
+    "method_filter": "all",
+    "results": {
+        "gemini-2.5-pro-preview-05-06": {
+            "2-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 50.0,
+                "average_exactmatch": 50.0,
+                "average_bertscore_f1": 89.34
+            },
+            "0-shot_Standard": {
+                "valid_entries": 96,
+                "average_accuracy": 56.25,
+                "average_exactmatch": 56.25,
+                "average_bertscore_f1": 91.58
+            },
+            "2-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 52.08,
+                "average_exactmatch": 52.08,
+                "average_bertscore_f1": 90.6
+            },
+            "4-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 45.83,
+                "average_exactmatch": 45.83,
+                "average_bertscore_f1": 87.73
+            },
+            "4-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 41.67,
+                "average_exactmatch": 41.67,
+                "average_bertscore_f1": 87.12
+            },
+            "4-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 52.08,
+                "average_exactmatch": 52.08,
+                "average_bertscore_f1": 90.72
+            },
+            "2-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 52.08,
+                "average_exactmatch": 52.08,
+                "average_bertscore_f1": 89.28
+            }
+        },
+        "gemini-2.5-flash-preview-04-17": {
+            "2-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 32.29,
+                "average_exactmatch": 32.29,
+                "average_bertscore_f1": 85.96
+            },
+            "0-shot_Standard": {
+                "valid_entries": 96,
+                "average_accuracy": 31.25,
+                "average_exactmatch": 31.25,
+                "average_bertscore_f1": 85.63
+            },
+            "2-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 35.42,
+                "average_exactmatch": 35.42,
+                "average_bertscore_f1": 86.26
+            },
+            "4-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 35.42,
+                "average_exactmatch": 35.42,
+                "average_bertscore_f1": 86.73
+            },
+            "4-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 33.33,
+                "average_exactmatch": 33.33,
+                "average_bertscore_f1": 86.36
+            },
+            "4-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 36.46,
+                "average_exactmatch": 36.46,
+                "average_bertscore_f1": 86.79
+            },
+            "2-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 32.29,
+                "average_exactmatch": 32.29,
+                "average_bertscore_f1": 85.05
+            }
+        },
+        "mistralai_mistral-saba": {
+            "2-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 21.88,
+                "average_exactmatch": 21.88,
+                "average_bertscore_f1": 83.32
+            },
+            "0-shot_Standard": {
+                "valid_entries": 96,
+                "average_accuracy": 15.62,
+                "average_exactmatch": 15.62,
+                "average_bertscore_f1": 81.4
+            },
+            "2-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 28.12,
+                "average_exactmatch": 28.12,
+                "average_bertscore_f1": 84.76
+            },
+            "4-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 21.88,
+                "average_exactmatch": 21.88,
+                "average_bertscore_f1": 83.07
+            },
+            "4-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 22.92,
+                "average_exactmatch": 22.92,
+                "average_bertscore_f1": 83.65
+            },
+            "4-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 25.0,
+                "average_exactmatch": 25.0,
+                "average_bertscore_f1": 83.4
+            },
+            "2-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 19.79,
+                "average_exactmatch": 19.79,
+                "average_bertscore_f1": 82.38
+            }
+        },
+        "meta-llama_llama-4-scout": {
+            "2-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 9.38,
+                "average_exactmatch": 9.38,
+                "average_bertscore_f1": 79.45
+            },
+            "0-shot_Standard": {
+                "valid_entries": 96,
+                "average_accuracy": 9.38,
+                "average_exactmatch": 9.38,
+                "average_bertscore_f1": 79.57
+            },
+            "2-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 9.38,
+                "average_exactmatch": 9.38,
+                "average_bertscore_f1": 79.24
+            },
+            "4-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 11.46,
+                "average_exactmatch": 11.46,
+                "average_bertscore_f1": 79.67
+            },
+            "4-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 12.5,
+                "average_exactmatch": 12.5,
+                "average_bertscore_f1": 80.26
+            },
+            "4-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 7.29,
+                "average_exactmatch": 7.29,
+                "average_bertscore_f1": 77.94
+            },
+            "2-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 4.17,
+                "average_exactmatch": 4.17,
+                "average_bertscore_f1": 78.23
+            }
+        },
+        "meta-llama_llama-4-maverick": {
+            "2-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 19.79,
+                "average_exactmatch": 19.79,
+                "average_bertscore_f1": 82.28
+            },
+            "0-shot_Standard": {
+                "valid_entries": 96,
+                "average_accuracy": 16.67,
+                "average_exactmatch": 16.67,
+                "average_bertscore_f1": 81.56
+            },
+            "2-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 19.79,
+                "average_exactmatch": 19.79,
+                "average_bertscore_f1": 82.75
+            },
+            "4-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 21.88,
+                "average_exactmatch": 21.88,
+                "average_bertscore_f1": 82.31
+            },
+            "4-shot_SemanticSimilarExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 18.75,
+                "average_exactmatch": 18.75,
+                "average_bertscore_f1": 81.68
+            },
+            "4-shot_RandomExemplars": {
+                "valid_entries": 96,
+                "average_accuracy": 17.71,
+                "average_exactmatch": 17.71,
+                "average_bertscore_f1": 82.09
+            },
+            "2-shot_RISCORE-like": {
+                "valid_entries": 96,
+                "average_accuracy": 18.75,
+                "average_exactmatch": 18.75,
+                "average_bertscore_f1": 82.74
+            }
+        }
+    }
+}
